@@ -1,0 +1,1186 @@
+<!doctype html>
+<html itemscope itemtype="http://schema.org/WebPage" lang="ru" class="no-js" data-theme-init>
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
+<meta name="theme-color" media="(prefers-color-scheme: dark)"  content="#000000">
+
+<style>
+  html { background: Canvas; color: CanvasText; }
+  @media (prefers-color-scheme: dark) {
+    html { background: #0b0d12; color: #e6e6e6; }
+  }
+  html[data-theme-init] * { transition: none !important; }
+</style>
+
+<script>
+  (function() {
+    const themeKey = 'td-color-theme';
+    const storedTheme = localStorage.getItem(themeKey);
+    let theme = storedTheme || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+
+    if (theme === 'auto') {
+      theme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+    }
+
+    document.documentElement.setAttribute('data-bs-theme', theme);
+  })();
+</script>
+<link rel="canonical" type="text/html" href="http://localhost:1313/ru/manuals/">
+<link rel="alternate" type="application/rss&#43;xml" href="http://localhost:1313/ru/manuals/index.xml">
+<meta name="robots" content="noindex, nofollow">
+<link rel="icon" type="image/svg+xml" href="/icons/logo-mark.min.41ac899107c92e82e315ca6247f8ca69434862444c4c3b08fb41c720aebd8d3e.svg" sizes="any">
+  <link rel="shortcut icon" href="/icons/logo-mark.min.41ac899107c92e82e315ca6247f8ca69434862444c4c3b08fb41c720aebd8d3e.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="/icons/logo-mark.min.41ac899107c92e82e315ca6247f8ca69434862444c4c3b08fb41c720aebd8d3e.svg">
+<title>Поддержка продуктов и документация | DieseRC</title>
+<meta name="description" content="Руководства по моделям, заметки о соответствии и полевые бюллетени. Просмотрите карточки ниже или откройте запись для ссылок на PDF и объёма поддержки.">
+<meta name="keywords" content="DieseRC, беспроводной выключатель, RF пульт, реле приемник, умный выключатель Wi-Fi, Zigbee, Bluetooth, Matter, гаражные ворота, электрошторы, рольставни, замок, насос, вентиляция, умный дом, энергосбережение, DieseRC">
+
+<meta property="og:url" content="http://localhost:1313/ru/manuals/">
+  <meta property="og:site_name" content="DieseRC">
+  <meta property="og:title" content="Поддержка продуктов и документация">
+  <meta property="og:description" content="Руководства по моделям, заметки о соответствии и полевые бюллетени. Просмотрите карточки ниже или откройте запись для ссылок на PDF и объёма поддержки.">
+  <meta property="og:locale" content="ru_RU">
+  <meta property="og:type" content="website">
+
+  <meta itemprop="name" content="Поддержка продуктов и документация">
+  <meta itemprop="description" content="Руководства по моделям, заметки о соответствии и полевые бюллетени. Просмотрите карточки ниже или откройте запись для ссылок на PDF и объёма поддержки.">
+  <meta itemprop="datePublished" content="2026-05-10T11:47:52+00:00">
+  <meta itemprop="dateModified" content="2026-05-10T11:47:52+00:00">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Поддержка продуктов и документация">
+  <meta name="twitter:description" content="Руководства по моделям, заметки о соответствии и полевые бюллетени. Просмотрите карточки ниже или откройте запись для ссылок на PDF и объёма поддержки.">
+<link href="/scss/main.css" rel="stylesheet">
+<script
+  src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"
+  integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g=="
+  crossorigin="anonymous"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;600;700;800&display=swap" rel="stylesheet">
+
+  </head>
+  <body class="td-section td-blog">
+    <header>
+      <nav class="td-navbar js-navbar-scroll">
+<div class="td-navbar-container container-fluid flex-column flex-md-row">
+  <div class="d-flex w-100 align-items-center justify-content-between justify-content-md-start flex-md-grow-0 gap-2 td-navbar__brand-row">
+    <a class="navbar-brand m-0 navbar-brand--dieserc d-flex align-items-center gap-2 text-decoration-none"
+   href="/ru/"><span class="navbar-brand__name navbar-brand__wordmark navbar-brand__wordmark--dr-switnex">
+      <span class="navbar-brand__mark-dr">
+        <span class="navbar-brand__wordmark-diese">D</span><span class="navbar-brand__wordmark-rc">R</span>
+      </span>
+      <span class="navbar-brand__mark-divider" aria-hidden="true"></span>
+      <span class="navbar-brand__mark-switnex">SWITNEX</span>
+    </span></a>
+
+    <button type="button"
+            class="btn btn-link td-navbar__drawer-toggler d-md-none px-2 py-1 lh-1 border-0 shadow-none"
+            data-bs-toggle="offcanvas"
+            data-bs-target="#tdMobileNav"
+            aria-controls="tdMobileNav"
+            aria-label="Menu">
+      <i class="fa-solid fa-bars fa-xl" aria-hidden="true"></i>
+    </button>
+  </div>
+  <div class="td-navbar__main td-navbar-nav-scroll td-navbar-nav-scroll--indicator d-none d-md-flex flex-md-grow-1" id="main_navbar">
+    <div class="scroll-indicator scroll-left"></div>
+    <ul class="navbar-nav">
+      <li class="nav-item">
+            <a class="nav-link" href="/ru/" title="Главная"><span>Главная</span></a>
+          </li>
+        <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle"
+               href="#"
+               id="navdd-solutions-trade"
+               role="button"
+               data-bs-toggle="dropdown"
+               data-bs-auto-close="outside"
+               aria-expanded="false"
+               aria-haspopup="true"><span>Решения и торговля</span></a>
+            <ul class="dropdown-menu td-navbar__dropdown shadow-sm border-0" aria-labelledby="navdd-solutions-trade"><li>
+                  <a class="dropdown-item"
+                     href="/ru/smart-solutions/" title="Умные решения"><span class="fw-semibold">Умные решения</span></a>
+                </li><li>
+                  <a class="dropdown-item"
+                     href="/ru/wholesale-bulk-orders/" title="Оптовые и крупные заказы"><span class="fw-semibold">Опт и крупные заказы</span></a>
+                </li></ul>
+          </li>
+        <li class="nav-item">
+            <a class="nav-link" href="/ru/diy-compliance/" title="Сделай сам и нормативное соответствие"><span>DIY и соответствие</span></a>
+          </li>
+        <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle"
+               href="#"
+               id="navdd-support-manuals"
+               role="button"
+               data-bs-toggle="dropdown"
+               data-bs-auto-close="outside"
+               aria-expanded="false"
+               aria-haspopup="true"><span>Поддержка и руководства</span></a>
+            <ul class="dropdown-menu td-navbar__dropdown shadow-sm border-0" aria-labelledby="navdd-support-manuals"><li>
+                  <a class="dropdown-item"
+                     href="/ru/manuals/" title="Руководства и документация"><span class="fw-semibold">Руководства</span></a>
+                </li><li>
+                  <a class="dropdown-item"
+                     href="/ru/troubleshooting/" title="Руководства по устранению неполадок"><span class="fw-semibold">Устранение неполадок</span></a>
+                </li></ul>
+          </li>
+        <li class="nav-item">
+            <a class="nav-link" href="/ru/property-insights/" title="Аналитика по недвижимости"><span>Обзор недвижимости</span></a>
+          </li>
+        <li class="nav-item">
+            <a class="nav-link" href="/ru/about/"><span>О сайте</span></a>
+          </li>
+        <li class="nav-item td-navbar__lang-menu">
+        <div class="td-lang-menu dropdown">
+  <a class="nav-link dropdown-toggle td-lang-menu__title" href="#" role="button"
+    data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    <span class="td-lang-menu__title-text">Русский</span>
+    <span class="td-lang-menu__title-code">RU</span>
+  </a>
+  <ul class="dropdown-menu">
+    <li><a class="dropdown-item" href="/manuals/">English</a></li>
+      <li><a class="dropdown-item" href="/zh/manuals/">简体中文</a></li>
+      <li><a class="dropdown-item" href="/es/manuals/">Español</a></li>
+      <li><a class="dropdown-item" href="/ar/manuals/">العربية</a></li>
+      <li><span class="dropdown-item active">Русский</span></li>
+      <li><a class="dropdown-item" href="/fr/manuals/">Français</a></li>
+      <li><a class="dropdown-item" href="/it/manuals/">Italiano</a></li>
+      <li><a class="dropdown-item" href="/no/manuals/">Norsk</a></li>
+      <li><a class="dropdown-item" href="/pt/manuals/">Português</a></li>
+      <li><a class="dropdown-item" href="/de/manuals/">Deutsch</a></li>
+      <li><a class="dropdown-item" href="/da/manuals/">Dansk</a></li>
+      <li><a class="dropdown-item" href="/ro/manuals/">Română</a></li>
+      <li><a class="dropdown-item" href="/pl/manuals/">Polski</a></li>
+      </ul>
+</div></li>
+      <li class="nav-item td-navbar__light-dark-menu">
+        <div class="td-light-dark-menu dropdown"><svg xmlns="http://www.w3.org/2000/svg" class="d-none">
+  <symbol id="check2" viewBox="0 0 16 16">
+    <path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"/>
+  </symbol>
+  <symbol id="circle-half" viewBox="0 0 16 16">
+    <path d="M8 15A7 7 0 1 0 8 1v14zm0 1A8 8 0 1 1 8 0a8 8 0 0 1 0 16z"/>
+  </symbol>
+  <symbol id="moon-stars-fill" viewBox="0 0 16 16">
+    <path d="M6 .278a.768.768 0 0 1 .08.858 7.208 7.208 0 0 0-.878 3.46c0 4.021 3.278 7.277 7.318 7.277.527 0 1.04-.055 1.533-.16a.787.787 0 0 1 .81.316.733.733 0 0 1-.031.893A8.349 8.349 0 0 1 8.344 16C3.734 16 0 12.286 0 7.71 0 4.266 2.114 1.312 5.124.06A.752.752 0 0 1 6 .278z"/>
+    <path d="M10.794 3.148a.217.217 0 0 1 .412 0l.387 1.162c.173.518.579.924 1.097 1.097l1.162.387a.217.217 0 0 1 0 .412l-1.162.387a1.734 1.734 0 0 0-1.097 1.097l-.387 1.162a.217.217 0 0 1-.412 0l-.387-1.162A1.734 1.734 0 0 0 9.31 6.593l-1.162-.387a.217.217 0 0 1 0-.412l1.162-.387a1.734 1.734 0 0 0 1.097-1.097l.387-1.162zM13.863.099a.145.145 0 0 1 .274 0l.258.774c.115.346.386.617.732.732l.774.258a.145.145 0 0 1 0 .274l-.774.258a1.156 1.156 0 0 0-.732.732l-.258.774a.145.145 0 0 1-.274 0l-.258-.774a1.156 1.156 0 0 0-.732-.732l-.774-.258a.145.145 0 0 1 0-.274l.774-.258c.346-.115.617-.386.732-.732L13.863.1z"/>
+  </symbol>
+  <symbol id="sun-fill" viewBox="0 0 16 16">
+    <path d="M8 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8zM8 0a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 0zm0 13a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 13zm8-5a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2a.5.5 0 0 1 .5.5zM3 8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2A.5.5 0 0 1 3 8zm10.657-5.657a.5.5 0 0 1 0 .707l-1.414 1.415a.5.5 0 1 1-.707-.708l1.414-1.414a.5.5 0 0 1 .707 0zm-9.193 9.193a.5.5 0 0 1 0 .707L3.05 13.657a.5.5 0 0 1-.707-.707l1.414-1.414a.5.5 0 0 1 .707 0zm9.193 2.121a.5.5 0 0 1-.707 0l-1.414-1.414a.5.5 0 0 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .707zM4.464 4.465a.5.5 0 0 1-.707 0L2.343 3.05a.5.5 0 1 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .708z"/>
+  </symbol>
+</svg>
+<button class="btn btn-link nav-link dropdown-toggle d-flex align-items-center"
+        id="bd-theme"
+        type="button"
+        aria-expanded="false"
+        data-bs-toggle="dropdown"
+        aria-label="Toggle theme (auto)">
+  <svg class="bi my-1 theme-icon-active"><use href="#circle-half"></use></svg>
+</button>
+<ul class="dropdown-menu" aria-labelledby="bd-theme">
+  <li>
+    <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="light" aria-pressed="false">
+      <svg class="bi me-2 opacity-50"><use href="#sun-fill"></use></svg>
+      Light
+      <svg class="bi ms-auto d-none"><use href="#check2"></use></svg>
+    </button>
+  </li>
+  <li>
+    <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="dark" aria-pressed="false">
+      <svg class="bi me-2 opacity-50"><use href="#moon-stars-fill"></use></svg>
+      Dark
+      <svg class="bi ms-auto d-none"><use href="#check2"></use></svg>
+    </button>
+  </li>
+  <li>
+    <button type="button" class="dropdown-item d-flex align-items-center active" data-bs-theme-value="auto" aria-pressed="true">
+      <svg class="bi me-2 opacity-50"><use href="#circle-half"></use></svg>
+      Auto
+      <svg class="bi ms-auto d-none"><use href="#check2"></use></svg>
+    </button>
+  </li>
+</ul>
+</div>
+
+      </li>
+      </ul>
+    <div class="scroll-indicator scroll-right"></div>
+  </div>
+  <div class="td-navbar__search d-none d-lg-block">
+    
+  </div>
+</div>
+</nav>
+<div class="offcanvas offcanvas-end td-mobile-nav text-bg-body shadow-lg" tabindex="-1" id="tdMobileNav" aria-labelledby="tdMobileNavLabel">
+  <div class="offcanvas-header border-bottom align-items-center py-3">
+    <a class="navbar-brand m-0 navbar-brand--dieserc d-flex align-items-center gap-2 text-decoration-none"
+   href="/ru/"><span class="navbar-brand__name navbar-brand__wordmark navbar-brand__wordmark--dr-switnex">
+      <span class="navbar-brand__mark-dr">
+        <span class="navbar-brand__wordmark-diese">D</span><span class="navbar-brand__wordmark-rc">R</span>
+      </span>
+      <span class="navbar-brand__mark-divider" aria-hidden="true"></span>
+      <span class="navbar-brand__mark-switnex">SWITNEX</span>
+    </span></a>
+
+    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+  </div>
+  <div class="offcanvas-body d-flex flex-column p-0">
+    <nav class="flex-grow-1 overflow-auto" aria-label="Mobile">
+      <ul class="list-unstyled mb-0 td-mobile-nav__list">
+        <li class="border-bottom">
+              <a class="d-block px-3 py-3 text-decoration-none td-mobile-nav__link text-body"
+                 href="/ru/" title="Главная">
+                Главная
+              </a>
+            </li><li class="td-mobile-nav__item border-bottom">
+              <button type="button"
+                      class="td-mobile-nav__toggle w-100 btn btn-link text-start text-decoration-none d-flex align-items-center py-3 px-3 text-body rounded-0 shadow-none"
+                      data-bs-toggle="collapse"
+                      data-bs-target="#td-mob-sub-solutions-trade"
+                      aria-expanded="false"
+                      aria-controls="td-mob-sub-solutions-trade">
+                <span class="flex-grow-1">Решения и торговля</span>
+                <i class="fa-solid fa-chevron-right td-mobile-nav__chev small text-body-secondary" aria-hidden="true"></i>
+              </button>
+              <div class="collapse td-mobile-nav__sub bg-body-tertiary" id="td-mob-sub-solutions-trade">
+                <ul class="list-unstyled mb-0 py-1"><li>
+                      <a class="d-block px-4 py-2 text-decoration-none td-mobile-nav__sublink text-body"
+                         href="/ru/smart-solutions/" title="Умные решения">
+                        Умные решения
+                      </a>
+                    </li><li>
+                      <a class="d-block px-4 py-2 text-decoration-none td-mobile-nav__sublink text-body"
+                         href="/ru/wholesale-bulk-orders/" title="Оптовые и крупные заказы">
+                        Опт и крупные заказы
+                      </a>
+                    </li></ul>
+              </div>
+            </li><li class="border-bottom">
+              <a class="d-block px-3 py-3 text-decoration-none td-mobile-nav__link text-body"
+                 href="/ru/diy-compliance/" title="Сделай сам и нормативное соответствие">
+                DIY и соответствие
+              </a>
+            </li><li class="td-mobile-nav__item border-bottom">
+              <button type="button"
+                      class="td-mobile-nav__toggle w-100 btn btn-link text-start text-decoration-none d-flex align-items-center py-3 px-3 text-body rounded-0 shadow-none"
+                      data-bs-toggle="collapse"
+                      data-bs-target="#td-mob-sub-support-manuals"
+                      aria-expanded="false"
+                      aria-controls="td-mob-sub-support-manuals">
+                <span class="flex-grow-1">Поддержка и руководства</span>
+                <i class="fa-solid fa-chevron-right td-mobile-nav__chev small text-body-secondary" aria-hidden="true"></i>
+              </button>
+              <div class="collapse td-mobile-nav__sub bg-body-tertiary" id="td-mob-sub-support-manuals">
+                <ul class="list-unstyled mb-0 py-1"><li>
+                      <a class="d-block px-4 py-2 text-decoration-none td-mobile-nav__sublink text-body"
+                         href="/ru/manuals/" title="Руководства и документация">
+                        Руководства
+                      </a>
+                    </li><li>
+                      <a class="d-block px-4 py-2 text-decoration-none td-mobile-nav__sublink text-body"
+                         href="/ru/troubleshooting/" title="Руководства по устранению неполадок">
+                        Устранение неполадок
+                      </a>
+                    </li></ul>
+              </div>
+            </li><li class="border-bottom">
+              <a class="d-block px-3 py-3 text-decoration-none td-mobile-nav__link text-body"
+                 href="/ru/property-insights/" title="Аналитика по недвижимости">
+                Обзор недвижимости
+              </a>
+            </li><li class="border-bottom">
+              <a class="d-block px-3 py-3 text-decoration-none td-mobile-nav__link text-body"
+                 href="/ru/about/">
+                О сайте
+              </a>
+            </li></ul>
+    </nav>
+    <div class="border-top bg-body-secondary bg-opacity-25 p-3 mt-auto td-mobile-nav__footer">
+      <div class="d-flex flex-wrap align-items-center gap-2 justify-content-between">
+        <div class="td-mobile-nav__langs flex-grow-1">
+            <div class="td-lang-menu dropdown">
+  <a class="nav-link dropdown-toggle td-lang-menu__title" href="#" role="button"
+    data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    <span class="td-lang-menu__title-text">Русский</span>
+    <span class="td-lang-menu__title-code">RU</span>
+  </a>
+  <ul class="dropdown-menu">
+    <li><a class="dropdown-item" href="/manuals/">English</a></li>
+      <li><a class="dropdown-item" href="/zh/manuals/">简体中文</a></li>
+      <li><a class="dropdown-item" href="/es/manuals/">Español</a></li>
+      <li><a class="dropdown-item" href="/ar/manuals/">العربية</a></li>
+      <li><span class="dropdown-item active">Русский</span></li>
+      <li><a class="dropdown-item" href="/fr/manuals/">Français</a></li>
+      <li><a class="dropdown-item" href="/it/manuals/">Italiano</a></li>
+      <li><a class="dropdown-item" href="/no/manuals/">Norsk</a></li>
+      <li><a class="dropdown-item" href="/pt/manuals/">Português</a></li>
+      <li><a class="dropdown-item" href="/de/manuals/">Deutsch</a></li>
+      <li><a class="dropdown-item" href="/da/manuals/">Dansk</a></li>
+      <li><a class="dropdown-item" href="/ro/manuals/">Română</a></li>
+      <li><a class="dropdown-item" href="/pl/manuals/">Polski</a></li>
+      </ul>
+</div>
+          </div><div class="td-mobile-nav__theme">
+            <div class="td-light-dark-menu dropdown"><svg xmlns="http://www.w3.org/2000/svg" class="d-none">
+  <symbol id="check2" viewBox="0 0 16 16">
+    <path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"/>
+  </symbol>
+  <symbol id="circle-half" viewBox="0 0 16 16">
+    <path d="M8 15A7 7 0 1 0 8 1v14zm0 1A8 8 0 1 1 8 0a8 8 0 0 1 0 16z"/>
+  </symbol>
+  <symbol id="moon-stars-fill" viewBox="0 0 16 16">
+    <path d="M6 .278a.768.768 0 0 1 .08.858 7.208 7.208 0 0 0-.878 3.46c0 4.021 3.278 7.277 7.318 7.277.527 0 1.04-.055 1.533-.16a.787.787 0 0 1 .81.316.733.733 0 0 1-.031.893A8.349 8.349 0 0 1 8.344 16C3.734 16 0 12.286 0 7.71 0 4.266 2.114 1.312 5.124.06A.752.752 0 0 1 6 .278z"/>
+    <path d="M10.794 3.148a.217.217 0 0 1 .412 0l.387 1.162c.173.518.579.924 1.097 1.097l1.162.387a.217.217 0 0 1 0 .412l-1.162.387a1.734 1.734 0 0 0-1.097 1.097l-.387 1.162a.217.217 0 0 1-.412 0l-.387-1.162A1.734 1.734 0 0 0 9.31 6.593l-1.162-.387a.217.217 0 0 1 0-.412l1.162-.387a1.734 1.734 0 0 0 1.097-1.097l.387-1.162zM13.863.099a.145.145 0 0 1 .274 0l.258.774c.115.346.386.617.732.732l.774.258a.145.145 0 0 1 0 .274l-.774.258a1.156 1.156 0 0 0-.732.732l-.258.774a.145.145 0 0 1-.274 0l-.258-.774a1.156 1.156 0 0 0-.732-.732l-.774-.258a.145.145 0 0 1 0-.274l.774-.258c.346-.115.617-.386.732-.732L13.863.1z"/>
+  </symbol>
+  <symbol id="sun-fill" viewBox="0 0 16 16">
+    <path d="M8 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8zM8 0a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 0zm0 13a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 13zm8-5a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2a.5.5 0 0 1 .5.5zM3 8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2A.5.5 0 0 1 3 8zm10.657-5.657a.5.5 0 0 1 0 .707l-1.414 1.415a.5.5 0 1 1-.707-.708l1.414-1.414a.5.5 0 0 1 .707 0zm-9.193 9.193a.5.5 0 0 1 0 .707L3.05 13.657a.5.5 0 0 1-.707-.707l1.414-1.414a.5.5 0 0 1 .707 0zm9.193 2.121a.5.5 0 0 1-.707 0l-1.414-1.414a.5.5 0 0 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .707zM4.464 4.465a.5.5 0 0 1-.707 0L2.343 3.05a.5.5 0 1 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .708z"/>
+  </symbol>
+</svg>
+<button class="btn btn-link nav-link dropdown-toggle d-flex align-items-center"
+        id="bd-theme"
+        type="button"
+        aria-expanded="false"
+        data-bs-toggle="dropdown"
+        aria-label="Toggle theme (auto)">
+  <svg class="bi my-1 theme-icon-active"><use href="#circle-half"></use></svg>
+</button>
+<ul class="dropdown-menu" aria-labelledby="bd-theme">
+  <li>
+    <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="light" aria-pressed="false">
+      <svg class="bi me-2 opacity-50"><use href="#sun-fill"></use></svg>
+      Light
+      <svg class="bi ms-auto d-none"><use href="#check2"></use></svg>
+    </button>
+  </li>
+  <li>
+    <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="dark" aria-pressed="false">
+      <svg class="bi me-2 opacity-50"><use href="#moon-stars-fill"></use></svg>
+      Dark
+      <svg class="bi ms-auto d-none"><use href="#check2"></use></svg>
+    </button>
+  </li>
+  <li>
+    <button type="button" class="dropdown-item d-flex align-items-center active" data-bs-theme-value="auto" aria-pressed="true">
+      <svg class="bi me-2 opacity-50"><use href="#circle-half"></use></svg>
+      Auto
+      <svg class="bi ms-auto d-none"><use href="#check2"></use></svg>
+    </button>
+  </li>
+</ul>
+</div>
+
+          </div></div>
+      <a class="btn btn-outline-secondary btn-sm w-100 mt-2" href="/ru/search/">Поиск по сайту…</a>
+    </div>
+  </div>
+</div>
+
+
+    </header>
+    <div class="container-fluid td-outer">
+      <div class="td-main">
+        <div class="row flex-xl-nowrap">
+          <div class="col-12 col-md-3 col-xl-2 td-sidebar d-print-none">
+          </div>
+          <main class="col-12 col-md-9 col-xl-10 ps-md-5 pe-md-4" role="main">
+            
+
+
+
+
+<div class="td-content">
+<div class="pageinfo pageinfo-primary d-print-none">
+<p>
+Это многостраничный печатный вид этого раздела.
+<a href="#" onclick="print();return false;">Нажмите что бы печатать</a>.
+</p><p>
+<a href="/ru/manuals/">Вернуться к обычному просмотру страницы</a>.
+</p>
+</div>
+
+
+
+<h1 class="title">Поддержка продуктов и документация</h1>
+<div class="lead">Руководства по моделям, заметки о соответствии и полевые бюллетени. Просмотрите карточки ниже или откройте запись для ссылок на PDF и объёма поддержки.</div>
+
+
+
+
+    <ul>
+    
+  
+  
+  
+  
+
+  
+    
+    
+	
+<li>1: <a href="#pg-96c07214b0341095cbd17e5b1f9ea23b">SWITNEX Wireless DC Motor Remote Control Switch User Manual</a></li>
+
+
+    
+  
+    
+    
+	
+<li>2: <a href="#pg-e75bad442a1c6b24155fafdf2ff4cc73">SWITNEX RF 433MHz Wireless Light Switch System User Manual</a></li>
+
+
+    
+  
+    
+    
+	
+<li>3: <a href="#pg-844bf437a6dc63241ec9d638d68ad48b">SWITNEX DC 12V Wireless Relay Remote Control Switch User Manual</a></li>
+
+
+    
+  
+    
+    
+	
+<li>4: <a href="#pg-a4c4d5cdb46124b2893183f2353fecc2">SWITNEX 2204 Universal Wireless Remote Control Instruction Manual</a></li>
+
+
+    
+  
+
+    </ul>
+
+
+<div class="content">
+      
+</div>
+</div>
+
+
+  
+  
+  
+  
+
+  
+  
+
+  
+    
+    
+	
+    
+
+<div class="td-content" style="">
+    
+	<h1 id="pg-96c07214b0341095cbd17e5b1f9ea23b">1 - SWITNEX Wireless DC Motor Remote Control Switch User Manual</h1>
+    
+	<hr>
+<h1 id="руководство-пользователя-беспроводного-выключателя-двигателя-постоянного-тока-switnex">Руководство пользователя беспроводного выключателя двигателя постоянного тока SWITNEX<a class="td-heading-self-link" href="#%d1%80%d1%83%d0%ba%d0%be%d0%b2%d0%be%d0%b4%d1%81%d1%82%d0%b2%d0%be-%d0%bf%d0%be%d0%bb%d1%8c%d0%b7%d0%be%d0%b2%d0%b0%d1%82%d0%b5%d0%bb%d1%8f-%d0%b1%d0%b5%d1%81%d0%bf%d1%80%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d0%b3%d0%be-%d0%b2%d1%8b%d0%ba%d0%bb%d1%8e%d1%87%d0%b0%d1%82%d0%b5%d0%bb%d1%8f-%d0%b4%d0%b2%d0%b8%d0%b3%d0%b0%d1%82%d0%b5%d0%bb%d1%8f-%d0%bf%d0%be%d1%81%d1%82%d0%be%d1%8f%d0%bd%d0%bd%d0%be%d0%b3%d0%be-%d1%82%d0%be%d0%ba%d0%b0-switnex" aria-label="Heading self-link"></a></h1>
+<table>
+  <thead>
+      <tr>
+          <th>Технические характеристики</th>
+          <th></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Входное напряжение</td>
+          <td>DC 12В-80В</td>
+      </tr>
+      <tr>
+          <td>Максимальная нагрузка (резистивная)</td>
+          <td>10 Ампер</td>
+      </tr>
+      <tr>
+          <td>Максимальная нагрузка (индуктивная)</td>
+          <td>5 Ампер</td>
+      </tr>
+      <tr>
+          <td>Частота</td>
+          <td>433 МГц</td>
+      </tr>
+      <tr>
+          <td>Режимы работы</td>
+          <td>Импульсный, Триггерный, Фиксированный</td>
+      </tr>
+      <tr>
+          <td>Память передатчиков</td>
+          <td>До 20 передатчиков</td>
+      </tr>
+      <tr>
+          <td>Дальность управления</td>
+          <td>20-50 метров (открытая местность)</td>
+      </tr>
+      <tr>
+          <td>Срок службы реле</td>
+          <td>&gt;100 000 раз</td>
+      </tr>
+      <tr>
+          <td>Вес изделия</td>
+          <td>4,2 унции</td>
+      </tr>
+      <tr>
+          <td>Размеры упаковки</td>
+          <td>4,02 x 3,74 x 1,57 дюйма</td>
+      </tr>
+      <tr>
+          <td>Батареи</td>
+          <td>2 батареи по 12В (входят в комплект)</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="описание-изделия">Описание изделия<a class="td-heading-self-link" href="#%d0%be%d0%bf%d0%b8%d1%81%d0%b0%d0%bd%d0%b8%d0%b5-%d0%b8%d0%b7%d0%b4%d0%b5%d0%bb%d0%b8%d1%8f" aria-label="Heading self-link"></a></h2>
+<p><img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/articles/13f83954-3ea5-4192-add8-27c2b66f0461.jpg?v=1740662586" alt="Приемник и два передатчика"></p>
+<ul>
+<li><strong>Кнопка обучения</strong> на приемнике – для программирования режимов работы и сброса</li>
+<li><strong>Индикатор</strong> на приемнике – обеспечивает визуальную обратную связь</li>
+</ul>
+<h2 id="схема-подключения">Схема подключения<a class="td-heading-self-link" href="#%d1%81%d1%85%d0%b5%d0%bc%d0%b0-%d0%bf%d0%be%d0%b4%d0%ba%d0%bb%d1%8e%d1%87%d0%b5%d0%bd%d0%b8%d1%8f" aria-label="Heading self-link"></a></h2>
+<p><img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/4-5.jpg?v=1778410922" alt="Базовая схема подключения приемника и двигателя постоянного тока">
+<img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/4-4.jpg?v=1778410922" alt="Схема подключения для лебедки с соленоидным реле"></p>
+<ul>
+<li>Вход: источник питания DC 12В-80В (красный: плюс, черный: минус)</li>
+<li>Выход: к двигателю постоянного тока (красный: плюс двигателя, черный: минус двигателя)</li>
+<li>Для лебедок: см. специализированную схему подключения соленоидного реле лебедки.</li>
+</ul>
+<h2 id="предупреждение">Предупреждение<a class="td-heading-self-link" href="#%d0%bf%d1%80%d0%b5%d0%b4%d1%83%d0%bf%d1%80%d0%b5%d0%b6%d0%b4%d0%b5%d0%bd%d0%b8%d0%b5" aria-label="Heading self-link"></a></h2>
+<ul>
+<li>Убедитесь, что напряжение источника питания соответствует указанному диапазону приемника (DC 12В-80В).</li>
+<li>Не превышайте максимальную резистивную нагрузку 10А (индуктивную нагрузку 5А) для реле.</li>
+<li>Отключайте питание перед выполнением любых работ по подключению или обслуживанию, чтобы избежать поражения электрическим током.</li>
+<li>Храните устройство вдали от воды и мест с высокой влажностью.</li>
+<li>Не пытайтесь разбирать или модифицировать устройство, так как это может привести к аннулированию гарантии и создать угрозу безопасности.</li>
+<li>Данное изделие предназначено для использования только с двигателями постоянного тока.</li>
+</ul>
+<h2 id="режим-работы">Режим работы<a class="td-heading-self-link" href="#%d1%80%d0%b5%d0%b6%d0%b8%d0%bc-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d1%8b" aria-label="Heading self-link"></a></h2>
+<p>Изделие обычно предварительно запрограммировано в <strong>фиксированном режиме</strong>. Вы можете изменить режим, выполнив следующие шаги программирования.</p>
+<h3 id="импульсный-режим">Импульсный режим<a class="td-heading-self-link" href="#%d0%b8%d0%bc%d0%bf%d1%83%d0%bb%d1%8c%d1%81%d0%bd%d1%8b%d0%b9-%d1%80%d0%b5%d0%b6%d0%b8%d0%bc" aria-label="Heading self-link"></a></h3>
+<p>Нажмите и удерживайте кнопку <strong>Вверх (▲)</strong> → двигатель вращается вперед<br>
+Отпустите кнопку → двигатель останавливается</p>
+<p><strong>Как запрограммировать:</strong></p>
+<ol>
+<li>Нажмите кнопку обучения на приемнике <strong>1 раз</strong>. Индикатор мигнет один раз.</li>
+<li>Нажмите кнопку <strong>Вверх (▲)</strong> на передатчике. Индикатор мигнет, подтверждая успешное программирование.</li>
+</ol>
+<h3 id="триггерный-режим">Триггерный режим<a class="td-heading-self-link" href="#%d1%82%d1%80%d0%b8%d0%b3%d0%b3%d0%b5%d1%80%d0%bd%d1%8b%d0%b9-%d1%80%d0%b5%d0%b6%d0%b8%d0%bc" aria-label="Heading self-link"></a></h3>
+<p>Нажмите кнопку <strong>Вверх (▲)</strong> один раз → двигатель запускается (вперед)<br>
+Нажмите ту же кнопку снова → двигатель останавливается</p>
+<p><strong>Как запрограммировать:</strong></p>
+<ol>
+<li>Нажмите кнопку обучения на приемнике <strong>2 раза</strong>. Индикатор мигнет два раза.</li>
+<li>Нажмите кнопку <strong>Вверх (▲)</strong> на передатчике. Индикатор мигнет, подтверждая успешное программирование.</li>
+</ol>
+<h3 id="фиксированный-режим">Фиксированный режим<a class="td-heading-self-link" href="#%d1%84%d0%b8%d0%ba%d1%81%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%bd%d1%8b%d0%b9-%d1%80%d0%b5%d0%b6%d0%b8%d0%bc" aria-label="Heading self-link"></a></h3>
+<p>Нажмите <strong>Вверх (▲)</strong> → двигатель вращается вперед<br>
+Нажмите <strong>Вниз (▼)</strong> → двигатель вращается назад<br>
+Нажмите <strong>Стоп (■)</strong> → двигатель останавливается</p>
+<p><strong>Как запрограммировать:</strong></p>
+<ol>
+<li>Нажмите кнопку обучения на приемнике <strong>3 раза</strong>. Индикатор мигнет три раза.</li>
+<li>Нажмите кнопку <strong>Вверх (▲)</strong> на передатчике (программирование вращения вперед).</li>
+<li>Нажмите кнопку <strong>Вниз (▼)</strong> на передатчике (программирование вращения назад).</li>
+<li>Нажмите кнопку <strong>Стоп (■)</strong> на передатчике (программирование функции остановки). Индикатор мигнет, подтверждая успешное программирование.</li>
+</ol>
+<h3 id="изменение-направления-двигателя-расширенная-функция">Изменение направления двигателя (расширенная функция)<a class="td-heading-self-link" href="#%d0%b8%d0%b7%d0%bc%d0%b5%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5-%d0%bd%d0%b0%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d1%8f-%d0%b4%d0%b2%d0%b8%d0%b3%d0%b0%d1%82%d0%b5%d0%bb%d1%8f-%d1%80%d0%b0%d1%81%d1%88%d0%b8%d1%80%d0%b5%d0%bd%d0%bd%d0%b0%d1%8f-%d1%84%d1%83%d0%bd%d0%ba%d1%86%d0%b8%d1%8f" aria-label="Heading self-link"></a></h3>
+<p>Если двигатель вращается в направлении, противоположном желаемому для кнопок Вверх/Вниз, нажмите кнопку обучения <strong>7 раз</strong>. Это изменит полярность выхода.
+<img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/4-3.jpg?v=1778410922" alt="Приемник и два передатчика">
+<img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/4-2.jpg?v=1778410922" alt="Приемник и два передатчика"></p>
+<h2 id="сброс">Сброс<a class="td-heading-self-link" href="#%d1%81%d0%b1%d1%80%d0%be%d1%81" aria-label="Heading self-link"></a></h2>
+<p>Чтобы удалить все запрограммированные передатчики и сбросить приемник в состояние по умолчанию, нажмите кнопку обучения <strong>8 раз</strong>. Индикатор мигнет для подтверждения. После сброса ни один пульт дистанционного управления не будет работать с приемником, пока они не будут перепрограммированы.</p>
+<h2 id="устранение-неисправностей">Устранение неисправностей<a class="td-heading-self-link" href="#%d1%83%d1%81%d1%82%d1%80%d0%b0%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5-%d0%bd%d0%b5%d0%b8%d1%81%d0%bf%d1%80%d0%b0%d0%b2%d0%bd%d0%be%d1%81%d1%82%d0%b5%d0%b9" aria-label="Heading self-link"></a></h2>
+<table>
+  <thead>
+      <tr>
+          <th>Проблема</th>
+          <th>Возможная причина</th>
+          <th>Решение</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Двигатель не реагирует на пульт</td>
+          <td>Отсутствие питания на приемнике; Разряжены/сели батареи передатчика; Передатчик не запрограммирован; Сброс приемника</td>
+          <td>Проверьте источник питания; Замените батареи передатчика; Перепрограммируйте передатчик (см. Режим работы)</td>
+      </tr>
+      <tr>
+          <td>Двигатель вращается в неправильном направлении</td>
+          <td>Неправильное подключение; Обратная полярность двигателя</td>
+          <td>Проверьте подключение (см. Схему подключения); Используйте функцию изменения направления двигателя (нажмите кнопку обучения 7 раз)</td>
+      </tr>
+      <tr>
+          <td>Уменьшение дальности управления пультом</td>
+          <td>Низкий заряд батареи передатчика; Внешние помехи; Препятствия</td>
+          <td>Замените батареи передатчика; Минимизируйте источники помех; Обеспечьте прямую видимость, если возможно</td>
+      </tr>
+      <tr>
+          <td>Двигатель работает непрерывно или не останавливается</td>
+          <td>Запрограммирован неправильный режим работы; Неисправна кнопка передатчика</td>
+          <td>Проверьте и перепрограммируйте нужный режим; Проверьте с другим передатчиком, если он есть</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="обслуживание">Обслуживание<a class="td-heading-self-link" href="#%d0%be%d0%b1%d1%81%d0%bb%d1%83%d0%b6%d0%b8%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5" aria-label="Heading self-link"></a></h2>
+<ul>
+<li>Содержите приемник и передатчики в чистоте и сухости.</li>
+<li>Регулярно проверяйте соединения проводов на ослабление или коррозию.</li>
+<li>Заменяйте батареи передатчика, когда индикатор тускнеет или уменьшается дальность действия. В передатчиках используются батареи 12В.</li>
+<li>Не подвергайте устройства воздействию экстремальных температур или прямых солнечных лучей в течение длительного времени.</li>
+</ul>
+<h2 id="контакты">Контакты<a class="td-heading-self-link" href="#%d0%ba%d0%be%d0%bd%d1%82%d0%b0%d0%ba%d1%82%d1%8b" aria-label="Heading self-link"></a></h2>
+<ul>
+<li>Электронная почта: <a href="mailto:support@switnex.com">support@switnex.com</a></li>
+<li>WhatsApp: +86 15812381273
+Обратитесь к упаковке продукта или веб-сайту продавца для получения контактной информации службы поддержки клиентов.</li>
+</ul>
+<blockquote>
+<p>Если у вас есть какие-либо вопросы о продуктах, пожалуйста, сначала свяжитесь с нами. Мы сделаем все возможное, чтобы решить вашу проблему. Спасибо.</p>
+</blockquote>
+
+</div>
+
+
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-e75bad442a1c6b24155fafdf2ff4cc73">2 - SWITNEX RF 433MHz Wireless Light Switch System User Manual</h1>
+    
+	<hr>
+<h1 id="switnex-rf-433mhz-беспроводная-система-выключателей-света-руководство-пользователя">SWITNEX RF 433MHz Беспроводная система выключателей света Руководство пользователя<a class="td-heading-self-link" href="#switnex-rf-433mhz-%d0%b1%d0%b5%d1%81%d0%bf%d1%80%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%b0%d1%8f-%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d0%b0-%d0%b2%d1%8b%d0%ba%d0%bb%d1%8e%d1%87%d0%b0%d1%82%d0%b5%d0%bb%d0%b5%d0%b9-%d1%81%d0%b2%d0%b5%d1%82%d0%b0-%d1%80%d1%83%d0%ba%d0%be%d0%b2%d0%be%d0%b4%d1%81%d1%82%d0%b2%d0%be-%d0%bf%d0%be%d0%bb%d1%8c%d0%b7%d0%be%d0%b2%d0%b0%d1%82%d0%b5%d0%bb%d1%8f" aria-label="Heading self-link"></a></h1>
+<table>
+  <thead>
+      <tr>
+          <th>Технические данные</th>
+          <th></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Модельный номер</td>
+          <td>750828381477</td>
+      </tr>
+      <tr>
+          <td>Размеры изделия (выключатель)</td>
+          <td>8,8 x 8,8 x 2,3 см</td>
+      </tr>
+      <tr>
+          <td>Вес изделия (выключатель)</td>
+          <td>60 грамм</td>
+      </tr>
+      <tr>
+          <td>Размеры приемника</td>
+          <td>4,7 x 4,2 x 2,3 см</td>
+      </tr>
+      <tr>
+          <td>Рабочее напряжение (приемник)</td>
+          <td>AC 85В ~ 250В</td>
+      </tr>
+      <tr>
+          <td>Номинальный ток (приемник)</td>
+          <td>10 А</td>
+      </tr>
+      <tr>
+          <td>Радиочастота</td>
+          <td>433 МГц</td>
+      </tr>
+      <tr>
+          <td>Код обучения</td>
+          <td>EV1527</td>
+      </tr>
+      <tr>
+          <td>Батарея выключателя</td>
+          <td>1 x 12В 27A (входит в комплект)</td>
+      </tr>
+      <tr>
+          <td>Срок службы выключателя</td>
+          <td>Более 500 000 нажатий</td>
+      </tr>
+      <tr>
+          <td>Срок службы реле приемника</td>
+          <td>Более 400 000 использований</td>
+      </tr>
+      <tr>
+          <td>Материал</td>
+          <td>Пластик</td>
+      </tr>
+      <tr>
+          <td>Тип выключателя</td>
+          <td>Кнопочный</td>
+      </tr>
+      <tr>
+          <td>Тип клемм</td>
+          <td>Винтовой</td>
+      </tr>
+      <tr>
+          <td>Страна происхождения</td>
+          <td>Китай</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="описание-изделия">Описание изделия<a class="td-heading-self-link" href="#%d0%be%d0%bf%d0%b8%d1%81%d0%b0%d0%bd%d0%b8%d0%b5-%d0%b8%d0%b7%d0%b4%d0%b5%d0%bb%d0%b8%d1%8f" aria-label="Heading self-link"></a></h2>
+<p><img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/3-9.2.jpg?v=1778409859" alt="Комплект поставки"></p>
+<ul>
+<li><strong>Клеммы приемника</strong>: Вход L / Вход N (от источника питания), Выход L / Выход N (к прибору)</li>
+<li><strong>Кнопка обучения</strong> на приемнике – для сопряжения и сброса</li>
+<li><strong>Индикатор</strong> на приемнике – обеспечивает визуальную обратную связь во время программирования</li>
+<li><strong>Антенна</strong> на приемнике – может быть выдвинута для усиления сигнала</li>
+</ul>
+<h2 id="схема-подключения">Схема подключения<a class="td-heading-self-link" href="#%d1%81%d1%85%d0%b5%d0%bc%d0%b0-%d0%bf%d0%be%d0%b4%d0%ba%d0%bb%d1%8e%d1%87%d0%b5%d0%bd%d0%b8%d1%8f" aria-label="Heading self-link"></a></h2>
+<p><img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/DieseRC-2201M-Wireless-Light-Switch-86-Wall-Panel-RF-Safety-Switch.webp?v=1778410480" alt="Схема подключения приемника"></p>
+<h2 id="предупреждение">Предупреждение<a class="td-heading-self-link" href="#%d0%bf%d1%80%d0%b5%d0%b4%d1%83%d0%bf%d1%80%d0%b5%d0%b6%d0%b4%d0%b5%d0%bd%d0%b8%d0%b5" aria-label="Heading self-link"></a></h2>
+<ul>
+<li>Перед установкой или обслуживанием любых электрических компонентов всегда отключайте питание на автоматическом выключателе.</li>
+<li>Установка должна выполняться квалифицированным электриком или в соответствии с местными электротехническими нормами.</li>
+<li>Не превышайте максимальную нагрузку приемника 10А.</li>
+<li>Убедитесь, что все соединения проводов надежны, чтобы предотвратить опасность поражения электрическим током.</li>
+<li>Держите устройство вдали от воды и экстремальных температур.</li>
+<li>Беспроводной выключатель не требует проводки – может крепиться с помощью клейкой ленты или винтов.</li>
+</ul>
+<h2 id="режим-работы">Режим работы<a class="td-heading-self-link" href="#%d1%80%d0%b5%d0%b6%d0%b8%d0%bc-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d1%8b" aria-label="Heading self-link"></a></h2>
+<h3 id="режим-переключения">Режим переключения<a class="td-heading-self-link" href="#%d1%80%d0%b5%d0%b6%d0%b8%d0%bc-%d0%bf%d0%b5%d1%80%d0%b5%d0%ba%d0%bb%d1%8e%d1%87%d0%b5%d0%bd%d0%b8%d1%8f" aria-label="Heading self-link"></a></h3>
+<p>Нажмите кнопку на беспроводном выключателе → свет ВКЛ<br>
+Нажмите ту же кнопку снова → свет ВЫКЛ</p>
+<p><strong>Как запрограммировать (сопряжение):</strong></p>
+<ol>
+<li>Убедитесь, что приемник включен.</li>
+<li>Нажмите кнопку обучения на приемнике <strong>2 раза</strong>. Подождите 3 секунды. Индикатор на приемнике начнет мигать.</li>
+<li>Нажмите кнопку на беспроводном выключателе. Подождите 3 секунды. Индикатор перестанет мигать, что указывает на успешное сопряжение.</li>
+</ol>
+<h3 id="сценарии-многократного-управления">Сценарии многократного управления<a class="td-heading-self-link" href="#%d1%81%d1%86%d0%b5%d0%bd%d0%b0%d1%80%d0%b8%d0%b8-%d0%bc%d0%bd%d0%be%d0%b3%d0%be%d0%ba%d1%80%d0%b0%d1%82%d0%bd%d0%be%d0%b3%d0%be-%d1%83%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d1%8f" aria-label="Heading self-link"></a></h3>
+<ul>
+<li><strong>Несколько выключателей управляют одной лампой:</strong> Сопрягите до 10 беспроводных выключателей с одним приемником (схема трехпозиционного выключателя).</li>
+<li><strong>Один выключатель управляет несколькими лампами:</strong> Сопрягите один беспроводной выключатель с несколькими приемниками для одновременного управления.
+<img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/3-9.4.jpg?v=1778409860" alt="Схема подключения приемника"></li>
+</ul>
+<h2 id="сброс">Сброс<a class="td-heading-self-link" href="#%d1%81%d0%b1%d1%80%d0%be%d1%81" aria-label="Heading self-link"></a></h2>
+<p>Нажмите кнопку обучения на приемнике <strong>8 раз</strong>. Подождите 3 секунды. Индикатор будет быстро мигать, а затем погаснет, что указывает на удаление всех сопряженных устройств.</p>
+<h2 id="устранение-неисправностей">Устранение неисправностей<a class="td-heading-self-link" href="#%d1%83%d1%81%d1%82%d1%80%d0%b0%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5-%d0%bd%d0%b5%d0%b8%d1%81%d0%bf%d1%80%d0%b0%d0%b2%d0%bd%d0%be%d1%81%d1%82%d0%b5%d0%b9" aria-label="Heading self-link"></a></h2>
+<p>Если приемник и передатчик не работают нормально, попробуйте следующие шаги:</p>
+<ul>
+<li><strong>Слабый прием сигнала:</strong> Выдвиньте антенну на приемнике. Убедитесь, что батарея выключателя не разряжена. Проверьте, что выключатель и приемник находятся в зоне действия (до 50 метров на открытой местности).</li>
+<li><strong>Выключатель не реагирует:</strong> Проверьте батарею 12В 27A. При необходимости замените. Выполните повторное сопряжение выключателя с приемником (см. Режим работы &gt; Как запрограммировать).</li>
+<li><strong>Приемник не переключается:</strong> Проверьте правильность подключения (Вход L/N к источнику питания, Выход L/N к прибору). Убедитесь, что нагрузка не превышает 10А.</li>
+<li><strong>Сбросьте приемник</strong> (нажмите кнопку обучения 8 раз), чтобы удалить все сопряжения, затем выполните повторное сопряжение.</li>
+</ul>
+<h2 id="обслуживание">Обслуживание<a class="td-heading-self-link" href="#%d0%be%d0%b1%d1%81%d0%bb%d1%83%d0%b6%d0%b8%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5" aria-label="Heading self-link"></a></h2>
+<ul>
+<li><strong>Замена батареи (беспроводной выключатель):</strong> Батарея 12В 27A обычно служит около 5 лет. Аккуратно откройте корпус выключателя, извлеките старую батарею, вставьте новую с правильной полярностью и плотно закройте.</li>
+<li><strong>Чистка:</strong> Протирайте выключатель и приемник мягкой сухой тканью. Не используйте абразивные чистящие средства и не погружайте в воду.</li>
+</ul>
+<h2 id="контакты">Контакты<a class="td-heading-self-link" href="#%d0%ba%d0%be%d0%bd%d1%82%d0%b0%d0%ba%d1%82%d1%8b" aria-label="Heading self-link"></a></h2>
+<ul>
+<li>Электронная почта: <a href="mailto:support@switnex.com">support@switnex.com</a></li>
+<li>WhatsApp: +86 15812381273
+Обратитесь к упаковке изделия или на сайт продавца для получения контактной информации службы поддержки клиентов.</li>
+</ul>
+<blockquote>
+<p>Если у вас возникли вопросы по продуктам, пожалуйста, сначала свяжитесь с нами. Мы сделаем все возможное, чтобы решить вашу проблему. Спасибо.</p>
+</blockquote>
+
+</div>
+
+
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-844bf437a6dc63241ec9d638d68ad48b">3 - SWITNEX DC 12V Wireless Relay Remote Control Switch User Manual</h1>
+    
+	<hr>
+<h1 id="руководство-пользователя-беспроводного-реле-управления-switnex-dc-12v">Руководство пользователя беспроводного реле управления SWITNEX DC 12V<a class="td-heading-self-link" href="#%d1%80%d1%83%d0%ba%d0%be%d0%b2%d0%be%d0%b4%d1%81%d1%82%d0%b2%d0%be-%d0%bf%d0%be%d0%bb%d1%8c%d0%b7%d0%be%d0%b2%d0%b0%d1%82%d0%b5%d0%bb%d1%8f-%d0%b1%d0%b5%d1%81%d0%bf%d1%80%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d0%b3%d0%be-%d1%80%d0%b5%d0%bb%d0%b5-%d1%83%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d1%8f-switnex-dc-12v" aria-label="Heading self-link"></a></h1>
+<table>
+  <thead>
+      <tr>
+          <th>Технические данные</th>
+          <th></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Номер модели</td>
+          <td>1204</td>
+      </tr>
+      <tr>
+          <td>Входное / выходное напряжение</td>
+          <td>1В-250В</td>
+      </tr>
+      <tr>
+          <td>Рабочее напряжение</td>
+          <td>DC 12V</td>
+      </tr>
+      <tr>
+          <td>Номинальный ток</td>
+          <td>10 Ампер</td>
+      </tr>
+      <tr>
+          <td>Радиочастота</td>
+          <td>433 МГц</td>
+      </tr>
+      <tr>
+          <td>Чувствительность приема</td>
+          <td>&gt;97 дБм</td>
+      </tr>
+      <tr>
+          <td>Код чипа</td>
+          <td>EV1527 (обучаемый код)</td>
+      </tr>
+      <tr>
+          <td>Дальность управления</td>
+          <td>До 50 метров (открытая местность)</td>
+      </tr>
+      <tr>
+          <td>Количество реле</td>
+          <td>4</td>
+      </tr>
+      <tr>
+          <td>Срок службы реле</td>
+          <td>Более 100 000 использований</td>
+      </tr>
+      <tr>
+          <td>Тип разъема</td>
+          <td>Винтовая клемма</td>
+      </tr>
+      <tr>
+          <td>Материал контактов</td>
+          <td>Медный сплав</td>
+      </tr>
+      <tr>
+          <td>Тип контактов</td>
+          <td>Нормально замкнутый (NC), Общий (COM), Нормально разомкнутый (NO)</td>
+      </tr>
+      <tr>
+          <td>Тип монтажа</td>
+          <td>Поверхностный монтаж</td>
+      </tr>
+      <tr>
+          <td>Размеры изделия</td>
+          <td>2,95 x 2,17 x 1,18 дюйма</td>
+      </tr>
+      <tr>
+          <td>Вес изделия</td>
+          <td>5,93 унции</td>
+      </tr>
+      <tr>
+          <td>Батареи (передатчики)</td>
+          <td>2 батареи CR2 (входят в комплект)</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="описание-изделия">Описание изделия<a class="td-heading-self-link" href="#%d0%be%d0%bf%d0%b8%d1%81%d0%b0%d0%bd%d0%b8%d0%b5-%d0%b8%d0%b7%d0%b4%d0%b5%d0%bb%d0%b8%d1%8f" aria-label="Heading self-link"></a></h2>
+<p><img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/2-1.jpg?v=1778408581" alt="Изображение изделия"></p>
+<ul>
+<li><strong>NO</strong>: Нормально разомкнутый контакт</li>
+<li><strong>COM</strong>: Общий контакт</li>
+<li><strong>NC</strong>: Нормально замкнутый контакт</li>
+</ul>
+<h2 id="схема-подключения">Схема подключения<a class="td-heading-self-link" href="#%d1%81%d1%85%d0%b5%d0%bc%d0%b0-%d0%bf%d0%be%d0%b4%d0%ba%d0%bb%d1%8e%d1%87%d0%b5%d0%bd%d0%b8%d1%8f" aria-label="Heading self-link"></a></h2>
+<p><img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/2-2.jpg?v=1778408590" alt="Типовые схемы подключения"></p>
+<h2 id="предупреждение">Предупреждение<a class="td-heading-self-link" href="#%d0%bf%d1%80%d0%b5%d0%b4%d1%83%d0%bf%d1%80%d0%b5%d0%b6%d0%b4%d0%b5%d0%bd%d0%b8%d0%b5" aria-label="Heading self-link"></a></h2>
+<ul>
+<li>Обычно приемник и передатчик уже сопряжены друг с другом на заводе. Если нет, выполните их перепрограммирование.</li>
+<li>Выполните сброс перед изменением режима работы.</li>
+<li>После сброса все пульты дистанционного управления перестанут работать.</li>
+<li>Своевременно заменяйте батарею при низком напряжении передатчика для обеспечения более сильной передачи сигнала.</li>
+<li>Слегка вытяните антенну на приемнике для лучшего приема сигнала.</li>
+<li>Перед выполнением любых подключений убедитесь, что питание отключено.</li>
+<li>Тип выхода — пассивный выход / бесконтактные контакты.</li>
+</ul>
+<h2 id="режим-работы">Режим работы<a class="td-heading-self-link" href="#%d1%80%d0%b5%d0%b6%d0%b8%d0%bc-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d1%8b" aria-label="Heading self-link"></a></h2>
+<h3 id="импульсный-режим">Импульсный режим<a class="td-heading-self-link" href="#%d0%b8%d0%bc%d0%bf%d1%83%d0%bb%d1%8c%d1%81%d0%bd%d1%8b%d0%b9-%d1%80%d0%b5%d0%b6%d0%b8%d0%bc" aria-label="Heading self-link"></a></h3>
+<p>Нажмите и удерживайте кнопку → соответствующее реле включается<br>
+Отпустите кнопку → реле выключается</p>
+<p><strong>Как запрограммировать:</strong></p>
+<ol>
+<li>Нажмите кнопку обучения (на приемнике) <strong>1 раз</strong>. Индикаторный светодиод на приемнике загорится.</li>
+<li>Нажмите нужную кнопку (например, &lsquo;A&rsquo;) на пульте передатчика. Индикаторный светодиод несколько раз мигнет и погаснет. Успешно.</li>
+</ol>
+<h3 id="режим-переключения">Режим переключения<a class="td-heading-self-link" href="#%d1%80%d0%b5%d0%b6%d0%b8%d0%bc-%d0%bf%d0%b5%d1%80%d0%b5%d0%ba%d0%bb%d1%8e%d1%87%d0%b5%d0%bd%d0%b8%d1%8f" aria-label="Heading self-link"></a></h3>
+<p>Нажмите кнопку → соответствующее реле включается<br>
+Нажмите ту же кнопку снова → реле выключается</p>
+<p><strong>Как запрограммировать:</strong></p>
+<ol>
+<li>Нажмите кнопку обучения (на приемнике) <strong>2 раза</strong>. Индикаторный светодиод загорится.</li>
+<li>Нажмите нужную кнопку на пульте передатчика. Индикаторный светодиод несколько раз мигнет и погаснет. Успешно.</li>
+</ol>
+<h3 id="режим-фиксации">Режим фиксации<a class="td-heading-self-link" href="#%d1%80%d0%b5%d0%b6%d0%b8%d0%bc-%d1%84%d0%b8%d0%ba%d1%81%d0%b0%d1%86%d0%b8%d0%b8" aria-label="Heading self-link"></a></h3>
+<p>Нажмите кнопку &lsquo;A&rsquo; → Реле 1 включается (Реле 2 выключается, если было включено)<br>
+Нажмите кнопку &lsquo;B&rsquo; → Реле 2 включается, а Реле 1 одновременно выключается</p>
+<p><strong>Как запрограммировать:</strong></p>
+<ol>
+<li>Нажмите кнопку обучения (на приемнике) <strong>3 раза</strong>. Индикаторный светодиод загорится.</li>
+<li>Нажмите нужную кнопку на пульте передатчика. Индикаторный светодиод несколько раз мигнет и погаснет. Успешно.</li>
+</ol>
+<h3 id="смешанный-режим">Смешанный режим<a class="td-heading-self-link" href="#%d1%81%d0%bc%d0%b5%d1%88%d0%b0%d0%bd%d0%bd%d1%8b%d0%b9-%d1%80%d0%b5%d0%b6%d0%b8%d0%bc" aria-label="Heading self-link"></a></h3>
+<p>Для расширенных конфигураций (например, 2 импульсных + 2 переключаемых; 2 импульсных + 2 фиксируемых; 2 переключаемых + 2 фиксируемых) нажмите кнопку обучения <strong>4, 5 или 6 раз</strong> соответственно, затем нажмите соответствующие кнопки пульта, как указано.</p>
+<h2 id="сброс">Сброс<a class="td-heading-self-link" href="#%d1%81%d0%b1%d1%80%d0%be%d1%81" aria-label="Heading self-link"></a></h2>
+<p>Нажмите кнопку обучения (на приемнике) <strong>8 раз</strong>. Индикаторный светодиод несколько раз мигнет и погаснет. Успешно. (Все сопряженные передатчики будут удалены.)</p>
+<h2 id="устранение-неисправностей">Устранение неисправностей<a class="td-heading-self-link" href="#%d1%83%d1%81%d1%82%d1%80%d0%b0%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5-%d0%bd%d0%b5%d0%b8%d1%81%d0%bf%d1%80%d0%b0%d0%b2%d0%bd%d0%be%d1%81%d1%82%d0%b5%d0%b9" aria-label="Heading self-link"></a></h2>
+<p>Если приемник и передатчик не работают нормально, попробуйте выполнить следующие действия:</p>
+<ul>
+<li>Проверьте, не разряжена ли батарея. Индикаторный светодиод на пульте передатчика не горит или горит тускло. Замените на новые батареи CR2.</li>
+<li>Проверьте правильность подключения приемника. Убедитесь, что подключение к клеммам NC, COM, NO выполнено правильно.</li>
+<li>Убедитесь, что приемник находится в зоне действия (до 50 метров на открытой местности) и антенна не заблокирована.</li>
+<li>Избегайте размещения приемника рядом с другими мощными источниками радиосигналов, которые могут вызывать помехи.</li>
+<li>Перепрограммируйте приемник и передатчик. Обычно это решает многие проблемы.</li>
+<li>Если проблема сохраняется, свяжитесь с нами.</li>
+</ul>
+<h2 id="контакты">Контакты<a class="td-heading-self-link" href="#%d0%ba%d0%be%d0%bd%d1%82%d0%b0%d0%ba%d1%82%d1%8b" aria-label="Heading self-link"></a></h2>
+<ul>
+<li>Электронная почта: <a href="mailto:support@switnex.com">support@switnex.com</a></li>
+</ul>
+<blockquote>
+<p>Если у вас возникли вопросы по продукции, пожалуйста, сначала свяжитесь с нами. Мы сделаем все возможное, чтобы решить вашу проблему. Спасибо.</p>
+</blockquote>
+
+</div>
+
+
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-a4c4d5cdb46124b2893183f2353fecc2">4 - SWITNEX 2204 Universal Wireless Remote Control Instruction Manual</h1>
+    
+	<hr>
+<h1 id="инструкция-по-эксплуатации-универсального-беспроводного-пульта-управления-switnex-2204">Инструкция по эксплуатации универсального беспроводного пульта управления SWITNEX 2204<a class="td-heading-self-link" href="#%d0%b8%d0%bd%d1%81%d1%82%d1%80%d1%83%d0%ba%d1%86%d0%b8%d1%8f-%d0%bf%d0%be-%d1%8d%d0%ba%d1%81%d0%bf%d0%bb%d1%83%d0%b0%d1%82%d0%b0%d1%86%d0%b8%d0%b8-%d1%83%d0%bd%d0%b8%d0%b2%d0%b5%d1%80%d1%81%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be-%d0%b1%d0%b5%d1%81%d0%bf%d1%80%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d0%b3%d0%be-%d0%bf%d1%83%d0%bb%d1%8c%d1%82%d0%b0-%d1%83%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d1%8f-switnex-2204" aria-label="Heading self-link"></a></h1>
+<table>
+  <thead>
+      <tr>
+          <th>Технические характеристики</th>
+          <th></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Рабочее напряжение</td>
+          <td>AC 85В~250В</td>
+      </tr>
+      <tr>
+          <td>Входное/выходное напряжение</td>
+          <td>1~250В</td>
+      </tr>
+      <tr>
+          <td>Тип выхода</td>
+          <td>Пассивный выход</td>
+      </tr>
+      <tr>
+          <td>Ток покоя</td>
+          <td>&lt;5 мА</td>
+      </tr>
+      <tr>
+          <td>Максимальный ток</td>
+          <td>10 А</td>
+      </tr>
+      <tr>
+          <td>Радиочастота</td>
+          <td>433 МГц</td>
+      </tr>
+      <tr>
+          <td>Рабочая температура</td>
+          <td>-30~+80</td>
+      </tr>
+      <tr>
+          <td>Чувствительность приёма</td>
+          <td>&gt;97 дБм</td>
+      </tr>
+      <tr>
+          <td>Количество запоминаемых пультов</td>
+          <td>20 шт.</td>
+      </tr>
+      <tr>
+          <td>Поддерживаемое кодирование</td>
+          <td>1527 обучаемый код, 2262 фиксированный код</td>
+      </tr>
+      <tr>
+          <td>Режим работы RF</td>
+          <td>ASK супергетеродинный беспроводной приём</td>
+      </tr>
+      <tr>
+          <td>Дальность приёма</td>
+          <td>На открытом пространстве более 50 метров</td>
+      </tr>
+      <tr>
+          <td>Режим работы пульта</td>
+          <td>Импульсный / Переключаемый / Фиксированный</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="детали-продукта">Детали продукта<a class="td-heading-self-link" href="#%d0%b4%d0%b5%d1%82%d0%b0%d0%bb%d0%b8-%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%82%d0%b0" aria-label="Heading self-link"></a></h2>
+<p><img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/1-0.jpg?v=1778407491" alt="Изображение продукта"></p>
+<ul>
+<li><strong>NO</strong>: Нормально разомкнутый контакт</li>
+<li><strong>COM</strong>: Общий контакт</li>
+<li><strong>NC</strong>: Нормально замкнутый контакт</li>
+</ul>
+<h2 id="схема-подключения">Схема подключения<a class="td-heading-self-link" href="#%d1%81%d1%85%d0%b5%d0%bc%d0%b0-%d0%bf%d0%be%d0%b4%d0%ba%d0%bb%d1%8e%d1%87%d0%b5%d0%bd%d0%b8%d1%8f" aria-label="Heading self-link"></a></h2>
+<p><img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/1-1_bc29d28c-877e-4c9f-b19b-ff2e45e3472b.jpg?v=1778407788" alt="Изображение продукта"></p>
+<h2 id="предупреждение">Предупреждение<a class="td-heading-self-link" href="#%d0%bf%d1%80%d0%b5%d0%b4%d1%83%d0%bf%d1%80%d0%b5%d0%b6%d0%b4%d0%b5%d0%bd%d0%b8%d0%b5" aria-label="Heading self-link"></a></h2>
+<ul>
+<li>Обычно приёмник и передатчик уже сопряжены друг с другом на заводе. Если нет, выполните их перепрограммирование.</li>
+<li>Перед изменением режима работы выполните сброс.</li>
+<li>После сброса все пульты дистанционного управления перестанут работать.</li>
+<li>Своевременно заменяйте батарею при низком напряжении передатчика для обеспечения более сильной передачи сигнала.</li>
+<li>Слегка вытяните антенну на приёмнике для лучшего приёма сигнала.</li>
+<li>Для настройки в фиксированном режиме пульт должен иметь 5 или более кнопок.</li>
+<li>Тип выхода — пассивный выход / безнапряжные контакты.</li>
+</ul>
+<h2 id="режимы-работы">Режимы работы<a class="td-heading-self-link" href="#%d1%80%d0%b5%d0%b6%d0%b8%d0%bc%d1%8b-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d1%8b" aria-label="Heading self-link"></a></h2>
+<h3 id="импульсный-режим">Импульсный режим<a class="td-heading-self-link" href="#%d0%b8%d0%bc%d0%bf%d1%83%d0%bb%d1%8c%d1%81%d0%bd%d1%8b%d0%b9-%d1%80%d0%b5%d0%b6%d0%b8%d0%bc" aria-label="Heading self-link"></a></h3>
+<p>Нажмите и удерживайте кнопку «A» → реле «1» включается<br>
+Отпустите кнопку «A» → реле «1» выключается</p>
+<p><strong>Как запрограммировать:</strong></p>
+<ol>
+<li>Нажмите кнопку обучения (на приёмнике) 1 раз. Индикаторный светодиод на приёмнике загорится.</li>
+<li>Нажмите кнопку «A» на пульте передатчика. Индикаторный светодиод на приёмнике несколько раз мигнёт и погаснет. Успешно.</li>
+</ol>
+<h3 id="переключаемый-режим">Переключаемый режим<a class="td-heading-self-link" href="#%d0%bf%d0%b5%d1%80%d0%b5%d0%ba%d0%bb%d1%8e%d1%87%d0%b0%d0%b5%d0%bc%d1%8b%d0%b9-%d1%80%d0%b5%d0%b6%d0%b8%d0%bc" aria-label="Heading self-link"></a></h3>
+<p>Нажмите кнопку «A» → реле «1» включается<br>
+Нажмите кнопку «A» снова → реле «1» выключается</p>
+<p><strong>Как запрограммировать:</strong></p>
+<ol>
+<li>Нажмите кнопку обучения (на приёмнике) 2 раза. Индикаторный светодиод на приёмнике загорится.</li>
+<li>Нажмите кнопку «A» на пульте передатчика. Индикаторный светодиод на приёмнике несколько раз мигнёт и погаснет. Успешно.</li>
+</ol>
+<h3 id="фиксированный-режим">Фиксированный режим<a class="td-heading-self-link" href="#%d1%84%d0%b8%d0%ba%d1%81%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%bd%d1%8b%d0%b9-%d1%80%d0%b5%d0%b6%d0%b8%d0%bc" aria-label="Heading self-link"></a></h3>
+<p>Нажмите кнопку «A» → реле «1» включается<br>
+Нажмите кнопку «B» → реле «2» включается, а реле «1» одновременно выключается</p>
+<p><strong>Как запрограммировать:</strong></p>
+<ol>
+<li>Нажмите кнопку обучения (на приёмнике) 3 раза. Индикаторный светодиод на приёмнике загорится.</li>
+<li>Нажмите кнопку «A» на пульте передатчика. Индикаторный светодиод на приёмнике несколько раз мигнёт и погаснет. Успешно.
+<img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/81sDespQTgS._AC_SL1500_f1d86cc4-831e-4163-87d3-a82965b56677.jpg?v=1778407638" alt="Изображение продукта"></li>
+</ol>
+<h2 id="сброс">Сброс<a class="td-heading-self-link" href="#%d1%81%d0%b1%d1%80%d0%be%d1%81" aria-label="Heading self-link"></a></h2>
+<p>Нажмите кнопку обучения (на приёмнике) <strong>8 раз</strong>. Индикаторный светодиод на приёмнике несколько раз мигнёт и погаснет. Успешно.</p>
+<h2 id="устранение-неисправностей">Устранение неисправностей<a class="td-heading-self-link" href="#%d1%83%d1%81%d1%82%d1%80%d0%b0%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5-%d0%bd%d0%b5%d0%b8%d1%81%d0%bf%d1%80%d0%b0%d0%b2%d0%bd%d0%be%d1%81%d1%82%d0%b5%d0%b9" aria-label="Heading self-link"></a></h2>
+<p>Если приёмник и передатчик не работают нормально, выполните следующие действия:</p>
+<ul>
+<li>Проверьте, не разряжена ли батарея. Индикаторный светодиод на пульте передатчика не горит или горит тускло.</li>
+<li>Проверьте правильность подключения приёмника. Убедитесь, что проводка выполнена верно.</li>
+<li>Перепрограммируйте приёмник и передатчик. Обычно это решает многие проблемы.</li>
+<li>Если проблема сохраняется, свяжитесь с нами.</li>
+</ul>
+<h2 id="контакты">Контакты<a class="td-heading-self-link" href="#%d0%ba%d0%be%d0%bd%d1%82%d0%b0%d0%ba%d1%82%d1%8b" aria-label="Heading self-link"></a></h2>
+<ul>
+<li>Электронная почта: <a href="mailto:support@switnex.com">support@switnex.com</a></li>
+<li>WhatsApp: +86 15812381273</li>
+</ul>
+<blockquote>
+<p>Если у вас возникли вопросы по продуктам, сначала свяжитесь с нами. Мы сделаем всё возможное, чтобы решить вашу проблему. Спасибо.</p>
+</blockquote>
+
+</div>
+
+
+
+    
+	
+  
+
+
+
+          </main>
+        </div>
+      </div>
+      <footer class="td-footer td-footer--linktrol row d-print-none">
+  <div class="container-fluid px-3 px-lg-4">
+    <div class="row g-4 py-4 py-lg-5 align-items-start">
+      <div class="col-12 col-lg-3">
+        <div class="h5 mb-2">DieseRC</div>
+          <p class="small mb-0 td-footer--linktrol__lede">DieseRC — беспроводные выключатели, RF-пульты и реле, умные выключатели Wi‑Fi / Zigbee / Bluetooth, рольставни и шторы, ворота и насосы; новости и руководства.</p>
+      </div>
+        <div class="col-12 col-sm-6 col-lg-2">
+          <div class="text-uppercase small fw-semibold td-footer--linktrol__heading mb-2">Поддержка и руководства</div>
+          <ul class="list-unstyled mb-0 td-footer--linktrol__links"><li class="mb-1">
+                <a href="/ru/manuals/" title="Руководства и документация">Руководства</a>
+              </li><li class="mb-1">
+                <a href="/ru/troubleshooting/" title="Руководства по устранению неполадок">Устранение неполадок</a>
+              </li>
+          </ul>
+        </div>
+        <div class="col-12 col-sm-6 col-lg-2">
+          <div class="text-uppercase small fw-semibold td-footer--linktrol__heading mb-2">Решения и торговля</div>
+          <ul class="list-unstyled mb-0 td-footer--linktrol__links"><li class="mb-1">
+                <a href="/ru/smart-solutions/" title="Умные решения">Умные решения</a>
+              </li><li class="mb-1">
+                <a href="/ru/wholesale-bulk-orders/" title="Оптовые и крупные заказы">Опт и крупные заказы</a>
+              </li>
+          </ul>
+        </div>
+        <div class="col-12 col-sm-6 col-lg-2">
+          <div class="text-uppercase small fw-semibold td-footer--linktrol__heading mb-2">Ещё</div>
+          <ul class="list-unstyled mb-0 td-footer--linktrol__links"><li class="mb-1">
+                <a href="/ru/diy-compliance/" title="Сделай сам и нормативное соответствие">DIY и соответствие</a>
+              </li><li class="mb-1">
+                <a href="/ru/property-insights/" title="Аналитика по недвижимости">Обзор недвижимости</a>
+              </li>
+          </ul>
+        </div>
+    </div>
+    <div class="row td-footer--linktrol__bottom pt-3 pb-4">
+      <div class="col-12 text-center text-md-start"><span class="td-footer__copyright">&copy;
+    2026&ndash;present
+    <span class="td-footer__authors">DieseRC |</span></span><span class="td-footer__all_rights_reserved">Все права защищены</span>
+          <span class="ms-md-2 d-inline-block mt-2 mt-md-0"><a href="/about/" target="_blank" rel="noopener">Политика конфиденциальности</a></span>
+      </div>
+    </div>
+  </div>
+</footer><nav class="linktrol-mobile-footer linktrol-contact-rail d-print-none" aria-label="Быстрая связь">
+  <div class="linktrol-mobile-footer__inner">
+    <a class="linktrol-mobile-footer__btn linktrol-mobile-footer__btn--shop"
+       href="https://switnex.com" target="_blank" rel="noopener noreferrer">
+      <i class="fa-solid fa-store" aria-hidden="true"></i>
+      <span>Магазин</span>
+    </a>
+    <a class="linktrol-mobile-footer__btn linktrol-mobile-footer__btn--wa"
+       href="https://wa.me/8615812381273" target="_blank" rel="noopener noreferrer">
+      <i class="fa-brands fa-whatsapp" aria-hidden="true"></i>
+      <span>Чат</span>
+    </a>
+    <a class="linktrol-mobile-footer__btn linktrol-mobile-footer__btn--tg"
+       href="https://t.me/switnex_aaron" target="_blank" rel="noopener noreferrer">
+      <i class="fa-brands fa-telegram" aria-hidden="true"></i>
+      <span>Контакт</span>
+    </a>
+    <a class="linktrol-mobile-footer__btn linktrol-mobile-footer__btn--mail"
+       href="mailto:support@switnex.com?subject=DieseRC&#43;inquiry">
+      <i class="fa-solid fa-envelope" aria-hidden="true"></i>
+      <span>Почта</span>
+    </a>
+  </div>
+</nav>
+
+    </div>
+    <script src="/js/main.js"></script>
+<script defer src="/js/click-to-copy.js" crossorigin="anonymous"></script>
+<script src='/js/tabpane-persist.js'></script>
+
+  </body>
+</html>
