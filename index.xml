@@ -466,7 +466,7 @@ v0.15.0 &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;script&gt;
 document.addEventListener("DOMContentLoaded", function() {
  var options = { hour: '2-digit', hour12: false, minute: '2-digit', timeZoneName: 'short' };
- var buildDate = new Date("2026-05-10T22:15:06+08:00");
+ var buildDate = new Date("2026-05-10T22:21:35+08:00");
  document.getElementById("local-time").innerText = buildDate.toLocaleString(undefined, options);
 });
 &lt;/script&gt;</description></item></channel></rss>
