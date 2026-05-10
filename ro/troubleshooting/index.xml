@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Depanare on DieseRC</title>
-    <link>http://localhost:1313/ro/troubleshooting/</link>
-    <description>Recent content in Depanare on DieseRC</description>
-    <generator>Hugo</generator>
-    <language>ro-RO</language>
-    <atom:link href="http://localhost:1313/ro/troubleshooting/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Depanare on DR SWITNEX</title><link>https://linktrol.com/ro/troubleshooting/</link><description>Recent content in Depanare on DR SWITNEX</description><generator>Hugo</generator><language>ro-RO</language><atom:link href="https://linktrol.com/ro/troubleshooting/index.xml" rel="self" type="application/rss+xml"/></channel></rss>

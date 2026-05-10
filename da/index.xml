@@ -1,54 +1,292 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>LINKTROL on DieseRC</title>
-    <link>http://localhost:1313/da/</link>
-    <description>Recent content in LINKTROL on DieseRC</description>
-    <generator>Hugo</generator>
-    <language>da-DK</language>
-    <lastBuildDate>Sun, 10 May 2026 11:47:52 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/da/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>SWITNEX Wireless DC Motor Remote Control Switch User Manual</title>
-      <link>http://localhost:1313/da/manuals/2026/05/10/switnex-wireless-dc-motor-remote-control-switch-user-manual/</link>
-      <pubDate>Sun, 10 May 2026 11:47:52 +0000</pubDate>
-      <guid>http://localhost:1313/da/manuals/2026/05/10/switnex-wireless-dc-motor-remote-control-switch-user-manual/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;switnex-trådløs-dc-motor-fjernbetjening-brugervejledning&#34;&gt;SWITNEX Trådløs DC Motor Fjernbetjening Brugervejledning&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#switnex-tr%c3%a5dl%c3%b8s-dc-motor-fjernbetjening-brugervejledning&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Tekniske data&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Indgangsspænding&lt;/td&gt;&#xA;          &lt;td&gt;DC 12V-80V&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Maks. belastning (resistiv)&lt;/td&gt;&#xA;          &lt;td&gt;10 Ampere&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Maks. belastning (induktiv)&lt;/td&gt;&#xA;          &lt;td&gt;5 Ampere&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Frekvens&lt;/td&gt;&#xA;          &lt;td&gt;433MHz&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Driftstilstande&lt;/td&gt;&#xA;          &lt;td&gt;Momentan, Vippe, Låst&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Senderhukommelse&lt;/td&gt;&#xA;          &lt;td&gt;Op til 20 sendere&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Styringsafstand&lt;/td&gt;&#xA;          &lt;td&gt;20-50 meter (åbent område)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Relælevetid&lt;/td&gt;&#xA;          &lt;td&gt;&amp;gt;100.000 gange&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Varevægt&lt;/td&gt;&#xA;          &lt;td&gt;4,2 ounces&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Pakkens dimensioner&lt;/td&gt;&#xA;          &lt;td&gt;4,02 x 3,74 x 1,57 tommer&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Batterier&lt;/td&gt;&#xA;          &lt;td&gt;2 x 12V batterier (medfølger)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;produktdetalje&#34;&gt;Produktdetalje&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#produktdetalje&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://cdn.shopify.com/s/files/1/0782/0168/4263/articles/13f83954-3ea5-4192-add8-27c2b66f0461.jpg?v=1740662586&#34; alt=&#34;Modtager og to sendere&#34;&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Læreknap&lt;/strong&gt; på modtager – til programmering af driftstilstande og nulstilling&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Indikatorlys&lt;/strong&gt; på modtager – giver visuel feedback&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;ledningsdiagram&#34;&gt;Ledningsdiagram&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#ledningsdiagram&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://cdn.shopify.com/s/files/1/0782/0168/4263/files/4-5.jpg?v=1778410922&#34; alt=&#34;Grundlæggende ledningsdiagram for modtager og DC-motor&#34;&gt;&#xA;&lt;img src=&#34;https://cdn.shopify.com/s/files/1/0782/0168/4263/files/4-4.jpg?v=1778410922&#34; alt=&#34;Ledningsdiagram til spilapplikation med solenoidrelæ&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SWITNEX RF 433MHz Wireless Light Switch System User Manual</title>
-      <link>http://localhost:1313/da/manuals/2026/05/10/switnex-rf-433mhz-wireless-light-switch-system-user-manual/</link>
-      <pubDate>Sun, 10 May 2026 11:46:53 +0000</pubDate>
-      <guid>http://localhost:1313/da/manuals/2026/05/10/switnex-rf-433mhz-wireless-light-switch-system-user-manual/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;switnex-rf-433mhz-trådløst-lysafbrydersystem-brugervejledning&#34;&gt;SWITNEX RF 433MHz Trådløst Lysafbrydersystem Brugervejledning&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#switnex-rf-433mhz-tr%c3%a5dl%c3%b8st-lysafbrydersystem-brugervejledning&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Tekniske data&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Modelnummer&lt;/td&gt;&#xA;          &lt;td&gt;750828381477&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Produktdimensioner (Afbryder)&lt;/td&gt;&#xA;          &lt;td&gt;8,8 x 8,8 x 2,3 cm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Produktvægt (Afbryder)&lt;/td&gt;&#xA;          &lt;td&gt;60 gram&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Modtagerdimensioner&lt;/td&gt;&#xA;          &lt;td&gt;4,7 x 4,2 x 2,3 cm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Driftsspænding (Modtager)&lt;/td&gt;&#xA;          &lt;td&gt;AC 85V ~ 250V&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Strømstyrke (Modtager)&lt;/td&gt;&#xA;          &lt;td&gt;10 A&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;RF-frekvens&lt;/td&gt;&#xA;          &lt;td&gt;433 MHz&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Indlæringskode&lt;/td&gt;&#xA;          &lt;td&gt;EV1527&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Afbryderbatteri&lt;/td&gt;&#xA;          &lt;td&gt;1 x 12V 27A (medfølger)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Afbryderens levetid&lt;/td&gt;&#xA;          &lt;td&gt;Over 500.000 klik&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Modtagerrelæets levetid&lt;/td&gt;&#xA;          &lt;td&gt;Over 400.000 anvendelser&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Materiale&lt;/td&gt;&#xA;          &lt;td&gt;Plastik&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Afbrydertype&lt;/td&gt;&#xA;          &lt;td&gt;Trykknap&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Terminaltype&lt;/td&gt;&#xA;          &lt;td&gt;Skrue&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Oprindelsesland&lt;/td&gt;&#xA;          &lt;td&gt;Kina&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;produktdetalje&#34;&gt;Produktdetalje&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#produktdetalje&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://cdn.shopify.com/s/files/1/0782/0168/4263/files/3-9.2.jpg?v=1778409859&#34; alt=&#34;Pakkeindhold&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SWITNEX DC 12V Wireless Relay Remote Control Switch User Manual</title>
-      <link>http://localhost:1313/da/manuals/2026/05/10/switnex-dc-12v-wireless-relay-remote-control-switch-user-manual/</link>
-      <pubDate>Sun, 10 May 2026 11:46:40 +0000</pubDate>
-      <guid>http://localhost:1313/da/manuals/2026/05/10/switnex-dc-12v-wireless-relay-remote-control-switch-user-manual/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;switnex-dc-12v-trådløs-relæ-fjernbetjeningskontakt-brugervejledning&#34;&gt;SWITNEX DC 12V Trådløs Relæ Fjernbetjeningskontakt Brugervejledning&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#switnex-dc-12v-tr%c3%a5dl%c3%b8s-rel%c3%a6-fjernbetjeningskontakt-brugervejledning&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Tekniske Data&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Modelnummer&lt;/td&gt;&#xA;          &lt;td&gt;1204&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Indgangs-/Udgangsspænding&lt;/td&gt;&#xA;          &lt;td&gt;1V-250V&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Arbejdsspænding&lt;/td&gt;&#xA;          &lt;td&gt;DC 12V&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Strømstyrke&lt;/td&gt;&#xA;          &lt;td&gt;10 Ampere&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;RF-frekvens&lt;/td&gt;&#xA;          &lt;td&gt;433MHz&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Modtagelsesfølsomhed&lt;/td&gt;&#xA;          &lt;td&gt;&amp;gt;97dBm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Chipkode&lt;/td&gt;&#xA;          &lt;td&gt;EV1527 (Læringskode)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Fjernbetjeningsrækkevidde&lt;/td&gt;&#xA;          &lt;td&gt;Op til 50 meter (åbent område)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Antal relæer&lt;/td&gt;&#xA;          &lt;td&gt;4&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Relælevetid&lt;/td&gt;&#xA;          &lt;td&gt;Over 100.000 anvendelser&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Forbindelsestype&lt;/td&gt;&#xA;          &lt;td&gt;Skrueterminal&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Kontaktmateriale&lt;/td&gt;&#xA;          &lt;td&gt;Kobberlegering&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Kontakttype&lt;/td&gt;&#xA;          &lt;td&gt;Normalt Lukket (NC), Fælles (COM), Normalt Åben (NO)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Monteringsmetode&lt;/td&gt;&#xA;          &lt;td&gt;Overflademontering&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Produktdimensioner&lt;/td&gt;&#xA;          &lt;td&gt;2,95 x 2,17 x 1,18 tommer&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Produktvægt&lt;/td&gt;&#xA;          &lt;td&gt;5,93 ounces&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Batterier (Sendere)&lt;/td&gt;&#xA;          &lt;td&gt;2 CR2-batterier (medfølger)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;produktdetalje&#34;&gt;Produktdetalje&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#produktdetalje&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://cdn.shopify.com/s/files/1/0782/0168/4263/files/2-1.jpg?v=1778408581&#34; alt=&#34;Produktbillede&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SWITNEX 2204 Universal Wireless Remote Control Instruction Manual</title>
-      <link>http://localhost:1313/da/manuals/2026/05/10/switnex-2204-universal-wireless-remote-control-instruction-manual/</link>
-      <pubDate>Sun, 10 May 2026 11:38:33 +0000</pubDate>
-      <guid>http://localhost:1313/da/manuals/2026/05/10/switnex-2204-universal-wireless-remote-control-instruction-manual/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;switnex-2204-universal-trådløs-fjernbetjening-brugsanvisning&#34;&gt;SWITNEX 2204 Universal trådløs fjernbetjening Brugsanvisning&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#switnex-2204-universal-tr%c3%a5dl%c3%b8s-fjernbetjening-brugsanvisning&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Tekniske data&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Arbejdsspænding&lt;/td&gt;&#xA;          &lt;td&gt;AC 85V~250V&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Indgangs-/udgangsspænding&lt;/td&gt;&#xA;          &lt;td&gt;1~250V&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Udgangstype&lt;/td&gt;&#xA;          &lt;td&gt;Passiv udgang&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Hvilestrøm&lt;/td&gt;&#xA;          &lt;td&gt;&amp;lt;5MA&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Maksimal strøm&lt;/td&gt;&#xA;          &lt;td&gt;10A&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;RF-frekvens&lt;/td&gt;&#xA;          &lt;td&gt;433MHz&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Arbejdstemperatur&lt;/td&gt;&#xA;          &lt;td&gt;-30~+80&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Modtagelsesfølsomhed&lt;/td&gt;&#xA;          &lt;td&gt;&amp;gt;97dbm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Antal lagrede fjernbetjeninger&lt;/td&gt;&#xA;          &lt;td&gt;20 stk&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Understøttet kodning&lt;/td&gt;&#xA;          &lt;td&gt;1527 Læringskode, 2262 fast kode&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;RF-driftstilstand&lt;/td&gt;&#xA;          &lt;td&gt;ASK superheterodyn trådløs modtagelse&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Rækkevidde&lt;/td&gt;&#xA;          &lt;td&gt;Åbent område mere end 50 meter&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Fjernbetjeningsdriftstilstand&lt;/td&gt;&#xA;          &lt;td&gt;Momentan tilstand / Skiftetilstand / Låst tilstand&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;produktdetalje&#34;&gt;Produktdetalje&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#produktdetalje&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://cdn.shopify.com/s/files/1/0782/0168/4263/files/1-0.jpg?v=1778407491&#34; alt=&#34;Produktbillede&#34;&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;NO&lt;/strong&gt;: Normalt åben pin&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;COM&lt;/strong&gt;: Fælles pin&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;NC&lt;/strong&gt;: Normalt lukket pin&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;ledningsdiagram&#34;&gt;Ledningsdiagram&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#ledningsdiagram&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://cdn.shopify.com/s/files/1/0782/0168/4263/files/1-1_bc29d28c-877e-4c9f-b19b-ff2e45e3472b.jpg?v=1778407788&#34; alt=&#34;Produktbillede&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Om denne side</title>
-      <link>http://localhost:1313/da/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/da/about/</guid>
-      <description>&lt;p&gt;Dette er &lt;strong&gt;dansk&lt;/strong&gt; indhold for LINKTROL. Nyheder lægges i &lt;code&gt;content/blog/da/news/&lt;/code&gt; med samme struktur som engelsk (&lt;code&gt;content/blog/en/news/&lt;/code&gt;). URL’en har præfikset &lt;strong&gt;&lt;code&gt;/da/&lt;/code&gt;&lt;/strong&gt; (fx &lt;code&gt;/da/news/&lt;/code&gt;).&lt;/p&gt;&#xA;&lt;p&gt;For at knytte samme emne på tværs af sprog, brug samme &lt;strong&gt;&lt;code&gt;translationKey&lt;/code&gt;&lt;/strong&gt; i front matter for hver version.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Søgeresultater</title>
-      <link>http://localhost:1313/da/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/da/search/</guid>
-      <description></description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>LINKTROL on DR SWITNEX</title><link>https://linktrol.com/da/</link><description>Recent content in LINKTROL on DR SWITNEX</description><generator>Hugo</generator><language>da-DK</language><lastBuildDate>Sun, 10 May 2026 11:47:52 +0000</lastBuildDate><atom:link href="https://linktrol.com/da/index.xml" rel="self" type="application/rss+xml"/><item><title>SWITNEX Wireless DC Motor Remote Control Switch User Manual</title><link>https://linktrol.com/da/manuals/2026/05/10/switnex-wireless-dc-motor-remote-control-switch-user-manual/</link><pubDate>Sun, 10 May 2026 11:47:52 +0000</pubDate><guid>https://linktrol.com/da/manuals/2026/05/10/switnex-wireless-dc-motor-remote-control-switch-user-manual/</guid><description>&lt;hr&gt;
+&lt;h1 id="switnex-trådløs-dc-motor-fjernbetjening-brugervejledning"&gt;SWITNEX Trådløs DC Motor Fjernbetjening Brugervejledning&lt;a class="td-heading-self-link" href="#switnex-tr%c3%a5dl%c3%b8s-dc-motor-fjernbetjening-brugervejledning" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Tekniske data&lt;/th&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Indgangsspænding&lt;/td&gt;
+ &lt;td&gt;DC 12V-80V&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Maks. belastning (resistiv)&lt;/td&gt;
+ &lt;td&gt;10 Ampere&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Maks. belastning (induktiv)&lt;/td&gt;
+ &lt;td&gt;5 Ampere&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Frekvens&lt;/td&gt;
+ &lt;td&gt;433MHz&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Driftstilstande&lt;/td&gt;
+ &lt;td&gt;Momentan, Vippe, Låst&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Senderhukommelse&lt;/td&gt;
+ &lt;td&gt;Op til 20 sendere&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Styringsafstand&lt;/td&gt;
+ &lt;td&gt;20-50 meter (åbent område)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Relælevetid&lt;/td&gt;
+ &lt;td&gt;&amp;gt;100.000 gange&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Varevægt&lt;/td&gt;
+ &lt;td&gt;4,2 ounces&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Pakkens dimensioner&lt;/td&gt;
+ &lt;td&gt;4,02 x 3,74 x 1,57 tommer&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Batterier&lt;/td&gt;
+ &lt;td&gt;2 x 12V batterier (medfølger)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="produktdetalje"&gt;Produktdetalje&lt;a class="td-heading-self-link" href="#produktdetalje" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/articles/13f83954-3ea5-4192-add8-27c2b66f0461.jpg?v=1740662586" alt="Modtager og to sendere"&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Læreknap&lt;/strong&gt; på modtager – til programmering af driftstilstande og nulstilling&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Indikatorlys&lt;/strong&gt; på modtager – giver visuel feedback&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="ledningsdiagram"&gt;Ledningsdiagram&lt;a class="td-heading-self-link" href="#ledningsdiagram" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/4-5.jpg?v=1778410922" alt="Grundlæggende ledningsdiagram for modtager og DC-motor"&gt;
+&lt;img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/4-4.jpg?v=1778410922" alt="Ledningsdiagram til spilapplikation med solenoidrelæ"&gt;&lt;/p&gt;</description></item><item><title>SWITNEX RF 433MHz Wireless Light Switch System User Manual</title><link>https://linktrol.com/da/manuals/2026/05/10/switnex-rf-433mhz-wireless-light-switch-system-user-manual/</link><pubDate>Sun, 10 May 2026 11:46:53 +0000</pubDate><guid>https://linktrol.com/da/manuals/2026/05/10/switnex-rf-433mhz-wireless-light-switch-system-user-manual/</guid><description>&lt;hr&gt;
+&lt;h1 id="switnex-rf-433mhz-trådløst-lysafbrydersystem-brugervejledning"&gt;SWITNEX RF 433MHz Trådløst Lysafbrydersystem Brugervejledning&lt;a class="td-heading-self-link" href="#switnex-rf-433mhz-tr%c3%a5dl%c3%b8st-lysafbrydersystem-brugervejledning" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Tekniske data&lt;/th&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Modelnummer&lt;/td&gt;
+ &lt;td&gt;750828381477&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Produktdimensioner (Afbryder)&lt;/td&gt;
+ &lt;td&gt;8,8 x 8,8 x 2,3 cm&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Produktvægt (Afbryder)&lt;/td&gt;
+ &lt;td&gt;60 gram&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Modtagerdimensioner&lt;/td&gt;
+ &lt;td&gt;4,7 x 4,2 x 2,3 cm&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Driftsspænding (Modtager)&lt;/td&gt;
+ &lt;td&gt;AC 85V ~ 250V&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Strømstyrke (Modtager)&lt;/td&gt;
+ &lt;td&gt;10 A&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;RF-frekvens&lt;/td&gt;
+ &lt;td&gt;433 MHz&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Indlæringskode&lt;/td&gt;
+ &lt;td&gt;EV1527&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Afbryderbatteri&lt;/td&gt;
+ &lt;td&gt;1 x 12V 27A (medfølger)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Afbryderens levetid&lt;/td&gt;
+ &lt;td&gt;Over 500.000 klik&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Modtagerrelæets levetid&lt;/td&gt;
+ &lt;td&gt;Over 400.000 anvendelser&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Materiale&lt;/td&gt;
+ &lt;td&gt;Plastik&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Afbrydertype&lt;/td&gt;
+ &lt;td&gt;Trykknap&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Terminaltype&lt;/td&gt;
+ &lt;td&gt;Skrue&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Oprindelsesland&lt;/td&gt;
+ &lt;td&gt;Kina&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="produktdetalje"&gt;Produktdetalje&lt;a class="td-heading-self-link" href="#produktdetalje" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/3-9.2.jpg?v=1778409859" alt="Pakkeindhold"&gt;&lt;/p&gt;</description></item><item><title>SWITNEX DC 12V Wireless Relay Remote Control Switch User Manual</title><link>https://linktrol.com/da/manuals/2026/05/10/switnex-dc-12v-wireless-relay-remote-control-switch-user-manual/</link><pubDate>Sun, 10 May 2026 11:46:40 +0000</pubDate><guid>https://linktrol.com/da/manuals/2026/05/10/switnex-dc-12v-wireless-relay-remote-control-switch-user-manual/</guid><description>&lt;hr&gt;
+&lt;h1 id="switnex-dc-12v-trådløs-relæ-fjernbetjeningskontakt-brugervejledning"&gt;SWITNEX DC 12V Trådløs Relæ Fjernbetjeningskontakt Brugervejledning&lt;a class="td-heading-self-link" href="#switnex-dc-12v-tr%c3%a5dl%c3%b8s-rel%c3%a6-fjernbetjeningskontakt-brugervejledning" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Tekniske Data&lt;/th&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Modelnummer&lt;/td&gt;
+ &lt;td&gt;1204&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Indgangs-/Udgangsspænding&lt;/td&gt;
+ &lt;td&gt;1V-250V&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Arbejdsspænding&lt;/td&gt;
+ &lt;td&gt;DC 12V&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Strømstyrke&lt;/td&gt;
+ &lt;td&gt;10 Ampere&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;RF-frekvens&lt;/td&gt;
+ &lt;td&gt;433MHz&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Modtagelsesfølsomhed&lt;/td&gt;
+ &lt;td&gt;&amp;gt;97dBm&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Chipkode&lt;/td&gt;
+ &lt;td&gt;EV1527 (Læringskode)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Fjernbetjeningsrækkevidde&lt;/td&gt;
+ &lt;td&gt;Op til 50 meter (åbent område)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Antal relæer&lt;/td&gt;
+ &lt;td&gt;4&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Relælevetid&lt;/td&gt;
+ &lt;td&gt;Over 100.000 anvendelser&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Forbindelsestype&lt;/td&gt;
+ &lt;td&gt;Skrueterminal&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Kontaktmateriale&lt;/td&gt;
+ &lt;td&gt;Kobberlegering&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Kontakttype&lt;/td&gt;
+ &lt;td&gt;Normalt Lukket (NC), Fælles (COM), Normalt Åben (NO)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Monteringsmetode&lt;/td&gt;
+ &lt;td&gt;Overflademontering&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Produktdimensioner&lt;/td&gt;
+ &lt;td&gt;2,95 x 2,17 x 1,18 tommer&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Produktvægt&lt;/td&gt;
+ &lt;td&gt;5,93 ounces&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Batterier (Sendere)&lt;/td&gt;
+ &lt;td&gt;2 CR2-batterier (medfølger)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="produktdetalje"&gt;Produktdetalje&lt;a class="td-heading-self-link" href="#produktdetalje" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/2-1.jpg?v=1778408581" alt="Produktbillede"&gt;&lt;/p&gt;</description></item><item><title>SWITNEX 2204 Universal Wireless Remote Control Instruction Manual</title><link>https://linktrol.com/da/manuals/2026/05/10/switnex-2204-universal-wireless-remote-control-instruction-manual/</link><pubDate>Sun, 10 May 2026 11:38:33 +0000</pubDate><guid>https://linktrol.com/da/manuals/2026/05/10/switnex-2204-universal-wireless-remote-control-instruction-manual/</guid><description>&lt;hr&gt;
+&lt;h1 id="switnex-2204-universal-trådløs-fjernbetjening-brugsanvisning"&gt;SWITNEX 2204 Universal trådløs fjernbetjening Brugsanvisning&lt;a class="td-heading-self-link" href="#switnex-2204-universal-tr%c3%a5dl%c3%b8s-fjernbetjening-brugsanvisning" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Tekniske data&lt;/th&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Arbejdsspænding&lt;/td&gt;
+ &lt;td&gt;AC 85V~250V&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Indgangs-/udgangsspænding&lt;/td&gt;
+ &lt;td&gt;1~250V&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Udgangstype&lt;/td&gt;
+ &lt;td&gt;Passiv udgang&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Hvilestrøm&lt;/td&gt;
+ &lt;td&gt;&amp;lt;5MA&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Maksimal strøm&lt;/td&gt;
+ &lt;td&gt;10A&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;RF-frekvens&lt;/td&gt;
+ &lt;td&gt;433MHz&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Arbejdstemperatur&lt;/td&gt;
+ &lt;td&gt;-30~+80&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Modtagelsesfølsomhed&lt;/td&gt;
+ &lt;td&gt;&amp;gt;97dbm&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Antal lagrede fjernbetjeninger&lt;/td&gt;
+ &lt;td&gt;20 stk&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Understøttet kodning&lt;/td&gt;
+ &lt;td&gt;1527 Læringskode, 2262 fast kode&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;RF-driftstilstand&lt;/td&gt;
+ &lt;td&gt;ASK superheterodyn trådløs modtagelse&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Rækkevidde&lt;/td&gt;
+ &lt;td&gt;Åbent område mere end 50 meter&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Fjernbetjeningsdriftstilstand&lt;/td&gt;
+ &lt;td&gt;Momentan tilstand / Skiftetilstand / Låst tilstand&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="produktdetalje"&gt;Produktdetalje&lt;a class="td-heading-self-link" href="#produktdetalje" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/1-0.jpg?v=1778407491" alt="Produktbillede"&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;NO&lt;/strong&gt;: Normalt åben pin&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;COM&lt;/strong&gt;: Fælles pin&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;NC&lt;/strong&gt;: Normalt lukket pin&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="ledningsdiagram"&gt;Ledningsdiagram&lt;a class="td-heading-self-link" href="#ledningsdiagram" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/1-1_bc29d28c-877e-4c9f-b19b-ff2e45e3472b.jpg?v=1778407788" alt="Produktbillede"&gt;&lt;/p&gt;</description></item><item><title>Om denne side</title><link>https://linktrol.com/da/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://linktrol.com/da/about/</guid><description>&lt;p&gt;Dette er &lt;strong&gt;dansk&lt;/strong&gt; indhold for LINKTROL. Nyheder lægges i &lt;code&gt;content/blog/da/news/&lt;/code&gt; med samme struktur som engelsk (&lt;code&gt;content/blog/en/news/&lt;/code&gt;). URL’en har præfikset &lt;strong&gt;&lt;code&gt;/da/&lt;/code&gt;&lt;/strong&gt; (fx &lt;code&gt;/da/news/&lt;/code&gt;).&lt;/p&gt;
+&lt;p&gt;For at knytte samme emne på tværs af sprog, brug samme &lt;strong&gt;&lt;code&gt;translationKey&lt;/code&gt;&lt;/strong&gt; i front matter for hver version.&lt;/p&gt;</description></item><item><title>Søgeresultater</title><link>https://linktrol.com/da/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://linktrol.com/da/search/</guid><description/></item></channel></rss>
