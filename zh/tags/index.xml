@@ -1,1 +1,68 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on DieseRC SWITNEX</title><link>https://www.dieserc.com/zh/tags/</link><description>Recent content in Tags on DieseRC SWITNEX</description><generator>Hugo</generator><language>zh-CN</language><lastBuildDate>Mon, 11 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.dieserc.com/zh/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Australia Compliance</title><link>https://www.dieserc.com/zh/tags/australia-compliance/</link><pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate><guid>https://www.dieserc.com/zh/tags/australia-compliance/</guid><description/></item><item><title>Commercial Retrofit</title><link>https://www.dieserc.com/zh/tags/commercial-retrofit/</link><pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate><guid>https://www.dieserc.com/zh/tags/commercial-retrofit/</guid><description/></item><item><title>Landlord Guide</title><link>https://www.dieserc.com/zh/tags/landlord-guide/</link><pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate><guid>https://www.dieserc.com/zh/tags/landlord-guide/</guid><description/></item><item><title>Maintenance Efficiency</title><link>https://www.dieserc.com/zh/tags/maintenance-efficiency/</link><pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate><guid>https://www.dieserc.com/zh/tags/maintenance-efficiency/</guid><description/></item><item><title>Mesh</title><link>https://www.dieserc.com/zh/tags/mesh/</link><pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate><guid>https://www.dieserc.com/zh/tags/mesh/</guid><description/></item><item><title>Wi-Fi</title><link>https://www.dieserc.com/zh/tags/wi-fi/</link><pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate><guid>https://www.dieserc.com/zh/tags/wi-fi/</guid><description/></item><item><title>Zigbee</title><link>https://www.dieserc.com/zh/tags/zigbee/</link><pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate><guid>https://www.dieserc.com/zh/tags/zigbee/</guid><description/></item><item><title>中继</title><link>https://www.dieserc.com/zh/tags/%E4%B8%AD%E7%BB%A7/</link><pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate><guid>https://www.dieserc.com/zh/tags/%E4%B8%AD%E7%BB%A7/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on DieseRC SWITNEX</title>
+    <link>http://localhost:1313/zh/tags/</link>
+    <description>Recent content in Tags on DieseRC SWITNEX</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 11 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Australia Compliance</title>
+      <link>http://localhost:1313/zh/tags/australia-compliance/</link>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh/tags/australia-compliance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Commercial Retrofit</title>
+      <link>http://localhost:1313/zh/tags/commercial-retrofit/</link>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh/tags/commercial-retrofit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Landlord Guide</title>
+      <link>http://localhost:1313/zh/tags/landlord-guide/</link>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh/tags/landlord-guide/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Maintenance Efficiency</title>
+      <link>http://localhost:1313/zh/tags/maintenance-efficiency/</link>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh/tags/maintenance-efficiency/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mesh</title>
+      <link>http://localhost:1313/zh/tags/mesh/</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh/tags/mesh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wi-Fi</title>
+      <link>http://localhost:1313/zh/tags/wi-fi/</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh/tags/wi-fi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zigbee</title>
+      <link>http://localhost:1313/zh/tags/zigbee/</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh/tags/zigbee/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>中继</title>
+      <link>http://localhost:1313/zh/tags/%E4%B8%AD%E7%BB%A7/</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh/tags/%E4%B8%AD%E7%BB%A7/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
