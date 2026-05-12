@@ -1,40 +1,277 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Suport produs și documentație on DieseRC SWITNEX</title>
-    <link>http://localhost:1313/ro/manuals/</link>
-    <description>Recent content in Suport produs și documentație on DieseRC SWITNEX</description>
-    <generator>Hugo</generator>
-    <language>ro-RO</language>
-    <lastBuildDate>Mon, 11 May 2026 10:00:34 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ro/manuals/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>SWITNEX 2204 Universal Wireless Remote Control Instruction Manual</title>
-      <link>http://localhost:1313/ro/manuals/2026/05/11/switnex-2204-universal-wireless-remote-control-instruction-manual/</link>
-      <pubDate>Mon, 11 May 2026 10:00:34 +0000</pubDate>
-      <guid>http://localhost:1313/ro/manuals/2026/05/11/switnex-2204-universal-wireless-remote-control-instruction-manual/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;manual-de-instrucțiuni-pentru-telecomanda-universală-fără-fir-switnex-2204&#34;&gt;Manual de instrucțiuni pentru telecomanda universală fără fir SWITNEX 2204&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#manual-de-instruc%c8%9biuni-pentru-telecomanda-universal%c4%83-f%c4%83r%c4%83-fir-switnex-2204&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Date tehnice&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Tensiune de lucru&lt;/td&gt;&#xA;          &lt;td&gt;AC 85V~250V&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Tensiune intrare/ieșire&lt;/td&gt;&#xA;          &lt;td&gt;1~250V&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Tip ieșire&lt;/td&gt;&#xA;          &lt;td&gt;Ieșire pasivă&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Curent de repaus&lt;/td&gt;&#xA;          &lt;td&gt;&amp;lt;5MA&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Curent maxim&lt;/td&gt;&#xA;          &lt;td&gt;10A&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Frecvență RF&lt;/td&gt;&#xA;          &lt;td&gt;433MHz&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Temperatură de lucru&lt;/td&gt;&#xA;          &lt;td&gt;-30~+80&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Sensibilitate recepție&lt;/td&gt;&#xA;          &lt;td&gt;&amp;gt;97dbm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Număr telecomenzi stocate&lt;/td&gt;&#xA;          &lt;td&gt;20 bucăți&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Codare suportată&lt;/td&gt;&#xA;          &lt;td&gt;Cod învățare 1527, cod fix 2262&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Mod operare RF&lt;/td&gt;&#xA;          &lt;td&gt;Recepție wireless superheterodină ASK&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Rază de recepție&lt;/td&gt;&#xA;          &lt;td&gt;Spațiu deschis peste 50 de metri&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Mod operare telecomandă&lt;/td&gt;&#xA;          &lt;td&gt;Mod Momentan / Mod Comutare / Mod Blocare&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;detalii-produs&#34;&gt;Detalii produs&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#detalii-produs&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://cdn.shopify.com/s/files/1/0782/0168/4263/files/1-0.jpg?v=1778407491&#34; alt=&#34;Imagine produs&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SWITNEX DC 12V Wireless Relay Remote Control Switch User Manual</title>
-      <link>http://localhost:1313/ro/manuals/2026/05/11/switnex-dc-12v-wireless-relay-remote-control-switch-user-manual/</link>
-      <pubDate>Mon, 11 May 2026 10:00:33 +0000</pubDate>
-      <guid>http://localhost:1313/ro/manuals/2026/05/11/switnex-dc-12v-wireless-relay-remote-control-switch-user-manual/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;manual-de-utilizare-pentru-comutatorul-wireless-cu-releu-switnex-dc-12v&#34;&gt;Manual de utilizare pentru comutatorul wireless cu releu SWITNEX DC 12V&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#manual-de-utilizare-pentru-comutatorul-wireless-cu-releu-switnex-dc-12v&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Date tehnice&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Număr model&lt;/td&gt;&#xA;          &lt;td&gt;1204&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Tensiune intrare/ieșire&lt;/td&gt;&#xA;          &lt;td&gt;1V-250V&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Tensiune de funcționare&lt;/td&gt;&#xA;          &lt;td&gt;DC 12V&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Curent nominal&lt;/td&gt;&#xA;          &lt;td&gt;10 Amperi&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Frecvență RF&lt;/td&gt;&#xA;          &lt;td&gt;433MHz&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Sensibilitate recepție&lt;/td&gt;&#xA;          &lt;td&gt;&amp;gt;97dBm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Cod cip&lt;/td&gt;&#xA;          &lt;td&gt;EV1527 (Cod de învățare)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Rază de acțiune telecomandă&lt;/td&gt;&#xA;          &lt;td&gt;Până la 50 de metri (spațiu deschis)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Număr de relee&lt;/td&gt;&#xA;          &lt;td&gt;4&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Durată de viață releu&lt;/td&gt;&#xA;          &lt;td&gt;Peste 100.000 de utilizări&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Tip conector&lt;/td&gt;&#xA;          &lt;td&gt;Bornă cu șurub&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Material contact&lt;/td&gt;&#xA;          &lt;td&gt;Aliaj de cupru&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Tip contact&lt;/td&gt;&#xA;          &lt;td&gt;Normal închis (NC), Comun (COM), Normal deschis (NO)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Tip montare&lt;/td&gt;&#xA;          &lt;td&gt;Montare pe suprafață&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Dimensiuni produs&lt;/td&gt;&#xA;          &lt;td&gt;2,95 x 2,17 x 1,18 inci&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Greutate produs&lt;/td&gt;&#xA;          &lt;td&gt;5,93 uncii&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Baterii (emițătoare)&lt;/td&gt;&#xA;          &lt;td&gt;2 baterii CR2 (incluse)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;detalii-produs&#34;&gt;Detalii produs&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#detalii-produs&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://cdn.shopify.com/s/files/1/0782/0168/4263/files/2-1.jpg?v=1778408581&#34; alt=&#34;Imagine produs&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SWITNEX Wireless DC Motor Remote Control Switch User Manual</title>
-      <link>http://localhost:1313/ro/manuals/2026/05/11/switnex-wireless-dc-motor-remote-control-switch-user-manual/</link>
-      <pubDate>Mon, 11 May 2026 10:00:32 +0000</pubDate>
-      <guid>http://localhost:1313/ro/manuals/2026/05/11/switnex-wireless-dc-motor-remote-control-switch-user-manual/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;manual-de-utilizare-a-comutatorului-wireless-pentru-motor-dc-switnex&#34;&gt;Manual de utilizare a comutatorului wireless pentru motor DC Switnex&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#manual-de-utilizare-a-comutatorului-wireless-pentru-motor-dc-switnex&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Date tehnice&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Tensiune de intrare&lt;/td&gt;&#xA;          &lt;td&gt;DC 12V-80V&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Sarcină maximă (rezistivă)&lt;/td&gt;&#xA;          &lt;td&gt;10 Amperi&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Sarcină maximă (inductivă)&lt;/td&gt;&#xA;          &lt;td&gt;5 Amperi&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Frecvență&lt;/td&gt;&#xA;          &lt;td&gt;433MHz&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Moduri de operare&lt;/td&gt;&#xA;          &lt;td&gt;Momentan, Comutare, Blocare&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Stocare emițătoare&lt;/td&gt;&#xA;          &lt;td&gt;Până la 20 de emițătoare&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Distanță de control&lt;/td&gt;&#xA;          &lt;td&gt;20-50 metri (spațiu deschis)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Durată de viață releu&lt;/td&gt;&#xA;          &lt;td&gt;&amp;gt;100.000 de ori&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Greutate produs&lt;/td&gt;&#xA;          &lt;td&gt;4,2 uncii&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Dimensiuni pachet&lt;/td&gt;&#xA;          &lt;td&gt;4,02 x 3,74 x 1,57 inci&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Baterii&lt;/td&gt;&#xA;          &lt;td&gt;2 baterii de 12V (incluse)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;detalii-produs&#34;&gt;Detalii produs&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#detalii-produs&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://cdn.shopify.com/s/files/1/0782/0168/4263/articles/13f83954-3ea5-4192-add8-27c2b66f0461.jpg?v=1740662586&#34; alt=&#34;Receptor și două emițătoare&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SWITNEX RF 433MHz Wireless Light Switch System User Manual</title>
-      <link>http://localhost:1313/ro/manuals/2026/05/11/switnex-rf-433mhz-wireless-light-switch-system-user-manual/</link>
-      <pubDate>Mon, 11 May 2026 10:00:30 +0000</pubDate>
-      <guid>http://localhost:1313/ro/manuals/2026/05/11/switnex-rf-433mhz-wireless-light-switch-system-user-manual/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;manual-de-utilizare-a-sistemului-de-comutare-wireless-switnex-rf-433mhz&#34;&gt;Manual de utilizare a sistemului de comutare wireless SWITNEX RF 433MHz&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#manual-de-utilizare-a-sistemului-de-comutare-wireless-switnex-rf-433mhz&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Date tehnice&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Număr model&lt;/td&gt;&#xA;          &lt;td&gt;750828381477&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Dimensiuni produs (comutator)&lt;/td&gt;&#xA;          &lt;td&gt;8,8 x 8,8 x 2,3 cm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Greutate produs (comutator)&lt;/td&gt;&#xA;          &lt;td&gt;60 de grame&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Dimensiuni receptor&lt;/td&gt;&#xA;          &lt;td&gt;4,7 x 4,2 x 2,3 cm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Tensiune de funcționare (receptor)&lt;/td&gt;&#xA;          &lt;td&gt;CA 85V ~ 250V&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Curent nominal (receptor)&lt;/td&gt;&#xA;          &lt;td&gt;10 A&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Frecvență RF&lt;/td&gt;&#xA;          &lt;td&gt;433 MHz&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Cod de învățare&lt;/td&gt;&#xA;          &lt;td&gt;EV1527&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Baterie comutator&lt;/td&gt;&#xA;          &lt;td&gt;1 x 12V 27A (inclusă)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Durată de viață comutator&lt;/td&gt;&#xA;          &lt;td&gt;Peste 500.000 de apăsări&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Durată de viață releu receptor&lt;/td&gt;&#xA;          &lt;td&gt;Peste 400.000 de utilizări&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Material&lt;/td&gt;&#xA;          &lt;td&gt;Plastic&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Tip comutator&lt;/td&gt;&#xA;          &lt;td&gt;Buton de apăsare&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Tip bornă&lt;/td&gt;&#xA;          &lt;td&gt;Șurub&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Țara de origine&lt;/td&gt;&#xA;          &lt;td&gt;China&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;detalii-produs&#34;&gt;Detalii produs&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#detalii-produs&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://cdn.shopify.com/s/files/1/0782/0168/4263/files/3-9.2.jpg?v=1778409859&#34; alt=&#34;Conținutul pachetului&#34;&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Suport produs și documentație on DieseRC SWITNEX</title><link>https://www.dieserc.com/ro/manuals/</link><description>Recent content in Suport produs și documentație on DieseRC SWITNEX</description><generator>Hugo</generator><language>ro-RO</language><lastBuildDate>Mon, 11 May 2026 10:00:34 +0000</lastBuildDate><atom:link href="https://www.dieserc.com/ro/manuals/index.xml" rel="self" type="application/rss+xml"/><item><title>SWITNEX 2204 Universal Wireless Remote Control Instruction Manual</title><link>https://www.dieserc.com/ro/manuals/2026/05/11/switnex-2204-universal-wireless-remote-control-instruction-manual/</link><pubDate>Mon, 11 May 2026 10:00:34 +0000</pubDate><guid>https://www.dieserc.com/ro/manuals/2026/05/11/switnex-2204-universal-wireless-remote-control-instruction-manual/</guid><description>&lt;hr&gt;
+&lt;h1 id="manual-de-instrucțiuni-pentru-telecomanda-universală-fără-fir-switnex-2204"&gt;Manual de instrucțiuni pentru telecomanda universală fără fir SWITNEX 2204&lt;a class="td-heading-self-link" href="#manual-de-instruc%c8%9biuni-pentru-telecomanda-universal%c4%83-f%c4%83r%c4%83-fir-switnex-2204" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Date tehnice&lt;/th&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tensiune de lucru&lt;/td&gt;
+ &lt;td&gt;AC 85V~250V&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tensiune intrare/ieșire&lt;/td&gt;
+ &lt;td&gt;1~250V&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tip ieșire&lt;/td&gt;
+ &lt;td&gt;Ieșire pasivă&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Curent de repaus&lt;/td&gt;
+ &lt;td&gt;&amp;lt;5MA&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Curent maxim&lt;/td&gt;
+ &lt;td&gt;10A&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Frecvență RF&lt;/td&gt;
+ &lt;td&gt;433MHz&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Temperatură de lucru&lt;/td&gt;
+ &lt;td&gt;-30~+80&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Sensibilitate recepție&lt;/td&gt;
+ &lt;td&gt;&amp;gt;97dbm&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Număr telecomenzi stocate&lt;/td&gt;
+ &lt;td&gt;20 bucăți&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Codare suportată&lt;/td&gt;
+ &lt;td&gt;Cod învățare 1527, cod fix 2262&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Mod operare RF&lt;/td&gt;
+ &lt;td&gt;Recepție wireless superheterodină ASK&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Rază de recepție&lt;/td&gt;
+ &lt;td&gt;Spațiu deschis peste 50 de metri&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Mod operare telecomandă&lt;/td&gt;
+ &lt;td&gt;Mod Momentan / Mod Comutare / Mod Blocare&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="detalii-produs"&gt;Detalii produs&lt;a class="td-heading-self-link" href="#detalii-produs" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/1-0.jpg?v=1778407491" alt="Imagine produs"&gt;&lt;/p&gt;</description></item><item><title>SWITNEX DC 12V Wireless Relay Remote Control Switch User Manual</title><link>https://www.dieserc.com/ro/manuals/2026/05/11/switnex-dc-12v-wireless-relay-remote-control-switch-user-manual/</link><pubDate>Mon, 11 May 2026 10:00:33 +0000</pubDate><guid>https://www.dieserc.com/ro/manuals/2026/05/11/switnex-dc-12v-wireless-relay-remote-control-switch-user-manual/</guid><description>&lt;hr&gt;
+&lt;h1 id="manual-de-utilizare-pentru-comutatorul-wireless-cu-releu-switnex-dc-12v"&gt;Manual de utilizare pentru comutatorul wireless cu releu SWITNEX DC 12V&lt;a class="td-heading-self-link" href="#manual-de-utilizare-pentru-comutatorul-wireless-cu-releu-switnex-dc-12v" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Date tehnice&lt;/th&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Număr model&lt;/td&gt;
+ &lt;td&gt;1204&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tensiune intrare/ieșire&lt;/td&gt;
+ &lt;td&gt;1V-250V&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tensiune de funcționare&lt;/td&gt;
+ &lt;td&gt;DC 12V&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Curent nominal&lt;/td&gt;
+ &lt;td&gt;10 Amperi&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Frecvență RF&lt;/td&gt;
+ &lt;td&gt;433MHz&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Sensibilitate recepție&lt;/td&gt;
+ &lt;td&gt;&amp;gt;97dBm&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Cod cip&lt;/td&gt;
+ &lt;td&gt;EV1527 (Cod de învățare)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Rază de acțiune telecomandă&lt;/td&gt;
+ &lt;td&gt;Până la 50 de metri (spațiu deschis)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Număr de relee&lt;/td&gt;
+ &lt;td&gt;4&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Durată de viață releu&lt;/td&gt;
+ &lt;td&gt;Peste 100.000 de utilizări&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tip conector&lt;/td&gt;
+ &lt;td&gt;Bornă cu șurub&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Material contact&lt;/td&gt;
+ &lt;td&gt;Aliaj de cupru&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tip contact&lt;/td&gt;
+ &lt;td&gt;Normal închis (NC), Comun (COM), Normal deschis (NO)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tip montare&lt;/td&gt;
+ &lt;td&gt;Montare pe suprafață&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Dimensiuni produs&lt;/td&gt;
+ &lt;td&gt;2,95 x 2,17 x 1,18 inci&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Greutate produs&lt;/td&gt;
+ &lt;td&gt;5,93 uncii&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Baterii (emițătoare)&lt;/td&gt;
+ &lt;td&gt;2 baterii CR2 (incluse)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="detalii-produs"&gt;Detalii produs&lt;a class="td-heading-self-link" href="#detalii-produs" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/2-1.jpg?v=1778408581" alt="Imagine produs"&gt;&lt;/p&gt;</description></item><item><title>SWITNEX Wireless DC Motor Remote Control Switch User Manual</title><link>https://www.dieserc.com/ro/manuals/2026/05/11/switnex-wireless-dc-motor-remote-control-switch-user-manual/</link><pubDate>Mon, 11 May 2026 10:00:32 +0000</pubDate><guid>https://www.dieserc.com/ro/manuals/2026/05/11/switnex-wireless-dc-motor-remote-control-switch-user-manual/</guid><description>&lt;hr&gt;
+&lt;h1 id="manual-de-utilizare-a-comutatorului-wireless-pentru-motor-dc-switnex"&gt;Manual de utilizare a comutatorului wireless pentru motor DC Switnex&lt;a class="td-heading-self-link" href="#manual-de-utilizare-a-comutatorului-wireless-pentru-motor-dc-switnex" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Date tehnice&lt;/th&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tensiune de intrare&lt;/td&gt;
+ &lt;td&gt;DC 12V-80V&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Sarcină maximă (rezistivă)&lt;/td&gt;
+ &lt;td&gt;10 Amperi&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Sarcină maximă (inductivă)&lt;/td&gt;
+ &lt;td&gt;5 Amperi&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Frecvență&lt;/td&gt;
+ &lt;td&gt;433MHz&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Moduri de operare&lt;/td&gt;
+ &lt;td&gt;Momentan, Comutare, Blocare&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Stocare emițătoare&lt;/td&gt;
+ &lt;td&gt;Până la 20 de emițătoare&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Distanță de control&lt;/td&gt;
+ &lt;td&gt;20-50 metri (spațiu deschis)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Durată de viață releu&lt;/td&gt;
+ &lt;td&gt;&amp;gt;100.000 de ori&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Greutate produs&lt;/td&gt;
+ &lt;td&gt;4,2 uncii&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Dimensiuni pachet&lt;/td&gt;
+ &lt;td&gt;4,02 x 3,74 x 1,57 inci&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Baterii&lt;/td&gt;
+ &lt;td&gt;2 baterii de 12V (incluse)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="detalii-produs"&gt;Detalii produs&lt;a class="td-heading-self-link" href="#detalii-produs" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/articles/13f83954-3ea5-4192-add8-27c2b66f0461.jpg?v=1740662586" alt="Receptor și două emițătoare"&gt;&lt;/p&gt;</description></item><item><title>SWITNEX RF 433MHz Wireless Light Switch System User Manual</title><link>https://www.dieserc.com/ro/manuals/2026/05/11/switnex-rf-433mhz-wireless-light-switch-system-user-manual/</link><pubDate>Mon, 11 May 2026 10:00:30 +0000</pubDate><guid>https://www.dieserc.com/ro/manuals/2026/05/11/switnex-rf-433mhz-wireless-light-switch-system-user-manual/</guid><description>&lt;hr&gt;
+&lt;h1 id="manual-de-utilizare-a-sistemului-de-comutare-wireless-switnex-rf-433mhz"&gt;Manual de utilizare a sistemului de comutare wireless SWITNEX RF 433MHz&lt;a class="td-heading-self-link" href="#manual-de-utilizare-a-sistemului-de-comutare-wireless-switnex-rf-433mhz" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Date tehnice&lt;/th&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Număr model&lt;/td&gt;
+ &lt;td&gt;750828381477&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Dimensiuni produs (comutator)&lt;/td&gt;
+ &lt;td&gt;8,8 x 8,8 x 2,3 cm&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Greutate produs (comutator)&lt;/td&gt;
+ &lt;td&gt;60 de grame&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Dimensiuni receptor&lt;/td&gt;
+ &lt;td&gt;4,7 x 4,2 x 2,3 cm&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tensiune de funcționare (receptor)&lt;/td&gt;
+ &lt;td&gt;CA 85V ~ 250V&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Curent nominal (receptor)&lt;/td&gt;
+ &lt;td&gt;10 A&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Frecvență RF&lt;/td&gt;
+ &lt;td&gt;433 MHz&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Cod de învățare&lt;/td&gt;
+ &lt;td&gt;EV1527&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Baterie comutator&lt;/td&gt;
+ &lt;td&gt;1 x 12V 27A (inclusă)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Durată de viață comutator&lt;/td&gt;
+ &lt;td&gt;Peste 500.000 de apăsări&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Durată de viață releu receptor&lt;/td&gt;
+ &lt;td&gt;Peste 400.000 de utilizări&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Material&lt;/td&gt;
+ &lt;td&gt;Plastic&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tip comutator&lt;/td&gt;
+ &lt;td&gt;Buton de apăsare&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Tip bornă&lt;/td&gt;
+ &lt;td&gt;Șurub&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Țara de origine&lt;/td&gt;
+ &lt;td&gt;China&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="detalii-produs"&gt;Detalii produs&lt;a class="td-heading-self-link" href="#detalii-produs" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/3-9.2.jpg?v=1778409859" alt="Conținutul pachetului"&gt;&lt;/p&gt;</description></item></channel></rss>

@@ -1,54 +1,278 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>LINKTROL on DieseRC SWITNEX</title>
-    <link>http://localhost:1313/ru/</link>
-    <description>Recent content in LINKTROL on DieseRC SWITNEX</description>
-    <generator>Hugo</generator>
-    <language>ru-RU</language>
-    <lastBuildDate>Mon, 11 May 2026 10:00:34 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ru/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>SWITNEX 2204 Universal Wireless Remote Control Instruction Manual</title>
-      <link>http://localhost:1313/ru/manuals/2026/05/11/switnex-2204-universal-wireless-remote-control-instruction-manual/</link>
-      <pubDate>Mon, 11 May 2026 10:00:34 +0000</pubDate>
-      <guid>http://localhost:1313/ru/manuals/2026/05/11/switnex-2204-universal-wireless-remote-control-instruction-manual/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;инструкция-по-эксплуатации-универсального-беспроводного-пульта-управления-switnex-2204&#34;&gt;Инструкция по эксплуатации универсального беспроводного пульта управления SWITNEX 2204&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#%d0%b8%d0%bd%d1%81%d1%82%d1%80%d1%83%d0%ba%d1%86%d0%b8%d1%8f-%d0%bf%d0%be-%d1%8d%d0%ba%d1%81%d0%bf%d0%bb%d1%83%d0%b0%d1%82%d0%b0%d1%86%d0%b8%d0%b8-%d1%83%d0%bd%d0%b8%d0%b2%d0%b5%d1%80%d1%81%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be-%d0%b1%d0%b5%d1%81%d0%bf%d1%80%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d0%b3%d0%be-%d0%bf%d1%83%d0%bb%d1%8c%d1%82%d0%b0-%d1%83%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d1%8f-switnex-2204&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Технические характеристики&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Рабочее напряжение&lt;/td&gt;&#xA;          &lt;td&gt;AC 85В~250В&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Входное/выходное напряжение&lt;/td&gt;&#xA;          &lt;td&gt;1~250В&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Тип выхода&lt;/td&gt;&#xA;          &lt;td&gt;Пассивный выход&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Ток покоя&lt;/td&gt;&#xA;          &lt;td&gt;&amp;lt;5 мА&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Максимальный ток&lt;/td&gt;&#xA;          &lt;td&gt;10 А&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Радиочастота&lt;/td&gt;&#xA;          &lt;td&gt;433 МГц&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Рабочая температура&lt;/td&gt;&#xA;          &lt;td&gt;-30~+80&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Чувствительность приёма&lt;/td&gt;&#xA;          &lt;td&gt;&amp;gt;97 дБм&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Количество запоминаемых пультов&lt;/td&gt;&#xA;          &lt;td&gt;20 шт.&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Поддерживаемое кодирование&lt;/td&gt;&#xA;          &lt;td&gt;1527 обучаемый код, 2262 фиксированный код&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Режим работы RF&lt;/td&gt;&#xA;          &lt;td&gt;ASK супергетеродинный беспроводной приём&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Дальность приёма&lt;/td&gt;&#xA;          &lt;td&gt;На открытом пространстве более 50 метров&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Режим работы пульта&lt;/td&gt;&#xA;          &lt;td&gt;Импульсный / Переключаемый / Фиксированный&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;детали-продукта&#34;&gt;Детали продукта&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#%d0%b4%d0%b5%d1%82%d0%b0%d0%bb%d0%b8-%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%82%d0%b0&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://cdn.shopify.com/s/files/1/0782/0168/4263/files/1-0.jpg?v=1778407491&#34; alt=&#34;Изображение продукта&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SWITNEX DC 12V Wireless Relay Remote Control Switch User Manual</title>
-      <link>http://localhost:1313/ru/manuals/2026/05/11/switnex-dc-12v-wireless-relay-remote-control-switch-user-manual/</link>
-      <pubDate>Mon, 11 May 2026 10:00:33 +0000</pubDate>
-      <guid>http://localhost:1313/ru/manuals/2026/05/11/switnex-dc-12v-wireless-relay-remote-control-switch-user-manual/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;руководство-пользователя-беспроводного-реле-управления-switnex-dc-12v&#34;&gt;Руководство пользователя беспроводного реле управления SWITNEX DC 12V&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#%d1%80%d1%83%d0%ba%d0%be%d0%b2%d0%be%d0%b4%d1%81%d1%82%d0%b2%d0%be-%d0%bf%d0%be%d0%bb%d1%8c%d0%b7%d0%be%d0%b2%d0%b0%d1%82%d0%b5%d0%bb%d1%8f-%d0%b1%d0%b5%d1%81%d0%bf%d1%80%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d0%b3%d0%be-%d1%80%d0%b5%d0%bb%d0%b5-%d1%83%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d1%8f-switnex-dc-12v&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Технические данные&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Номер модели&lt;/td&gt;&#xA;          &lt;td&gt;1204&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Входное / выходное напряжение&lt;/td&gt;&#xA;          &lt;td&gt;1В-250В&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Рабочее напряжение&lt;/td&gt;&#xA;          &lt;td&gt;DC 12V&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Номинальный ток&lt;/td&gt;&#xA;          &lt;td&gt;10 Ампер&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Радиочастота&lt;/td&gt;&#xA;          &lt;td&gt;433 МГц&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Чувствительность приема&lt;/td&gt;&#xA;          &lt;td&gt;&amp;gt;97 дБм&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Код чипа&lt;/td&gt;&#xA;          &lt;td&gt;EV1527 (обучаемый код)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Дальность управления&lt;/td&gt;&#xA;          &lt;td&gt;До 50 метров (открытая местность)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Количество реле&lt;/td&gt;&#xA;          &lt;td&gt;4&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Срок службы реле&lt;/td&gt;&#xA;          &lt;td&gt;Более 100 000 использований&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Тип разъема&lt;/td&gt;&#xA;          &lt;td&gt;Винтовая клемма&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Материал контактов&lt;/td&gt;&#xA;          &lt;td&gt;Медный сплав&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Тип контактов&lt;/td&gt;&#xA;          &lt;td&gt;Нормально замкнутый (NC), Общий (COM), Нормально разомкнутый (NO)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Тип монтажа&lt;/td&gt;&#xA;          &lt;td&gt;Поверхностный монтаж&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Размеры изделия&lt;/td&gt;&#xA;          &lt;td&gt;2,95 x 2,17 x 1,18 дюйма&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Вес изделия&lt;/td&gt;&#xA;          &lt;td&gt;5,93 унции&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Батареи (передатчики)&lt;/td&gt;&#xA;          &lt;td&gt;2 батареи CR2 (входят в комплект)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;описание-изделия&#34;&gt;Описание изделия&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#%d0%be%d0%bf%d0%b8%d1%81%d0%b0%d0%bd%d0%b8%d0%b5-%d0%b8%d0%b7%d0%b4%d0%b5%d0%bb%d0%b8%d1%8f&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://cdn.shopify.com/s/files/1/0782/0168/4263/files/2-1.jpg?v=1778408581&#34; alt=&#34;Изображение изделия&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SWITNEX Wireless DC Motor Remote Control Switch User Manual</title>
-      <link>http://localhost:1313/ru/manuals/2026/05/11/switnex-wireless-dc-motor-remote-control-switch-user-manual/</link>
-      <pubDate>Mon, 11 May 2026 10:00:32 +0000</pubDate>
-      <guid>http://localhost:1313/ru/manuals/2026/05/11/switnex-wireless-dc-motor-remote-control-switch-user-manual/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;руководство-пользователя-беспроводного-выключателя-двигателя-постоянного-тока-switnex&#34;&gt;Руководство пользователя беспроводного выключателя двигателя постоянного тока SWITNEX&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#%d1%80%d1%83%d0%ba%d0%be%d0%b2%d0%be%d0%b4%d1%81%d1%82%d0%b2%d0%be-%d0%bf%d0%be%d0%bb%d1%8c%d0%b7%d0%be%d0%b2%d0%b0%d1%82%d0%b5%d0%bb%d1%8f-%d0%b1%d0%b5%d1%81%d0%bf%d1%80%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d0%b3%d0%be-%d0%b2%d1%8b%d0%ba%d0%bb%d1%8e%d1%87%d0%b0%d1%82%d0%b5%d0%bb%d1%8f-%d0%b4%d0%b2%d0%b8%d0%b3%d0%b0%d1%82%d0%b5%d0%bb%d1%8f-%d0%bf%d0%be%d1%81%d1%82%d0%be%d1%8f%d0%bd%d0%bd%d0%be%d0%b3%d0%be-%d1%82%d0%be%d0%ba%d0%b0-switnex&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Технические характеристики&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Входное напряжение&lt;/td&gt;&#xA;          &lt;td&gt;DC 12В-80В&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Максимальная нагрузка (резистивная)&lt;/td&gt;&#xA;          &lt;td&gt;10 Ампер&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Максимальная нагрузка (индуктивная)&lt;/td&gt;&#xA;          &lt;td&gt;5 Ампер&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Частота&lt;/td&gt;&#xA;          &lt;td&gt;433 МГц&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Режимы работы&lt;/td&gt;&#xA;          &lt;td&gt;Импульсный, Триггерный, Фиксированный&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Память передатчиков&lt;/td&gt;&#xA;          &lt;td&gt;До 20 передатчиков&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Дальность управления&lt;/td&gt;&#xA;          &lt;td&gt;20-50 метров (открытая местность)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Срок службы реле&lt;/td&gt;&#xA;          &lt;td&gt;&amp;gt;100 000 раз&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Вес изделия&lt;/td&gt;&#xA;          &lt;td&gt;4,2 унции&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Размеры упаковки&lt;/td&gt;&#xA;          &lt;td&gt;4,02 x 3,74 x 1,57 дюйма&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Батареи&lt;/td&gt;&#xA;          &lt;td&gt;2 батареи по 12В (входят в комплект)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;описание-изделия&#34;&gt;Описание изделия&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#%d0%be%d0%bf%d0%b8%d1%81%d0%b0%d0%bd%d0%b8%d0%b5-%d0%b8%d0%b7%d0%b4%d0%b5%d0%bb%d0%b8%d1%8f&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://cdn.shopify.com/s/files/1/0782/0168/4263/articles/13f83954-3ea5-4192-add8-27c2b66f0461.jpg?v=1740662586&#34; alt=&#34;Приемник и два передатчика&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SWITNEX RF 433MHz Wireless Light Switch System User Manual</title>
-      <link>http://localhost:1313/ru/manuals/2026/05/11/switnex-rf-433mhz-wireless-light-switch-system-user-manual/</link>
-      <pubDate>Mon, 11 May 2026 10:00:30 +0000</pubDate>
-      <guid>http://localhost:1313/ru/manuals/2026/05/11/switnex-rf-433mhz-wireless-light-switch-system-user-manual/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;switnex-rf-433mhz-беспроводная-система-выключателей-света-руководство-пользователя&#34;&gt;SWITNEX RF 433MHz Беспроводная система выключателей света Руководство пользователя&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#switnex-rf-433mhz-%d0%b1%d0%b5%d1%81%d0%bf%d1%80%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%b0%d1%8f-%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d0%b0-%d0%b2%d1%8b%d0%ba%d0%bb%d1%8e%d1%87%d0%b0%d1%82%d0%b5%d0%bb%d0%b5%d0%b9-%d1%81%d0%b2%d0%b5%d1%82%d0%b0-%d1%80%d1%83%d0%ba%d0%be%d0%b2%d0%be%d0%b4%d1%81%d1%82%d0%b2%d0%be-%d0%bf%d0%be%d0%bb%d1%8c%d0%b7%d0%be%d0%b2%d0%b0%d1%82%d0%b5%d0%bb%d1%8f&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Технические данные&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Модельный номер&lt;/td&gt;&#xA;          &lt;td&gt;750828381477&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Размеры изделия (выключатель)&lt;/td&gt;&#xA;          &lt;td&gt;8,8 x 8,8 x 2,3 см&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Вес изделия (выключатель)&lt;/td&gt;&#xA;          &lt;td&gt;60 грамм&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Размеры приемника&lt;/td&gt;&#xA;          &lt;td&gt;4,7 x 4,2 x 2,3 см&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Рабочее напряжение (приемник)&lt;/td&gt;&#xA;          &lt;td&gt;AC 85В ~ 250В&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Номинальный ток (приемник)&lt;/td&gt;&#xA;          &lt;td&gt;10 А&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Радиочастота&lt;/td&gt;&#xA;          &lt;td&gt;433 МГц&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Код обучения&lt;/td&gt;&#xA;          &lt;td&gt;EV1527&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Батарея выключателя&lt;/td&gt;&#xA;          &lt;td&gt;1 x 12В 27A (входит в комплект)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Срок службы выключателя&lt;/td&gt;&#xA;          &lt;td&gt;Более 500 000 нажатий&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Срок службы реле приемника&lt;/td&gt;&#xA;          &lt;td&gt;Более 400 000 использований&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Материал&lt;/td&gt;&#xA;          &lt;td&gt;Пластик&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Тип выключателя&lt;/td&gt;&#xA;          &lt;td&gt;Кнопочный&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Тип клемм&lt;/td&gt;&#xA;          &lt;td&gt;Винтовой&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Страна происхождения&lt;/td&gt;&#xA;          &lt;td&gt;Китай&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;описание-изделия&#34;&gt;Описание изделия&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#%d0%be%d0%bf%d0%b8%d1%81%d0%b0%d0%bd%d0%b8%d0%b5-%d0%b8%d0%b7%d0%b4%d0%b5%d0%bb%d0%b8%d1%8f&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://cdn.shopify.com/s/files/1/0782/0168/4263/files/3-9.2.jpg?v=1778409859&#34; alt=&#34;Комплект поставки&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>О сайте</title>
-      <link>http://localhost:1313/ru/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/about/</guid>
-      <description>&lt;p&gt;Это &lt;strong&gt;русскоязычный&lt;/strong&gt; контент LINKTROL. Новости размещаются в &lt;code&gt;content/blog/ru/news/&lt;/code&gt; по той же схеме, что и английские в &lt;code&gt;content/blog/en/news/&lt;/code&gt;. Префикс URL — &lt;strong&gt;&lt;code&gt;/ru/&lt;/code&gt;&lt;/strong&gt; (например &lt;code&gt;/ru/news/&lt;/code&gt;).&lt;/p&gt;&#xA;&lt;p&gt;Чтобы связать одну тему между языками, укажите одинаковый &lt;strong&gt;&lt;code&gt;translationKey&lt;/code&gt;&lt;/strong&gt; в front matter каждой версии.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Результаты поиска</title>
-      <link>http://localhost:1313/ru/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/search/</guid>
-      <description></description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>LINKTROL on DieseRC SWITNEX</title><link>https://www.dieserc.com/ru/</link><description>Recent content in LINKTROL on DieseRC SWITNEX</description><generator>Hugo</generator><language>ru-RU</language><lastBuildDate>Mon, 11 May 2026 10:00:34 +0000</lastBuildDate><atom:link href="https://www.dieserc.com/ru/index.xml" rel="self" type="application/rss+xml"/><item><title>SWITNEX 2204 Universal Wireless Remote Control Instruction Manual</title><link>https://www.dieserc.com/ru/manuals/2026/05/11/switnex-2204-universal-wireless-remote-control-instruction-manual/</link><pubDate>Mon, 11 May 2026 10:00:34 +0000</pubDate><guid>https://www.dieserc.com/ru/manuals/2026/05/11/switnex-2204-universal-wireless-remote-control-instruction-manual/</guid><description>&lt;hr&gt;
+&lt;h1 id="инструкция-по-эксплуатации-универсального-беспроводного-пульта-управления-switnex-2204"&gt;Инструкция по эксплуатации универсального беспроводного пульта управления SWITNEX 2204&lt;a class="td-heading-self-link" href="#%d0%b8%d0%bd%d1%81%d1%82%d1%80%d1%83%d0%ba%d1%86%d0%b8%d1%8f-%d0%bf%d0%be-%d1%8d%d0%ba%d1%81%d0%bf%d0%bb%d1%83%d0%b0%d1%82%d0%b0%d1%86%d0%b8%d0%b8-%d1%83%d0%bd%d0%b8%d0%b2%d0%b5%d1%80%d1%81%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be-%d0%b1%d0%b5%d1%81%d0%bf%d1%80%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d0%b3%d0%be-%d0%bf%d1%83%d0%bb%d1%8c%d1%82%d0%b0-%d1%83%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d1%8f-switnex-2204" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Технические характеристики&lt;/th&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Рабочее напряжение&lt;/td&gt;
+ &lt;td&gt;AC 85В~250В&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Входное/выходное напряжение&lt;/td&gt;
+ &lt;td&gt;1~250В&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Тип выхода&lt;/td&gt;
+ &lt;td&gt;Пассивный выход&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Ток покоя&lt;/td&gt;
+ &lt;td&gt;&amp;lt;5 мА&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Максимальный ток&lt;/td&gt;
+ &lt;td&gt;10 А&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Радиочастота&lt;/td&gt;
+ &lt;td&gt;433 МГц&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Рабочая температура&lt;/td&gt;
+ &lt;td&gt;-30~+80&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Чувствительность приёма&lt;/td&gt;
+ &lt;td&gt;&amp;gt;97 дБм&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Количество запоминаемых пультов&lt;/td&gt;
+ &lt;td&gt;20 шт.&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Поддерживаемое кодирование&lt;/td&gt;
+ &lt;td&gt;1527 обучаемый код, 2262 фиксированный код&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Режим работы RF&lt;/td&gt;
+ &lt;td&gt;ASK супергетеродинный беспроводной приём&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Дальность приёма&lt;/td&gt;
+ &lt;td&gt;На открытом пространстве более 50 метров&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Режим работы пульта&lt;/td&gt;
+ &lt;td&gt;Импульсный / Переключаемый / Фиксированный&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="детали-продукта"&gt;Детали продукта&lt;a class="td-heading-self-link" href="#%d0%b4%d0%b5%d1%82%d0%b0%d0%bb%d0%b8-%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%82%d0%b0" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/1-0.jpg?v=1778407491" alt="Изображение продукта"&gt;&lt;/p&gt;</description></item><item><title>SWITNEX DC 12V Wireless Relay Remote Control Switch User Manual</title><link>https://www.dieserc.com/ru/manuals/2026/05/11/switnex-dc-12v-wireless-relay-remote-control-switch-user-manual/</link><pubDate>Mon, 11 May 2026 10:00:33 +0000</pubDate><guid>https://www.dieserc.com/ru/manuals/2026/05/11/switnex-dc-12v-wireless-relay-remote-control-switch-user-manual/</guid><description>&lt;hr&gt;
+&lt;h1 id="руководство-пользователя-беспроводного-реле-управления-switnex-dc-12v"&gt;Руководство пользователя беспроводного реле управления SWITNEX DC 12V&lt;a class="td-heading-self-link" href="#%d1%80%d1%83%d0%ba%d0%be%d0%b2%d0%be%d0%b4%d1%81%d1%82%d0%b2%d0%be-%d0%bf%d0%be%d0%bb%d1%8c%d0%b7%d0%be%d0%b2%d0%b0%d1%82%d0%b5%d0%bb%d1%8f-%d0%b1%d0%b5%d1%81%d0%bf%d1%80%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d0%b3%d0%be-%d1%80%d0%b5%d0%bb%d0%b5-%d1%83%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d1%8f-switnex-dc-12v" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Технические данные&lt;/th&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Номер модели&lt;/td&gt;
+ &lt;td&gt;1204&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Входное / выходное напряжение&lt;/td&gt;
+ &lt;td&gt;1В-250В&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Рабочее напряжение&lt;/td&gt;
+ &lt;td&gt;DC 12V&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Номинальный ток&lt;/td&gt;
+ &lt;td&gt;10 Ампер&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Радиочастота&lt;/td&gt;
+ &lt;td&gt;433 МГц&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Чувствительность приема&lt;/td&gt;
+ &lt;td&gt;&amp;gt;97 дБм&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Код чипа&lt;/td&gt;
+ &lt;td&gt;EV1527 (обучаемый код)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Дальность управления&lt;/td&gt;
+ &lt;td&gt;До 50 метров (открытая местность)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Количество реле&lt;/td&gt;
+ &lt;td&gt;4&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Срок службы реле&lt;/td&gt;
+ &lt;td&gt;Более 100 000 использований&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Тип разъема&lt;/td&gt;
+ &lt;td&gt;Винтовая клемма&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Материал контактов&lt;/td&gt;
+ &lt;td&gt;Медный сплав&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Тип контактов&lt;/td&gt;
+ &lt;td&gt;Нормально замкнутый (NC), Общий (COM), Нормально разомкнутый (NO)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Тип монтажа&lt;/td&gt;
+ &lt;td&gt;Поверхностный монтаж&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Размеры изделия&lt;/td&gt;
+ &lt;td&gt;2,95 x 2,17 x 1,18 дюйма&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Вес изделия&lt;/td&gt;
+ &lt;td&gt;5,93 унции&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Батареи (передатчики)&lt;/td&gt;
+ &lt;td&gt;2 батареи CR2 (входят в комплект)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="описание-изделия"&gt;Описание изделия&lt;a class="td-heading-self-link" href="#%d0%be%d0%bf%d0%b8%d1%81%d0%b0%d0%bd%d0%b8%d0%b5-%d0%b8%d0%b7%d0%b4%d0%b5%d0%bb%d0%b8%d1%8f" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/2-1.jpg?v=1778408581" alt="Изображение изделия"&gt;&lt;/p&gt;</description></item><item><title>SWITNEX Wireless DC Motor Remote Control Switch User Manual</title><link>https://www.dieserc.com/ru/manuals/2026/05/11/switnex-wireless-dc-motor-remote-control-switch-user-manual/</link><pubDate>Mon, 11 May 2026 10:00:32 +0000</pubDate><guid>https://www.dieserc.com/ru/manuals/2026/05/11/switnex-wireless-dc-motor-remote-control-switch-user-manual/</guid><description>&lt;hr&gt;
+&lt;h1 id="руководство-пользователя-беспроводного-выключателя-двигателя-постоянного-тока-switnex"&gt;Руководство пользователя беспроводного выключателя двигателя постоянного тока SWITNEX&lt;a class="td-heading-self-link" href="#%d1%80%d1%83%d0%ba%d0%be%d0%b2%d0%be%d0%b4%d1%81%d1%82%d0%b2%d0%be-%d0%bf%d0%be%d0%bb%d1%8c%d0%b7%d0%be%d0%b2%d0%b0%d1%82%d0%b5%d0%bb%d1%8f-%d0%b1%d0%b5%d1%81%d0%bf%d1%80%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%be%d0%b3%d0%be-%d0%b2%d1%8b%d0%ba%d0%bb%d1%8e%d1%87%d0%b0%d1%82%d0%b5%d0%bb%d1%8f-%d0%b4%d0%b2%d0%b8%d0%b3%d0%b0%d1%82%d0%b5%d0%bb%d1%8f-%d0%bf%d0%be%d1%81%d1%82%d0%be%d1%8f%d0%bd%d0%bd%d0%be%d0%b3%d0%be-%d1%82%d0%be%d0%ba%d0%b0-switnex" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Технические характеристики&lt;/th&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Входное напряжение&lt;/td&gt;
+ &lt;td&gt;DC 12В-80В&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Максимальная нагрузка (резистивная)&lt;/td&gt;
+ &lt;td&gt;10 Ампер&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Максимальная нагрузка (индуктивная)&lt;/td&gt;
+ &lt;td&gt;5 Ампер&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Частота&lt;/td&gt;
+ &lt;td&gt;433 МГц&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Режимы работы&lt;/td&gt;
+ &lt;td&gt;Импульсный, Триггерный, Фиксированный&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Память передатчиков&lt;/td&gt;
+ &lt;td&gt;До 20 передатчиков&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Дальность управления&lt;/td&gt;
+ &lt;td&gt;20-50 метров (открытая местность)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Срок службы реле&lt;/td&gt;
+ &lt;td&gt;&amp;gt;100 000 раз&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Вес изделия&lt;/td&gt;
+ &lt;td&gt;4,2 унции&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Размеры упаковки&lt;/td&gt;
+ &lt;td&gt;4,02 x 3,74 x 1,57 дюйма&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Батареи&lt;/td&gt;
+ &lt;td&gt;2 батареи по 12В (входят в комплект)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="описание-изделия"&gt;Описание изделия&lt;a class="td-heading-self-link" href="#%d0%be%d0%bf%d0%b8%d1%81%d0%b0%d0%bd%d0%b8%d0%b5-%d0%b8%d0%b7%d0%b4%d0%b5%d0%bb%d0%b8%d1%8f" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/articles/13f83954-3ea5-4192-add8-27c2b66f0461.jpg?v=1740662586" alt="Приемник и два передатчика"&gt;&lt;/p&gt;</description></item><item><title>SWITNEX RF 433MHz Wireless Light Switch System User Manual</title><link>https://www.dieserc.com/ru/manuals/2026/05/11/switnex-rf-433mhz-wireless-light-switch-system-user-manual/</link><pubDate>Mon, 11 May 2026 10:00:30 +0000</pubDate><guid>https://www.dieserc.com/ru/manuals/2026/05/11/switnex-rf-433mhz-wireless-light-switch-system-user-manual/</guid><description>&lt;hr&gt;
+&lt;h1 id="switnex-rf-433mhz-беспроводная-система-выключателей-света-руководство-пользователя"&gt;SWITNEX RF 433MHz Беспроводная система выключателей света Руководство пользователя&lt;a class="td-heading-self-link" href="#switnex-rf-433mhz-%d0%b1%d0%b5%d1%81%d0%bf%d1%80%d0%be%d0%b2%d0%be%d0%b4%d0%bd%d0%b0%d1%8f-%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d0%b0-%d0%b2%d1%8b%d0%ba%d0%bb%d1%8e%d1%87%d0%b0%d1%82%d0%b5%d0%bb%d0%b5%d0%b9-%d1%81%d0%b2%d0%b5%d1%82%d0%b0-%d1%80%d1%83%d0%ba%d0%be%d0%b2%d0%be%d0%b4%d1%81%d1%82%d0%b2%d0%be-%d0%bf%d0%be%d0%bb%d1%8c%d0%b7%d0%be%d0%b2%d0%b0%d1%82%d0%b5%d0%bb%d1%8f" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Технические данные&lt;/th&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Модельный номер&lt;/td&gt;
+ &lt;td&gt;750828381477&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Размеры изделия (выключатель)&lt;/td&gt;
+ &lt;td&gt;8,8 x 8,8 x 2,3 см&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Вес изделия (выключатель)&lt;/td&gt;
+ &lt;td&gt;60 грамм&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Размеры приемника&lt;/td&gt;
+ &lt;td&gt;4,7 x 4,2 x 2,3 см&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Рабочее напряжение (приемник)&lt;/td&gt;
+ &lt;td&gt;AC 85В ~ 250В&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Номинальный ток (приемник)&lt;/td&gt;
+ &lt;td&gt;10 А&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Радиочастота&lt;/td&gt;
+ &lt;td&gt;433 МГц&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Код обучения&lt;/td&gt;
+ &lt;td&gt;EV1527&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Батарея выключателя&lt;/td&gt;
+ &lt;td&gt;1 x 12В 27A (входит в комплект)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Срок службы выключателя&lt;/td&gt;
+ &lt;td&gt;Более 500 000 нажатий&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Срок службы реле приемника&lt;/td&gt;
+ &lt;td&gt;Более 400 000 использований&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Материал&lt;/td&gt;
+ &lt;td&gt;Пластик&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Тип выключателя&lt;/td&gt;
+ &lt;td&gt;Кнопочный&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Тип клемм&lt;/td&gt;
+ &lt;td&gt;Винтовой&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Страна происхождения&lt;/td&gt;
+ &lt;td&gt;Китай&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="описание-изделия"&gt;Описание изделия&lt;a class="td-heading-self-link" href="#%d0%be%d0%bf%d0%b8%d1%81%d0%b0%d0%bd%d0%b8%d0%b5-%d0%b8%d0%b7%d0%b4%d0%b5%d0%bb%d0%b8%d1%8f" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/3-9.2.jpg?v=1778409859" alt="Комплект поставки"&gt;&lt;/p&gt;</description></item><item><title>О сайте</title><link>https://www.dieserc.com/ru/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.dieserc.com/ru/about/</guid><description>&lt;p&gt;Это &lt;strong&gt;русскоязычный&lt;/strong&gt; контент LINKTROL. Новости размещаются в &lt;code&gt;content/blog/ru/news/&lt;/code&gt; по той же схеме, что и английские в &lt;code&gt;content/blog/en/news/&lt;/code&gt;. Префикс URL — &lt;strong&gt;&lt;code&gt;/ru/&lt;/code&gt;&lt;/strong&gt; (например &lt;code&gt;/ru/news/&lt;/code&gt;).&lt;/p&gt;
+&lt;p&gt;Чтобы связать одну тему между языками, укажите одинаковый &lt;strong&gt;&lt;code&gt;translationKey&lt;/code&gt;&lt;/strong&gt; в front matter каждой версии.&lt;/p&gt;</description></item><item><title>Результаты поиска</title><link>https://www.dieserc.com/ru/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.dieserc.com/ru/search/</guid><description/></item></channel></rss>
