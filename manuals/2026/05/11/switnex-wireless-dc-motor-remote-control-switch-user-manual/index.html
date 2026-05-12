@@ -699,6 +699,57 @@ Refer to the product packaging or the retailer’s website for customer support 
     </a>
   </div>
 </nav>
+<button type="button"
+  id="linktrol-back-to-top"
+  class="linktrol-back-to-top d-print-none"
+  aria-label="Back to top"
+  title="Back to top"
+  tabindex="-1"
+  aria-hidden="true">
+  <i class="fa-solid fa-arrow-up" aria-hidden="true"></i>
+</button>
+<script>
+(function () {
+  var btn = document.getElementById('linktrol-back-to-top');
+  if (!btn) return;
+  var mq = window.matchMedia('(max-width: 767.98px)');
+  var threshold = 280;
+  var ticking = false;
+  function sync() {
+    ticking = false;
+    if (!mq.matches) {
+      btn.classList.remove('is-visible');
+      btn.setAttribute('aria-hidden', 'true');
+      btn.tabIndex = -1;
+      return;
+    }
+    var y = window.scrollY || document.documentElement.scrollTop;
+    if (y > threshold) {
+      btn.classList.add('is-visible');
+      btn.removeAttribute('aria-hidden');
+      btn.tabIndex = 0;
+    } else {
+      btn.classList.remove('is-visible');
+      btn.setAttribute('aria-hidden', 'true');
+      btn.tabIndex = -1;
+    }
+  }
+  function onScroll() {
+    if (ticking) return;
+    ticking = true;
+    requestAnimationFrame(sync);
+  }
+  btn.addEventListener('click', function () {
+    var reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    window.scrollTo({ top: 0, behavior: reduce ? 'auto' : 'smooth' });
+  });
+  if (mq.addEventListener) mq.addEventListener('change', sync);
+  else mq.addListener(sync);
+  window.addEventListener('scroll', onScroll, { passive: true });
+  window.addEventListener('resize', onScroll, { passive: true });
+  sync();
+})();
+</script>
 
     </div>
     <script src="/js/main.js"></script>

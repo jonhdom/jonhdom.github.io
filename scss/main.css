@@ -21024,6 +21024,55 @@ https://www.docsy.dev/docs/content/lookandfeel/#project-style-files
         color: #cbd5e1 !important; }
       [data-bs-theme="dark"] .linktrol-mobile-footer.linktrol-contact-rail .linktrol-mobile-footer__btn--shop i {
         color: #93c5fd !important; } }
+[data-bs-theme="dark"] .linktrol-back-to-top {
+  background: #2563eb;
+  box-shadow: 0 0.35rem 1.1rem rgba(0, 0, 0, 0.35); }
+
+.linktrol-back-to-top {
+  position: fixed;
+  z-index: 1030;
+  align-items: center;
+  justify-content: center;
+  width: 2.75rem;
+  height: 2.75rem;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  border-radius: 50%;
+  background: #1677ff;
+  color: #fff;
+  box-shadow: 0 0.25rem 1rem rgba(15, 23, 42, 0.22);
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent; }
+  .linktrol-back-to-top i {
+    font-size: 1.1rem;
+    line-height: 1; }
+  .linktrol-back-to-top:focus-visible {
+    outline: 2px solid #fff;
+    outline-offset: 2px; }
+  @media (max-width: 767.98px) {
+    .linktrol-back-to-top {
+      display: flex;
+      left: auto;
+      right: max(0.65rem, env(safe-area-inset-right));
+      bottom: calc(3.35rem + env(safe-area-inset-bottom) + 0.65rem);
+      transform: translateY(0.35rem);
+      opacity: 0;
+      visibility: hidden;
+      pointer-events: none;
+      transition: opacity 0.2s ease, visibility 0.2s ease, transform 0.2s ease; }
+      .linktrol-back-to-top.is-visible {
+        opacity: 1;
+        visibility: visible;
+        pointer-events: auto;
+        transform: translateY(0); } }
+  @media (max-width: 767.98px) {
+    [dir="rtl"] .linktrol-back-to-top {
+      right: auto;
+      left: max(0.65rem, env(safe-area-inset-left)); } }
+  @media (min-width: 768px) {
+    .linktrol-back-to-top {
+      display: none !important; } }
 .about-linktrol {
   --about-accent: #3b82f6;
   --about-accent-deep: #2563eb; }
