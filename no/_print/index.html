@@ -431,16 +431,23 @@
        
       .tg-hero {
         position:relative; min-height:calc(100vh - 64px); width:100vw; margin-left:calc(50% - 50vw);
-        background:#0a1628 url('/images/hero-home-banner.png') center center / cover no-repeat;
+        background:#0a1628 url('/images/hero-home-banner.jpg') center center / cover no-repeat;
         overflow:hidden;
       }
       .tg-hero::before {
         content:""; position:absolute; inset:0; pointer-events:none;
-        background:linear-gradient(105deg,rgba(8,47,73,.92) 0%,rgba(22,119,255,.52) 42%,rgba(10,22,40,.45) 100%);
+         
+        background:linear-gradient(
+          105deg,
+          rgba(8,47,73,.72) 0%,
+          rgba(22,119,255,.34) 42%,
+          rgba(10,22,40,.2) 78%,
+          rgba(10,22,40,.1) 100%
+        );
       }
       .tg-hero::after {
         content:""; position:absolute; inset:0; pointer-events:none;
-        background:radial-gradient(ellipse 90% 80% at 70% 30%,transparent 0%,rgba(8,47,73,.35) 100%);
+        background:radial-gradient(ellipse 90% 80% at 70% 28%,transparent 0%,rgba(8,47,73,.14) 100%);
       }
       .tg-hero-grid {
         position:relative; z-index:1; max-width:1200px; margin:0 auto; padding:56px 24px 48px;
@@ -505,14 +512,265 @@
       .tg-feature-text p { margin:0 0 16px; color:var(--muted); line-height:1.65; font-size:15px; }
       .tg-feature-text ul { margin:0; padding-left:20px; color:var(--muted); font-size:15px; line-height:1.7; }
       .tg-feature-media img { width:100%; border-radius:8px; border:1px solid var(--line); }
+
+       
+      .tg-product-showcase-section {
+        background:linear-gradient(180deg,#f8fbff 0%,#fff 55%);
+        border-top:1px solid rgba(22,119,255,.1);
+        padding-top:56px;
+        padding-bottom:56px;
+      }
+      .tg-product-showcase-section__head .tg-ps-title {
+        font-size:clamp(1.25rem,2.4vw,1.65rem);
+        font-weight:800;
+        letter-spacing:.08em;
+        text-transform:uppercase;
+        color:var(--ink);
+      }
+      .tg-ps-grid {
+        display:grid;
+         
+        grid-template-columns:minmax(0,1fr) minmax(0,1fr);
+        gap:28px 36px;
+        align-items:start;
+      }
+      .tg-ps-photos {
+        min-width:0;
+        width:100%;
+      }
+      .tg-ps-photos__grid {
+        display:grid;
+        grid-template-columns:repeat(2,minmax(0,1fr));
+        row-gap:12px;
+        column-gap:12px;
+        min-width:0;
+      }
+      .tg-ps-photo {
+        position:relative;
+        display:block;
+        aspect-ratio:1/1;
+        border-radius:0;
+        overflow:hidden;
+        border:1px solid var(--line);
+        background:#e2e8f0;
+        box-shadow:0 6px 20px rgba(15,23,42,.1);
+        transition:transform .2s ease, box-shadow .2s ease;
+      }
+      .tg-ps-photo:hover {
+        transform:translateY(-2px);
+        box-shadow:0 12px 28px rgba(22,119,255,.18);
+      }
+      .tg-ps-photo:focus-visible { outline:2px solid var(--blue); outline-offset:3px; }
+      .tg-ps-photo img {
+        position:absolute;
+        inset:0;
+        width:100%;
+        height:100%;
+        object-fit:cover;
+        object-position:center center;
+        display:block;
+        border-radius:0;
+      }
+      .tg-ps-visual {
+        min-width:0;
+        width:100%;
+        display:flex;
+        align-items:flex-start;
+        justify-content:center;
+      }
+      .tg-ps-visual__frame {
+        position:relative;
+        display:flex;
+        align-items:center;
+        justify-content:center;
+        box-sizing:border-box;
+        width:100%;
+        aspect-ratio:1/1;
+        border-radius:0;
+        overflow:hidden;
+        border:1px solid var(--line);
+        background:#f1f5f9;
+        box-shadow:0 10px 32px rgba(15,23,42,.1);
+        transition:transform .2s ease, box-shadow .2s ease;
+      }
+      .tg-ps-visual__frame--hero {
+        margin-inline:0;
+      }
+      .tg-ps-visual__frame:hover {
+        transform:translateY(-2px);
+        box-shadow:0 14px 36px rgba(22,119,255,.15);
+      }
+      .tg-ps-visual__frame:focus-visible { outline:2px solid var(--blue); outline-offset:3px; }
+      .tg-ps-visual__img {
+        max-width:100%;
+        max-height:100%;
+        width:auto;
+        height:auto;
+        object-fit:contain;
+        object-position:center center;
+        display:block;
+        border-radius:0;
+      }
+
+       
+      .tg-product-lineup-section {
+        padding-top:48px;
+        padding-bottom:64px;
+        background:var(--white);
+        border-top:1px solid rgba(22,119,255,.1);
+      }
+      .tg-product-lineup-section__head .tg-pl-title {
+        font-size:clamp(1.2rem,2.2vw,1.5rem);
+        font-weight:800;
+        letter-spacing:.06em;
+        text-transform:uppercase;
+        color:var(--ink);
+      }
+      .tg-pl-grid {
+        display:grid;
+        grid-template-columns:repeat(3,minmax(0,1fr));
+        gap:24px;
+        align-items:stretch;
+      }
+      .tg-pl-card {
+        min-width:0;
+        background:var(--white);
+        border:1px solid var(--line);
+        border-radius:8px;
+        overflow:hidden;
+        box-shadow:0 2px 10px rgba(15,23,42,.06);
+        transition:box-shadow .2s ease, border-color .2s ease, transform .2s ease;
+      }
+      .tg-pl-card:hover {
+        box-shadow:0 10px 28px rgba(22,119,255,.14);
+        border-color:var(--blue-border);
+        transform:translateY(-2px);
+      }
+      .tg-pl-card__link {
+        display:flex;
+        flex-direction:column;
+        height:100%;
+        text-decoration:none;
+        color:inherit;
+      }
+      .tg-pl-card__link:focus-visible {
+        outline:2px solid var(--blue);
+        outline-offset:3px;
+      }
+      .tg-pl-card__media {
+        position:relative;
+        aspect-ratio:4/3;
+        background:#e2e8f0;
+        overflow:hidden;
+      }
+      .tg-pl-card__media img {
+        position:absolute;
+        inset:0;
+        width:100%;
+        height:100%;
+        object-fit:cover;
+        object-position:center center;
+        display:block;
+      }
+      .tg-pl-card__body {
+        display:flex;
+        flex-direction:column;
+        flex:1;
+        padding:20px 22px 22px;
+      }
+      .tg-pl-card__title {
+        margin:0 0 10px;
+        font-size:17px;
+        font-weight:700;
+        line-height:1.35;
+        color:var(--ink);
+      }
+      .tg-pl-card__text {
+        margin:0;
+        font-size:14px;
+        line-height:1.65;
+        color:var(--muted);
+        flex:1;
+        display:-webkit-box;
+        -webkit-box-orient:vertical;
+        -webkit-line-clamp:3;
+        overflow:hidden;
+      }
+      .tg-pl-card__cta {
+        margin-top:16px;
+        font-size:14px;
+        font-weight:600;
+        color:var(--blue);
+      }
+      .tg-pl-card__link:hover .tg-pl-card__cta {
+        color:var(--blue-dark);
+        text-decoration:underline;
+        text-underline-offset:3px;
+      }
+
       .tg-physical-docs {
         display:grid; grid-template-columns:minmax(0,1.05fr) minmax(0,0.95fr); gap:28px 36px; align-items:start;
-        background:var(--white); border:1px solid var(--line); border-radius:8px; padding:28px 32px;
-        box-shadow:0 4px 16px rgba(0,0,0,.04);
+        background:transparent; border:none; border-radius:0; padding:28px 0;
+        box-shadow:none;
       }
       .tg-physical-docs__manuals { min-width:0; }
       .tg-physical-docs__copy { min-width:0; }
       .tg-physical-docs__copy .tg-feature-list--physical { margin-top:0; }
+      .tg-physical-docs--with-video {
+        grid-template-columns:minmax(0,1.35fr) minmax(280px,360px);
+        gap:28px 32px;
+        align-items:stretch;
+      }
+      .tg-physical-docs__main {
+        display:flex;
+        flex-direction:column;
+        gap:22px;
+        min-width:0;
+        min-height:0;
+        height:100%;
+      }
+      .tg-physical-docs--with-video .tg-physical-docs__manuals {
+        flex:1;
+        min-height:0;
+        display:flex;
+        flex-direction:column;
+      }
+      .tg-physical-docs--with-video .tg-physical-docs__copy {
+        flex-shrink:0;
+      }
+      .tg-physical-docs__video {
+        min-width:0;
+        display:flex;
+        flex-direction:column;
+        align-items:center;
+        justify-content:center;
+        align-self:stretch;
+        padding:0;
+        background:transparent;
+        border:none;
+        border-radius:0;
+      }
+      .tg-physical-docs__video .tg-short-stage { width:100%; align-items:center; flex:1; justify-content:center; min-height:0; }
+      .tg-physical-docs--with-video .tg-physical-docs__manuals .tg-doc-archive {
+        flex:1;
+        min-height:0;
+        display:flex;
+        flex-direction:column;
+      }
+      .tg-physical-docs--with-video .tg-doc-archive__head { flex-shrink:0; }
+      .tg-physical-docs--with-video .tg-physical-docs__manuals .tg-doc-archive__grid {
+        flex:1;
+        min-height:0;
+        display:grid;
+        grid-template-columns:repeat(4,minmax(0,1fr));
+        grid-template-rows:repeat(2,minmax(0,1fr));
+        gap:10px 12px;
+        align-content:stretch;
+      }
+      .tg-physical-docs--with-video .tg-doc-card {
+        height:100%;
+        min-height:0;
+      }
       .tg-doc-archive { width:100%; }
       .tg-doc-archive__head {
         display:flex; flex-wrap:wrap; align-items:baseline; justify-content:space-between; gap:8px 16px; margin-bottom:14px;
@@ -542,6 +800,13 @@
         border:1px solid rgba(22,119,255,.12); box-shadow:0 2px 8px rgba(15,23,42,.06);
       }
       .tg-doc-card__thumb img { width:100%; height:100%; object-fit:cover; display:block; }
+      .tg-physical-docs--with-video .tg-doc-card__thumb {
+        flex:1;
+        min-height:0;
+        aspect-ratio:1/1;
+        max-height:100%;
+        width:100%;
+      }
       .tg-doc-card__thumb-ph {
         display:grid; place-items:center; width:100%; height:100%; min-height:100px; color:var(--muted2); font-size:1.5rem;
       }
@@ -585,24 +850,6 @@
       .tg-video { position:relative; border-radius:8px; overflow:hidden; border:1px solid var(--line); box-shadow:0 4px 16px rgba(0,0,0,.06); }
       .tg-video img { width:100%; display:block; }
        
-      .tg-section--shorts {
-        background:linear-gradient(135deg,#f0f7ff 0%,#e6f4ff 45%,#fafafa 100%);
-        border-top:1px solid rgba(22,119,255,.12);
-        border-bottom:1px solid rgba(22,119,255,.08);
-      }
-      .tg-short-layout {
-        display:grid;
-        grid-template-columns:minmax(260px,1fr) minmax(240px,340px);
-        gap:40px 48px;
-        align-items:center;
-      }
-      .tg-short-copy .tg-section-head { text-align:left; margin:0 0 20px; max-width:none; }
-      .tg-short-copy .tg-section-head h2 { font-size:clamp(24px,3vw,34px); }
-      .tg-short-badges { display:flex; flex-wrap:wrap; gap:8px; margin-top:16px; }
-      .tg-short-badge {
-        font-size:13px; font-weight:600; color:var(--blue-dark); background:rgba(22,119,255,.1);
-        border:1px solid rgba(22,119,255,.22); border-radius:999px; padding:6px 12px;
-      }
       .tg-short-stage { display:flex; flex-direction:column; align-items:center; justify-content:center; }
       .tg-phone-frame {
         position:relative;
@@ -703,22 +950,18 @@
       .tg-cta .tg-btn-outline:hover { background:rgba(255,255,255,.12); color:var(--white); border-color:var(--white); }
 
       @media (min-width: 1025px) {
-        .tg-physical-docs__copy { align-self:center; }
+        .tg-physical-docs:not(.tg-physical-docs--with-video) .tg-physical-docs__copy { align-self:center; }
       }
 
       @media (max-width: 1024px) {
         .tg-hero-grid { min-height:auto; padding-bottom:40px; }
         .tg-stats-inner { grid-template-columns:repeat(2,1fr); }
-        .tg-cards, .tg-matrix { grid-template-columns:1fr; }
+        .tg-cards, .tg-matrix, .tg-pl-grid { grid-template-columns:1fr; }
         .tg-feature, .tg-b2b, .tg-physical-docs { grid-template-columns:1fr; }
+        .tg-ps-grid { grid-template-columns:1fr; gap:24px; }
+        .tg-ps-visual { order:-1; }
         .tg-band-grid { grid-template-columns:repeat(2,1fr); }
-        .tg-short-layout {
-          grid-template-columns:1fr;
-          gap:28px;
-        }
         .tg-short-stage { align-self:center; }
-        .tg-short-copy .tg-section-head { text-align:center; margin-left:auto; margin-right:auto; }
-        .tg-short-badges { justify-content:center; }
         .tg-phone-frame { max-width:min(320px,72vw); margin:0 auto; }
       }
       @media (max-width: 640px) {
@@ -754,6 +997,13 @@
         }
         .tg-hero .tg-kicker { margin-bottom:10px; font-size:11px; padding:3px 10px; }
         .tg-hero-cta { margin-bottom:0; gap:10px; }
+        .tg-product-showcase-section { padding-top:40px; padding-bottom:40px; }
+        .tg-ps-photos__grid { row-gap:10px; column-gap:10px; }
+        .tg-physical-docs--with-video .tg-physical-docs__manuals .tg-doc-archive__grid {
+          grid-template-columns:repeat(2,minmax(0,1fr));
+          grid-template-rows:repeat(4,minmax(0,1fr));
+          gap:10px;
+        }
          
         .tg-stats {
           padding:0 16px 20px;
@@ -825,16 +1075,107 @@
     </div>
   </div>
 
-  <section class="tg-section">
+  <section class="tg-section tg-product-showcase-section" aria-label="Product applications and hardware">
+  <div class="tg-wrap">
+    <div class="tg-section-head tg-product-showcase-section__head">
+      <span class="tg-eyebrow">Application gallery</span>
+      <h2 class="tg-ps-title">Wireless roller shutter &amp; gate switches</h2>
+      <p>From roller shutters to garage doors — the same relay and remote families you will find documented in our manuals.</p>
+    </div>
+    <div class="tg-ps-grid">
+      <div class="tg-ps-photos" role="group" aria-label="Four product application images">
+        <div class="tg-ps-photos__grid">
+          <a class="tg-ps-photo" href="https://switnex.com/pages/remote-control" target="_blank" rel="noopener noreferrer">
+            <img src="https://switnex.com/cdn/shop/files/71ZTyd3VzYL._SL1500_1370x.jpg?v=1768132769" alt="DieseRC remote control switch and RF relay — wireless roller shutter and curtain motor, RF433 wireless wall switch retrofit application." loading="lazy" decoding="async" width="800" height="800">
+          </a>
+          <a class="tg-ps-photo" href="https://switnex.com/pages/remote-control" target="_blank" rel="noopener noreferrer">
+            <img src="https://switnex.com/cdn/shop/files/shouye-01_1370x.jpg?v=1768706377" alt="DieseRC garage door remote control relay switch for gate and trunk motors — RF433 wireless switch with handheld transmitter pairing." loading="lazy" decoding="async" width="800" height="800">
+          </a>
+          <a class="tg-ps-photo" href="https://switnex.com/pages/remote-control" target="_blank" rel="noopener noreferrer">
+            <img src="https://switnex.com/cdn/shop/files/shouye-04_1370x.jpg?v=1768706391" alt="DieseRC wireless relay switch remote for lighting and auxiliary loads — AC/DC RF remote control relay module, battery wireless switch friendly." loading="lazy" decoding="async" width="800" height="800">
+          </a>
+          <a class="tg-ps-photo" href="https://switnex.com/pages/remote-control" target="_blank" rel="noopener noreferrer">
+            <img src="https://switnex.com/cdn/shop/files/shouye-02_1370x.jpg?v=1768706391" alt="DieseRC 433MHz remote control switch receivers and handhelds — wireless switch accessories matching SWITNEX roller shutter remote control catalog." loading="lazy" decoding="async" width="800" height="800">
+          </a>
+        </div>
+      </div>
+      <div class="tg-ps-visual">
+        <a class="tg-ps-visual__frame tg-ps-visual__frame--hero" href="https://switnex.com/pages/remote-control" target="_blank" rel="noopener noreferrer">
+          <img
+            class="tg-ps-visual__img"
+            src="https://switnex.com/cdn/shop/files/2026-05-12_18.01.40.png?v=1778580391"
+            alt="DieseRC roller shutter and gate wireless remote control switch relay range — RF433 wireless switch, DC/AC relay remote hardware, SWITNEX remote control page."
+            loading="lazy"
+            decoding="async"
+            width="800"
+            height="800"
+          >
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+  <section class="tg-section tg-product-lineup-section" aria-label="Shop by category — wireless switches">
+  <div class="tg-wrap">
+    <div class="tg-section-head tg-product-lineup-section__head">
+      <span class="tg-eyebrow">Shop by category</span>
+      <h2 class="tg-pl-title">Wireless switches</h2>
+      <p>Relays, handheld remotes, and kits for the loads you switch over RF—all together in our shop.</p>
+    </div>
+    <div class="tg-pl-grid" role="list">
+      <article class="tg-pl-card" role="listitem">
+        <a class="tg-pl-card__link" href="https://switnex.com/pages/wireless-light-switch" target="_blank" rel="noopener noreferrer">
+          <div class="tg-pl-card__media">
+            <img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/Gemini_Generated_Image_tce8yctce8yctce8.png?v=1778588945" alt="DieseRC dieserc remote control switch relay — Tuya Wi-Fi smart relay module, 433MHz RF wireless wall switch, handheld transmitter pairing, Alexa Google voice" loading="lazy" decoding="async" width="800" height="600">
+          </div>
+          <div class="tg-pl-card__body">
+            <h3 class="tg-pl-card__title">Wi-Fi &#43; RF433 smart relay switch (Tuya)</h3>
+            <p class="tg-pl-card__text">Tuya / Smart Life (iOS &amp; Android) plus 433MHz RF wall switches—Alexa and Google Assistant supported. Mini 10A relay for AC 85–250V with in-app timers and scenes; hides in EU/UK wall or junction boxes. Learns ~10 EV1527 transmitters; one RF key can drive multiple receivers. For lights, fans, disposers, DIY plugs.</p>
+            <span class="tg-pl-card__cta">View on store</span>
+          </div>
+        </a>
+      </article>
+      <article class="tg-pl-card" role="listitem">
+        <a class="tg-pl-card__link" href="https://switnex.com/pages/wireless-light-switch" target="_blank" rel="noopener noreferrer">
+          <div class="tg-pl-card__media">
+            <img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/Gemini_Generated_Image_pgxqbnpgxqbnpgxq.png?v=1778589616" alt="DieseRC dieserc remote control switch relay — IP65 waterproof remote interrupter, 30A relay, ~20 RF transmitters, 433MHz through-wall wireless switch, outdoor rainproof RF remote" loading="lazy" decoding="async" width="800" height="600">
+          </div>
+          <div class="tg-pl-card__body">
+            <h3 class="tg-pl-card__title">IP65 remote control interrupter · 30A / 433MHz RF</h3>
+            <p class="tg-pl-card__text">IP65 waterproof remote control interrupter for indoor/outdoor use—rain, dust, and damp sites (not for continuous submersion). 433 MHz with &gt;-105 dBm sensitivity through walls, floors, and doors; ~50 m line-of-sight with extendable antenna support. Wire the receiver between supply and load; each stores ~20 RF transmitters. 30 A relay rated 100k&#43; cycles for heavy appliances at 8–80 V; instant, alternate, and locked modes are user-settable to match your wiring logic. Simple pairing for pumps, motors, lamps, fans, alarms, access control, sprayers, wash bays, and other home, farm, or light-industrial loads.</p>
+            <span class="tg-pl-card__cta">View on store</span>
+          </div>
+        </a>
+      </article>
+      <article class="tg-pl-card" role="listitem">
+        <a class="tg-pl-card__link" href="https://switnex.com/pages/wireless-light-switch" target="_blank" rel="noopener noreferrer">
+          <div class="tg-pl-card__media">
+            <img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/Gemini_Generated_Image_4mz8tp4mz8tp4mz8.png?v=1778588945" alt="DieseRC dieserc remote control switch relay — 433MHz wireless light switch kit, 86-type wall plate pairing, compact relay receiver, multi-switch RF wireless control" loading="lazy" decoding="async" width="800" height="600">
+          </div>
+          <div class="tg-pl-card__body">
+            <h3 class="tg-pl-card__title">Works with wall switches · self-powered wireless switch · 433MHz</h3>
+            <p class="tg-pl-card__text">433MHz RF—no extra wiring between fitting and switch; &gt;-97 dBm, ~30 m indoors / ~50 m open air through walls, floors, and doors for flats and multi-storey homes. 86-type plates mount with adhesive or screws; compact receiver (~40×18×33 mm) sits between supply and load and hides in boxes. Up to 25 transmitters per receiver; one switch can drive multiple receivers (e.g. door &#43; bedside). 10 A relay (400k&#43; cycles), &gt;500k button life, 12 V 27 A battery ~5 years (replaceable). Lights, fans, disposers, sockets—with post-purchase install guidance and support.</p>
+            <span class="tg-pl-card__cta">View on store</span>
+          </div>
+        </a>
+      </article>
+    </div>
+  </div>
+</section>
+
+
+  <section class="tg-section tg-section--bg">
     <div class="tg-wrap">
       <div class="tg-section-head">
         <span class="tg-eyebrow">Ingeniørdokumentasjon</span>
         <h2>Åpenhet — ikke svarteskrin-utrullinger</h2>
         <p>En verifiserbar teknisk kjede — dokumentasjon fra vårt kjerneteam for teknikk.</p>
       </div>
-      <div class="tg-physical-docs">
-        <div class="tg-physical-docs__manuals">
-          <div class="tg-doc-archive">
+      <div class="tg-physical-docs tg-physical-docs--with-video">
+        <div class="tg-physical-docs__main">
+          <div class="tg-physical-docs__manuals">
+            <div class="tg-doc-archive">
   <div class="tg-doc-archive__head">
     <div class="tg-doc-archive__tab">Teknisk dokumentasjon</div>
     <p class="tg-doc-archive__hint">Utstedt av det sentrale ingeniørteamet</p>
@@ -848,43 +1189,48 @@
           <div class="tg-doc-card__thumb"><img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/3-9.1.jpg?v=1778409859" alt="" loading="lazy" decoding="async" width="200" height="200"></div><span class="tg-doc-card__name">SWITNEX RF 433MHz Wireless Light Switch System User Manual</span>
         </a></div></div>
 
+          </div>
+          <div class="tg-physical-docs__copy">
+            <ul class="tg-feature-list tg-feature-list--physical">
+              <li>Offentlige installasjons- og idriftsettingsguider på nett—sjekk verktøy, omfang og kompatibilitet før du bestiller.</li>
+              <li>RF-merknader per SKU for tykke vegger og krevende planløsninger, i de samme nettmanualene du kan lese før kjøp.</li>
+              <li>Oppgraderingsløp med lav invasivitet, uten å endre fast nettinstallasjon der det er riktig begrensning.</li>
+            </ul>
+            <div class="tg-feature-cta-row">
+              <a class="tg-btn tg-btn-primary" href="/no/manuals/">Bla i det offisielle manualbiblioteket</a>
+              <a class="tg-btn tg-btn-outline" href="/no/smart-solutions/">SKU-er i utleierstandard</a>
+            </div>
+          </div>
         </div>
-        <div class="tg-physical-docs__copy">
-          <ul class="tg-feature-list tg-feature-list--physical">
-            <li>Åpne brukermanualer: installasjon og idriftsettelse før kjøp.</li>
-            <li>RF-merknader ved tykke vegger og retrofit, forklart i hver manual.</li>
-            <li>Oppgraderingsveier i tråd med krav uten å endre fast installasjon (nett).</li>
-          </ul>
-          <div class="tg-feature-cta-row">
-            <a class="tg-btn tg-btn-primary" href="/no/manuals/">Bla i det offisielle manualbiblioteket</a>
-            <a class="tg-btn tg-btn-outline" href="/no/smart-solutions/">SKU-er i utleierstandard</a>
+        <div class="tg-physical-docs__video" id="install-video" aria-label="Installasjonsvideo">
+          <div class="tg-short-stage">
+            <div class="tg-phone-frame">
+              <div class="tg-video tg-video--embed">
+                <iframe
+                  src="https://www.youtube.com/embed/l5UfAoVO0P0?rel=0"
+                  title="Fem minutters installasjonsgjennomgang"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  allowfullscreen
+                  loading="lazy"
+                  referrerpolicy="strict-origin-when-cross-origin"
+                ></iframe>
+              </div>
+            </div>
+            <p class="tg-video-cite">
+              <a href="https://www.youtube.com/shorts/l5UfAoVO0P0" target="_blank" rel="noopener noreferrer">Åpne gjennomgang i ny fane →</a>
+            </p>
           </div>
         </div>
       </div>
     </div>
   </section>
 
-  <section class="tg-section tg-section--bg">
-    <div class="tg-wrap">
-      <div class="tg-section-head">
-        <span class="tg-eyebrow">Hvorfor utleiere velger denne veien</span>
-        <h2>Tre problemer. Én trådløs stack.</h2>
-        <p>Klar økonomi, leie-trygg installasjon og hardware som kan standardiseres i porteføljen.</p>
-      </div>
-      <div class="tg-cards">
-        <article class="tg-card"><h3>$0 elektrikerhonorar</h3><p>Trådløs retrofit unngår elektriker på mange bryteroppgraderinger med realistisk AUD 200–500 besparelse per tilfelle.</p></article>
-        <article class="tg-card"><h3>Depositum trygt</h3><p>Ikke-invasive produkter reduserer vegg-skader og tvister — laget for utflytting og depositumbeskyttelse.</p></article>
-        <article class="tg-card"><h3>Lett vedlikehold</h3><p>Batteridrevet trådløs bryter balanserer signalsstabilitet, klikk og lange serviceintervaller.</p></article>
-      </div>
-    </div>
-  </section>
-
-  <section class="tg-section tg-section--bg">
+  <section class="tg-section">
     <div class="tg-wrap">
       <div class="tg-section-head">
         <span class="tg-eyebrow">Utleier-akademiet</span>
         <h2>Oppussing med høy avkastning</h2>
-        <p>Guider for Airbnb-verter, compliance-bevisste utleiere og oppussing av eldre hus.</p>
+        <p>Praktiske guider til smartere utleie, DIY innenfor reglene og oppgraderinger som beskytter avkastningen din.</p>
       </div>
       <div class="tg-matrix">
         <a class="tg-article" href="/no/smart-solutions/"><div class="tg-tag">Airbnb ROI</div><strong>Hvordan en smart oppgradering på ca. 200 $ kan løfte Airbnb-score fra 4,2 til 4,9</strong></a>
@@ -894,7 +1240,7 @@
     </div>
   </section>
 
-  <section class="tg-section">
+  <section class="tg-section tg-section--bg">
     <div class="tg-wrap">
       <div class="tg-section-head">
         <span class="tg-eyebrow">B2B og porteføljeskala</span>
@@ -921,78 +1267,7 @@
     </div>
   </section>
 
-  <section class="tg-section tg-section--shorts" id="install-video" aria-label="Installasjonsvideo">
-    <div class="tg-wrap tg-short-layout">
-      <div class="tg-short-copy">
-        <div class="tg-section-head">
-          <span class="tg-eyebrow">Installasjonsgjennomgang</span>
-          <h2>Se 5 minutters installasjon</h2>
-          <p>Ekte gammel vegg — trådløs montering, gjentakelig parring på tvers av enheter, ingen invasiv kabling, depositum-trygg sti før du standardiserer på porteføljen.</p>
-        </div>
-        <div class="tg-short-badges" role="list">
-          <span class="tg-short-badge" role="listitem">Typisk oppgradering · ingen elektriker</span>
-          <span class="tg-short-badge" role="listitem">Depositum-trygg og ikke-invasiv</span>
-          <span class="tg-short-badge" role="listitem">Gjentakelig på flere eiendommer</span>
-        </div>
-      </div>
-      <div class="tg-short-stage">
-        <div class="tg-phone-frame">
-          <div class="tg-video tg-video--embed">
-            <iframe
-              src="https://www.youtube.com/embed/l5UfAoVO0P0?rel=0"
-              title="Fem minutters installasjonsgjennomgang"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              allowfullscreen
-              loading="lazy"
-              referrerpolicy="strict-origin-when-cross-origin"
-            ></iframe>
-          </div>
-        </div>
-        <p class="tg-video-cite">
-          <a href="https://www.youtube.com/shorts/l5UfAoVO0P0" target="_blank" rel="noopener noreferrer">Åpne gjennomgang i ny fane →</a>
-        </p>
-      </div>
-    </div>
-  </section>
-
-  <section class="tg-band">
-    <div class="tg-wrap">
-      <div class="tg-band-grid">
-        <div class="tg-band-item">Ikke-invasiv hardware-sti</div>
-        <div class="tg-band-item">Depositum-trygg retrofit-arbeidsflyt</div>
-        <div class="tg-band-item">Betaling med PayPal</div>
-        <div class="tg-band-item">Leveranse Australia og Mexico</div>
-      </div>
-    </div>
-  </section>
-
   <section class="tg-section">
-    <div class="tg-wrap">
-      <div class="tg-section-head">
-        <span class="tg-eyebrow">Tillit og compliance</span>
-        <h2>Trygg ved kassen</h2>
-        <p>AU-markedsretning, PayPal og transparente logistikksignaler.</p>
-      </div>
-      <div class="tg-trust-visual">
-        <ul class="tg-trust-grid">
-          <li class="tg-trust-item">
-            <span class="tg-trust-icon" aria-hidden="true"><i class="fa-solid fa-scale-balanced"></i></span>
-            <p class="tg-trust-text">AU-markedsretning</p>
-          </li>
-          <li class="tg-trust-item">
-            <span class="tg-trust-icon" aria-hidden="true"><i class="fa-brands fa-paypal"></i></span>
-            <p class="tg-trust-text">PayPal</p>
-          </li>
-          <li class="tg-trust-item">
-            <span class="tg-trust-icon" aria-hidden="true"><i class="fa-solid fa-truck-fast"></i></span>
-            <p class="tg-trust-text">Transparente logistikksignaler</p>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </section>
-
-  <section class="tg-section" style="padding-top:0">
     <div class="tg-wrap">
       <div class="tg-cta">
         <div>
