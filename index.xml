@@ -1,520 +1,201 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DieseRC SWITNEX</title><link>https://www.dieserc.com/</link><description>Recent content on DieseRC SWITNEX</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Mon, 11 May 2026 10:00:34 +0000</lastBuildDate><atom:link href="https://www.dieserc.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Overview</title><link>https://www.dieserc.com/docs/overview/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.dieserc.com/docs/overview/</guid><description>&lt;div class="pageinfo pageinfo-warning td-max-width-on-larger-screens mx-0"&gt;
-&lt;p&gt;This is a placeholder page that shows you how to use this template site.&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;The Overview is where your users find out about your project. Depending on the
-size of your docset, you can have a separate overview page (like this one) or
-put your overview contents in the Documentation landing page (like in the Docsy
-User Guide).&lt;/p&gt;
-&lt;p&gt;Try answering these questions for your user in this page:&lt;/p&gt;</description></item><item><title>Bed and Chair Metrics</title><link>https://www.dieserc.com/docs/tasks/beds/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://www.dieserc.com/docs/tasks/beds/</guid><description>&lt;p&gt;This is a &lt;strong&gt;placeholder page&lt;/strong&gt;. For an example of the kind of content that can
-be added here, see the &lt;a href="https://www.dieserc.com/docs/getting-started/example-page/"&gt;example page&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id="welcome"&gt;Welcome!&lt;a class="td-heading-self-link" href="#welcome" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Welcome to the Docsy theme user guide! This guide shows you how to get started
-creating technical documentation sites using Docsy, including site customization
-and how to use Docsy&amp;rsquo;s blocks and templates.&lt;/p&gt;
-&lt;h2 id="what-is-docsy"&gt;What is Docsy?&lt;a class="td-heading-self-link" href="#what-is-docsy" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Docsy is a theme for the &lt;a href="https://gohugo.io/"&gt;Hugo&lt;/a&gt; static site generator that&amp;rsquo;s
-specifically designed for technical documentation sets and has a lot of best
-practices built in. Use Docsy to get a working and reliable documentation site
-up and running fast, and then get back to focusing on great content for your
-users. &lt;a href="https://www.dieserc.com/about/"&gt;Learn more about Docsy&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Configuring Ponycopters</title><link>https://www.dieserc.com/docs/tasks/ponycopters/configuring-ponycopters/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://www.dieserc.com/docs/tasks/ponycopters/configuring-ponycopters/</guid><description>&lt;p&gt;This is a &lt;strong&gt;placeholder page&lt;/strong&gt;. For an example of the kind of content that can
-be added here, see the &lt;a href="https://www.dieserc.com/docs/getting-started/example-page/"&gt;example page&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id="welcome"&gt;Welcome!&lt;a class="td-heading-self-link" href="#welcome" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Welcome to the Docsy theme user guide! This guide shows you how to get started
-creating technical documentation sites using Docsy, including site customization
-and how to use Docsy&amp;rsquo;s blocks and templates.&lt;/p&gt;
-&lt;h2 id="what-is-docsy"&gt;What is Docsy?&lt;a class="td-heading-self-link" href="#what-is-docsy" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Docsy is a theme for the &lt;a href="https://gohugo.io/"&gt;Hugo&lt;/a&gt; static site generator that&amp;rsquo;s
-specifically designed for technical documentation sets and has a lot of best
-practices built in. Use Docsy to get a working and reliable documentation site
-up and running fast, and then get back to focusing on great content for your
-users. &lt;a href="https://www.dieserc.com/about/"&gt;Learn more about Docsy&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Examples</title><link>https://www.dieserc.com/docs/examples/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://www.dieserc.com/docs/examples/</guid><description>&lt;div class="pageinfo pageinfo-primary"&gt;
-&lt;p&gt;This is a placeholder page that shows you how to use this template site.&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;Do you have any example &lt;strong&gt;applications&lt;/strong&gt; or &lt;strong&gt;code&lt;/strong&gt; for your users in your repo
-or elsewhere? Link to your examples here.&lt;/p&gt;</description></item><item><title>Launching Ponycopters</title><link>https://www.dieserc.com/docs/tasks/ponycopters/launching-ponycopters/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://www.dieserc.com/docs/tasks/ponycopters/launching-ponycopters/</guid><description>&lt;p&gt;This is a &lt;strong&gt;placeholder page&lt;/strong&gt;. For an example of the kind of content that can
-be added here, see the &lt;a href="https://www.dieserc.com/docs/getting-started/example-page/"&gt;example page&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id="welcome"&gt;Welcome!&lt;a class="td-heading-self-link" href="#welcome" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Welcome to the Docsy theme user guide! This guide shows you how to get started
-creating technical documentation sites using Docsy, including site customization
-and how to use Docsy&amp;rsquo;s blocks and templates.&lt;/p&gt;
-&lt;h2 id="what-is-docsy"&gt;What is Docsy?&lt;a class="td-heading-self-link" href="#what-is-docsy" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Docsy is a theme for the &lt;a href="https://gohugo.io/"&gt;Hugo&lt;/a&gt; static site generator that&amp;rsquo;s
-specifically designed for technical documentation sets and has a lot of best
-practices built in. Use Docsy to get a working and reliable documentation site
-up and running fast, and then get back to focusing on great content for your
-users. &lt;a href="https://www.dieserc.com/about/"&gt;Learn more about Docsy&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Multi-Bear Domicile Setup</title><link>https://www.dieserc.com/docs/tutorials/multi-bear/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://www.dieserc.com/docs/tutorials/multi-bear/</guid><description>&lt;p&gt;This is a &lt;strong&gt;placeholder page&lt;/strong&gt;. For an example of the kind of content that can
-be added here, see the &lt;a href="https://www.dieserc.com/docs/getting-started/example-page/"&gt;example page&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id="welcome"&gt;Welcome!&lt;a class="td-heading-self-link" href="#welcome" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Welcome to the Docsy theme user guide! This guide shows you how to get started
-creating technical documentation sites using Docsy, including site customization
-and how to use Docsy&amp;rsquo;s blocks and templates.&lt;/p&gt;
-&lt;h2 id="what-is-docsy"&gt;What is Docsy?&lt;a class="td-heading-self-link" href="#what-is-docsy" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Docsy is a theme for the &lt;a href="https://gohugo.io/"&gt;Hugo&lt;/a&gt; static site generator that&amp;rsquo;s
-specifically designed for technical documentation sets and has a lot of best
-practices built in. Use Docsy to get a working and reliable documentation site
-up and running fast, and then get back to focusing on great content for your
-users. &lt;a href="https://www.dieserc.com/about/"&gt;Learn more about Docsy&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Porridge Assessment</title><link>https://www.dieserc.com/docs/tasks/porridge/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://www.dieserc.com/docs/tasks/porridge/</guid><description>&lt;p&gt;This is a &lt;strong&gt;placeholder page&lt;/strong&gt;. For an example of the kind of content that can
-be added here, see the &lt;a href="https://www.dieserc.com/docs/getting-started/example-page/"&gt;example page&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id="welcome"&gt;Welcome!&lt;a class="td-heading-self-link" href="#welcome" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Welcome to the Docsy theme user guide! This guide shows you how to get started
-creating technical documentation sites using Docsy, including site customization
-and how to use Docsy&amp;rsquo;s blocks and templates.&lt;/p&gt;
-&lt;h2 id="what-is-docsy"&gt;What is Docsy?&lt;a class="td-heading-self-link" href="#what-is-docsy" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Docsy is a theme for the &lt;a href="https://gohugo.io/"&gt;Hugo&lt;/a&gt; static site generator that&amp;rsquo;s
-specifically designed for technical documentation sets and has a lot of best
-practices built in. Use Docsy to get a working and reliable documentation site
-up and running fast, and then get back to focusing on great content for your
-users. &lt;a href="https://www.dieserc.com/about/"&gt;Learn more about Docsy&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Concepts</title><link>https://www.dieserc.com/docs/concepts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.dieserc.com/docs/concepts/</guid><description>&lt;div class="pageinfo pageinfo-primary"&gt;
-&lt;p&gt;This is a placeholder page that shows you how to use this template site.&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;For many projects, users may not need much information beyond the information in
-the &lt;a href="https://www.dieserc.com/docs/overview/"&gt;Overview&lt;/a&gt;, so this section is &lt;strong&gt;optional&lt;/strong&gt;. However if
-there are areas where your users will need a more detailed understanding of a
-given term or feature in order to do anything useful with your project (or to
-not make mistakes when using it) put that information in this section. For
-example, you may want to add some conceptual pages if you have a large project
-with many components and a complex architecture.&lt;/p&gt;</description></item><item><title>Another Task</title><link>https://www.dieserc.com/docs/tasks/task/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://www.dieserc.com/docs/tasks/task/</guid><description>&lt;p&gt;This is a &lt;strong&gt;placeholder page&lt;/strong&gt;. For an example of the kind of content that can
-be added here, see the &lt;a href="https://www.dieserc.com/docs/getting-started/example-page/"&gt;example page&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id="welcome"&gt;Welcome!&lt;a class="td-heading-self-link" href="#welcome" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Welcome to the Docsy theme user guide! This guide shows you how to get started
-creating technical documentation sites using Docsy, including site customization
-and how to use Docsy&amp;rsquo;s blocks and templates.&lt;/p&gt;
-&lt;h2 id="what-is-docsy"&gt;What is Docsy?&lt;a class="td-heading-self-link" href="#what-is-docsy" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Docsy is a theme for the &lt;a href="https://gohugo.io/"&gt;Hugo&lt;/a&gt; static site generator that&amp;rsquo;s
-specifically designed for technical documentation sets and has a lot of best
-practices built in. Use Docsy to get a working and reliable documentation site
-up and running fast, and then get back to focusing on great content for your
-users. &lt;a href="https://www.dieserc.com/about/"&gt;Learn more about Docsy&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Another Tutorial</title><link>https://www.dieserc.com/docs/tutorials/tutorial2/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://www.dieserc.com/docs/tutorials/tutorial2/</guid><description>&lt;p&gt;This is a &lt;strong&gt;placeholder page&lt;/strong&gt;. For an example of the kind of content that can
-be added here, see the &lt;a href="https://www.dieserc.com/docs/getting-started/example-page/"&gt;example page&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id="welcome"&gt;Welcome!&lt;a class="td-heading-self-link" href="#welcome" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Welcome to the Docsy theme user guide! This guide shows you how to get started
-creating technical documentation sites using Docsy, including site customization
-and how to use Docsy&amp;rsquo;s blocks and templates.&lt;/p&gt;
-&lt;h2 id="what-is-docsy"&gt;What is Docsy?&lt;a class="td-heading-self-link" href="#what-is-docsy" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Docsy is a theme for the &lt;a href="https://gohugo.io/"&gt;Hugo&lt;/a&gt; static site generator that&amp;rsquo;s
-specifically designed for technical documentation sets and has a lot of best
-practices built in. Use Docsy to get a working and reliable documentation site
-up and running fast, and then get back to focusing on great content for your
-users. &lt;a href="https://www.dieserc.com/about/"&gt;Learn more about Docsy&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Contribution Guidelines</title><link>https://www.dieserc.com/docs/contribution-guidelines/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.dieserc.com/docs/contribution-guidelines/</guid><description>&lt;div class="pageinfo pageinfo-info td-max-width-on-larger-screens mx-0"&gt;
-&lt;p&gt;These basic sample guidelines assume that your Docsy site is deployed using
-Netlify and your files are stored in GitHub. You can use the guidelines &amp;ldquo;as is&amp;rdquo;
-or adapt them with your own instructions: for example, other deployment options,
-information about your doc project&amp;rsquo;s file structure, project-specific review
-guidelines, versioning guidelines, or any other information your users might
-find useful when updating your site.
-&lt;a href="https://github.com/kubeflow/website/blob/master/README.md"&gt;Kubeflow&lt;/a&gt; has a
-great example.&lt;/p&gt;</description></item><item><title>SWITNEX 2204 Universal Wireless Remote Control Instruction Manual</title><link>https://www.dieserc.com/manuals/2026/05/11/switnex-2204-universal-wireless-remote-control-instruction-manual/</link><pubDate>Mon, 11 May 2026 10:00:34 +0000</pubDate><guid>https://www.dieserc.com/manuals/2026/05/11/switnex-2204-universal-wireless-remote-control-instruction-manual/</guid><description>&lt;hr&gt;
-&lt;h1 id="switnex-2204-universal-wireless-remote-control-instruction-manual"&gt;SWITNEX 2204 Universal Wireless Remote Control Instruction Manual&lt;a class="td-heading-self-link" href="#switnex-2204-universal-wireless-remote-control-instruction-manual" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h1&gt;
-&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;Technical Data&lt;/th&gt;
- &lt;th&gt;&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td&gt;Working voltage&lt;/td&gt;
- &lt;td&gt;AC 85V~250V&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Input/output voltage&lt;/td&gt;
- &lt;td&gt;1~250V&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Output Type&lt;/td&gt;
- &lt;td&gt;Passive output&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Quiescent Current&lt;/td&gt;
- &lt;td&gt;&amp;lt;5MA&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Max current&lt;/td&gt;
- &lt;td&gt;10A&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;RF frequency&lt;/td&gt;
- &lt;td&gt;433MHz&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Working temperature&lt;/td&gt;
- &lt;td&gt;-30~+80&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Receiving Sensitivity&lt;/td&gt;
- &lt;td&gt;&amp;gt;97dbm&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Amount of storage remote controls&lt;/td&gt;
- &lt;td&gt;20 pieces&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Support encoding&lt;/td&gt;
- &lt;td&gt;1527 Leaning code、2262 fixed code&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;RF Operating mode&lt;/td&gt;
- &lt;td&gt;ASK superheterodyne wireless reception&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Receiving range&lt;/td&gt;
- &lt;td&gt;Open space is more than 50 meters&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Remote operating mode&lt;/td&gt;
- &lt;td&gt;Momentary Mode / Toggle Mode / Latched Mode&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id="product-detail"&gt;Product Detail&lt;a class="td-heading-self-link" href="#product-detail" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/1-0.jpg?v=1778407491" alt="Product Image"&gt;&lt;/p&gt;</description></item><item><title>SWITNEX DC 12V Wireless Relay Remote Control Switch User Manual</title><link>https://www.dieserc.com/manuals/2026/05/11/switnex-dc-12v-wireless-relay-remote-control-switch-user-manual/</link><pubDate>Mon, 11 May 2026 10:00:33 +0000</pubDate><guid>https://www.dieserc.com/manuals/2026/05/11/switnex-dc-12v-wireless-relay-remote-control-switch-user-manual/</guid><description>&lt;hr&gt;
-&lt;h1 id="switnex-dc-12v-wireless-relay-remote-control-switch-user-manual"&gt;SWITNEX DC 12V Wireless Relay Remote Control Switch User Manual&lt;a class="td-heading-self-link" href="#switnex-dc-12v-wireless-relay-remote-control-switch-user-manual" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h1&gt;
-&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;Technical Data&lt;/th&gt;
- &lt;th&gt;&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td&gt;Model Number&lt;/td&gt;
- &lt;td&gt;1204&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Input / Output Volts&lt;/td&gt;
- &lt;td&gt;1V-250V&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Work Volts&lt;/td&gt;
- &lt;td&gt;DC 12V&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Current Rating&lt;/td&gt;
- &lt;td&gt;10 Amps&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;RF frequency&lt;/td&gt;
- &lt;td&gt;433MHz&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Reception Sensitivity&lt;/td&gt;
- &lt;td&gt;&amp;gt;97dBm&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Chip Code&lt;/td&gt;
- &lt;td&gt;EV1527 (Learning Code)&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Remote Control Range&lt;/td&gt;
- &lt;td&gt;Up to 50 meters (open area)&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Number of Relays&lt;/td&gt;
- &lt;td&gt;4&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Relay Lifespan&lt;/td&gt;
- &lt;td&gt;Over 100,000 uses&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Connector Type&lt;/td&gt;
- &lt;td&gt;Screw Terminal&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Contact Material&lt;/td&gt;
- &lt;td&gt;Copper Alloy&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Contact Type&lt;/td&gt;
- &lt;td&gt;Normally Closed (NC), Common (COM), Normally Open (NO)&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Mounting Type&lt;/td&gt;
- &lt;td&gt;Surface Mount&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Product Dimensions&lt;/td&gt;
- &lt;td&gt;2.95 x 2.17 x 1.18 inches&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Product Weight&lt;/td&gt;
- &lt;td&gt;5.93 ounces&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Batteries (Transmitters)&lt;/td&gt;
- &lt;td&gt;2 CR2 batteries (included)&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id="product-detail"&gt;Product Detail&lt;a class="td-heading-self-link" href="#product-detail" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/2-1.jpg?v=1778408581" alt="Product Image"&gt;&lt;/p&gt;</description></item><item><title>SWITNEX Wireless DC Motor Remote Control Switch User Manual</title><link>https://www.dieserc.com/manuals/2026/05/11/switnex-wireless-dc-motor-remote-control-switch-user-manual/</link><pubDate>Mon, 11 May 2026 10:00:32 +0000</pubDate><guid>https://www.dieserc.com/manuals/2026/05/11/switnex-wireless-dc-motor-remote-control-switch-user-manual/</guid><description>&lt;hr&gt;
-&lt;h1 id="switnex-wireless-dc-motor-remote-control-switch-user-manual"&gt;SWITNEX Wireless DC Motor Remote Control Switch User Manual&lt;a class="td-heading-self-link" href="#switnex-wireless-dc-motor-remote-control-switch-user-manual" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h1&gt;
-&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;Technical Data&lt;/th&gt;
- &lt;th&gt;&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td&gt;Input Voltage&lt;/td&gt;
- &lt;td&gt;DC 12V-80V&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Max Load (Resistive)&lt;/td&gt;
- &lt;td&gt;10 Amps&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Max Load (Inductive)&lt;/td&gt;
- &lt;td&gt;5 Amps&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Frequency&lt;/td&gt;
- &lt;td&gt;433MHz&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Operating Modes&lt;/td&gt;
- &lt;td&gt;Momentary, Toggle, Latched&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Transmitter Storage&lt;/td&gt;
- &lt;td&gt;Up to 20 transmitters&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Control Distance&lt;/td&gt;
- &lt;td&gt;20-50 meters (open area)&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Relay Lifespan&lt;/td&gt;
- &lt;td&gt;&amp;gt;100,000 times&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Item Weight&lt;/td&gt;
- &lt;td&gt;4.2 ounces&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Package Dimensions&lt;/td&gt;
- &lt;td&gt;4.02 x 3.74 x 1.57 inches&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Batteries&lt;/td&gt;
- &lt;td&gt;2 x 12V batteries (included)&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id="product-detail"&gt;Product Detail&lt;a class="td-heading-self-link" href="#product-detail" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/articles/13f83954-3ea5-4192-add8-27c2b66f0461.jpg?v=1740662586" alt="Receiver and Two Transmitters"&gt;&lt;/p&gt;</description></item><item><title>SWITNEX RF 433MHz Wireless Light Switch System User Manual</title><link>https://www.dieserc.com/manuals/2026/05/11/switnex-rf-433mhz-wireless-light-switch-system-user-manual/</link><pubDate>Mon, 11 May 2026 10:00:30 +0000</pubDate><guid>https://www.dieserc.com/manuals/2026/05/11/switnex-rf-433mhz-wireless-light-switch-system-user-manual/</guid><description>&lt;hr&gt;
-&lt;h1 id="switnex-rf-433mhz-wireless-light-switch-system-user-manual"&gt;SWITNEX RF 433MHz Wireless Light Switch System User Manual&lt;a class="td-heading-self-link" href="#switnex-rf-433mhz-wireless-light-switch-system-user-manual" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h1&gt;
-&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;Technical Data&lt;/th&gt;
- &lt;th&gt;&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td&gt;Model Number&lt;/td&gt;
- &lt;td&gt;750828381477&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Product Dimensions (Switch)&lt;/td&gt;
- &lt;td&gt;8.8 x 8.8 x 2.3 cm&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Product Weight (Switch)&lt;/td&gt;
- &lt;td&gt;60 grams&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Receiver Dimensions&lt;/td&gt;
- &lt;td&gt;4.7 x 4.2 x 2.3 cm&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Operating Voltage (Receiver)&lt;/td&gt;
- &lt;td&gt;AC 85V ~ 250V&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Current Rating (Receiver)&lt;/td&gt;
- &lt;td&gt;10 A&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;RF frequency&lt;/td&gt;
- &lt;td&gt;433 MHz&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Learning Code&lt;/td&gt;
- &lt;td&gt;EV1527&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Switch Battery&lt;/td&gt;
- &lt;td&gt;1 x 12V 27A (included)&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Switch Lifespan&lt;/td&gt;
- &lt;td&gt;Over 500,000 clicks&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Receiver Relay Lifespan&lt;/td&gt;
- &lt;td&gt;Over 400,000 uses&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Material&lt;/td&gt;
- &lt;td&gt;Plastic&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Switch Type&lt;/td&gt;
- &lt;td&gt;Push Button&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Terminal Type&lt;/td&gt;
- &lt;td&gt;Screw&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Country of Origin&lt;/td&gt;
- &lt;td&gt;China&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id="product-detail"&gt;Product Detail&lt;a class="td-heading-self-link" href="#product-detail" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/3-9.2.jpg?v=1778409859" alt="Package Contents"&gt;&lt;/p&gt;</description></item><item><title>Avoiding insurance friction: what property managers should know about extra-low-voltage accessories</title><link>https://www.dieserc.com/property-insights/2026/05/11/low-voltage-insurance-landlords-au/</link><pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate><guid>https://www.dieserc.com/property-insights/2026/05/11/low-voltage-insurance-landlords-au/</guid><description>&lt;h2 id="why-insurers-ask-different-questions-than-electricians"&gt;Why insurers ask different questions than electricians&lt;a class="td-heading-self-link" href="#why-insurers-ask-different-questions-than-electricians" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Electricians optimize for &lt;strong&gt;code and workmanship&lt;/strong&gt;. Insurers optimize for &lt;strong&gt;policy wording, alteration disclosure, and traceability&lt;/strong&gt;. When those narratives diverge, a small retrofit can still create a big paperwork gap.&lt;/p&gt;
-&lt;h2 id="practical-risk-reduction"&gt;Practical risk reduction&lt;a class="td-heading-self-link" href="#practical-risk-reduction" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Prefer paths that are &lt;strong&gt;easy to photograph and repeat&lt;/strong&gt; across units.&lt;/li&gt;
-&lt;li&gt;Keep &lt;strong&gt;PDFs versioned&lt;/strong&gt; to the exact SKU you installed.&lt;/li&gt;
-&lt;li&gt;Align your PM checklist with what the building’s policy calls an “alteration.”&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="when-to-escalate"&gt;When to escalate&lt;a class="td-heading-self-link" href="#when-to-escalate" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;If you are bundling gateways, multiple relays, or common-area circuits, treat it as a &lt;strong&gt;portfolio decision&lt;/strong&gt;: one email thread with the insurer beats ten one-off assumptions.&lt;/p&gt;</description></item><item><title>Battery life in real climates: how we think about 2+ year targets</title><link>https://www.dieserc.com/property-insights/2026/05/11/battery-runtime-climates-whitepaper/</link><pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate><guid>https://www.dieserc.com/property-insights/2026/05/11/battery-runtime-climates-whitepaper/</guid><description>&lt;h2 id="why-climate-shows-up-in-warranty-conversations"&gt;Why climate shows up in warranty conversations&lt;a class="td-heading-self-link" href="#why-climate-shows-up-in-warranty-conversations" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Chemistry and self-discharge curves are &lt;strong&gt;temperature-dependent&lt;/strong&gt;. A panel baking behind western glass is not the same asset as one in a breezeway, even if the SKU matches.&lt;/p&gt;
-&lt;h2 id="operational-factors"&gt;Operational factors&lt;a class="td-heading-self-link" href="#operational-factors" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Presses per day from cleaners vs. guests.&lt;/li&gt;
-&lt;li&gt;Background polling intervals and firmware features enabled.&lt;/li&gt;
-&lt;li&gt;Storage if units sit pre-installed between fit-out and lease start.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="a-practical-stance"&gt;A practical stance&lt;a class="td-heading-self-link" href="#a-practical-stance" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Pair manufacturer tables with &lt;strong&gt;your own pilot logging&lt;/strong&gt; on a representative floor. Use that log when procurement asks for a single number—honesty ages better than optimism.&lt;/p&gt;</description></item><item><title>Field notes: RF behavior in dense walls and service cores</title><link>https://www.dieserc.com/property-insights/2026/05/11/wireless-penetration-field-notes/</link><pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate><guid>https://www.dieserc.com/property-insights/2026/05/11/wireless-penetration-field-notes/</guid><description>&lt;h2 id="method-briefly"&gt;Method, briefly&lt;a class="td-heading-self-link" href="#method-briefly" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;We treat every site as &lt;strong&gt;three layers&lt;/strong&gt;: air path, structural attenuators, and RF noise from neighboring gear. Floor plans rarely capture all three.&lt;/p&gt;
-&lt;h2 id="what-consistently-matters"&gt;What consistently matters&lt;a class="td-heading-self-link" href="#what-consistently-matters" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Orientation of service cores relative to where buttons need to live.&lt;/li&gt;
-&lt;li&gt;Presence of metal-clad risers or mirrored lift walls.&lt;/li&gt;
-&lt;li&gt;Legacy 433/868/915 activity from older security or gate gear.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="commissioning-takeaway"&gt;Commissioning takeaway&lt;a class="td-heading-self-link" href="#commissioning-takeaway" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Start with &lt;strong&gt;worst-path buttons&lt;/strong&gt; during daylight hours, then validate after-hours when noise floors shift. Document the handset used and firmware revision—future-you will thank present-you.&lt;/p&gt;</description></item><item><title>Multifamily retrofits: cutting electrician trips without freezing innovation</title><link>https://www.dieserc.com/property-insights/2026/05/11/multifamily-electrician-maintenance-strategy/</link><pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate><guid>https://www.dieserc.com/property-insights/2026/05/11/multifamily-electrician-maintenance-strategy/</guid><description>&lt;h2 id="why-maintenance-teams-care-about-modularity"&gt;Why maintenance teams care about modularity&lt;a class="td-heading-self-link" href="#why-maintenance-teams-care-about-modularity" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;When every unit is a &lt;strong&gt;snowflake&lt;/strong&gt;, triage slows down. Modular surface hardware plus documented scenes means night staff can reset behavior without waiting on a specialist slot.&lt;/p&gt;
-&lt;h2 id="playbook-ideas"&gt;Playbook ideas&lt;a class="td-heading-self-link" href="#playbook-ideas" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Standard &lt;strong&gt;three-scene map&lt;/strong&gt; per unit type (common path, sleep, away).&lt;/li&gt;
-&lt;li&gt;Spares kit matched to the SKUs you actually deploy.&lt;/li&gt;
-&lt;li&gt;Photo SOP pinned next to the electrical closet—not buried in email.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="roi-you-can-defend"&gt;ROI you can defend&lt;a class="td-heading-self-link" href="#roi-you-can-defend" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Compare &lt;strong&gt;truck rolls avoided&lt;/strong&gt;, &lt;strong&gt;mean time to restore&lt;/strong&gt;, and &lt;strong&gt;tenant complaint volume&lt;/strong&gt; quarter over quarter—not headline gadget cost.&lt;/p&gt;</description></item><item><title>The 15-minute path to a smarter guest experience (without a wall tear-out)</title><link>https://www.dieserc.com/property-insights/2026/05/11/airbnb-15-minute-surface-upgrade-roi/</link><pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate><guid>https://www.dieserc.com/property-insights/2026/05/11/airbnb-15-minute-surface-upgrade-roi/</guid><description>&lt;h2 id="the-hidden-cost-isnt-hardwareits-variance"&gt;The hidden cost isn’t hardware—it’s variance&lt;a class="td-heading-self-link" href="#the-hidden-cost-isnt-hardwareits-variance" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Hosts lose money when every checkout introduces a &lt;strong&gt;new puzzle&lt;/strong&gt;: different switches, different instructions, different support calls. A standardized surface path turns “special case” into &lt;strong&gt;playbook&lt;/strong&gt;.&lt;/p&gt;
-&lt;h2 id="what-to-standardize-first"&gt;What to standardize first&lt;a class="td-heading-self-link" href="#what-to-standardize-first" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Checkout lighting scenes that don’t depend on guest memory.&lt;/li&gt;
-&lt;li&gt;One mounting pattern your cleaner can recognize.&lt;/li&gt;
-&lt;li&gt;A single commissioning checklist stored with the listing SOP.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="talking-to-finance"&gt;Talking to finance&lt;a class="td-heading-self-link" href="#talking-to-finance" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Frame the upgrade as &lt;strong&gt;reduced exception handling&lt;/strong&gt;: fewer electrician dispatches, fewer damage disputes, faster re-list readiness—not gadget novelty.&lt;/p&gt;</description></item><item><title>Why non-invasive installs are a compliance baseline for Australian rentals</title><link>https://www.dieserc.com/property-insights/2026/05/11/non-invasive-install-au-rental-compliance/</link><pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate><guid>https://www.dieserc.com/property-insights/2026/05/11/non-invasive-install-au-rental-compliance/</guid><description>&lt;h2 id="what-non-invasive-means-on-a-lease-file"&gt;What “non-invasive” means on a lease file&lt;a class="td-heading-self-link" href="#what-non-invasive-means-on-a-lease-file" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;When a tenant or insurer asks what changed in the electrical layer, &lt;strong&gt;non-invasive&lt;/strong&gt; work is easier to explain: you followed a manufacturer manual, you did not alter fixed building wiring in a way that triggers a full re-inspection narrative, and you can show serials, photos, and certificates.&lt;/p&gt;
-&lt;h2 id="how-this-shows-up-in-disputes"&gt;How this shows up in disputes&lt;a class="td-heading-self-link" href="#how-this-shows-up-in-disputes" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Most friction is not the device—it is &lt;strong&gt;who opened the wall&lt;/strong&gt; and &lt;strong&gt;whether the alteration matches the lease and policy&lt;/strong&gt;. A retrofit that respects existing circuits and uses listed, surface-friendly hardware gives you a cleaner paper trail.&lt;/p&gt;</description></item><item><title>Weak gateway signal — quick checks</title><link>https://www.dieserc.com/troubleshooting/2026/05/10/gateway-signal/</link><pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate><guid>https://www.dieserc.com/troubleshooting/2026/05/10/gateway-signal/</guid><description>&lt;p&gt;Goes with the &lt;strong&gt;Troubleshooting&lt;/strong&gt; hub item about devices dropping offline. Do the hub steps first, then skim the FAQ below.&lt;/p&gt;
-&lt;div itemscope itemtype="https://schema.org/FAQPage"&gt;
-&lt;div class="accordion-item linktrol-ts-faq-item border-0 shadow-sm mb-2 rounded overflow-hidden" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;
- &lt;h2 class="accordion-header h5 mb-0"&gt;
- &lt;button class="accordion-button collapsed py-3" type="button" data-bs-toggle="collapse" data-bs-target="#faq-0-108facb05c4d570159fa1c55d42bd084" aria-expanded="false" aria-controls="faq-0-108facb05c4d570159fa1c55d42bd084"&gt;
- &lt;span itemprop="name"&gt;Move the hub first or add a repeater?&lt;/span&gt;
- &lt;/button&gt;
- &lt;/h2&gt;
- &lt;div id="faq-0-108facb05c4d570159fa1c55d42bd084" class="accordion-collapse collapse" role="region"&gt;
- &lt;div class="accordion-body border-top" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;
- &lt;div itemprop="text"&gt;&lt;strong&gt;Change one thing at a time.&lt;/strong&gt; Move the hub or a plug-in repeater closer to the weak spot with fewer walls in between. Rule out metal cabinets and microwaves before buying more gear.&lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class="accordion-item linktrol-ts-faq-item border-0 shadow-sm mb-2 rounded overflow-hidden" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;
- &lt;h2 class="accordion-header h5 mb-0"&gt;
- &lt;button class="accordion-button collapsed py-3" type="button" data-bs-toggle="collapse" data-bs-target="#faq-1-108facb05c4d570159fa1c55d42bd084" aria-expanded="false" aria-controls="faq-1-108facb05c4d570159fa1c55d42bd084"&gt;
- &lt;span itemprop="name"&gt;Can Wi-Fi channel changes hurt Zigbee?&lt;/span&gt;
- &lt;/button&gt;
- &lt;/h2&gt;
- &lt;div id="faq-1-108facb05c4d570159fa1c55d42bd084" class="accordion-collapse collapse" role="region"&gt;
- &lt;div class="accordion-body border-top" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;
- &lt;div itemprop="text"&gt;Yes — both often use 2.4 GHz. Try a fixed Wi-Fi channel, or put the USB stick on an extension cable away from the router.&lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-&lt;div class="linktrol-upgrade-banner card border-0 shadow-sm my-4" role="complementary"&gt;
- &lt;div class="card-body d-flex flex-column flex-md-row gap-3 align-items-md-center"&gt;
- &lt;div class="flex-grow-1"&gt;
- &lt;h3 class="h6 fw-bold mb-2"&gt;&lt;i class="fa-solid fa-arrow-trend-up me-2 text-warning" aria-hidden="true"&gt;&lt;/i&gt;Hardware a few years old?&lt;/h3&gt;
- &lt;div class="small text-body-secondary mb-0"&gt;Sometimes it’s cheaper to upgrade than to fight an old coordinator. Email your model and where you bought it.&lt;/div&gt;
- &lt;/div&gt;&lt;div class="flex-shrink-0"&gt;
- &lt;a class="btn btn-warning btn-sm text-dark" href="mailto:linktrol@icloud.com?subject=Gateway%20upgrade%20coupon"&gt;Email us&lt;/a&gt;
- &lt;/div&gt;&lt;/div&gt;
-&lt;/div&gt;</description></item><item><title>Example Page</title><link>https://www.dieserc.com/docs/getting-started/example-page/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://www.dieserc.com/docs/getting-started/example-page/</guid><description>&lt;div class="pageinfo pageinfo-warning td-max-width-on-larger-screens mx-0"&gt;
-&lt;p&gt;This is a placeholder page. Replace it with your own content.&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;Text can be &lt;strong&gt;bold&lt;/strong&gt;, &lt;em&gt;italic&lt;/em&gt;, or &lt;del&gt;strikethrough&lt;/del&gt;. &lt;a href="https://gohugo.io"&gt;Links&lt;/a&gt;
-should be blue with no underlines (unless hovered over).&lt;/p&gt;
-&lt;p&gt;There should be whitespace between paragraphs. Vape migas chillwave sriracha
-poutine try-hard distillery. Tattooed shabby chic small batch, pabst art party
-heirloom letterpress air plant pop-up. Sustainable chia skateboard art party
-banjo cardigan normcore affogato vexillologist quinoa meggings man bun master
-cleanse shoreditch readymade. Yuccie prism four dollar toast tbh cardigan
-iPhone, tumblr listicle live-edge VHS. Pug lyft normcore hot chicken biodiesel,
-actually keffiyeh thundercats photo booth pour-over twee fam food truck
-microdosing banh mi. Vice activated charcoal raclette unicorn live-edge
-post-ironic. Heirloom vexillologist coloring book, beard deep v letterpress echo
-park humblebrag tilde.&lt;/p&gt;</description></item><item><title>Parameter Reference</title><link>https://www.dieserc.com/docs/reference/parameter-reference/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://www.dieserc.com/docs/reference/parameter-reference/</guid><description>&lt;p&gt;This is a &lt;strong&gt;placeholder page&lt;/strong&gt;. For an example of the kind of content that can
-be added here, see the &lt;a href="https://www.dieserc.com/docs/getting-started/example-page/"&gt;example page&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id="welcome"&gt;Welcome!&lt;a class="td-heading-self-link" href="#welcome" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Welcome to the Docsy theme user guide! This guide shows you how to get started
-creating technical documentation sites using Docsy, including site customization
-and how to use Docsy&amp;rsquo;s blocks and templates.&lt;/p&gt;
-&lt;h2 id="what-is-docsy"&gt;What is Docsy?&lt;a class="td-heading-self-link" href="#what-is-docsy" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Docsy is a theme for the &lt;a href="https://gohugo.io/"&gt;Hugo&lt;/a&gt; static site generator that&amp;rsquo;s
-specifically designed for technical documentation sets and has a lot of best
-practices built in. Use Docsy to get a working and reliable documentation site
-up and running fast, and then get back to focusing on great content for your
-users. &lt;a href="https://www.dieserc.com/about/"&gt;Learn more about Docsy&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>About — Switnex Core Team</title><link>https://www.dieserc.com/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.dieserc.com/about/</guid><description>&lt;p&gt;&lt;strong&gt;DieseRC&lt;/strong&gt; is the &lt;strong&gt;Switnex-aligned editorial gateway&lt;/strong&gt;. Commerce, returns, and binding specs live on &lt;strong&gt;&lt;a href="https://switnex.com"&gt;switnex.com&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;</description></item><item><title>Search Results</title><link>https://www.dieserc.com/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.dieserc.com/search/</guid><description/></item><item><title>Website information</title><link>https://www.dieserc.com/site/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.dieserc.com/site/</guid><description>&lt;p&gt;Site built with &lt;a href="https://github.com/google/docsy/releases/v0.15.0"&gt;&lt;span class="badge bg-primary text-bg-primary fs-6"&gt;Docsy
-v0.15.0 &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id="build-information"&gt;Build information&lt;a class="td-heading-self-link" href="#build-information" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Netlify build information:&lt;/p&gt;
-&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;Attribute&lt;/th&gt;
- &lt;th&gt;Value&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td&gt;Netlify built&lt;/td&gt;
- &lt;td&gt;&lt;code&gt;false&lt;/code&gt;&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Deploy context&lt;/td&gt;
- &lt;td&gt;local&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;script&gt;
-document.addEventListener("DOMContentLoaded", function() {
- var options = { hour: '2-digit', hour12: false, minute: '2-digit', timeZoneName: 'short' };
- var buildDate = new Date("2026-05-12T15:29:18Z");
- document.getElementById("local-time").innerText = buildDate.toLocaleString(undefined, options);
-});
-&lt;/script&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DieseRC SWITNEX</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on DieseRC SWITNEX</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 11 May 2026 10:00:34 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Overview</title>
+      <link>http://localhost:1313/docs/overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/overview/</guid>
+      <description>&lt;div class=&#34;pageinfo pageinfo-warning td-max-width-on-larger-screens mx-0&#34;&gt;&#xA;&lt;p&gt;This is a placeholder page that shows you how to use this template site.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;The Overview is where your users find out about your project. Depending on the&#xA;size of your docset, you can have a separate overview page (like this one) or&#xA;put your overview contents in the Documentation landing page (like in the Docsy&#xA;User Guide).&lt;/p&gt;&#xA;&lt;p&gt;Try answering these questions for your user in this page:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bed and Chair Metrics</title>
+      <link>http://localhost:1313/docs/tasks/beds/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/tasks/beds/</guid>
+      <description>&lt;p&gt;This is a &lt;strong&gt;placeholder page&lt;/strong&gt;. For an example of the kind of content that can&#xA;be added here, see the &lt;a href=&#34;http://localhost:1313/docs/getting-started/example-page/&#34;&gt;example page&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;welcome&#34;&gt;Welcome!&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#welcome&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Welcome to the Docsy theme user guide! This guide shows you how to get started&#xA;creating technical documentation sites using Docsy, including site customization&#xA;and how to use Docsy&amp;rsquo;s blocks and templates.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-docsy&#34;&gt;What is Docsy?&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#what-is-docsy&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Docsy is a theme for the &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; static site generator that&amp;rsquo;s&#xA;specifically designed for technical documentation sets and has a lot of best&#xA;practices built in. Use Docsy to get a working and reliable documentation site&#xA;up and running fast, and then get back to focusing on great content for your&#xA;users. &lt;a href=&#34;http://localhost:1313/about/&#34;&gt;Learn more about Docsy&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Configuring Ponycopters</title>
+      <link>http://localhost:1313/docs/tasks/ponycopters/configuring-ponycopters/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/tasks/ponycopters/configuring-ponycopters/</guid>
+      <description>&lt;p&gt;This is a &lt;strong&gt;placeholder page&lt;/strong&gt;. For an example of the kind of content that can&#xA;be added here, see the &lt;a href=&#34;http://localhost:1313/docs/getting-started/example-page/&#34;&gt;example page&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;welcome&#34;&gt;Welcome!&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#welcome&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Welcome to the Docsy theme user guide! This guide shows you how to get started&#xA;creating technical documentation sites using Docsy, including site customization&#xA;and how to use Docsy&amp;rsquo;s blocks and templates.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-docsy&#34;&gt;What is Docsy?&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#what-is-docsy&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Docsy is a theme for the &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; static site generator that&amp;rsquo;s&#xA;specifically designed for technical documentation sets and has a lot of best&#xA;practices built in. Use Docsy to get a working and reliable documentation site&#xA;up and running fast, and then get back to focusing on great content for your&#xA;users. &lt;a href=&#34;http://localhost:1313/about/&#34;&gt;Learn more about Docsy&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Examples</title>
+      <link>http://localhost:1313/docs/examples/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/examples/</guid>
+      <description>&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;&#xA;&lt;p&gt;This is a placeholder page that shows you how to use this template site.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Do you have any example &lt;strong&gt;applications&lt;/strong&gt; or &lt;strong&gt;code&lt;/strong&gt; for your users in your repo&#xA;or elsewhere? Link to your examples here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Launching Ponycopters</title>
+      <link>http://localhost:1313/docs/tasks/ponycopters/launching-ponycopters/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/tasks/ponycopters/launching-ponycopters/</guid>
+      <description>&lt;p&gt;This is a &lt;strong&gt;placeholder page&lt;/strong&gt;. For an example of the kind of content that can&#xA;be added here, see the &lt;a href=&#34;http://localhost:1313/docs/getting-started/example-page/&#34;&gt;example page&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;welcome&#34;&gt;Welcome!&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#welcome&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Welcome to the Docsy theme user guide! This guide shows you how to get started&#xA;creating technical documentation sites using Docsy, including site customization&#xA;and how to use Docsy&amp;rsquo;s blocks and templates.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-docsy&#34;&gt;What is Docsy?&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#what-is-docsy&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Docsy is a theme for the &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; static site generator that&amp;rsquo;s&#xA;specifically designed for technical documentation sets and has a lot of best&#xA;practices built in. Use Docsy to get a working and reliable documentation site&#xA;up and running fast, and then get back to focusing on great content for your&#xA;users. &lt;a href=&#34;http://localhost:1313/about/&#34;&gt;Learn more about Docsy&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Multi-Bear Domicile Setup</title>
+      <link>http://localhost:1313/docs/tutorials/multi-bear/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/tutorials/multi-bear/</guid>
+      <description>&lt;p&gt;This is a &lt;strong&gt;placeholder page&lt;/strong&gt;. For an example of the kind of content that can&#xA;be added here, see the &lt;a href=&#34;http://localhost:1313/docs/getting-started/example-page/&#34;&gt;example page&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;welcome&#34;&gt;Welcome!&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#welcome&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Welcome to the Docsy theme user guide! This guide shows you how to get started&#xA;creating technical documentation sites using Docsy, including site customization&#xA;and how to use Docsy&amp;rsquo;s blocks and templates.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-docsy&#34;&gt;What is Docsy?&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#what-is-docsy&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Docsy is a theme for the &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; static site generator that&amp;rsquo;s&#xA;specifically designed for technical documentation sets and has a lot of best&#xA;practices built in. Use Docsy to get a working and reliable documentation site&#xA;up and running fast, and then get back to focusing on great content for your&#xA;users. &lt;a href=&#34;http://localhost:1313/about/&#34;&gt;Learn more about Docsy&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Porridge Assessment</title>
+      <link>http://localhost:1313/docs/tasks/porridge/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/tasks/porridge/</guid>
+      <description>&lt;p&gt;This is a &lt;strong&gt;placeholder page&lt;/strong&gt;. For an example of the kind of content that can&#xA;be added here, see the &lt;a href=&#34;http://localhost:1313/docs/getting-started/example-page/&#34;&gt;example page&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;welcome&#34;&gt;Welcome!&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#welcome&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Welcome to the Docsy theme user guide! This guide shows you how to get started&#xA;creating technical documentation sites using Docsy, including site customization&#xA;and how to use Docsy&amp;rsquo;s blocks and templates.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-docsy&#34;&gt;What is Docsy?&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#what-is-docsy&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Docsy is a theme for the &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; static site generator that&amp;rsquo;s&#xA;specifically designed for technical documentation sets and has a lot of best&#xA;practices built in. Use Docsy to get a working and reliable documentation site&#xA;up and running fast, and then get back to focusing on great content for your&#xA;users. &lt;a href=&#34;http://localhost:1313/about/&#34;&gt;Learn more about Docsy&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Concepts</title>
+      <link>http://localhost:1313/docs/concepts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/concepts/</guid>
+      <description>&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;&#xA;&lt;p&gt;This is a placeholder page that shows you how to use this template site.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;For many projects, users may not need much information beyond the information in&#xA;the &lt;a href=&#34;http://localhost:1313/docs/overview/&#34;&gt;Overview&lt;/a&gt;, so this section is &lt;strong&gt;optional&lt;/strong&gt;. However if&#xA;there are areas where your users will need a more detailed understanding of a&#xA;given term or feature in order to do anything useful with your project (or to&#xA;not make mistakes when using it) put that information in this section. For&#xA;example, you may want to add some conceptual pages if you have a large project&#xA;with many components and a complex architecture.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Another Task</title>
+      <link>http://localhost:1313/docs/tasks/task/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/tasks/task/</guid>
+      <description>&lt;p&gt;This is a &lt;strong&gt;placeholder page&lt;/strong&gt;. For an example of the kind of content that can&#xA;be added here, see the &lt;a href=&#34;http://localhost:1313/docs/getting-started/example-page/&#34;&gt;example page&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;welcome&#34;&gt;Welcome!&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#welcome&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Welcome to the Docsy theme user guide! This guide shows you how to get started&#xA;creating technical documentation sites using Docsy, including site customization&#xA;and how to use Docsy&amp;rsquo;s blocks and templates.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-docsy&#34;&gt;What is Docsy?&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#what-is-docsy&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Docsy is a theme for the &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; static site generator that&amp;rsquo;s&#xA;specifically designed for technical documentation sets and has a lot of best&#xA;practices built in. Use Docsy to get a working and reliable documentation site&#xA;up and running fast, and then get back to focusing on great content for your&#xA;users. &lt;a href=&#34;http://localhost:1313/about/&#34;&gt;Learn more about Docsy&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Another Tutorial</title>
+      <link>http://localhost:1313/docs/tutorials/tutorial2/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/tutorials/tutorial2/</guid>
+      <description>&lt;p&gt;This is a &lt;strong&gt;placeholder page&lt;/strong&gt;. For an example of the kind of content that can&#xA;be added here, see the &lt;a href=&#34;http://localhost:1313/docs/getting-started/example-page/&#34;&gt;example page&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;welcome&#34;&gt;Welcome!&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#welcome&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Welcome to the Docsy theme user guide! This guide shows you how to get started&#xA;creating technical documentation sites using Docsy, including site customization&#xA;and how to use Docsy&amp;rsquo;s blocks and templates.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-docsy&#34;&gt;What is Docsy?&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#what-is-docsy&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Docsy is a theme for the &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; static site generator that&amp;rsquo;s&#xA;specifically designed for technical documentation sets and has a lot of best&#xA;practices built in. Use Docsy to get a working and reliable documentation site&#xA;up and running fast, and then get back to focusing on great content for your&#xA;users. &lt;a href=&#34;http://localhost:1313/about/&#34;&gt;Learn more about Docsy&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contribution Guidelines</title>
+      <link>http://localhost:1313/docs/contribution-guidelines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/contribution-guidelines/</guid>
+      <description>&lt;div class=&#34;pageinfo pageinfo-info td-max-width-on-larger-screens mx-0&#34;&gt;&#xA;&lt;p&gt;These basic sample guidelines assume that your Docsy site is deployed using&#xA;Netlify and your files are stored in GitHub. You can use the guidelines &amp;ldquo;as is&amp;rdquo;&#xA;or adapt them with your own instructions: for example, other deployment options,&#xA;information about your doc project&amp;rsquo;s file structure, project-specific review&#xA;guidelines, versioning guidelines, or any other information your users might&#xA;find useful when updating your site.&#xA;&lt;a href=&#34;https://github.com/kubeflow/website/blob/master/README.md&#34;&gt;Kubeflow&lt;/a&gt; has a&#xA;great example.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SWITNEX 2204 Universal Wireless Remote Control Instruction Manual</title>
+      <link>http://localhost:1313/manuals/2026/05/11/switnex-2204-universal-wireless-remote-control-instruction-manual/</link>
+      <pubDate>Mon, 11 May 2026 10:00:34 +0000</pubDate>
+      <guid>http://localhost:1313/manuals/2026/05/11/switnex-2204-universal-wireless-remote-control-instruction-manual/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;switnex-2204-universal-wireless-remote-control-instruction-manual&#34;&gt;SWITNEX 2204 Universal Wireless Remote Control Instruction Manual&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#switnex-2204-universal-wireless-remote-control-instruction-manual&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Technical Data&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Working voltage&lt;/td&gt;&#xA;          &lt;td&gt;AC 85V~250V&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Input/output voltage&lt;/td&gt;&#xA;          &lt;td&gt;1~250V&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Output Type&lt;/td&gt;&#xA;          &lt;td&gt;Passive output&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Quiescent Current&lt;/td&gt;&#xA;          &lt;td&gt;&amp;lt;5MA&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Max current&lt;/td&gt;&#xA;          &lt;td&gt;10A&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;RF frequency&lt;/td&gt;&#xA;          &lt;td&gt;433MHz&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Working temperature&lt;/td&gt;&#xA;          &lt;td&gt;-30~+80&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Receiving Sensitivity&lt;/td&gt;&#xA;          &lt;td&gt;&amp;gt;97dbm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Amount of storage remote controls&lt;/td&gt;&#xA;          &lt;td&gt;20 pieces&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Support encoding&lt;/td&gt;&#xA;          &lt;td&gt;1527 Leaning code、2262 fixed code&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;RF Operating mode&lt;/td&gt;&#xA;          &lt;td&gt;ASK superheterodyne wireless reception&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Receiving range&lt;/td&gt;&#xA;          &lt;td&gt;Open space is more than 50 meters&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Remote operating mode&lt;/td&gt;&#xA;          &lt;td&gt;Momentary Mode / Toggle Mode / Latched Mode&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;product-detail&#34;&gt;Product Detail&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#product-detail&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://cdn.shopify.com/s/files/1/0782/0168/4263/files/1-0.jpg?v=1778407491&#34; alt=&#34;Product Image&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SWITNEX DC 12V Wireless Relay Remote Control Switch User Manual</title>
+      <link>http://localhost:1313/manuals/2026/05/11/switnex-dc-12v-wireless-relay-remote-control-switch-user-manual/</link>
+      <pubDate>Mon, 11 May 2026 10:00:33 +0000</pubDate>
+      <guid>http://localhost:1313/manuals/2026/05/11/switnex-dc-12v-wireless-relay-remote-control-switch-user-manual/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;switnex-dc-12v-wireless-relay-remote-control-switch-user-manual&#34;&gt;SWITNEX DC 12V Wireless Relay Remote Control Switch User Manual&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#switnex-dc-12v-wireless-relay-remote-control-switch-user-manual&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Technical Data&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Model Number&lt;/td&gt;&#xA;          &lt;td&gt;1204&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Input / Output Volts&lt;/td&gt;&#xA;          &lt;td&gt;1V-250V&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Work Volts&lt;/td&gt;&#xA;          &lt;td&gt;DC 12V&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Current Rating&lt;/td&gt;&#xA;          &lt;td&gt;10 Amps&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;RF frequency&lt;/td&gt;&#xA;          &lt;td&gt;433MHz&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Reception Sensitivity&lt;/td&gt;&#xA;          &lt;td&gt;&amp;gt;97dBm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Chip Code&lt;/td&gt;&#xA;          &lt;td&gt;EV1527 (Learning Code)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Remote Control Range&lt;/td&gt;&#xA;          &lt;td&gt;Up to 50 meters (open area)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Number of Relays&lt;/td&gt;&#xA;          &lt;td&gt;4&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Relay Lifespan&lt;/td&gt;&#xA;          &lt;td&gt;Over 100,000 uses&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Connector Type&lt;/td&gt;&#xA;          &lt;td&gt;Screw Terminal&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Contact Material&lt;/td&gt;&#xA;          &lt;td&gt;Copper Alloy&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Contact Type&lt;/td&gt;&#xA;          &lt;td&gt;Normally Closed (NC), Common (COM), Normally Open (NO)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Mounting Type&lt;/td&gt;&#xA;          &lt;td&gt;Surface Mount&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Product Dimensions&lt;/td&gt;&#xA;          &lt;td&gt;2.95 x 2.17 x 1.18 inches&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Product Weight&lt;/td&gt;&#xA;          &lt;td&gt;5.93 ounces&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Batteries (Transmitters)&lt;/td&gt;&#xA;          &lt;td&gt;2 CR2 batteries (included)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;product-detail&#34;&gt;Product Detail&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#product-detail&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://cdn.shopify.com/s/files/1/0782/0168/4263/files/2-1.jpg?v=1778408581&#34; alt=&#34;Product Image&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SWITNEX Wireless DC Motor Remote Control Switch User Manual</title>
+      <link>http://localhost:1313/manuals/2026/05/11/switnex-wireless-dc-motor-remote-control-switch-user-manual/</link>
+      <pubDate>Mon, 11 May 2026 10:00:32 +0000</pubDate>
+      <guid>http://localhost:1313/manuals/2026/05/11/switnex-wireless-dc-motor-remote-control-switch-user-manual/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;switnex-wireless-dc-motor-remote-control-switch-user-manual&#34;&gt;SWITNEX Wireless DC Motor Remote Control Switch User Manual&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#switnex-wireless-dc-motor-remote-control-switch-user-manual&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Technical Data&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Input Voltage&lt;/td&gt;&#xA;          &lt;td&gt;DC 12V-80V&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Max Load (Resistive)&lt;/td&gt;&#xA;          &lt;td&gt;10 Amps&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Max Load (Inductive)&lt;/td&gt;&#xA;          &lt;td&gt;5 Amps&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Frequency&lt;/td&gt;&#xA;          &lt;td&gt;433MHz&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Operating Modes&lt;/td&gt;&#xA;          &lt;td&gt;Momentary, Toggle, Latched&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Transmitter Storage&lt;/td&gt;&#xA;          &lt;td&gt;Up to 20 transmitters&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Control Distance&lt;/td&gt;&#xA;          &lt;td&gt;20-50 meters (open area)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Relay Lifespan&lt;/td&gt;&#xA;          &lt;td&gt;&amp;gt;100,000 times&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Item Weight&lt;/td&gt;&#xA;          &lt;td&gt;4.2 ounces&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Package Dimensions&lt;/td&gt;&#xA;          &lt;td&gt;4.02 x 3.74 x 1.57 inches&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Batteries&lt;/td&gt;&#xA;          &lt;td&gt;2 x 12V batteries (included)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;product-detail&#34;&gt;Product Detail&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#product-detail&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://cdn.shopify.com/s/files/1/0782/0168/4263/articles/13f83954-3ea5-4192-add8-27c2b66f0461.jpg?v=1740662586&#34; alt=&#34;Receiver and Two Transmitters&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SWITNEX RF 433MHz Wireless Light Switch System User Manual</title>
+      <link>http://localhost:1313/manuals/2026/05/11/switnex-rf-433mhz-wireless-light-switch-system-user-manual/</link>
+      <pubDate>Mon, 11 May 2026 10:00:30 +0000</pubDate>
+      <guid>http://localhost:1313/manuals/2026/05/11/switnex-rf-433mhz-wireless-light-switch-system-user-manual/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;switnex-rf-433mhz-wireless-light-switch-system-user-manual&#34;&gt;SWITNEX RF 433MHz Wireless Light Switch System User Manual&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#switnex-rf-433mhz-wireless-light-switch-system-user-manual&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Technical Data&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Model Number&lt;/td&gt;&#xA;          &lt;td&gt;750828381477&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Product Dimensions (Switch)&lt;/td&gt;&#xA;          &lt;td&gt;8.8 x 8.8 x 2.3 cm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Product Weight (Switch)&lt;/td&gt;&#xA;          &lt;td&gt;60 grams&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Receiver Dimensions&lt;/td&gt;&#xA;          &lt;td&gt;4.7 x 4.2 x 2.3 cm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Operating Voltage (Receiver)&lt;/td&gt;&#xA;          &lt;td&gt;AC 85V ~ 250V&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Current Rating (Receiver)&lt;/td&gt;&#xA;          &lt;td&gt;10 A&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;RF frequency&lt;/td&gt;&#xA;          &lt;td&gt;433 MHz&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Learning Code&lt;/td&gt;&#xA;          &lt;td&gt;EV1527&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Switch Battery&lt;/td&gt;&#xA;          &lt;td&gt;1 x 12V 27A (included)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Switch Lifespan&lt;/td&gt;&#xA;          &lt;td&gt;Over 500,000 clicks&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Receiver Relay Lifespan&lt;/td&gt;&#xA;          &lt;td&gt;Over 400,000 uses&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Material&lt;/td&gt;&#xA;          &lt;td&gt;Plastic&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Switch Type&lt;/td&gt;&#xA;          &lt;td&gt;Push Button&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Terminal Type&lt;/td&gt;&#xA;          &lt;td&gt;Screw&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Country of Origin&lt;/td&gt;&#xA;          &lt;td&gt;China&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;product-detail&#34;&gt;Product Detail&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#product-detail&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://cdn.shopify.com/s/files/1/0782/0168/4263/files/3-9.2.jpg?v=1778409859&#34; alt=&#34;Package Contents&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Avoiding insurance friction: what property managers should know about extra-low-voltage accessories</title>
+      <link>http://localhost:1313/property-insights/2026/05/11/low-voltage-insurance-landlords-au/</link>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/property-insights/2026/05/11/low-voltage-insurance-landlords-au/</guid>
+      <description>&lt;h2 id=&#34;why-insurers-ask-different-questions-than-electricians&#34;&gt;Why insurers ask different questions than electricians&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#why-insurers-ask-different-questions-than-electricians&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Electricians optimize for &lt;strong&gt;code and workmanship&lt;/strong&gt;. Insurers optimize for &lt;strong&gt;policy wording, alteration disclosure, and traceability&lt;/strong&gt;. When those narratives diverge, a small retrofit can still create a big paperwork gap.&lt;/p&gt;&#xA;&lt;h2 id=&#34;practical-risk-reduction&#34;&gt;Practical risk reduction&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#practical-risk-reduction&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Prefer paths that are &lt;strong&gt;easy to photograph and repeat&lt;/strong&gt; across units.&lt;/li&gt;&#xA;&lt;li&gt;Keep &lt;strong&gt;PDFs versioned&lt;/strong&gt; to the exact SKU you installed.&lt;/li&gt;&#xA;&lt;li&gt;Align your PM checklist with what the building’s policy calls an “alteration.”&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;when-to-escalate&#34;&gt;When to escalate&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#when-to-escalate&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;If you are bundling gateways, multiple relays, or common-area circuits, treat it as a &lt;strong&gt;portfolio decision&lt;/strong&gt;: one email thread with the insurer beats ten one-off assumptions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Battery life in real climates: how we think about 2&#43; year targets</title>
+      <link>http://localhost:1313/property-insights/2026/05/11/battery-runtime-climates-whitepaper/</link>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/property-insights/2026/05/11/battery-runtime-climates-whitepaper/</guid>
+      <description>&lt;h2 id=&#34;why-climate-shows-up-in-warranty-conversations&#34;&gt;Why climate shows up in warranty conversations&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#why-climate-shows-up-in-warranty-conversations&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Chemistry and self-discharge curves are &lt;strong&gt;temperature-dependent&lt;/strong&gt;. A panel baking behind western glass is not the same asset as one in a breezeway, even if the SKU matches.&lt;/p&gt;&#xA;&lt;h2 id=&#34;operational-factors&#34;&gt;Operational factors&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#operational-factors&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Presses per day from cleaners vs. guests.&lt;/li&gt;&#xA;&lt;li&gt;Background polling intervals and firmware features enabled.&lt;/li&gt;&#xA;&lt;li&gt;Storage if units sit pre-installed between fit-out and lease start.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;a-practical-stance&#34;&gt;A practical stance&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#a-practical-stance&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Pair manufacturer tables with &lt;strong&gt;your own pilot logging&lt;/strong&gt; on a representative floor. Use that log when procurement asks for a single number—honesty ages better than optimism.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Field notes: RF behavior in dense walls and service cores</title>
+      <link>http://localhost:1313/property-insights/2026/05/11/wireless-penetration-field-notes/</link>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/property-insights/2026/05/11/wireless-penetration-field-notes/</guid>
+      <description>&lt;h2 id=&#34;method-briefly&#34;&gt;Method, briefly&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#method-briefly&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;We treat every site as &lt;strong&gt;three layers&lt;/strong&gt;: air path, structural attenuators, and RF noise from neighboring gear. Floor plans rarely capture all three.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-consistently-matters&#34;&gt;What consistently matters&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#what-consistently-matters&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Orientation of service cores relative to where buttons need to live.&lt;/li&gt;&#xA;&lt;li&gt;Presence of metal-clad risers or mirrored lift walls.&lt;/li&gt;&#xA;&lt;li&gt;Legacy 433/868/915 activity from older security or gate gear.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;commissioning-takeaway&#34;&gt;Commissioning takeaway&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#commissioning-takeaway&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Start with &lt;strong&gt;worst-path buttons&lt;/strong&gt; during daylight hours, then validate after-hours when noise floors shift. Document the handset used and firmware revision—future-you will thank present-you.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Multifamily retrofits: cutting electrician trips without freezing innovation</title>
+      <link>http://localhost:1313/property-insights/2026/05/11/multifamily-electrician-maintenance-strategy/</link>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/property-insights/2026/05/11/multifamily-electrician-maintenance-strategy/</guid>
+      <description>&lt;h2 id=&#34;why-maintenance-teams-care-about-modularity&#34;&gt;Why maintenance teams care about modularity&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#why-maintenance-teams-care-about-modularity&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;When every unit is a &lt;strong&gt;snowflake&lt;/strong&gt;, triage slows down. Modular surface hardware plus documented scenes means night staff can reset behavior without waiting on a specialist slot.&lt;/p&gt;&#xA;&lt;h2 id=&#34;playbook-ideas&#34;&gt;Playbook ideas&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#playbook-ideas&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Standard &lt;strong&gt;three-scene map&lt;/strong&gt; per unit type (common path, sleep, away).&lt;/li&gt;&#xA;&lt;li&gt;Spares kit matched to the SKUs you actually deploy.&lt;/li&gt;&#xA;&lt;li&gt;Photo SOP pinned next to the electrical closet—not buried in email.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;roi-you-can-defend&#34;&gt;ROI you can defend&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#roi-you-can-defend&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Compare &lt;strong&gt;truck rolls avoided&lt;/strong&gt;, &lt;strong&gt;mean time to restore&lt;/strong&gt;, and &lt;strong&gt;tenant complaint volume&lt;/strong&gt; quarter over quarter—not headline gadget cost.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The 15-minute path to a smarter guest experience (without a wall tear-out)</title>
+      <link>http://localhost:1313/property-insights/2026/05/11/airbnb-15-minute-surface-upgrade-roi/</link>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/property-insights/2026/05/11/airbnb-15-minute-surface-upgrade-roi/</guid>
+      <description>&lt;h2 id=&#34;the-hidden-cost-isnt-hardwareits-variance&#34;&gt;The hidden cost isn’t hardware—it’s variance&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#the-hidden-cost-isnt-hardwareits-variance&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Hosts lose money when every checkout introduces a &lt;strong&gt;new puzzle&lt;/strong&gt;: different switches, different instructions, different support calls. A standardized surface path turns “special case” into &lt;strong&gt;playbook&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-to-standardize-first&#34;&gt;What to standardize first&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#what-to-standardize-first&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Checkout lighting scenes that don’t depend on guest memory.&lt;/li&gt;&#xA;&lt;li&gt;One mounting pattern your cleaner can recognize.&lt;/li&gt;&#xA;&lt;li&gt;A single commissioning checklist stored with the listing SOP.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;talking-to-finance&#34;&gt;Talking to finance&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#talking-to-finance&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Frame the upgrade as &lt;strong&gt;reduced exception handling&lt;/strong&gt;: fewer electrician dispatches, fewer damage disputes, faster re-list readiness—not gadget novelty.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why non-invasive installs are a compliance baseline for Australian rentals</title>
+      <link>http://localhost:1313/property-insights/2026/05/11/non-invasive-install-au-rental-compliance/</link>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/property-insights/2026/05/11/non-invasive-install-au-rental-compliance/</guid>
+      <description>&lt;h2 id=&#34;what-non-invasive-means-on-a-lease-file&#34;&gt;What “non-invasive” means on a lease file&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#what-non-invasive-means-on-a-lease-file&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;When a tenant or insurer asks what changed in the electrical layer, &lt;strong&gt;non-invasive&lt;/strong&gt; work is easier to explain: you followed a manufacturer manual, you did not alter fixed building wiring in a way that triggers a full re-inspection narrative, and you can show serials, photos, and certificates.&lt;/p&gt;&#xA;&lt;h2 id=&#34;how-this-shows-up-in-disputes&#34;&gt;How this shows up in disputes&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#how-this-shows-up-in-disputes&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Most friction is not the device—it is &lt;strong&gt;who opened the wall&lt;/strong&gt; and &lt;strong&gt;whether the alteration matches the lease and policy&lt;/strong&gt;. A retrofit that respects existing circuits and uses listed, surface-friendly hardware gives you a cleaner paper trail.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Weak gateway signal — quick checks</title>
+      <link>http://localhost:1313/troubleshooting/2026/05/10/gateway-signal/</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/troubleshooting/2026/05/10/gateway-signal/</guid>
+      <description>&lt;p&gt;Goes with the &lt;strong&gt;Troubleshooting&lt;/strong&gt; hub item about devices dropping offline. Do the hub steps first, then skim the FAQ below.&lt;/p&gt;&#xA;&lt;div itemscope itemtype=&#34;https://schema.org/FAQPage&#34;&gt;&#xA;&lt;div class=&#34;accordion-item linktrol-ts-faq-item border-0 shadow-sm mb-2 rounded overflow-hidden&#34; itemscope itemprop=&#34;mainEntity&#34; itemtype=&#34;https://schema.org/Question&#34;&gt;&#xA;  &lt;h2 class=&#34;accordion-header h5 mb-0&#34;&gt;&#xA;    &lt;button class=&#34;accordion-button collapsed py-3&#34; type=&#34;button&#34; data-bs-toggle=&#34;collapse&#34; data-bs-target=&#34;#faq-0-108facb05c4d570159fa1c55d42bd084&#34; aria-expanded=&#34;false&#34; aria-controls=&#34;faq-0-108facb05c4d570159fa1c55d42bd084&#34;&gt;&#xA;      &lt;span itemprop=&#34;name&#34;&gt;Move the hub first or add a repeater?&lt;/span&gt;&#xA;    &lt;/button&gt;&#xA;  &lt;/h2&gt;&#xA;  &lt;div id=&#34;faq-0-108facb05c4d570159fa1c55d42bd084&#34; class=&#34;accordion-collapse collapse&#34; role=&#34;region&#34;&gt;&#xA;    &lt;div class=&#34;accordion-body border-top&#34; itemscope itemprop=&#34;acceptedAnswer&#34; itemtype=&#34;https://schema.org/Answer&#34;&gt;&#xA;      &lt;div itemprop=&#34;text&#34;&gt;&lt;strong&gt;Change one thing at a time.&lt;/strong&gt; Move the hub or a plug-in repeater closer to the weak spot with fewer walls in between. Rule out metal cabinets and microwaves before buying more gear.&lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;accordion-item linktrol-ts-faq-item border-0 shadow-sm mb-2 rounded overflow-hidden&#34; itemscope itemprop=&#34;mainEntity&#34; itemtype=&#34;https://schema.org/Question&#34;&gt;&#xA;  &lt;h2 class=&#34;accordion-header h5 mb-0&#34;&gt;&#xA;    &lt;button class=&#34;accordion-button collapsed py-3&#34; type=&#34;button&#34; data-bs-toggle=&#34;collapse&#34; data-bs-target=&#34;#faq-1-108facb05c4d570159fa1c55d42bd084&#34; aria-expanded=&#34;false&#34; aria-controls=&#34;faq-1-108facb05c4d570159fa1c55d42bd084&#34;&gt;&#xA;      &lt;span itemprop=&#34;name&#34;&gt;Can Wi-Fi channel changes hurt Zigbee?&lt;/span&gt;&#xA;    &lt;/button&gt;&#xA;  &lt;/h2&gt;&#xA;  &lt;div id=&#34;faq-1-108facb05c4d570159fa1c55d42bd084&#34; class=&#34;accordion-collapse collapse&#34; role=&#34;region&#34;&gt;&#xA;    &lt;div class=&#34;accordion-body border-top&#34; itemscope itemprop=&#34;acceptedAnswer&#34; itemtype=&#34;https://schema.org/Answer&#34;&gt;&#xA;      &lt;div itemprop=&#34;text&#34;&gt;Yes — both often use 2.4 GHz. Try a fixed Wi-Fi channel, or put the USB stick on an extension cable away from the router.&lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;linktrol-upgrade-banner card border-0 shadow-sm my-4&#34; role=&#34;complementary&#34;&gt;&#xA;  &lt;div class=&#34;card-body d-flex flex-column flex-md-row gap-3 align-items-md-center&#34;&gt;&#xA;    &lt;div class=&#34;flex-grow-1&#34;&gt;&#xA;      &lt;h3 class=&#34;h6 fw-bold mb-2&#34;&gt;&lt;i class=&#34;fa-solid fa-arrow-trend-up me-2 text-warning&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;Hardware a few years old?&lt;/h3&gt;&#xA;      &lt;div class=&#34;small text-body-secondary mb-0&#34;&gt;Sometimes it’s cheaper to upgrade than to fight an old coordinator. Email your model and where you bought it.&lt;/div&gt;&#xA;    &lt;/div&gt;&lt;div class=&#34;flex-shrink-0&#34;&gt;&#xA;        &lt;a class=&#34;btn btn-warning btn-sm text-dark&#34; href=&#34;mailto:linktrol@icloud.com?subject=Gateway%20upgrade%20coupon&#34;&gt;Email us&lt;/a&gt;&#xA;      &lt;/div&gt;&lt;/div&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Example Page</title>
+      <link>http://localhost:1313/docs/getting-started/example-page/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/getting-started/example-page/</guid>
+      <description>&lt;div class=&#34;pageinfo pageinfo-warning td-max-width-on-larger-screens mx-0&#34;&gt;&#xA;&lt;p&gt;This is a placeholder page. Replace it with your own content.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Text can be &lt;strong&gt;bold&lt;/strong&gt;, &lt;em&gt;italic&lt;/em&gt;, or &lt;del&gt;strikethrough&lt;/del&gt;. &lt;a href=&#34;https://gohugo.io&#34;&gt;Links&lt;/a&gt;&#xA;should be blue with no underlines (unless hovered over).&lt;/p&gt;&#xA;&lt;p&gt;There should be whitespace between paragraphs. Vape migas chillwave sriracha&#xA;poutine try-hard distillery. Tattooed shabby chic small batch, pabst art party&#xA;heirloom letterpress air plant pop-up. Sustainable chia skateboard art party&#xA;banjo cardigan normcore affogato vexillologist quinoa meggings man bun master&#xA;cleanse shoreditch readymade. Yuccie prism four dollar toast tbh cardigan&#xA;iPhone, tumblr listicle live-edge VHS. Pug lyft normcore hot chicken biodiesel,&#xA;actually keffiyeh thundercats photo booth pour-over twee fam food truck&#xA;microdosing banh mi. Vice activated charcoal raclette unicorn live-edge&#xA;post-ironic. Heirloom vexillologist coloring book, beard deep v letterpress echo&#xA;park humblebrag tilde.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Parameter Reference</title>
+      <link>http://localhost:1313/docs/reference/parameter-reference/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/reference/parameter-reference/</guid>
+      <description>&lt;p&gt;This is a &lt;strong&gt;placeholder page&lt;/strong&gt;. For an example of the kind of content that can&#xA;be added here, see the &lt;a href=&#34;http://localhost:1313/docs/getting-started/example-page/&#34;&gt;example page&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;welcome&#34;&gt;Welcome!&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#welcome&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Welcome to the Docsy theme user guide! This guide shows you how to get started&#xA;creating technical documentation sites using Docsy, including site customization&#xA;and how to use Docsy&amp;rsquo;s blocks and templates.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-docsy&#34;&gt;What is Docsy?&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#what-is-docsy&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Docsy is a theme for the &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; static site generator that&amp;rsquo;s&#xA;specifically designed for technical documentation sets and has a lot of best&#xA;practices built in. Use Docsy to get a working and reliable documentation site&#xA;up and running fast, and then get back to focusing on great content for your&#xA;users. &lt;a href=&#34;http://localhost:1313/about/&#34;&gt;Learn more about Docsy&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About — Switnex Core Team</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;DieseRC&lt;/strong&gt; is the &lt;strong&gt;Switnex-aligned editorial gateway&lt;/strong&gt;. Commerce, returns, and binding specs live on &lt;strong&gt;&lt;a href=&#34;https://switnex.com&#34;&gt;switnex.com&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Search Results</title>
+      <link>http://localhost:1313/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/search/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Website information</title>
+      <link>http://localhost:1313/site/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/site/</guid>
+      <description>&lt;p&gt;Site built with &lt;a href=&#34;https://github.com/google/docsy/releases/v0.15.0&#34;&gt;&lt;span class=&#34;badge bg-primary text-bg-primary fs-6&#34;&gt;Docsy&#xA;v0.15.0 &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;build-information&#34;&gt;Build information&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#build-information&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Netlify build information:&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Attribute&lt;/th&gt;&#xA;          &lt;th&gt;Value&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Netlify built&lt;/td&gt;&#xA;          &lt;td&gt;&lt;code&gt;false&lt;/code&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Deploy context&lt;/td&gt;&#xA;          &lt;td&gt;local&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;script&gt;&#xA;document.addEventListener(&#34;DOMContentLoaded&#34;, function() {&#xA;  var options = { hour: &#39;2-digit&#39;, hour12: false, minute: &#39;2-digit&#39;, timeZoneName: &#39;short&#39; };&#xA;  var buildDate = new Date(&#34;2026-05-13T11:28:00+08:00&#34;);&#xA;  document.getElementById(&#34;local-time&#34;).innerText = buildDate.toLocaleString(undefined, options);&#xA;});&#xA;&lt;/script&gt;</description>
+    </item>
+  </channel>
+</rss>
