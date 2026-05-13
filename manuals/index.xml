@@ -1,117 +1,978 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Product Support &amp; Documentation on DieseRC SWITNEX</title>
-    <link>http://localhost:1313/manuals/</link>
-    <description>Recent content in Product Support &amp; Documentation on DieseRC SWITNEX</description>
-    <generator>Hugo</generator>
-    <language>en-US</language>
-    <lastBuildDate>Wed, 13 May 2026 11:36:29 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/manuals/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>SWITNEX 2-Channel Wireless Relay Remote Control Switch User Manual</title>
-      <link>http://localhost:1313/manuals/2026/05/13/switnex-2-channel-wireless-relay-remote-control-switch-user-manual/</link>
-      <pubDate>Wed, 13 May 2026 11:36:29 +0000</pubDate>
-      <guid>http://localhost:1313/manuals/2026/05/13/switnex-2-channel-wireless-relay-remote-control-switch-user-manual/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;switnex-2-channel-wireless-relay-remote-control-switch-user-manual&#34;&gt;SWITNEX 2-Channel Wireless Relay Remote Control Switch User Manual&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#switnex-2-channel-wireless-relay-remote-control-switch-user-manual&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Technical Data&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Model&lt;/td&gt;&#xA;          &lt;td&gt;2 Channels Wireless Relay Remote Control Switch&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Input Voltage&lt;/td&gt;&#xA;          &lt;td&gt;DC 5V-30V&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Max Load Current&lt;/td&gt;&#xA;          &lt;td&gt;10 Amps per channel&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;RF frequency&lt;/td&gt;&#xA;          &lt;td&gt;433MHz&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Output Style&lt;/td&gt;&#xA;          &lt;td&gt;Passive Output (Dry Contacts)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Contact Type&lt;/td&gt;&#xA;          &lt;td&gt;Normally Open (NO), Common (COM), Normally Closed (NC)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Operating Modes&lt;/td&gt;&#xA;          &lt;td&gt;Momentary, Toggle, Latched&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Transmitter Battery&lt;/td&gt;&#xA;          &lt;td&gt;A27 (Alkaline, included)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Receiver Dimensions&lt;/td&gt;&#xA;          &lt;td&gt;Approx. 95mm x 56mm x 24mm (3.7 x 2.2 x 0.9 inches)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Weight&lt;/td&gt;&#xA;          &lt;td&gt;Approx. 5.6 ounces&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;product-detail&#34;&gt;Product Detail&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#product-detail&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://cdn.shopify.com/s/files/1/0782/0168/4263/files/3-2_1e03076f-8709-4a60-843d-10f26f822416.jpg?v=1778671746&#34; alt=&#34;Receiver and Two Keyfob Transmitters&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>DieseRC Wireless Remote Control Switch System User Manual</title>
-      <link>http://localhost:1313/manuals/2026/05/13/dieserc-wireless-remote-control-switch-system-user-manual/</link>
-      <pubDate>Wed, 13 May 2026 11:23:26 +0000</pubDate>
-      <guid>http://localhost:1313/manuals/2026/05/13/dieserc-wireless-remote-control-switch-system-user-manual/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;dieserc-wireless-remote-control-switch-system-user-manual&#34;&gt;DieseRC Wireless Remote Control Switch System User Manual&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#dieserc-wireless-remote-control-switch-system-user-manual&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Technical Data&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Brand&lt;/td&gt;&#xA;          &lt;td&gt;DieseRC&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Model&lt;/td&gt;&#xA;          &lt;td&gt;RX26&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Operating Voltage (Receiver)&lt;/td&gt;&#xA;          &lt;td&gt;DC 3.6V ~ 30V&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Max Load Current&lt;/td&gt;&#xA;          &lt;td&gt;2A&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;RF frequency&lt;/td&gt;&#xA;          &lt;td&gt;433MHz&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Encoding Type&lt;/td&gt;&#xA;          &lt;td&gt;EV1527 Learning Code&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Receiver Dimensions (L x W x T)&lt;/td&gt;&#xA;          &lt;td&gt;31mm x 15mm x 4mm (approx. 1.2 x 0.6 x 0.2 inches)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Transmitter Dimensions (L x W x T)&lt;/td&gt;&#xA;          &lt;td&gt;62mm x 30mm x 13mm (approx. 2.4 x 1.2 x 0.5 inches)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Transmitter Battery&lt;/td&gt;&#xA;          &lt;td&gt;2x CR2016 (included)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Max Supported Transmitters (per receiver)&lt;/td&gt;&#xA;          &lt;td&gt;15 pieces&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Control Distance (open area)&lt;/td&gt;&#xA;          &lt;td&gt;Up to 40 meters&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Operating Modes&lt;/td&gt;&#xA;          &lt;td&gt;Momentary, Toggle, Latched, Delay&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;product-detail&#34;&gt;Product Detail&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#product-detail&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://cdn.shopify.com/s/files/1/0782/0168/4263/files/2-3_e33082f4-1636-4128-9efb-666ea4fe6331.jpg?v=1778670207&#34; alt=&#34;Two Receiver Modules and Two Key Fob Transmitters&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SWITNEX AC 110V-240V Wireless Remote Control Light Switch (Model: B0FKS38W6K) User Manual</title>
-      <link>http://localhost:1313/manuals/2026/05/13/switnex-ac-110v-240v-wireless-remote-control-light-switch-model-b0fks38w6k-user-manual/</link>
-      <pubDate>Wed, 13 May 2026 11:20:18 +0000</pubDate>
-      <guid>http://localhost:1313/manuals/2026/05/13/switnex-ac-110v-240v-wireless-remote-control-light-switch-model-b0fks38w6k-user-manual/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;switnex-ac-110v-240v-wireless-remote-control-light-switch-model-b0fks38w6k-user-manual&#34;&gt;SWITNEX AC 110V-240V Wireless Remote Control Light Switch (Model: B0FKS38W6K) User Manual&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#switnex-ac-110v-240v-wireless-remote-control-light-switch-model-b0fks38w6k-user-manual&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Technical Data&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Operation Mode&lt;/td&gt;&#xA;          &lt;td&gt;ON-OFF&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Current Rating&lt;/td&gt;&#xA;          &lt;td&gt;10 Amps&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Operating Voltage&lt;/td&gt;&#xA;          &lt;td&gt;AC 90V-250V (110V, 120V, 220V, 240V compatible)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Max Load (Resistive)&lt;/td&gt;&#xA;          &lt;td&gt;1500W&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Contact Type&lt;/td&gt;&#xA;          &lt;td&gt;Normally Open&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Connector Type&lt;/td&gt;&#xA;          &lt;td&gt;Crimp&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Terminal&lt;/td&gt;&#xA;          &lt;td&gt;Screw&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Receiver Dimensions (L x W x H)&lt;/td&gt;&#xA;          &lt;td&gt;65 x 36 x 23 mm (2.56 x 1.42 x 0.91 inches)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Transmitter Dimensions (L x W x H)&lt;/td&gt;&#xA;          &lt;td&gt;115 x 70 x 15 mm (4.53 x 2.76 x 0.59 inches)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Circuit Type&lt;/td&gt;&#xA;          &lt;td&gt;1-way&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Contact Material&lt;/td&gt;&#xA;          &lt;td&gt;Plastic&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;RF frequency&lt;/td&gt;&#xA;          &lt;td&gt;433MHz&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Control Distance (Open area)&lt;/td&gt;&#xA;          &lt;td&gt;Up to 30 meters (100 feet)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Control Distance (Through walls/doors)&lt;/td&gt;&#xA;          &lt;td&gt;30-55 meters (100-180 feet)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Transmitter Battery&lt;/td&gt;&#xA;          &lt;td&gt;1 x AAA 12V (included)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;product-detail&#34;&gt;Product Detail&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#product-detail&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://cdn.shopify.com/s/files/1/0782/0168/4263/files/1-2_5e825f93-3bce-4c82-92d9-8f47488fb329.jpg?v=1778669233&#34; alt=&#34;White Wall-Mounted Switch and Compact Receiver&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SWITNEX DC12-48V 433MHz Wireless Remote Control Switch User Manual</title>
-      <link>http://localhost:1313/manuals/2026/05/13/switnex-dc12-48v-433mhz-wireless-remote-control-switch-user-manual/</link>
-      <pubDate>Wed, 13 May 2026 11:20:16 +0000</pubDate>
-      <guid>http://localhost:1313/manuals/2026/05/13/switnex-dc12-48v-433mhz-wireless-remote-control-switch-user-manual/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;switnex-dc12-48v-433mhz-wireless-remote-control-switch-user-manual&#34;&gt;SWITNEX DC12-48V 433MHz Wireless Remote Control Switch User Manual&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#switnex-dc12-48v-433mhz-wireless-remote-control-switch-user-manual&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Technical Data&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Operating Voltage&lt;/td&gt;&#xA;          &lt;td&gt;DC 12V ~ 48V&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Max Current Rating&lt;/td&gt;&#xA;          &lt;td&gt;40 Amps&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;RF frequency&lt;/td&gt;&#xA;          &lt;td&gt;433MHz&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Control Range&lt;/td&gt;&#xA;          &lt;td&gt;Up to 50 meters (162 feet) without obstacles&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Operating Modes&lt;/td&gt;&#xA;          &lt;td&gt;Momentary, Toggle, Latched (default: Latched)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Transmitter Storage&lt;/td&gt;&#xA;          &lt;td&gt;Receiver can store up to 20 transmitters&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Receiver Dimensions&lt;/td&gt;&#xA;          &lt;td&gt;2.56 x 2.36 x 1.18 inches (65x58x30mm)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Transmitter Dimensions&lt;/td&gt;&#xA;          &lt;td&gt;2.3 x 1.2 x 0.4 inches (60x30x14mm)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Remote Control Battery&lt;/td&gt;&#xA;          &lt;td&gt;1 x CR2032 (included)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;product-detail&#34;&gt;Product Detail&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#product-detail&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://cdn.shopify.com/s/files/1/0782/0168/4263/files/4-2_010e0fdc-42f6-4709-8cd3-149c4a351874.jpg?v=1778663909&#34; alt=&#34;Receiver and Two Keyfobs&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SWITNEX 1-Channel Wireless Remote Control Relay Switch (433MHz, 220V-240V) User Manual</title>
-      <link>http://localhost:1313/manuals/2026/05/13/switnex-1-channel-wireless-remote-control-relay-switch-433mhz-220v-240v-user-manual/</link>
-      <pubDate>Wed, 13 May 2026 11:20:14 +0000</pubDate>
-      <guid>http://localhost:1313/manuals/2026/05/13/switnex-1-channel-wireless-remote-control-relay-switch-433mhz-220v-240v-user-manual/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;switnex-1-channel-wireless-remote-control-relay-switch-433mhz-220v-240v-user-manual&#34;&gt;SWITNEX 1-Channel Wireless Remote Control Relay Switch (433MHz, 220V-240V) User Manual&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#switnex-1-channel-wireless-remote-control-relay-switch-433mhz-220v-240v-user-manual&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Technical Data&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Operating Frequency&lt;/td&gt;&#xA;          &lt;td&gt;433MHz&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Receiver Voltage&lt;/td&gt;&#xA;          &lt;td&gt;AC 100V~250V&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Relay Type&lt;/td&gt;&#xA;          &lt;td&gt;Potential-Free Contacts (Dry Contacts)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Relay Current&lt;/td&gt;&#xA;          &lt;td&gt;5A&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Control Range&lt;/td&gt;&#xA;          &lt;td&gt;Up to 30 meters (open area)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Learning Code&lt;/td&gt;&#xA;          &lt;td&gt;EV1527&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Transmitter Battery&lt;/td&gt;&#xA;          &lt;td&gt;2x CR2016 or 1x CR2032 (included)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Components Included&lt;/td&gt;&#xA;          &lt;td&gt;1 Receiver, 5 Transmitters&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;product-detail&#34;&gt;Product Detail&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#product-detail&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://cdn.shopify.com/s/files/1/0782/0168/4263/files/1-2_60e6966f-60b6-4872-a6e9-5c72f352ca90.jpg?v=1778666481&#34; alt=&#34;Receiver and Remote Controls&#34;&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;NO&lt;/strong&gt;: Normally open pin&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;COM&lt;/strong&gt;: Common pin&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;NC&lt;/strong&gt;: Normally closed pin&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;L&lt;/strong&gt;: Live input terminal (AC 100V-250V)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;N&lt;/strong&gt;: Neutral input terminal&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Learning button&lt;/strong&gt; on receiver – for programming modes and resetting&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Indicator LED&lt;/strong&gt; on receiver – provides visual feedback&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Antenna&lt;/strong&gt; on receiver – for signal reception&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;5 x Transmitters (remote controls)&lt;/strong&gt; – each with ON/OFF buttons, powered by CR2016 or CR2032 batteries&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;wiring-diagram&#34;&gt;Wiring Diagram&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#wiring-diagram&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://cdn.shopify.com/s/files/1/0782/0168/4263/files/1-3_b68abbf8-98ed-492c-9d6c-a2d08a490d71.jpg?v=1778666481&#34; alt=&#34;Wiring for AC/DC Devices and Switch&#34;&gt;&#xA;&lt;img src=&#34;https://cdn.shopify.com/s/files/1/0782/0168/4263/files/1-4_13e9b01b-2316-4017-a78e-247204e060a3.jpg?v=1778666481&#34; alt=&#34;Garage Door Opener Wiring&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SWITNEX AC85-250V RF Wireless Remote Control Switch User Manual</title>
-      <link>http://localhost:1313/manuals/2026/05/13/switnex-ac85-250v-rf-wireless-remote-control-switch-user-manual/</link>
-      <pubDate>Wed, 13 May 2026 11:20:13 +0000</pubDate>
-      <guid>http://localhost:1313/manuals/2026/05/13/switnex-ac85-250v-rf-wireless-remote-control-switch-user-manual/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;switnex-ac85-250v-rf-wireless-remote-control-switch-user-manual&#34;&gt;SWITNEX AC85-250V RF Wireless Remote Control Switch User Manual&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#switnex-ac85-250v-rf-wireless-remote-control-switch-user-manual&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Technical Data&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Brand&lt;/td&gt;&#xA;          &lt;td&gt;SWITNEX&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Model Number&lt;/td&gt;&#xA;          &lt;td&gt;2 Buttons&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Connections&lt;/td&gt;&#xA;          &lt;td&gt;Wireless&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Terminal Type&lt;/td&gt;&#xA;          &lt;td&gt;Clamp&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Compatible Devices&lt;/td&gt;&#xA;          &lt;td&gt;AC&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Remote Battery Type&lt;/td&gt;&#xA;          &lt;td&gt;Lithium Manganese Dioxide (CR2032)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Operating Modes&lt;/td&gt;&#xA;          &lt;td&gt;Momentary, Toggle, Latched&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Max Power&lt;/td&gt;&#xA;          &lt;td&gt;2500 Watts&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Working Voltage&lt;/td&gt;&#xA;          &lt;td&gt;AC 85V-250V&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Output Voltage&lt;/td&gt;&#xA;          &lt;td&gt;1V-250V&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Current Rating&lt;/td&gt;&#xA;          &lt;td&gt;10A&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Contact Material&lt;/td&gt;&#xA;          &lt;td&gt;Copper&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Contact Type&lt;/td&gt;&#xA;          &lt;td&gt;Normally Open (NO)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Mounting Type&lt;/td&gt;&#xA;          &lt;td&gt;Wall Mount&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Frequency&lt;/td&gt;&#xA;          &lt;td&gt;433MHz&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Code Type&lt;/td&gt;&#xA;          &lt;td&gt;1527 Learning Code or 2262 Fixed Code&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;product-detail&#34;&gt;Product Detail&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#product-detail&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://cdn.shopify.com/s/files/1/0782/0168/4263/files/61n91PwTamS._AC_SL1000_bcd98d2a-041f-41de-ba37-0d5347b96a9f.jpg?v=1778653185&#34; alt=&#34;Receiver with Protective Casing and Two 2-Button Remotes&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SWITNEX AC85-250V Universal Wireless Remote Control Switch User Manual</title>
-      <link>http://localhost:1313/manuals/2026/05/13/switnex-ac85-250v-universal-wireless-remote-control-switch-user-manual/</link>
-      <pubDate>Wed, 13 May 2026 11:20:06 +0000</pubDate>
-      <guid>http://localhost:1313/manuals/2026/05/13/switnex-ac85-250v-universal-wireless-remote-control-switch-user-manual/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;switnex-ac85-250v-universal-wireless-remote-control-switch-user-manual&#34;&gt;SWITNEX AC85-250V Universal Wireless Remote Control Switch User Manual&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#switnex-ac85-250v-universal-wireless-remote-control-switch-user-manual&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Technical Data&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Connectivity Technology&lt;/td&gt;&#xA;          &lt;td&gt;Radio Frequency (433MHz)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Receiver Input Voltage&lt;/td&gt;&#xA;          &lt;td&gt;AC 85V-250V&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Max Current&lt;/td&gt;&#xA;          &lt;td&gt;30A&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Max Range&lt;/td&gt;&#xA;          &lt;td&gt;50 meters (164 feet) without obstacles&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Number of Buttons (Remote)&lt;/td&gt;&#xA;          &lt;td&gt;2 (ON/OFF)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Max Supported Transmitters&lt;/td&gt;&#xA;          &lt;td&gt;20 pieces&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;RF frequency&lt;/td&gt;&#xA;          &lt;td&gt;433MHz&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Support encoding&lt;/td&gt;&#xA;          &lt;td&gt;1527 Leaning code、2262 fixed code&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;RF Operating mode&lt;/td&gt;&#xA;          &lt;td&gt;ASK superheterodyne wireless reception&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Working temperature&lt;/td&gt;&#xA;          &lt;td&gt;-30~+80&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Receiving Sensitivity&lt;/td&gt;&#xA;          &lt;td&gt;&amp;gt;97dbm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Quiescent Current&lt;/td&gt;&#xA;          &lt;td&gt;&amp;lt;5MA&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;product-detail&#34;&gt;Product Detail&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#product-detail&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://cdn.shopify.com/s/files/1/0782/0168/4263/files/3-1_c9c3be15-5e33-49b4-86f6-5e380521f07e.jpg?v=1778662596&#34; alt=&#34;SWITNEX AC85-250V Universal Wireless Remote Control Switch User Manual&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SWITNEX Wireless Remote Control Switch 433MHz (Model 5301) User Manual</title>
-      <link>http://localhost:1313/manuals/2026/05/13/switnex-wireless-remote-control-switch-433mhz-model-5301-user-manual/</link>
-      <pubDate>Wed, 13 May 2026 11:20:02 +0000</pubDate>
-      <guid>http://localhost:1313/manuals/2026/05/13/switnex-wireless-remote-control-switch-433mhz-model-5301-user-manual/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;switnex-wireless-remote-control-switch-433mhz-model-5301-user-manual&#34;&gt;SWITNEX Wireless Remote Control Switch 433MHz (Model 5301) User Manual&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#switnex-wireless-remote-control-switch-433mhz-model-5301-user-manual&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Technical Data&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Working voltage (Receiver)&lt;/td&gt;&#xA;          &lt;td&gt;DC 5V ~ 30V&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Input / output voltage (Relay contacts)&lt;/td&gt;&#xA;          &lt;td&gt;1V ~ 250V AC/DC&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Output Type&lt;/td&gt;&#xA;          &lt;td&gt;Passive output (potential-free contacts)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Quiescent Current&lt;/td&gt;&#xA;          &lt;td&gt;&amp;lt;5MA&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Max current&lt;/td&gt;&#xA;          &lt;td&gt;10A&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;RF frequency&lt;/td&gt;&#xA;          &lt;td&gt;433MHz&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Working temperature&lt;/td&gt;&#xA;          &lt;td&gt;-30 ~ +80&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Receiving Sensitivity&lt;/td&gt;&#xA;          &lt;td&gt;&amp;gt;97dbm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Amount of storage remote controls&lt;/td&gt;&#xA;          &lt;td&gt;20 pieces&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Support encoding&lt;/td&gt;&#xA;          &lt;td&gt;1527 Learning code (EV1527)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;RF Operating mode&lt;/td&gt;&#xA;          &lt;td&gt;ASK superheterodyne wireless reception&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Receiving range&lt;/td&gt;&#xA;          &lt;td&gt;Open space is more than 50 meters&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Remote operating mode&lt;/td&gt;&#xA;          &lt;td&gt;Momentary / Toggle / Latched / Delay&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Transmitter battery&lt;/td&gt;&#xA;          &lt;td&gt;2 x CR2016 (included)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Receiver dimensions&lt;/td&gt;&#xA;          &lt;td&gt;1.57 x 1.57 x 0.98 inches&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;product-detail&#34;&gt;Product Detail&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#product-detail&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://cdn.shopify.com/s/files/1/0782/0168/4263/files/5-2.jpg?v=1778664764&#34; alt=&#34;Receiver and Keyfob Transmitters&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SWITNEX AC 85-250V Wireless Remote Control Light Switch User Manual</title>
-      <link>http://localhost:1313/manuals/2026/05/13/switnex-ac-85-250v-wireless-remote-control-light-switch-user-manual/</link>
-      <pubDate>Wed, 13 May 2026 11:20:00 +0000</pubDate>
-      <guid>http://localhost:1313/manuals/2026/05/13/switnex-ac-85-250v-wireless-remote-control-light-switch-user-manual/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;switnex-ac-85-250v-wireless-remote-control-light-switch-user-manual&#34;&gt;SWITNEX AC 85-250V Wireless Remote Control Light Switch User Manual&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#switnex-ac-85-250v-wireless-remote-control-light-switch-user-manual&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Technical Data&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Product Dimensions (L x W x H)&lt;/td&gt;&#xA;          &lt;td&gt;6.5 x 3.6 x 2.3 cm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Weight&lt;/td&gt;&#xA;          &lt;td&gt;132 grams&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Operating Voltage&lt;/td&gt;&#xA;          &lt;td&gt;AC 90V-250V&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Max Current&lt;/td&gt;&#xA;          &lt;td&gt;10A&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Max Wattage&lt;/td&gt;&#xA;          &lt;td&gt;1500 Watts&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;RF frequency&lt;/td&gt;&#xA;          &lt;td&gt;433MHz&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Control Channels&lt;/td&gt;&#xA;          &lt;td&gt;1 Channel&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Remote Control Range&lt;/td&gt;&#xA;          &lt;td&gt;Up to 50 meters (open area)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Remote Control Battery&lt;/td&gt;&#xA;          &lt;td&gt;1 x 27A 12V Alkaline (included)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Certifications&lt;/td&gt;&#xA;          &lt;td&gt;CE&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Operating Mode&lt;/td&gt;&#xA;          &lt;td&gt;Momentary, Toggle, Latched&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Contact Type&lt;/td&gt;&#xA;          &lt;td&gt;Normally Open&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Terminal Type&lt;/td&gt;&#xA;          &lt;td&gt;Screw&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;product-detail&#34;&gt;Product Detail&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#product-detail&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://cdn.shopify.com/s/files/1/0782/0168/4263/files/6-1.jpg?v=1778665343&#34; alt=&#34;Receiver and Key Fob Remote&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SWITNEX Radio Frequency Light Remote Control Switch User Manual</title>
-      <link>http://localhost:1313/manuals/2026/05/13/switnex-radio-frequency-light-remote-control-switch-user-manual/</link>
-      <pubDate>Wed, 13 May 2026 11:19:59 +0000</pubDate>
-      <guid>http://localhost:1313/manuals/2026/05/13/switnex-radio-frequency-light-remote-control-switch-user-manual/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;switnex-radio-frequency-light-remote-control-switch-user-manual&#34;&gt;SWITNEX Radio Frequency Light Remote Control Switch User Manual&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#switnex-radio-frequency-light-remote-control-switch-user-manual&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Technical Data&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Receiver Working Voltage&lt;/td&gt;&#xA;          &lt;td&gt;AC 85V~240V&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Quiescent Current&lt;/td&gt;&#xA;          &lt;td&gt;&amp;lt;5mA&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Max Current&lt;/td&gt;&#xA;          &lt;td&gt;10A&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Max Wattage&lt;/td&gt;&#xA;          &lt;td&gt;1500 Watts&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;RF frequency&lt;/td&gt;&#xA;          &lt;td&gt;433MHz&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Working temperature&lt;/td&gt;&#xA;          &lt;td&gt;-30°C ~ +80°C&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Receiving Sensitivity&lt;/td&gt;&#xA;          &lt;td&gt;&amp;gt;97dbm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Storage remote controls&lt;/td&gt;&#xA;          &lt;td&gt;Up to 20 pieces&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Support encoding&lt;/td&gt;&#xA;          &lt;td&gt;1527 Learning code&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;RF Operating mode&lt;/td&gt;&#xA;          &lt;td&gt;ASK superheterodyne wireless reception&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Receiving range (open space)&lt;/td&gt;&#xA;          &lt;td&gt;&amp;gt;50 meters&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Pin Configuration&lt;/td&gt;&#xA;          &lt;td&gt;N / L&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Remote operating mode&lt;/td&gt;&#xA;          &lt;td&gt;Momentary / Toggle / Latched&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Transmitter Battery&lt;/td&gt;&#xA;          &lt;td&gt;2x CR2016 (included)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Maximum Switching Current&lt;/td&gt;&#xA;          &lt;td&gt;10 Amps&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Receiver dimensions&lt;/td&gt;&#xA;          &lt;td&gt;70 x 38 x 21 mm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;product-detail&#34;&gt;Product Detail&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#product-detail&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://cdn.shopify.com/s/files/1/0782/0168/4263/files/2-3_c7962897-c99f-42bf-91fc-58b1970c35f6.jpg?v=1778668063&#34; alt=&#34;Receiver and Two Transmitters&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SWITNEX DC 24V Wireless Relay Remote Control Switch User Manual</title>
-      <link>http://localhost:1313/manuals/2026/05/13/switnex-dc-24v-wireless-relay-remote-control-switch-user-manual/</link>
-      <pubDate>Wed, 13 May 2026 11:19:55 +0000</pubDate>
-      <guid>http://localhost:1313/manuals/2026/05/13/switnex-dc-24v-wireless-relay-remote-control-switch-user-manual/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;switnex-dc-24v-wireless-relay-remote-control-switch-user-manual&#34;&gt;SWITNEX DC 24V Wireless Relay Remote Control Switch User Manual&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#switnex-dc-24v-wireless-relay-remote-control-switch-user-manual&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Technical Data&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Receiver Operating voltage&lt;/td&gt;&#xA;          &lt;td&gt;DC 6V ~ 30V&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Input / output voltage&lt;/td&gt;&#xA;          &lt;td&gt;1 ~ 250V&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Max current&lt;/td&gt;&#xA;          &lt;td&gt;10A&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;RF frequency&lt;/td&gt;&#xA;          &lt;td&gt;433MHz&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Support encoding&lt;/td&gt;&#xA;          &lt;td&gt;1527 learning code&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Receiving sensitivity&lt;/td&gt;&#xA;          &lt;td&gt;&amp;gt;97dbm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;RF working mode&lt;/td&gt;&#xA;          &lt;td&gt;ASK superheterodyne wireless reception&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Working temperature&lt;/td&gt;&#xA;          &lt;td&gt;-30 ~ +80&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Reception range&lt;/td&gt;&#xA;          &lt;td&gt;Open space is more than 50 meters&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Quiescent current&lt;/td&gt;&#xA;          &lt;td&gt;&amp;lt;5 MA&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;product-detail&#34;&gt;Product Detail&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#product-detail&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://cdn.shopify.com/s/files/1/0782/0168/4263/files/1-1.webp?v=1778661124&#34; alt=&#34;dieserc  DC 24V Wireless Relay Remote Control Switch User Manual&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SWITNEX Wireless DC Motor Remote Control Switch User Manual</title>
-      <link>http://localhost:1313/manuals/2026/05/13/switnex-wireless-dc-motor-remote-control-switch-user-manual/</link>
-      <pubDate>Wed, 13 May 2026 11:01:25 +0000</pubDate>
-      <guid>http://localhost:1313/manuals/2026/05/13/switnex-wireless-dc-motor-remote-control-switch-user-manual/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;switnex-wireless-dc-motor-remote-control-switch-user-manual&#34;&gt;SWITNEX Wireless DC Motor Remote Control Switch User Manual&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#switnex-wireless-dc-motor-remote-control-switch-user-manual&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Technical Data&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Input Voltage&lt;/td&gt;&#xA;          &lt;td&gt;DC 12V-80V&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Max Load (Resistive)&lt;/td&gt;&#xA;          &lt;td&gt;10 Amps&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Max Load (Inductive)&lt;/td&gt;&#xA;          &lt;td&gt;5 Amps&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Frequency&lt;/td&gt;&#xA;          &lt;td&gt;433MHz&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Operating Modes&lt;/td&gt;&#xA;          &lt;td&gt;Momentary, Toggle, Latched&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Transmitter Storage&lt;/td&gt;&#xA;          &lt;td&gt;Up to 20 transmitters&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Control Distance&lt;/td&gt;&#xA;          &lt;td&gt;20-50 meters (open area)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Relay Lifespan&lt;/td&gt;&#xA;          &lt;td&gt;&amp;gt;100,000 times&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Item Weight&lt;/td&gt;&#xA;          &lt;td&gt;4.2 ounces&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Package Dimensions&lt;/td&gt;&#xA;          &lt;td&gt;4.02 x 3.74 x 1.57 inches&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Batteries&lt;/td&gt;&#xA;          &lt;td&gt;2 x 12V batteries (included)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;product-detail&#34;&gt;Product Detail&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#product-detail&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://cdn.shopify.com/s/files/1/0782/0168/4263/articles/13f83954-3ea5-4192-add8-27c2b66f0461.jpg?v=1740662586&#34; alt=&#34;dieserc remote control switch programming Receiver and Two Transmitters&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SWITNEX RF 433MHz Wireless Light Switch System User Manual</title>
-      <link>http://localhost:1313/manuals/2026/05/13/switnex-rf-433mhz-wireless-light-switch-system-user-manual/</link>
-      <pubDate>Wed, 13 May 2026 11:00:52 +0000</pubDate>
-      <guid>http://localhost:1313/manuals/2026/05/13/switnex-rf-433mhz-wireless-light-switch-system-user-manual/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;switnex-rf-433mhz-wireless-light-switch-system-user-manual&#34;&gt;SWITNEX RF 433MHz Wireless Light Switch System User Manual&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#switnex-rf-433mhz-wireless-light-switch-system-user-manual&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Technical Data&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Model Number&lt;/td&gt;&#xA;          &lt;td&gt;750828381477&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Product Dimensions (Switch)&lt;/td&gt;&#xA;          &lt;td&gt;8.8 x 8.8 x 2.3 cm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Product Weight (Switch)&lt;/td&gt;&#xA;          &lt;td&gt;60 grams&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Receiver Dimensions&lt;/td&gt;&#xA;          &lt;td&gt;4.7 x 4.2 x 2.3 cm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Operating Voltage (Receiver)&lt;/td&gt;&#xA;          &lt;td&gt;AC 85V ~ 250V&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Current Rating (Receiver)&lt;/td&gt;&#xA;          &lt;td&gt;10 A&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;RF frequency&lt;/td&gt;&#xA;          &lt;td&gt;433 MHz&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Learning Code&lt;/td&gt;&#xA;          &lt;td&gt;EV1527&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Switch Battery&lt;/td&gt;&#xA;          &lt;td&gt;1 x 12V 27A (included)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Switch Lifespan&lt;/td&gt;&#xA;          &lt;td&gt;Over 500,000 clicks&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Receiver Relay Lifespan&lt;/td&gt;&#xA;          &lt;td&gt;Over 400,000 uses&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Material&lt;/td&gt;&#xA;          &lt;td&gt;Plastic&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Switch Type&lt;/td&gt;&#xA;          &lt;td&gt;Push Button&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Terminal Type&lt;/td&gt;&#xA;          &lt;td&gt;Screw&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Country of Origin&lt;/td&gt;&#xA;          &lt;td&gt;China&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;product-detail&#34;&gt;Product Detail&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#product-detail&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://cdn.shopify.com/s/files/1/0782/0168/4263/files/3-9.2.jpg?v=1778409859&#34; alt=&#34;Package Contents&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SWITNEX DC 12V Wireless Relay Remote Control Switch User Manual</title>
-      <link>http://localhost:1313/manuals/2026/05/13/switnex-dc-12v-wireless-relay-remote-control-switch-user-manual/</link>
-      <pubDate>Wed, 13 May 2026 11:00:51 +0000</pubDate>
-      <guid>http://localhost:1313/manuals/2026/05/13/switnex-dc-12v-wireless-relay-remote-control-switch-user-manual/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;switnex-dc-12v-wireless-relay-remote-control-switch-user-manual&#34;&gt;SWITNEX DC 12V Wireless Relay Remote Control Switch User Manual&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#switnex-dc-12v-wireless-relay-remote-control-switch-user-manual&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Technical Data&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Model Number&lt;/td&gt;&#xA;          &lt;td&gt;1204&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Input / Output Volts&lt;/td&gt;&#xA;          &lt;td&gt;1V-250V&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Work Volts&lt;/td&gt;&#xA;          &lt;td&gt;DC 12V&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Current Rating&lt;/td&gt;&#xA;          &lt;td&gt;10 Amps&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;RF frequency&lt;/td&gt;&#xA;          &lt;td&gt;433MHz&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Reception Sensitivity&lt;/td&gt;&#xA;          &lt;td&gt;&amp;gt;97dBm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Chip Code&lt;/td&gt;&#xA;          &lt;td&gt;EV1527 (Learning Code)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Remote Control Range&lt;/td&gt;&#xA;          &lt;td&gt;Up to 50 meters (open area)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Number of Relays&lt;/td&gt;&#xA;          &lt;td&gt;4&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Relay Lifespan&lt;/td&gt;&#xA;          &lt;td&gt;Over 100,000 uses&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Connector Type&lt;/td&gt;&#xA;          &lt;td&gt;Screw Terminal&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Contact Material&lt;/td&gt;&#xA;          &lt;td&gt;Copper Alloy&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Contact Type&lt;/td&gt;&#xA;          &lt;td&gt;Normally Closed (NC), Common (COM), Normally Open (NO)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Mounting Type&lt;/td&gt;&#xA;          &lt;td&gt;Surface Mount&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Product Dimensions&lt;/td&gt;&#xA;          &lt;td&gt;2.95 x 2.17 x 1.18 inches&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Product Weight&lt;/td&gt;&#xA;          &lt;td&gt;5.93 ounces&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Batteries (Transmitters)&lt;/td&gt;&#xA;          &lt;td&gt;2 CR2 batteries (included)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;product-detail&#34;&gt;Product Detail&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#product-detail&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://cdn.shopify.com/s/files/1/0782/0168/4263/files/2-1.jpg?v=1778408581&#34; alt=&#34;Product Image&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SWITNEX 2204 Universal Wireless Remote Control Instruction Manual</title>
-      <link>http://localhost:1313/manuals/2026/05/13/switnex-2204-universal-wireless-remote-control-instruction-manual/</link>
-      <pubDate>Wed, 13 May 2026 11:00:43 +0000</pubDate>
-      <guid>http://localhost:1313/manuals/2026/05/13/switnex-2204-universal-wireless-remote-control-instruction-manual/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;switnex-2204-universal-wireless-remote-control-instruction-manual&#34;&gt;SWITNEX 2204 Universal Wireless Remote Control Instruction Manual&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#switnex-2204-universal-wireless-remote-control-instruction-manual&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Technical Data&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Working voltage&lt;/td&gt;&#xA;          &lt;td&gt;AC 85V~250V&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Input/output voltage&lt;/td&gt;&#xA;          &lt;td&gt;1~250V&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Output Type&lt;/td&gt;&#xA;          &lt;td&gt;Passive output&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Quiescent Current&lt;/td&gt;&#xA;          &lt;td&gt;&amp;lt;5MA&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Max current&lt;/td&gt;&#xA;          &lt;td&gt;10A&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;RF frequency&lt;/td&gt;&#xA;          &lt;td&gt;433MHz&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Working temperature&lt;/td&gt;&#xA;          &lt;td&gt;-30~+80&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Receiving Sensitivity&lt;/td&gt;&#xA;          &lt;td&gt;&amp;gt;97dbm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Amount of storage remote controls&lt;/td&gt;&#xA;          &lt;td&gt;20 pieces&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Support encoding&lt;/td&gt;&#xA;          &lt;td&gt;1527 Leaning code、2262 fixed code&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;RF Operating mode&lt;/td&gt;&#xA;          &lt;td&gt;ASK superheterodyne wireless reception&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Receiving range&lt;/td&gt;&#xA;          &lt;td&gt;Open space is more than 50 meters&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Remote operating mode&lt;/td&gt;&#xA;          &lt;td&gt;Momentary Mode / Toggle Mode / Latched Mode&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;product-detail&#34;&gt;Product Detail&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#product-detail&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://cdn.shopify.com/s/files/1/0782/0168/4263/files/1-0.jpg?v=1778407491&#34; alt=&#34;Product Image&#34;&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Product Support &amp; Documentation on DieseRC SWITNEX</title><link>https://www.dieserc.com/manuals/</link><description>Recent content in Product Support &amp; Documentation on DieseRC SWITNEX</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Wed, 13 May 2026 14:55:58 +0000</lastBuildDate><atom:link href="https://www.dieserc.com/manuals/index.xml" rel="self" type="application/rss+xml"/><item><title>SWITNEX Wireless DC Motor Remote Control Switch User Manual</title><link>https://www.dieserc.com/manuals/2026/05/13/switnex-wireless-dc-motor-remote-control-switch-user-manual/</link><pubDate>Wed, 13 May 2026 14:55:58 +0000</pubDate><guid>https://www.dieserc.com/manuals/2026/05/13/switnex-wireless-dc-motor-remote-control-switch-user-manual/</guid><description>&lt;hr&gt;
+&lt;h1 id="switnex-wireless-dc-motor-remote-control-switch-user-manual"&gt;SWITNEX Wireless DC Motor Remote Control Switch User Manual&lt;a class="td-heading-self-link" href="#switnex-wireless-dc-motor-remote-control-switch-user-manual" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Technical Data&lt;/th&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Input Voltage&lt;/td&gt;
+ &lt;td&gt;DC 12V-80V&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Max Load (Resistive)&lt;/td&gt;
+ &lt;td&gt;10 Amps&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Max Load (Inductive)&lt;/td&gt;
+ &lt;td&gt;5 Amps&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Frequency&lt;/td&gt;
+ &lt;td&gt;433MHz&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Operating Modes&lt;/td&gt;
+ &lt;td&gt;Momentary, Toggle, Latched&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Transmitter Storage&lt;/td&gt;
+ &lt;td&gt;Up to 20 transmitters&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Control Distance&lt;/td&gt;
+ &lt;td&gt;20-50 meters (open area)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Relay Lifespan&lt;/td&gt;
+ &lt;td&gt;&amp;gt;100,000 times&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Item Weight&lt;/td&gt;
+ &lt;td&gt;4.2 ounces&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Package Dimensions&lt;/td&gt;
+ &lt;td&gt;4.02 x 3.74 x 1.57 inches&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Batteries&lt;/td&gt;
+ &lt;td&gt;2 x 12V batteries (included)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="product-detail"&gt;Product Detail&lt;a class="td-heading-self-link" href="#product-detail" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/articles/13f83954-3ea5-4192-add8-27c2b66f0461.jpg?v=1740662586" alt="dieserc remote control switch programming Receiver and Two Transmitters"&gt;&lt;/p&gt;</description></item><item><title>SWITNEX DC 24V Wireless Relay Remote Control Switch User Manual</title><link>https://www.dieserc.com/manuals/2026/05/13/switnex-dc-24v-wireless-relay-remote-control-switch-user-manual/</link><pubDate>Wed, 13 May 2026 14:55:51 +0000</pubDate><guid>https://www.dieserc.com/manuals/2026/05/13/switnex-dc-24v-wireless-relay-remote-control-switch-user-manual/</guid><description>&lt;hr&gt;
+&lt;h1 id="switnex-dc-24v-wireless-relay-remote-control-switch-user-manual"&gt;SWITNEX DC 24V Wireless Relay Remote Control Switch User Manual&lt;a class="td-heading-self-link" href="#switnex-dc-24v-wireless-relay-remote-control-switch-user-manual" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Technical Data&lt;/th&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Receiver Operating voltage&lt;/td&gt;
+ &lt;td&gt;DC 6V ~ 30V&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Input / output voltage&lt;/td&gt;
+ &lt;td&gt;1 ~ 250V&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Max current&lt;/td&gt;
+ &lt;td&gt;10A&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;RF frequency&lt;/td&gt;
+ &lt;td&gt;433MHz&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Support encoding&lt;/td&gt;
+ &lt;td&gt;1527 learning code&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Receiving sensitivity&lt;/td&gt;
+ &lt;td&gt;&amp;gt;97dbm&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;RF working mode&lt;/td&gt;
+ &lt;td&gt;ASK superheterodyne wireless reception&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Working temperature&lt;/td&gt;
+ &lt;td&gt;-30 ~ +80&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Reception range&lt;/td&gt;
+ &lt;td&gt;Open space is more than 50 meters&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Quiescent current&lt;/td&gt;
+ &lt;td&gt;&amp;lt;5 MA&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="product-detail"&gt;Product Detail&lt;a class="td-heading-self-link" href="#product-detail" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/1-1.webp?v=1778661124" alt="dieserc DC 24V Wireless Relay Remote Control Switch User Manual"&gt;&lt;/p&gt;</description></item><item><title>SWITNEX Radio Frequency Light Remote Control Switch User Manual</title><link>https://www.dieserc.com/manuals/2026/05/13/switnex-radio-frequency-light-remote-control-switch-user-manual/</link><pubDate>Wed, 13 May 2026 14:55:43 +0000</pubDate><guid>https://www.dieserc.com/manuals/2026/05/13/switnex-radio-frequency-light-remote-control-switch-user-manual/</guid><description>&lt;hr&gt;
+&lt;h1 id="switnex-radio-frequency-light-remote-control-switch-user-manual"&gt;SWITNEX Radio Frequency Light Remote Control Switch User Manual&lt;a class="td-heading-self-link" href="#switnex-radio-frequency-light-remote-control-switch-user-manual" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Technical Data&lt;/th&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Receiver Working Voltage&lt;/td&gt;
+ &lt;td&gt;AC 85V~240V&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Quiescent Current&lt;/td&gt;
+ &lt;td&gt;&amp;lt;5mA&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Max Current&lt;/td&gt;
+ &lt;td&gt;10A&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Max Wattage&lt;/td&gt;
+ &lt;td&gt;1500 Watts&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;RF frequency&lt;/td&gt;
+ &lt;td&gt;433MHz&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Working temperature&lt;/td&gt;
+ &lt;td&gt;-30°C ~ +80°C&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Receiving Sensitivity&lt;/td&gt;
+ &lt;td&gt;&amp;gt;97dbm&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Storage remote controls&lt;/td&gt;
+ &lt;td&gt;Up to 20 pieces&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Support encoding&lt;/td&gt;
+ &lt;td&gt;1527 Learning code&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;RF Operating mode&lt;/td&gt;
+ &lt;td&gt;ASK superheterodyne wireless reception&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Receiving range (open space)&lt;/td&gt;
+ &lt;td&gt;&amp;gt;50 meters&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Pin Configuration&lt;/td&gt;
+ &lt;td&gt;N / L&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Remote operating mode&lt;/td&gt;
+ &lt;td&gt;Momentary / Toggle / Latched&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Transmitter Battery&lt;/td&gt;
+ &lt;td&gt;2x CR2016 (included)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Maximum Switching Current&lt;/td&gt;
+ &lt;td&gt;10 Amps&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Receiver dimensions&lt;/td&gt;
+ &lt;td&gt;70 x 38 x 21 mm&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="product-detail"&gt;Product Detail&lt;a class="td-heading-self-link" href="#product-detail" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/2-3_c7962897-c99f-42bf-91fc-58b1970c35f6.jpg?v=1778668063" alt="Receiver and Two Transmitters"&gt;&lt;/p&gt;</description></item><item><title>SWITNEX AC 85-250V Wireless Remote Control Light Switch User Manual</title><link>https://www.dieserc.com/manuals/2026/05/13/switnex-ac-85-250v-wireless-remote-control-light-switch-user-manual/</link><pubDate>Wed, 13 May 2026 14:55:34 +0000</pubDate><guid>https://www.dieserc.com/manuals/2026/05/13/switnex-ac-85-250v-wireless-remote-control-light-switch-user-manual/</guid><description>&lt;hr&gt;
+&lt;h1 id="switnex-ac-85-250v-wireless-remote-control-light-switch-user-manual"&gt;SWITNEX AC 85-250V Wireless Remote Control Light Switch User Manual&lt;a class="td-heading-self-link" href="#switnex-ac-85-250v-wireless-remote-control-light-switch-user-manual" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Technical Data&lt;/th&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Product Dimensions (L x W x H)&lt;/td&gt;
+ &lt;td&gt;6.5 x 3.6 x 2.3 cm&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Weight&lt;/td&gt;
+ &lt;td&gt;132 grams&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Operating Voltage&lt;/td&gt;
+ &lt;td&gt;AC 90V-250V&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Max Current&lt;/td&gt;
+ &lt;td&gt;10A&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Max Wattage&lt;/td&gt;
+ &lt;td&gt;1500 Watts&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;RF frequency&lt;/td&gt;
+ &lt;td&gt;433MHz&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Control Channels&lt;/td&gt;
+ &lt;td&gt;1 Channel&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Remote Control Range&lt;/td&gt;
+ &lt;td&gt;Up to 50 meters (open area)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Remote Control Battery&lt;/td&gt;
+ &lt;td&gt;1 x 27A 12V Alkaline (included)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Certifications&lt;/td&gt;
+ &lt;td&gt;CE&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Operating Mode&lt;/td&gt;
+ &lt;td&gt;Momentary, Toggle, Latched&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Contact Type&lt;/td&gt;
+ &lt;td&gt;Normally Open&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Terminal Type&lt;/td&gt;
+ &lt;td&gt;Screw&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="product-detail"&gt;Product Detail&lt;a class="td-heading-self-link" href="#product-detail" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/6-1.jpg?v=1778665343" alt="Receiver and Key Fob Remote"&gt;&lt;/p&gt;</description></item><item><title>SWITNEX AC85-250V Universal Wireless Remote Control Switch User Manual</title><link>https://www.dieserc.com/manuals/2026/05/13/switnex-ac85-250v-universal-wireless-remote-control-switch-user-manual/</link><pubDate>Wed, 13 May 2026 14:55:25 +0000</pubDate><guid>https://www.dieserc.com/manuals/2026/05/13/switnex-ac85-250v-universal-wireless-remote-control-switch-user-manual/</guid><description>&lt;hr&gt;
+&lt;h1 id="switnex-ac85-250v-universal-wireless-remote-control-switch-user-manual"&gt;SWITNEX AC85-250V Universal Wireless Remote Control Switch User Manual&lt;a class="td-heading-self-link" href="#switnex-ac85-250v-universal-wireless-remote-control-switch-user-manual" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Technical Data&lt;/th&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Connectivity Technology&lt;/td&gt;
+ &lt;td&gt;Radio Frequency (433MHz)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Receiver Input Voltage&lt;/td&gt;
+ &lt;td&gt;AC 85V-250V&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Max Current&lt;/td&gt;
+ &lt;td&gt;30A&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Max Range&lt;/td&gt;
+ &lt;td&gt;50 meters (164 feet) without obstacles&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Number of Buttons (Remote)&lt;/td&gt;
+ &lt;td&gt;2 (ON/OFF)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Max Supported Transmitters&lt;/td&gt;
+ &lt;td&gt;20 pieces&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;RF frequency&lt;/td&gt;
+ &lt;td&gt;433MHz&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Support encoding&lt;/td&gt;
+ &lt;td&gt;1527 Leaning code、2262 fixed code&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;RF Operating mode&lt;/td&gt;
+ &lt;td&gt;ASK superheterodyne wireless reception&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Working temperature&lt;/td&gt;
+ &lt;td&gt;-30~+80&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Receiving Sensitivity&lt;/td&gt;
+ &lt;td&gt;&amp;gt;97dbm&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Quiescent Current&lt;/td&gt;
+ &lt;td&gt;&amp;lt;5MA&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="product-detail"&gt;Product Detail&lt;a class="td-heading-self-link" href="#product-detail" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/3-1_c9c3be15-5e33-49b4-86f6-5e380521f07e.jpg?v=1778662596" alt="SWITNEX AC85-250V Universal Wireless Remote Control Switch User Manual"&gt;&lt;/p&gt;</description></item><item><title>SWITNEX RF 433MHz Wireless Light Switch System User Manual</title><link>https://www.dieserc.com/manuals/2026/05/13/switnex-rf-433mhz-wireless-light-switch-system-user-manual/</link><pubDate>Wed, 13 May 2026 14:55:15 +0000</pubDate><guid>https://www.dieserc.com/manuals/2026/05/13/switnex-rf-433mhz-wireless-light-switch-system-user-manual/</guid><description>&lt;hr&gt;
+&lt;h1 id="switnex-rf-433mhz-wireless-light-switch-system-user-manual"&gt;SWITNEX RF 433MHz Wireless Light Switch System User Manual&lt;a class="td-heading-self-link" href="#switnex-rf-433mhz-wireless-light-switch-system-user-manual" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Technical Data&lt;/th&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Model Number&lt;/td&gt;
+ &lt;td&gt;750828381477&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Product Dimensions (Switch)&lt;/td&gt;
+ &lt;td&gt;8.8 x 8.8 x 2.3 cm&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Product Weight (Switch)&lt;/td&gt;
+ &lt;td&gt;60 grams&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Receiver Dimensions&lt;/td&gt;
+ &lt;td&gt;4.7 x 4.2 x 2.3 cm&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Operating Voltage (Receiver)&lt;/td&gt;
+ &lt;td&gt;AC 85V ~ 250V&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Current Rating (Receiver)&lt;/td&gt;
+ &lt;td&gt;10 A&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;RF frequency&lt;/td&gt;
+ &lt;td&gt;433 MHz&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Learning Code&lt;/td&gt;
+ &lt;td&gt;EV1527&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Switch Battery&lt;/td&gt;
+ &lt;td&gt;1 x 12V 27A (included)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Switch Lifespan&lt;/td&gt;
+ &lt;td&gt;Over 500,000 clicks&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Receiver Relay Lifespan&lt;/td&gt;
+ &lt;td&gt;Over 400,000 uses&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Material&lt;/td&gt;
+ &lt;td&gt;Plastic&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Switch Type&lt;/td&gt;
+ &lt;td&gt;Push Button&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Terminal Type&lt;/td&gt;
+ &lt;td&gt;Screw&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Country of Origin&lt;/td&gt;
+ &lt;td&gt;China&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="product-detail"&gt;Product Detail&lt;a class="td-heading-self-link" href="#product-detail" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/3-9.2.jpg?v=1778409859" alt="Package Contents"&gt;&lt;/p&gt;</description></item><item><title>SWITNEX AC85-250V RF Wireless Remote Control Switch User Manual</title><link>https://www.dieserc.com/manuals/2026/05/13/switnex-ac85-250v-rf-wireless-remote-control-switch-user-manual/</link><pubDate>Wed, 13 May 2026 14:55:05 +0000</pubDate><guid>https://www.dieserc.com/manuals/2026/05/13/switnex-ac85-250v-rf-wireless-remote-control-switch-user-manual/</guid><description>&lt;hr&gt;
+&lt;h1 id="switnex-ac85-250v-rf-wireless-remote-control-switch-user-manual"&gt;SWITNEX AC85-250V RF Wireless Remote Control Switch User Manual&lt;a class="td-heading-self-link" href="#switnex-ac85-250v-rf-wireless-remote-control-switch-user-manual" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Technical Data&lt;/th&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Brand&lt;/td&gt;
+ &lt;td&gt;SWITNEX&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Model Number&lt;/td&gt;
+ &lt;td&gt;2 Buttons&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Connections&lt;/td&gt;
+ &lt;td&gt;Wireless&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Terminal Type&lt;/td&gt;
+ &lt;td&gt;Clamp&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Compatible Devices&lt;/td&gt;
+ &lt;td&gt;AC&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Remote Battery Type&lt;/td&gt;
+ &lt;td&gt;Lithium Manganese Dioxide (CR2032)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Operating Modes&lt;/td&gt;
+ &lt;td&gt;Momentary, Toggle, Latched&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Max Power&lt;/td&gt;
+ &lt;td&gt;2500 Watts&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Working Voltage&lt;/td&gt;
+ &lt;td&gt;AC 85V-250V&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Output Voltage&lt;/td&gt;
+ &lt;td&gt;1V-250V&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Current Rating&lt;/td&gt;
+ &lt;td&gt;10A&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Contact Material&lt;/td&gt;
+ &lt;td&gt;Copper&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Contact Type&lt;/td&gt;
+ &lt;td&gt;Normally Open (NO)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Mounting Type&lt;/td&gt;
+ &lt;td&gt;Wall Mount&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Frequency&lt;/td&gt;
+ &lt;td&gt;433MHz&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Code Type&lt;/td&gt;
+ &lt;td&gt;1527 Learning Code or 2262 Fixed Code&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="product-detail"&gt;Product Detail&lt;a class="td-heading-self-link" href="#product-detail" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/61n91PwTamS._AC_SL1000_bcd98d2a-041f-41de-ba37-0d5347b96a9f.jpg?v=1778653185" alt="Receiver with Protective Casing and Two 2-Button Remotes"&gt;&lt;/p&gt;</description></item><item><title>SWITNEX 2204 Universal Wireless Remote Control Instruction Manual</title><link>https://www.dieserc.com/manuals/2026/05/13/switnex-2204-universal-wireless-remote-control-instruction-manual/</link><pubDate>Wed, 13 May 2026 14:54:56 +0000</pubDate><guid>https://www.dieserc.com/manuals/2026/05/13/switnex-2204-universal-wireless-remote-control-instruction-manual/</guid><description>&lt;hr&gt;
+&lt;h1 id="switnex-2204-universal-wireless-remote-control-instruction-manual"&gt;SWITNEX 2204 Universal Wireless Remote Control Instruction Manual&lt;a class="td-heading-self-link" href="#switnex-2204-universal-wireless-remote-control-instruction-manual" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Technical Data&lt;/th&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Working voltage&lt;/td&gt;
+ &lt;td&gt;AC 85V~250V&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Input/output voltage&lt;/td&gt;
+ &lt;td&gt;1~250V&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Output Type&lt;/td&gt;
+ &lt;td&gt;Passive output&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Quiescent Current&lt;/td&gt;
+ &lt;td&gt;&amp;lt;5MA&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Max current&lt;/td&gt;
+ &lt;td&gt;10A&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;RF frequency&lt;/td&gt;
+ &lt;td&gt;433MHz&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Working temperature&lt;/td&gt;
+ &lt;td&gt;-30~+80&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Receiving Sensitivity&lt;/td&gt;
+ &lt;td&gt;&amp;gt;97dbm&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Amount of storage remote controls&lt;/td&gt;
+ &lt;td&gt;20 pieces&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Support encoding&lt;/td&gt;
+ &lt;td&gt;1527 Leaning code、2262 fixed code&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;RF Operating mode&lt;/td&gt;
+ &lt;td&gt;ASK superheterodyne wireless reception&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Receiving range&lt;/td&gt;
+ &lt;td&gt;Open space is more than 50 meters&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Remote operating mode&lt;/td&gt;
+ &lt;td&gt;Momentary Mode / Toggle Mode / Latched Mode&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="product-detail"&gt;Product Detail&lt;a class="td-heading-self-link" href="#product-detail" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/1-0.jpg?v=1778407491" alt="Product Image"&gt;&lt;/p&gt;</description></item><item><title>SWITNEX Wireless Remote Control Switch 433MHz (Model 5301) User Manual</title><link>https://www.dieserc.com/manuals/2026/05/13/switnex-wireless-remote-control-switch-433mhz-model-5301-user-manual/</link><pubDate>Wed, 13 May 2026 14:54:47 +0000</pubDate><guid>https://www.dieserc.com/manuals/2026/05/13/switnex-wireless-remote-control-switch-433mhz-model-5301-user-manual/</guid><description>&lt;hr&gt;
+&lt;h1 id="switnex-wireless-remote-control-switch-433mhz-model-5301-user-manual"&gt;SWITNEX Wireless Remote Control Switch 433MHz (Model 5301) User Manual&lt;a class="td-heading-self-link" href="#switnex-wireless-remote-control-switch-433mhz-model-5301-user-manual" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Technical Data&lt;/th&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Working voltage (Receiver)&lt;/td&gt;
+ &lt;td&gt;DC 5V ~ 30V&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Input / output voltage (Relay contacts)&lt;/td&gt;
+ &lt;td&gt;1V ~ 250V AC/DC&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Output Type&lt;/td&gt;
+ &lt;td&gt;Passive output (potential-free contacts)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Quiescent Current&lt;/td&gt;
+ &lt;td&gt;&amp;lt;5MA&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Max current&lt;/td&gt;
+ &lt;td&gt;10A&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;RF frequency&lt;/td&gt;
+ &lt;td&gt;433MHz&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Working temperature&lt;/td&gt;
+ &lt;td&gt;-30 ~ +80&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Receiving Sensitivity&lt;/td&gt;
+ &lt;td&gt;&amp;gt;97dbm&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Amount of storage remote controls&lt;/td&gt;
+ &lt;td&gt;20 pieces&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Support encoding&lt;/td&gt;
+ &lt;td&gt;1527 Learning code (EV1527)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;RF Operating mode&lt;/td&gt;
+ &lt;td&gt;ASK superheterodyne wireless reception&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Receiving range&lt;/td&gt;
+ &lt;td&gt;Open space is more than 50 meters&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Remote operating mode&lt;/td&gt;
+ &lt;td&gt;Momentary / Toggle / Latched / Delay&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Transmitter battery&lt;/td&gt;
+ &lt;td&gt;2 x CR2016 (included)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Receiver dimensions&lt;/td&gt;
+ &lt;td&gt;1.57 x 1.57 x 0.98 inches&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="product-detail"&gt;Product Detail&lt;a class="td-heading-self-link" href="#product-detail" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/5-2.jpg?v=1778664764" alt="Receiver and Keyfob Transmitters"&gt;&lt;/p&gt;</description></item><item><title>SWITNEX 1-Channel Wireless Remote Control Relay Switch (433MHz, 220V-240V) User Manual</title><link>https://www.dieserc.com/manuals/2026/05/13/switnex-1-channel-wireless-remote-control-relay-switch-433mhz-220v-240v-user-manual/</link><pubDate>Wed, 13 May 2026 14:54:36 +0000</pubDate><guid>https://www.dieserc.com/manuals/2026/05/13/switnex-1-channel-wireless-remote-control-relay-switch-433mhz-220v-240v-user-manual/</guid><description>&lt;hr&gt;
+&lt;h1 id="switnex-1-channel-wireless-remote-control-relay-switch-433mhz-220v-240v-user-manual"&gt;SWITNEX 1-Channel Wireless Remote Control Relay Switch (433MHz, 220V-240V) User Manual&lt;a class="td-heading-self-link" href="#switnex-1-channel-wireless-remote-control-relay-switch-433mhz-220v-240v-user-manual" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Technical Data&lt;/th&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Operating Frequency&lt;/td&gt;
+ &lt;td&gt;433MHz&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Receiver Voltage&lt;/td&gt;
+ &lt;td&gt;AC 100V~250V&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Relay Type&lt;/td&gt;
+ &lt;td&gt;Potential-Free Contacts (Dry Contacts)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Relay Current&lt;/td&gt;
+ &lt;td&gt;5A&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Control Range&lt;/td&gt;
+ &lt;td&gt;Up to 30 meters (open area)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Learning Code&lt;/td&gt;
+ &lt;td&gt;EV1527&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Transmitter Battery&lt;/td&gt;
+ &lt;td&gt;2x CR2016 or 1x CR2032 (included)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Components Included&lt;/td&gt;
+ &lt;td&gt;1 Receiver, 5 Transmitters&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="product-detail"&gt;Product Detail&lt;a class="td-heading-self-link" href="#product-detail" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/1-2_60e6966f-60b6-4872-a6e9-5c72f352ca90.jpg?v=1778666481" alt="Receiver and Remote Controls"&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;NO&lt;/strong&gt;: Normally open pin&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;COM&lt;/strong&gt;: Common pin&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;NC&lt;/strong&gt;: Normally closed pin&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;L&lt;/strong&gt;: Live input terminal (AC 100V-250V)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;N&lt;/strong&gt;: Neutral input terminal&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Learning button&lt;/strong&gt; on receiver – for programming modes and resetting&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Indicator LED&lt;/strong&gt; on receiver – provides visual feedback&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Antenna&lt;/strong&gt; on receiver – for signal reception&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;5 x Transmitters (remote controls)&lt;/strong&gt; – each with ON/OFF buttons, powered by CR2016 or CR2032 batteries&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="wiring-diagram"&gt;Wiring Diagram&lt;a class="td-heading-self-link" href="#wiring-diagram" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/1-3_b68abbf8-98ed-492c-9d6c-a2d08a490d71.jpg?v=1778666481" alt="Wiring for AC/DC Devices and Switch"&gt;
+&lt;img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/1-4_13e9b01b-2316-4017-a78e-247204e060a3.jpg?v=1778666481" alt="Garage Door Opener Wiring"&gt;&lt;/p&gt;</description></item><item><title>SWITNEX DC12-48V 433MHz Wireless Remote Control Switch User Manual</title><link>https://www.dieserc.com/manuals/2026/05/13/switnex-dc12-48v-433mhz-wireless-remote-control-switch-user-manual/</link><pubDate>Wed, 13 May 2026 14:54:25 +0000</pubDate><guid>https://www.dieserc.com/manuals/2026/05/13/switnex-dc12-48v-433mhz-wireless-remote-control-switch-user-manual/</guid><description>&lt;hr&gt;
+&lt;h1 id="switnex-dc12-48v-433mhz-wireless-remote-control-switch-user-manual"&gt;SWITNEX DC12-48V 433MHz Wireless Remote Control Switch User Manual&lt;a class="td-heading-self-link" href="#switnex-dc12-48v-433mhz-wireless-remote-control-switch-user-manual" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Technical Data&lt;/th&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Operating Voltage&lt;/td&gt;
+ &lt;td&gt;DC 12V ~ 48V&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Max Current Rating&lt;/td&gt;
+ &lt;td&gt;40 Amps&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;RF frequency&lt;/td&gt;
+ &lt;td&gt;433MHz&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Control Range&lt;/td&gt;
+ &lt;td&gt;Up to 50 meters (162 feet) without obstacles&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Operating Modes&lt;/td&gt;
+ &lt;td&gt;Momentary, Toggle, Latched (default: Latched)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Transmitter Storage&lt;/td&gt;
+ &lt;td&gt;Receiver can store up to 20 transmitters&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Receiver Dimensions&lt;/td&gt;
+ &lt;td&gt;2.56 x 2.36 x 1.18 inches (65x58x30mm)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Transmitter Dimensions&lt;/td&gt;
+ &lt;td&gt;2.3 x 1.2 x 0.4 inches (60x30x14mm)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Remote Control Battery&lt;/td&gt;
+ &lt;td&gt;1 x CR2032 (included)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="product-detail"&gt;Product Detail&lt;a class="td-heading-self-link" href="#product-detail" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/4-2_010e0fdc-42f6-4709-8cd3-149c4a351874.jpg?v=1778663909" alt="Receiver and Two Keyfobs"&gt;&lt;/p&gt;</description></item><item><title>SWITNEX AC 110V-240V Wireless Remote Control Light Switch (Model: B0FKS38W6K) User Manual</title><link>https://www.dieserc.com/manuals/2026/05/13/switnex-ac-110v-240v-wireless-remote-control-light-switch-model-b0fks38w6k-user-manual/</link><pubDate>Wed, 13 May 2026 14:54:17 +0000</pubDate><guid>https://www.dieserc.com/manuals/2026/05/13/switnex-ac-110v-240v-wireless-remote-control-light-switch-model-b0fks38w6k-user-manual/</guid><description>&lt;hr&gt;
+&lt;h1 id="switnex-ac-110v-240v-wireless-remote-control-light-switch-model-b0fks38w6k-user-manual"&gt;SWITNEX AC 110V-240V Wireless Remote Control Light Switch (Model: B0FKS38W6K) User Manual&lt;a class="td-heading-self-link" href="#switnex-ac-110v-240v-wireless-remote-control-light-switch-model-b0fks38w6k-user-manual" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Technical Data&lt;/th&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Operation Mode&lt;/td&gt;
+ &lt;td&gt;ON-OFF&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Current Rating&lt;/td&gt;
+ &lt;td&gt;10 Amps&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Operating Voltage&lt;/td&gt;
+ &lt;td&gt;AC 90V-250V (110V, 120V, 220V, 240V compatible)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Max Load (Resistive)&lt;/td&gt;
+ &lt;td&gt;1500W&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Contact Type&lt;/td&gt;
+ &lt;td&gt;Normally Open&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Connector Type&lt;/td&gt;
+ &lt;td&gt;Crimp&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Terminal&lt;/td&gt;
+ &lt;td&gt;Screw&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Receiver Dimensions (L x W x H)&lt;/td&gt;
+ &lt;td&gt;65 x 36 x 23 mm (2.56 x 1.42 x 0.91 inches)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Transmitter Dimensions (L x W x H)&lt;/td&gt;
+ &lt;td&gt;115 x 70 x 15 mm (4.53 x 2.76 x 0.59 inches)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Circuit Type&lt;/td&gt;
+ &lt;td&gt;1-way&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Contact Material&lt;/td&gt;
+ &lt;td&gt;Plastic&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;RF frequency&lt;/td&gt;
+ &lt;td&gt;433MHz&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Control Distance (Open area)&lt;/td&gt;
+ &lt;td&gt;Up to 30 meters (100 feet)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Control Distance (Through walls/doors)&lt;/td&gt;
+ &lt;td&gt;30-55 meters (100-180 feet)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Transmitter Battery&lt;/td&gt;
+ &lt;td&gt;1 x AAA 12V (included)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="product-detail"&gt;Product Detail&lt;a class="td-heading-self-link" href="#product-detail" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/1-2_5e825f93-3bce-4c82-92d9-8f47488fb329.jpg?v=1778669233" alt="White Wall-Mounted Switch and Compact Receiver"&gt;&lt;/p&gt;</description></item><item><title>DieseRC Wireless Remote Control Switch System User Manual</title><link>https://www.dieserc.com/manuals/2026/05/13/dieserc-wireless-remote-control-switch-system-user-manual/</link><pubDate>Wed, 13 May 2026 14:54:07 +0000</pubDate><guid>https://www.dieserc.com/manuals/2026/05/13/dieserc-wireless-remote-control-switch-system-user-manual/</guid><description>&lt;hr&gt;
+&lt;h1 id="dieserc-wireless-remote-control-switch-system-user-manual"&gt;DieseRC Wireless Remote Control Switch System User Manual&lt;a class="td-heading-self-link" href="#dieserc-wireless-remote-control-switch-system-user-manual" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Technical Data&lt;/th&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Brand&lt;/td&gt;
+ &lt;td&gt;DieseRC&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Model&lt;/td&gt;
+ &lt;td&gt;RX26&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Operating Voltage (Receiver)&lt;/td&gt;
+ &lt;td&gt;DC 3.6V ~ 30V&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Max Load Current&lt;/td&gt;
+ &lt;td&gt;2A&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;RF frequency&lt;/td&gt;
+ &lt;td&gt;433MHz&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Encoding Type&lt;/td&gt;
+ &lt;td&gt;EV1527 Learning Code&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Receiver Dimensions (L x W x T)&lt;/td&gt;
+ &lt;td&gt;31mm x 15mm x 4mm (approx. 1.2 x 0.6 x 0.2 inches)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Transmitter Dimensions (L x W x T)&lt;/td&gt;
+ &lt;td&gt;62mm x 30mm x 13mm (approx. 2.4 x 1.2 x 0.5 inches)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Transmitter Battery&lt;/td&gt;
+ &lt;td&gt;2x CR2016 (included)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Max Supported Transmitters (per receiver)&lt;/td&gt;
+ &lt;td&gt;15 pieces&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Control Distance (open area)&lt;/td&gt;
+ &lt;td&gt;Up to 40 meters&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Operating Modes&lt;/td&gt;
+ &lt;td&gt;Momentary, Toggle, Latched, Delay&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="product-detail"&gt;Product Detail&lt;a class="td-heading-self-link" href="#product-detail" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/2-3_e33082f4-1636-4128-9efb-666ea4fe6331.jpg?v=1778670207" alt="Two Receiver Modules and Two Key Fob Transmitters"&gt;&lt;/p&gt;</description></item><item><title>SWITNEX 2-Channel Wireless Relay Remote Control Switch User Manual</title><link>https://www.dieserc.com/manuals/2026/05/13/switnex-2-channel-wireless-relay-remote-control-switch-user-manual/</link><pubDate>Wed, 13 May 2026 14:53:54 +0000</pubDate><guid>https://www.dieserc.com/manuals/2026/05/13/switnex-2-channel-wireless-relay-remote-control-switch-user-manual/</guid><description>&lt;hr&gt;
+&lt;h1 id="switnex-2-channel-wireless-relay-remote-control-switch-user-manual"&gt;SWITNEX 2-Channel Wireless Relay Remote Control Switch User Manual&lt;a class="td-heading-self-link" href="#switnex-2-channel-wireless-relay-remote-control-switch-user-manual" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Technical Data&lt;/th&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Model&lt;/td&gt;
+ &lt;td&gt;2 Channels Wireless Relay Remote Control Switch&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Input Voltage&lt;/td&gt;
+ &lt;td&gt;DC 5V-30V&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Max Load Current&lt;/td&gt;
+ &lt;td&gt;10 Amps per channel&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;RF frequency&lt;/td&gt;
+ &lt;td&gt;433MHz&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Output Style&lt;/td&gt;
+ &lt;td&gt;Passive Output (Dry Contacts)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Contact Type&lt;/td&gt;
+ &lt;td&gt;Normally Open (NO), Common (COM), Normally Closed (NC)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Operating Modes&lt;/td&gt;
+ &lt;td&gt;Momentary, Toggle, Latched&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Transmitter Battery&lt;/td&gt;
+ &lt;td&gt;A27 (Alkaline, included)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Receiver Dimensions&lt;/td&gt;
+ &lt;td&gt;Approx. 95mm x 56mm x 24mm (3.7 x 2.2 x 0.9 inches)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Weight&lt;/td&gt;
+ &lt;td&gt;Approx. 5.6 ounces&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="product-detail"&gt;Product Detail&lt;a class="td-heading-self-link" href="#product-detail" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/3-2_1e03076f-8709-4a60-843d-10f26f822416.jpg?v=1778671746" alt="Receiver and Two Keyfob Transmitters"&gt;&lt;/p&gt;</description></item><item><title>SWITNEX DC 12V Wireless Relay Remote Control Switch User Manual</title><link>https://www.dieserc.com/manuals/2026/05/13/switnex-dc-12v-wireless-relay-remote-control-switch-user-manual/</link><pubDate>Wed, 13 May 2026 13:30:12 +0000</pubDate><guid>https://www.dieserc.com/manuals/2026/05/13/switnex-dc-12v-wireless-relay-remote-control-switch-user-manual/</guid><description>&lt;hr&gt;
+&lt;h1 id="switnex-dc-12v-wireless-relay-remote-control-switch-user-manual"&gt;SWITNEX DC 12V Wireless Relay Remote Control Switch User Manual&lt;a class="td-heading-self-link" href="#switnex-dc-12v-wireless-relay-remote-control-switch-user-manual" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Technical Data&lt;/th&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Model Number&lt;/td&gt;
+ &lt;td&gt;1204&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Input / Output Volts&lt;/td&gt;
+ &lt;td&gt;1V-250V&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Work Volts&lt;/td&gt;
+ &lt;td&gt;DC 12V&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Current Rating&lt;/td&gt;
+ &lt;td&gt;10 Amps&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;RF frequency&lt;/td&gt;
+ &lt;td&gt;433MHz&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Reception Sensitivity&lt;/td&gt;
+ &lt;td&gt;&amp;gt;97dBm&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Chip Code&lt;/td&gt;
+ &lt;td&gt;EV1527 (Learning Code)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Remote Control Range&lt;/td&gt;
+ &lt;td&gt;Up to 50 meters (open area)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Number of Relays&lt;/td&gt;
+ &lt;td&gt;4&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Relay Lifespan&lt;/td&gt;
+ &lt;td&gt;Over 100,000 uses&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Connector Type&lt;/td&gt;
+ &lt;td&gt;Screw Terminal&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Contact Material&lt;/td&gt;
+ &lt;td&gt;Copper Alloy&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Contact Type&lt;/td&gt;
+ &lt;td&gt;Normally Closed (NC), Common (COM), Normally Open (NO)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Mounting Type&lt;/td&gt;
+ &lt;td&gt;Surface Mount&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Product Dimensions&lt;/td&gt;
+ &lt;td&gt;2.95 x 2.17 x 1.18 inches&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Product Weight&lt;/td&gt;
+ &lt;td&gt;5.93 ounces&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Batteries (Transmitters)&lt;/td&gt;
+ &lt;td&gt;2 CR2 batteries (included)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="product-detail"&gt;Product Detail&lt;a class="td-heading-self-link" href="#product-detail" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://cdn.shopify.com/s/files/1/0782/0168/4263/files/2-1.jpg?v=1778408581" alt="Product Image"&gt;&lt;/p&gt;</description></item></channel></rss>
