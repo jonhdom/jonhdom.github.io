@@ -1,0 +1,627 @@
+<!doctype html>
+<html itemscope itemtype="http://schema.org/WebPage" lang="zh" class="no-js" data-theme-init>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
+<meta name="theme-color" media="(prefers-color-scheme: dark)"  content="#000000">
+
+<style>
+  html { background: Canvas; color: CanvasText; }
+  @media (prefers-color-scheme: dark) {
+    html { background: #0b0d12; color: #e6e6e6; }
+  }
+  html[data-theme-init] * { transition: none !important; }
+</style>
+
+<script>
+  (function() {
+    const themeKey = 'td-color-theme';
+    const storedTheme = localStorage.getItem(themeKey);
+    let theme = storedTheme || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+
+    if (theme === 'auto') {
+      theme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+    }
+
+    document.documentElement.setAttribute('data-bs-theme', theme);
+  })();
+</script>
+<meta name="robots" content="noindex, nofollow">
+<link rel="icon" type="image/png" href="/images/dieserc-brand-mark.png" sizes="any">
+<link rel="shortcut icon" href="/images/dieserc-brand-mark.png" type="image/png">
+<link rel="apple-touch-icon" href="/images/dieserc-brand-mark.png">
+
+<title>网关信号不好？先看这几条 | DieseRC SWITNEX</title>
+<meta name="description" content="墙厚、柜子挡信号时怎么摆网关和中继。">
+<meta name="keywords" content="DieseRC, 无线开关, 射频遥控开关, 继电器接收机, 智能继电器, Wi-Fi智能开关, Zigbee开关, 蓝牙开关, Matter, 车库门遥控, 电动窗帘, 卷帘电机, 门闸电机, 电控门锁电锁释放, 水泵控制, 通风, 智能家居, 节能遥控, 房车12V无线继电器, 船用射频遥控开关, 农场灌溉继电器, 433MHz学习型接收, 12v wireless relay, 1ch relay module, 1ch wireless relay, 2 channel wireless relay, dc motor rf controller, motor automation controller, 433mhz fixed code receiver, 433mhz high current relay">
+
+<meta property="og:url" content="http://localhost:1313/zh/troubleshooting/gateway-signal/">
+<meta property="og:site_name" content="DieseRC SWITNEX"><meta property="og:title" content="网关信号不好？先看这几条 | DieseRC SWITNEX">
+<meta property="og:description" content="墙厚、柜子挡信号时怎么摆网关和中继。">
+<meta property="og:type" content="article"><meta property="article:published_time" content="2026-05-10T00:00:00Z"><meta property="article:modified_time" content="2026-05-10T00:00:00Z">
+  <meta itemprop="name" content="网关信号不好？先看这几条">
+  <meta itemprop="description" content="墙厚、柜子挡信号时怎么摆网关和中继。">
+  <meta itemprop="datePublished" content="2026-05-10T00:00:00+00:00">
+  <meta itemprop="dateModified" content="2026-05-10T00:00:00+00:00">
+  <meta itemprop="wordCount" content="20">
+  <meta itemprop="keywords" content="Zigbee,Wi-Fi,Mesh,中继"><meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="网关信号不好？先看这几条 | DieseRC SWITNEX">
+<meta name="twitter:description" content="墙厚、柜子挡信号时怎么摆网关和中继。"><link href="/scss/main.css" rel="stylesheet">
+<script
+  src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"
+  integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g=="
+  crossorigin="anonymous"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;600;700;800&display=swap" rel="stylesheet">
+
+  </head>
+  <body class="td-page td-blog">
+    <header>
+      <nav class="td-navbar js-navbar-scroll">
+<div class="td-navbar-container container-fluid flex-column flex-md-row">
+  <div class="d-flex w-100 align-items-center justify-content-between justify-content-md-start flex-md-grow-0 gap-2 td-navbar__brand-row">
+    <a class="navbar-brand m-0 navbar-brand--dieserc d-flex align-items-center gap-2 text-decoration-none"
+   href="/zh/" aria-label="DieseRC SWITNEX"><span class="navbar-brand__name navbar-brand__wordmark navbar-brand__wordmark--dieserc-lockup">
+      <img class="navbar-brand__mark-img"
+        src="/images/dieserc-brand-mark.png"
+        width="40" height="40"
+        alt=""
+        decoding="async"
+        fetchpriority="high">
+      <span class="navbar-brand__mark-divider" aria-hidden="true"></span>
+      <span class="navbar-brand__mark-dieserc">DieseRC</span>
+    </span></a>
+
+    <button type="button"
+            class="btn btn-link td-navbar__drawer-toggler d-md-none px-2 py-1 lh-1 border-0 shadow-none"
+            data-bs-toggle="offcanvas"
+            data-bs-target="#tdMobileNav"
+            aria-controls="tdMobileNav"
+            aria-label="Menu">
+      <i class="fa-solid fa-bars fa-xl" aria-hidden="true"></i>
+    </button>
+  </div>
+  <div class="td-navbar__main td-navbar-nav-scroll td-navbar-nav-scroll--indicator d-none d-md-flex flex-md-grow-1" id="main_navbar">
+    <div class="scroll-indicator scroll-left"></div>
+    <ul class="navbar-nav">
+      <li class="nav-item">
+            <a class="nav-link" href="/zh/" title="首页"><span>首页</span></a>
+          </li>
+        <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle"
+               href="#"
+               id="navdd-solutions-trade"
+               role="button"
+               data-bs-toggle="dropdown"
+               data-bs-auto-close="outside"
+               aria-expanded="false"
+               aria-haspopup="true"><span>方案与贸易</span></a>
+            <ul class="dropdown-menu td-navbar__dropdown shadow-sm border-0" aria-labelledby="navdd-solutions-trade"><li>
+                  <a class="dropdown-item"
+                     href="/zh/smart-solutions/" title="智能方案"><span class="fw-semibold">智能方案</span></a>
+                </li><li>
+                  <a class="dropdown-item"
+                     href="/zh/wholesale-bulk-orders/" title="批发与大宗采购"><span class="fw-semibold">批发与大宗订单</span></a>
+                </li></ul>
+          </li>
+        <li class="nav-item">
+            <a class="nav-link" href="/zh/diy-compliance/" title="DIY与合规"><span>DIY与合规</span></a>
+          </li>
+        <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle"
+               href="#"
+               id="navdd-support-manuals"
+               role="button"
+               data-bs-toggle="dropdown"
+               data-bs-auto-close="outside"
+               aria-expanded="false"
+               aria-haspopup="true"><span>支持与手册</span></a>
+            <ul class="dropdown-menu td-navbar__dropdown shadow-sm border-0" aria-labelledby="navdd-support-manuals"><li>
+                  <a class="dropdown-item"
+                     href="/zh/manuals/" title="产品手册与文档"><span class="fw-semibold">手册</span></a>
+                </li><li>
+                  <a class="dropdown-item"
+                     href="/zh/troubleshooting/" title="故障排除指南"><span class="fw-semibold">故障排除</span></a>
+                </li></ul>
+          </li>
+        <li class="nav-item">
+            <a class="nav-link" href="/zh/property-insights/" title="房产洞察"><span>房产洞察</span></a>
+          </li>
+        <li class="nav-item">
+            <a class="nav-link" href="/zh/about/"><span>关于我们</span></a>
+          </li>
+        <li class="nav-item td-navbar__lang-menu">
+        <div class="td-lang-menu dropdown">
+  <a class="nav-link dropdown-toggle td-lang-menu__title" href="#" role="button"
+    data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    <span class="td-lang-menu__title-text">简体中文</span>
+    <span class="td-lang-menu__title-code">ZH</span>
+  </a>
+  <ul class="dropdown-menu">
+    <li><a class="dropdown-item" href="/troubleshooting/gateway-signal/">English</a></li>
+      <li><span class="dropdown-item active">简体中文</span></li>
+      <li><span class="dropdown-item disabled">Español</span></li>
+      <li><span class="dropdown-item disabled">العربية</span></li>
+      <li><span class="dropdown-item disabled">Русский</span></li>
+      <li><span class="dropdown-item disabled">Français</span></li>
+      <li><span class="dropdown-item disabled">Italiano</span></li>
+      <li><span class="dropdown-item disabled">Norsk</span></li>
+      <li><span class="dropdown-item disabled">Português</span></li>
+      <li><span class="dropdown-item disabled">Deutsch</span></li>
+      <li><span class="dropdown-item disabled">Dansk</span></li>
+      <li><span class="dropdown-item disabled">Română</span></li>
+      <li><span class="dropdown-item disabled">Polski</span></li>
+      </ul>
+</div></li>
+      <li class="nav-item td-navbar__light-dark-menu">
+        <div class="td-light-dark-menu dropdown"><svg xmlns="http://www.w3.org/2000/svg" class="d-none">
+  <symbol id="check2" viewBox="0 0 16 16">
+    <path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"/>
+  </symbol>
+  <symbol id="circle-half" viewBox="0 0 16 16">
+    <path d="M8 15A7 7 0 1 0 8 1v14zm0 1A8 8 0 1 1 8 0a8 8 0 0 1 0 16z"/>
+  </symbol>
+  <symbol id="moon-stars-fill" viewBox="0 0 16 16">
+    <path d="M6 .278a.768.768 0 0 1 .08.858 7.208 7.208 0 0 0-.878 3.46c0 4.021 3.278 7.277 7.318 7.277.527 0 1.04-.055 1.533-.16a.787.787 0 0 1 .81.316.733.733 0 0 1-.031.893A8.349 8.349 0 0 1 8.344 16C3.734 16 0 12.286 0 7.71 0 4.266 2.114 1.312 5.124.06A.752.752 0 0 1 6 .278z"/>
+    <path d="M10.794 3.148a.217.217 0 0 1 .412 0l.387 1.162c.173.518.579.924 1.097 1.097l1.162.387a.217.217 0 0 1 0 .412l-1.162.387a1.734 1.734 0 0 0-1.097 1.097l-.387 1.162a.217.217 0 0 1-.412 0l-.387-1.162A1.734 1.734 0 0 0 9.31 6.593l-1.162-.387a.217.217 0 0 1 0-.412l1.162-.387a1.734 1.734 0 0 0 1.097-1.097l.387-1.162zM13.863.099a.145.145 0 0 1 .274 0l.258.774c.115.346.386.617.732.732l.774.258a.145.145 0 0 1 0 .274l-.774.258a1.156 1.156 0 0 0-.732.732l-.258.774a.145.145 0 0 1-.274 0l-.258-.774a1.156 1.156 0 0 0-.732-.732l-.774-.258a.145.145 0 0 1 0-.274l.774-.258c.346-.115.617-.386.732-.732L13.863.1z"/>
+  </symbol>
+  <symbol id="sun-fill" viewBox="0 0 16 16">
+    <path d="M8 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8zM8 0a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 0zm0 13a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 13zm8-5a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2a.5.5 0 0 1 .5.5zM3 8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2A.5.5 0 0 1 3 8zm10.657-5.657a.5.5 0 0 1 0 .707l-1.414 1.415a.5.5 0 1 1-.707-.708l1.414-1.414a.5.5 0 0 1 .707 0zm-9.193 9.193a.5.5 0 0 1 0 .707L3.05 13.657a.5.5 0 0 1-.707-.707l1.414-1.414a.5.5 0 0 1 .707 0zm9.193 2.121a.5.5 0 0 1-.707 0l-1.414-1.414a.5.5 0 0 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .707zM4.464 4.465a.5.5 0 0 1-.707 0L2.343 3.05a.5.5 0 1 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .708z"/>
+  </symbol>
+</svg>
+<button class="btn btn-link nav-link dropdown-toggle d-flex align-items-center"
+        id="bd-theme"
+        type="button"
+        aria-expanded="false"
+        data-bs-toggle="dropdown"
+        aria-label="Toggle theme (auto)">
+  <svg class="bi my-1 theme-icon-active"><use href="#circle-half"></use></svg>
+</button>
+<ul class="dropdown-menu" aria-labelledby="bd-theme">
+  <li>
+    <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="light" aria-pressed="false">
+      <svg class="bi me-2 opacity-50"><use href="#sun-fill"></use></svg>
+      Light
+      <svg class="bi ms-auto d-none"><use href="#check2"></use></svg>
+    </button>
+  </li>
+  <li>
+    <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="dark" aria-pressed="false">
+      <svg class="bi me-2 opacity-50"><use href="#moon-stars-fill"></use></svg>
+      Dark
+      <svg class="bi ms-auto d-none"><use href="#check2"></use></svg>
+    </button>
+  </li>
+  <li>
+    <button type="button" class="dropdown-item d-flex align-items-center active" data-bs-theme-value="auto" aria-pressed="true">
+      <svg class="bi me-2 opacity-50"><use href="#circle-half"></use></svg>
+      Auto
+      <svg class="bi ms-auto d-none"><use href="#check2"></use></svg>
+    </button>
+  </li>
+</ul>
+</div>
+
+      </li>
+      </ul>
+    <div class="scroll-indicator scroll-right"></div>
+  </div>
+  <div class="td-navbar__search d-none d-lg-block">
+    
+  </div>
+</div>
+</nav>
+<div class="offcanvas offcanvas-end td-mobile-nav text-bg-body shadow-lg" tabindex="-1" id="tdMobileNav" aria-labelledby="tdMobileNavLabel">
+  <div class="offcanvas-header border-bottom align-items-center py-3">
+    <a class="navbar-brand m-0 navbar-brand--dieserc d-flex align-items-center gap-2 text-decoration-none"
+   href="/zh/" aria-label="DieseRC SWITNEX"><span class="navbar-brand__name navbar-brand__wordmark navbar-brand__wordmark--dieserc-lockup">
+      <img class="navbar-brand__mark-img"
+        src="/images/dieserc-brand-mark.png"
+        width="40" height="40"
+        alt=""
+        decoding="async"
+        fetchpriority="high">
+      <span class="navbar-brand__mark-divider" aria-hidden="true"></span>
+      <span class="navbar-brand__mark-dieserc">DieseRC</span>
+    </span></a>
+
+    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+  </div>
+  <div class="offcanvas-body d-flex flex-column p-0">
+    <nav class="flex-grow-1 overflow-auto" aria-label="Mobile">
+      <ul class="list-unstyled mb-0 td-mobile-nav__list">
+        <li class="border-bottom">
+              <a class="d-block px-3 py-3 text-decoration-none td-mobile-nav__link text-body"
+                 href="/zh/" title="首页">
+                首页
+              </a>
+            </li><li class="td-mobile-nav__item border-bottom">
+              <button type="button"
+                      class="td-mobile-nav__toggle w-100 btn btn-link text-start text-decoration-none d-flex align-items-center py-3 px-3 text-body rounded-0 shadow-none"
+                      data-bs-toggle="collapse"
+                      data-bs-target="#td-mob-sub-solutions-trade"
+                      aria-expanded="false"
+                      aria-controls="td-mob-sub-solutions-trade">
+                <span class="flex-grow-1">方案与贸易</span>
+                <i class="fa-solid fa-chevron-right td-mobile-nav__chev small text-body-secondary" aria-hidden="true"></i>
+              </button>
+              <div class="collapse td-mobile-nav__sub bg-body-tertiary" id="td-mob-sub-solutions-trade">
+                <ul class="list-unstyled mb-0 py-1"><li>
+                      <a class="d-block px-4 py-2 text-decoration-none td-mobile-nav__sublink text-body"
+                         href="/zh/smart-solutions/" title="智能方案">
+                        智能方案
+                      </a>
+                    </li><li>
+                      <a class="d-block px-4 py-2 text-decoration-none td-mobile-nav__sublink text-body"
+                         href="/zh/wholesale-bulk-orders/" title="批发与大宗采购">
+                        批发与大宗订单
+                      </a>
+                    </li></ul>
+              </div>
+            </li><li class="border-bottom">
+              <a class="d-block px-3 py-3 text-decoration-none td-mobile-nav__link text-body"
+                 href="/zh/diy-compliance/" title="DIY与合规">
+                DIY与合规
+              </a>
+            </li><li class="td-mobile-nav__item border-bottom">
+              <button type="button"
+                      class="td-mobile-nav__toggle w-100 btn btn-link text-start text-decoration-none d-flex align-items-center py-3 px-3 text-body rounded-0 shadow-none"
+                      data-bs-toggle="collapse"
+                      data-bs-target="#td-mob-sub-support-manuals"
+                      aria-expanded="false"
+                      aria-controls="td-mob-sub-support-manuals">
+                <span class="flex-grow-1">支持与手册</span>
+                <i class="fa-solid fa-chevron-right td-mobile-nav__chev small text-body-secondary" aria-hidden="true"></i>
+              </button>
+              <div class="collapse td-mobile-nav__sub bg-body-tertiary" id="td-mob-sub-support-manuals">
+                <ul class="list-unstyled mb-0 py-1"><li>
+                      <a class="d-block px-4 py-2 text-decoration-none td-mobile-nav__sublink text-body"
+                         href="/zh/manuals/" title="产品手册与文档">
+                        手册
+                      </a>
+                    </li><li>
+                      <a class="d-block px-4 py-2 text-decoration-none td-mobile-nav__sublink text-body"
+                         href="/zh/troubleshooting/" title="故障排除指南">
+                        故障排除
+                      </a>
+                    </li></ul>
+              </div>
+            </li><li class="border-bottom">
+              <a class="d-block px-3 py-3 text-decoration-none td-mobile-nav__link text-body"
+                 href="/zh/property-insights/" title="房产洞察">
+                房产洞察
+              </a>
+            </li><li class="border-bottom">
+              <a class="d-block px-3 py-3 text-decoration-none td-mobile-nav__link text-body"
+                 href="/zh/about/">
+                关于我们
+              </a>
+            </li></ul>
+    </nav>
+    <div class="border-top bg-body-secondary bg-opacity-25 p-3 mt-auto td-mobile-nav__footer">
+      <div class="d-flex flex-wrap align-items-center gap-2 justify-content-between">
+        <div class="td-mobile-nav__langs flex-grow-1">
+            <div class="td-lang-menu dropdown">
+  <a class="nav-link dropdown-toggle td-lang-menu__title" href="#" role="button"
+    data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    <span class="td-lang-menu__title-text">简体中文</span>
+    <span class="td-lang-menu__title-code">ZH</span>
+  </a>
+  <ul class="dropdown-menu">
+    <li><a class="dropdown-item" href="/troubleshooting/gateway-signal/">English</a></li>
+      <li><span class="dropdown-item active">简体中文</span></li>
+      <li><span class="dropdown-item disabled">Español</span></li>
+      <li><span class="dropdown-item disabled">العربية</span></li>
+      <li><span class="dropdown-item disabled">Русский</span></li>
+      <li><span class="dropdown-item disabled">Français</span></li>
+      <li><span class="dropdown-item disabled">Italiano</span></li>
+      <li><span class="dropdown-item disabled">Norsk</span></li>
+      <li><span class="dropdown-item disabled">Português</span></li>
+      <li><span class="dropdown-item disabled">Deutsch</span></li>
+      <li><span class="dropdown-item disabled">Dansk</span></li>
+      <li><span class="dropdown-item disabled">Română</span></li>
+      <li><span class="dropdown-item disabled">Polski</span></li>
+      </ul>
+</div>
+          </div><div class="td-mobile-nav__theme">
+            <div class="td-light-dark-menu dropdown"><svg xmlns="http://www.w3.org/2000/svg" class="d-none">
+  <symbol id="check2" viewBox="0 0 16 16">
+    <path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"/>
+  </symbol>
+  <symbol id="circle-half" viewBox="0 0 16 16">
+    <path d="M8 15A7 7 0 1 0 8 1v14zm0 1A8 8 0 1 1 8 0a8 8 0 0 1 0 16z"/>
+  </symbol>
+  <symbol id="moon-stars-fill" viewBox="0 0 16 16">
+    <path d="M6 .278a.768.768 0 0 1 .08.858 7.208 7.208 0 0 0-.878 3.46c0 4.021 3.278 7.277 7.318 7.277.527 0 1.04-.055 1.533-.16a.787.787 0 0 1 .81.316.733.733 0 0 1-.031.893A8.349 8.349 0 0 1 8.344 16C3.734 16 0 12.286 0 7.71 0 4.266 2.114 1.312 5.124.06A.752.752 0 0 1 6 .278z"/>
+    <path d="M10.794 3.148a.217.217 0 0 1 .412 0l.387 1.162c.173.518.579.924 1.097 1.097l1.162.387a.217.217 0 0 1 0 .412l-1.162.387a1.734 1.734 0 0 0-1.097 1.097l-.387 1.162a.217.217 0 0 1-.412 0l-.387-1.162A1.734 1.734 0 0 0 9.31 6.593l-1.162-.387a.217.217 0 0 1 0-.412l1.162-.387a1.734 1.734 0 0 0 1.097-1.097l.387-1.162zM13.863.099a.145.145 0 0 1 .274 0l.258.774c.115.346.386.617.732.732l.774.258a.145.145 0 0 1 0 .274l-.774.258a1.156 1.156 0 0 0-.732.732l-.258.774a.145.145 0 0 1-.274 0l-.258-.774a1.156 1.156 0 0 0-.732-.732l-.774-.258a.145.145 0 0 1 0-.274l.774-.258c.346-.115.617-.386.732-.732L13.863.1z"/>
+  </symbol>
+  <symbol id="sun-fill" viewBox="0 0 16 16">
+    <path d="M8 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8zM8 0a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 0zm0 13a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 13zm8-5a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2a.5.5 0 0 1 .5.5zM3 8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2A.5.5 0 0 1 3 8zm10.657-5.657a.5.5 0 0 1 0 .707l-1.414 1.415a.5.5 0 1 1-.707-.708l1.414-1.414a.5.5 0 0 1 .707 0zm-9.193 9.193a.5.5 0 0 1 0 .707L3.05 13.657a.5.5 0 0 1-.707-.707l1.414-1.414a.5.5 0 0 1 .707 0zm9.193 2.121a.5.5 0 0 1-.707 0l-1.414-1.414a.5.5 0 0 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .707zM4.464 4.465a.5.5 0 0 1-.707 0L2.343 3.05a.5.5 0 1 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .708z"/>
+  </symbol>
+</svg>
+<button class="btn btn-link nav-link dropdown-toggle d-flex align-items-center"
+        id="bd-theme"
+        type="button"
+        aria-expanded="false"
+        data-bs-toggle="dropdown"
+        aria-label="Toggle theme (auto)">
+  <svg class="bi my-1 theme-icon-active"><use href="#circle-half"></use></svg>
+</button>
+<ul class="dropdown-menu" aria-labelledby="bd-theme">
+  <li>
+    <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="light" aria-pressed="false">
+      <svg class="bi me-2 opacity-50"><use href="#sun-fill"></use></svg>
+      Light
+      <svg class="bi ms-auto d-none"><use href="#check2"></use></svg>
+    </button>
+  </li>
+  <li>
+    <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="dark" aria-pressed="false">
+      <svg class="bi me-2 opacity-50"><use href="#moon-stars-fill"></use></svg>
+      Dark
+      <svg class="bi ms-auto d-none"><use href="#check2"></use></svg>
+    </button>
+  </li>
+  <li>
+    <button type="button" class="dropdown-item d-flex align-items-center active" data-bs-theme-value="auto" aria-pressed="true">
+      <svg class="bi me-2 opacity-50"><use href="#circle-half"></use></svg>
+      Auto
+      <svg class="bi ms-auto d-none"><use href="#check2"></use></svg>
+    </button>
+  </li>
+</ul>
+</div>
+
+          </div></div>
+      <a class="btn btn-outline-secondary btn-sm w-100 mt-2" href="/zh/search/">搜索本站…</a>
+    </div>
+  </div>
+</div>
+
+
+    </header>
+    <div class="container-fluid td-outer">
+      <div class="td-main"><div class="row flex-xl-nowrap">
+            <aside class="col-12 col-md-3 col-xl-2 td-sidebar d-print-none">
+              <div id="td-sidebar-menu" class="td-sidebar__inner">
+  <form class="td-sidebar__search d-flex align-items-center">
+    
+    <button class="btn btn-link td-sidebar__toggle" type="button" data-bs-toggle="collapse" data-bs-target="#td-section-nav" aria-controls="td-section-nav" aria-expanded="false" aria-label="Toggle section navigation">
+    </button>
+  </form>
+  <nav class="td-sidebar-nav collapse foldable-nav" id="td-section-nav">
+    <ul class="td-sidebar-nav__section pe-md-3 ul-0">
+      <li class="td-sidebar-nav__section-title td-sidebar-nav__section with-child active-path" id="m-zhtroubleshooting-li">
+    <a href="/zh/troubleshooting/" class="align-left ps-0 td-sidebar-link td-sidebar-link__section tree-root" id="m-zhtroubleshooting"><span class="">故障排除</span></a>
+    <ul class="ul-1">
+      <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child active-path" id="m-zhtroubleshootinggateway-signal-li">
+    <input type="checkbox" id="m-zhtroubleshootinggateway-signal-check" checked/>
+    <label for="m-zhtroubleshootinggateway-signal-check"><a href="/zh/troubleshooting/gateway-signal/" class="align-left ps-0  active td-sidebar-link td-sidebar-link__page" id="m-zhtroubleshootinggateway-signal"><span class="td-sidebar-nav-active-item">网关信号不好？先看这几条</span></a></label>
+    
+  </li>
+    </ul>
+  </li>
+    </ul>
+  </nav>
+</div>
+            </aside>
+            <main class="col-12 col-md-9 col-xl-10 ps-md-5 pe-md-4" role="main">
+              <a class="td-rss-button" title="RSS" href="/zh/troubleshooting/index.xml" target="_blank" rel="noopener">
+                <i class="fa-solid fa-rss" aria-hidden="true"></i>
+              </a>
+              <nav aria-label="breadcrumb" class="td-breadcrumbs">
+  <ol class="breadcrumb">
+  <li class="breadcrumb-item">
+    <a href="/zh/troubleshooting/">故障排除</a></li>
+  <li class="breadcrumb-item active" aria-current="page">
+    网关信号不好？先看这几条</li>
+  </ol>
+</nav><div class="td-content">
+	<h1>网关信号不好？先看这几条</h1>
+	<div class="lead">墙厚、柜子挡信号时怎么摆网关和中继。</div>
+	<div class="td-byline mb-4">
+		
+		<time datetime="2026-05-10" class="text-body-secondary">2026年05月10日</time>
+	</div>
+	<header class="article-meta">
+		<div class="taxonomy taxonomy-terms-article taxo-tags">
+  <h5 class="taxonomy-title">Tags:</h5>
+  <ul class="taxonomy-terms">
+    <li><a class="taxonomy-term" href="http://localhost:1313/zh/tags/zigbee/" data-taxonomy-term="zigbee"><span class="taxonomy-label">Zigbee</span></a></li>
+    <li><a class="taxonomy-term" href="http://localhost:1313/zh/tags/wi-fi/" data-taxonomy-term="wi-fi"><span class="taxonomy-label">Wi-Fi</span></a></li>
+    <li><a class="taxonomy-term" href="http://localhost:1313/zh/tags/mesh/" data-taxonomy-term="mesh"><span class="taxonomy-label">Mesh</span></a></li>
+    <li><a class="taxonomy-term" href="http://localhost:1313/zh/tags/%E4%B8%AD%E7%BB%A7/" data-taxonomy-term="%E4%B8%AD%E7%BB%A7"><span class="taxonomy-label">中继</span></a></li>
+    </ul>
+</div>
+<div class="taxonomy taxonomy-terms-article taxo-categories">
+  <h5 class="taxonomy-title">Categories:</h5>
+  <ul class="taxonomy-terms">
+    <li><a class="taxonomy-term" href="http://localhost:1313/zh/categories/%E7%BD%91%E5%85%B3%E4%B8%8E%E4%B8%AD%E7%BB%A7/" data-taxonomy-term="%E7%BD%91%E5%85%B3%E4%B8%8E%E4%B8%AD%E7%BB%A7"><span class="taxonomy-label">网关与中继</span></a></li>
+    </ul>
+</div>
+
+  </header>
+	<p>和 <strong>故障排除</strong> 里「设备老掉线」那条一起看：先在中心页按步骤做，再看下面两个常见问题。</p>
+<div itemscope itemtype="https://schema.org/FAQPage">
+<div class="accordion-item linktrol-ts-faq-item border-0 shadow-sm mb-2 rounded overflow-hidden" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+  <h2 class="accordion-header h5 mb-0">
+    <button class="accordion-button collapsed py-3" type="button" data-bs-toggle="collapse" data-bs-target="#faq-0-108facb05c4d570159fa1c55d42bd084" aria-expanded="false" aria-controls="faq-0-108facb05c4d570159fa1c55d42bd084">
+      <span itemprop="name">先挪网关还是先加中继？</span>
+    </button>
+  </h2>
+  <div id="faq-0-108facb05c4d570159fa1c55d42bd084" class="accordion-collapse collapse" role="region">
+    <div class="accordion-body border-top" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+      <div itemprop="text"><strong>一次动一处</strong>：先把网关或插电中继挪近信号差的设备，中间少隔墙。确认不是金属电箱、微波炉挡路，再考虑多买中继。</div>
+    </div>
+  </div>
+</div>
+
+<div class="accordion-item linktrol-ts-faq-item border-0 shadow-sm mb-2 rounded overflow-hidden" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+  <h2 class="accordion-header h5 mb-0">
+    <button class="accordion-button collapsed py-3" type="button" data-bs-toggle="collapse" data-bs-target="#faq-1-108facb05c4d570159fa1c55d42bd084" aria-expanded="false" aria-controls="faq-1-108facb05c4d570159fa1c55d42bd084">
+      <span itemprop="name">路由器换信道会影响 Zigbee 吗？</span>
+    </button>
+  </h2>
+  <div id="faq-1-108facb05c4d570159fa1c55d42bd084" class="accordion-collapse collapse" role="region">
+    <div class="accordion-body border-top" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+      <div itemprop="text">会。很多 Zigbee 也在 2.4 GHz。路由器老换信道会干扰。可以试试固定 Wi‑Fi 信道，或把 USB 网关棒用延长线拉离路由器。</div>
+    </div>
+  </div>
+</div>
+
+</div>
+<div class="linktrol-upgrade-banner card border-0 shadow-sm my-4" role="complementary">
+  <div class="card-body d-flex flex-column flex-md-row gap-3 align-items-md-center">
+    <div class="flex-grow-1">
+      <h3 class="h6 fw-bold mb-2"><i class="fa-solid fa-arrow-trend-up me-2 text-warning" aria-hidden="true"></i>设备用了好几年？</h3>
+      <div class="small text-body-secondary mb-0">老网关有时修不如换。发邮件写上型号和购买渠道，我们帮你对接升级或优惠。</div>
+    </div><div class="flex-shrink-0">
+        <a class="btn btn-warning btn-sm text-dark" href="mailto:linktrol@icloud.com?subject=%E7%BD%91%E5%85%B3%E5%8D%87%E7%BA%A7%E4%BC%98%E6%83%A0%E5%88%B8">发邮件问换新</a>
+      </div></div>
+</div>
+
+<ul class="list-unstyled d-flex justify-content-between align-items-center mb-0 pt-5">
+  <li>
+    <a class="btn btn-primary disabled"><span class="me-1">←</span>上一页</a>
+  </li>
+  <li>
+    <a class="btn btn-primary disabled">下一页<span class="ms-1">→</span></a>
+  </li>
+</ul>
+
+	</div>
+</main>
+          </div></div>
+      <footer class="td-footer td-footer--linktrol row d-print-none">
+  <div class="container-fluid px-3 px-lg-4">
+    <div class="row g-4 py-4 py-lg-5 align-items-start">
+      <div class="col-12 col-lg-3">
+        <div class="h5 mb-2">DieseRC SWITNEX</div>
+          <p class="small mb-0 td-footer--linktrol__lede">DieseRC 设计并制造以射频遥控为核心的开关与接收方案，并覆盖 Wi‑Fi、Zigbee、蓝牙等联网墙面设备，面向追求可靠、 易部署且总体成本可控的集成与改造项目。依托自有产线与应用工程能力，SWITNEX 产品线可支撑门禁读头、门释放、 照明与通风、信号联动及小改动 DIY 改装等场景。DieseRC SWITNEX 本站持续发布型号级说明书、现场笔记与合规向解读。</p>
+      </div>
+        <div class="col-12 col-sm-6 col-lg-2">
+          <div class="text-uppercase small fw-semibold td-footer--linktrol__heading mb-2">支持与手册</div>
+          <ul class="list-unstyled mb-0 td-footer--linktrol__links"><li class="mb-1">
+                <a href="/zh/manuals/" title="产品手册与文档">手册</a>
+              </li><li class="mb-1">
+                <a href="/zh/troubleshooting/" title="故障排除指南">故障排除</a>
+              </li>
+          </ul>
+        </div>
+        <div class="col-12 col-sm-6 col-lg-2">
+          <div class="text-uppercase small fw-semibold td-footer--linktrol__heading mb-2">方案与贸易</div>
+          <ul class="list-unstyled mb-0 td-footer--linktrol__links"><li class="mb-1">
+                <a href="/zh/smart-solutions/" title="智能方案">智能方案</a>
+              </li><li class="mb-1">
+                <a href="/zh/wholesale-bulk-orders/" title="批发与大宗采购">批发与大宗订单</a>
+              </li>
+          </ul>
+        </div>
+        <div class="col-12 col-sm-6 col-lg-2">
+          <div class="text-uppercase small fw-semibold td-footer--linktrol__heading mb-2">更多</div>
+          <ul class="list-unstyled mb-0 td-footer--linktrol__links"><li class="mb-1">
+                <a href="/zh/diy-compliance/" title="DIY与合规">DIY与合规</a>
+              </li><li class="mb-1">
+                <a href="/zh/property-insights/" title="房产洞察">房产洞察</a>
+              </li>
+          </ul>
+        </div>
+    </div>
+    <div class="row td-footer--linktrol__bottom pt-3 pb-4">
+      <div class="col-12 text-center text-md-start">
+<div class="td-footer__copyright td-footer__copyright--dieserc small">
+  <div class="mb-1">&copy; 2026 DieseRC. All Rights Reserved.</div>
+  <div class="td-footer__copyright-tagline">Proudly supported by SWITNEX Labs – Powering the future of smart automation.</div>
+</div>
+
+          <span class="ms-md-2 d-inline-block mt-2 mt-md-0"><a href="/about/" target="_blank" rel="noopener">隐私政策</a></span>
+      </div>
+    </div>
+  </div>
+</footer><nav class="linktrol-mobile-footer linktrol-contact-rail d-print-none" aria-label="快速联系">
+  <div class="linktrol-mobile-footer__inner">
+    <a class="linktrol-mobile-footer__btn linktrol-mobile-footer__btn--shop"
+       href="https://shop.switnex.com" target="_blank" rel="noopener noreferrer">
+      <i class="fa-solid fa-store" aria-hidden="true"></i>
+      <span>商店</span>
+    </a>
+    <a class="linktrol-mobile-footer__btn linktrol-mobile-footer__btn--wa"
+       href="https://wa.me/8615812381273" target="_blank" rel="noopener noreferrer">
+      <i class="fa-brands fa-whatsapp" aria-hidden="true"></i>
+      <span>立即聊天</span>
+    </a>
+    <a class="linktrol-mobile-footer__btn linktrol-mobile-footer__btn--tg"
+       href="https://t.me/switnex_aaron" target="_blank" rel="noopener noreferrer">
+      <i class="fa-brands fa-telegram" aria-hidden="true"></i>
+      <span>联系</span>
+    </a>
+    <a class="linktrol-mobile-footer__btn linktrol-mobile-footer__btn--mail"
+       href="mailto:linktrol@icloud.com?subject=DieseRC&#43;SWITNEX&#43;inquiry">
+      <i class="fa-solid fa-envelope" aria-hidden="true"></i>
+      <span>发邮件</span>
+    </a>
+  </div>
+</nav>
+<button type="button"
+  id="linktrol-back-to-top"
+  class="linktrol-back-to-top d-print-none"
+  aria-label="回到顶部"
+  title="回到顶部"
+  tabindex="-1"
+  aria-hidden="true">
+  <i class="fa-solid fa-arrow-up" aria-hidden="true"></i>
+</button>
+<script>
+(function () {
+  var btn = document.getElementById('linktrol-back-to-top');
+  if (!btn) return;
+  var mq = window.matchMedia('(max-width: 767.98px)');
+  var threshold = 280;
+  var ticking = false;
+  function sync() {
+    ticking = false;
+    if (!mq.matches) {
+      btn.classList.remove('is-visible');
+      btn.setAttribute('aria-hidden', 'true');
+      btn.tabIndex = -1;
+      return;
+    }
+    var y = window.scrollY || document.documentElement.scrollTop;
+    if (y > threshold) {
+      btn.classList.add('is-visible');
+      btn.removeAttribute('aria-hidden');
+      btn.tabIndex = 0;
+    } else {
+      btn.classList.remove('is-visible');
+      btn.setAttribute('aria-hidden', 'true');
+      btn.tabIndex = -1;
+    }
+  }
+  function onScroll() {
+    if (ticking) return;
+    ticking = true;
+    requestAnimationFrame(sync);
+  }
+  btn.addEventListener('click', function () {
+    var reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    window.scrollTo({ top: 0, behavior: reduce ? 'auto' : 'smooth' });
+  });
+  if (mq.addEventListener) mq.addEventListener('change', sync);
+  else mq.addListener(sync);
+  window.addEventListener('scroll', onScroll, { passive: true });
+  window.addEventListener('resize', onScroll, { passive: true });
+  sync();
+})();
+</script>
+
+    </div>
+    <script src="/js/main.js"></script>
+<script defer src="/js/click-to-copy.js" crossorigin="anonymous"></script>
+<script src='/js/tabpane-persist.js'></script>
+
+  </body>
+</html>
