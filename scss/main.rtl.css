@@ -20992,6 +20992,94 @@ https://www.docsy.dev/docs/content/lookandfeel/#project-style-files
     margin-top: 0.25rem;
     color: rgba(255, 255, 255, 0.68) !important; }
 
+.manual-discount-callout {
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+  margin: 2rem 0 1.5rem;
+  padding: 1rem 1.05rem;
+  border: 1px solid rgba(245, 158, 11, 0.38);
+  border-radius: 1rem;
+  background: linear-gradient(-135deg, rgba(255, 247, 237, 0.98), rgba(255, 251, 235, 0.98));
+  box-shadow: 0 10px 24px rgba(245, 158, 11, 0.12); }
+  .manual-discount-callout__badge {
+    flex: 0 0 auto;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 5.5rem;
+    padding: 0.55rem 0.8rem;
+    border-radius: 999px;
+    background: linear-gradient(-135deg, #f59e0b, #f97316);
+    color: #fff;
+    font-weight: 800;
+    font-size: 0.92rem;
+    letter-spacing: 0.04em; }
+  .manual-discount-callout__body {
+    flex: 1 1 auto;
+    min-width: 0; }
+  .manual-discount-callout__text {
+    margin: 0;
+    color: #7c2d12;
+    font-size: 1rem;
+    line-height: 1.55;
+    font-weight: 600; }
+  .manual-discount-callout__code {
+    display: inline-block;
+    margin-right: 0.25rem;
+    padding: 0.1rem 0.55rem;
+    border-radius: 0.5rem;
+    background: rgba(124, 45, 18, 0.08);
+    color: #9a3412;
+    font-size: 1.05em;
+    letter-spacing: 0.08em; }
+  .manual-discount-callout__hint, .manual-discount-callout__status {
+    display: block;
+    margin-top: 0.28rem;
+    font-size: 0.88rem; }
+  .manual-discount-callout__hint {
+    color: #9a3412;
+    opacity: 0.82; }
+  .manual-discount-callout__status {
+    color: #b45309;
+    min-width: 7.5rem; }
+  .manual-discount-callout__copy {
+    flex: 0 0 auto;
+    width: 2.8rem;
+    height: 2.8rem;
+    border: 0;
+    border-radius: 0.8rem;
+    background: #fff;
+    color: #c2410c;
+    box-shadow: 0 6px 16px rgba(124, 45, 18, 0.12);
+    transition: transform 0.16s ease, box-shadow 0.16s ease, background 0.16s ease; }
+    .manual-discount-callout__copy:hover, .manual-discount-callout__copy:focus-visible {
+      background: #fff7ed;
+      transform: translateY(-1px);
+      box-shadow: 0 10px 22px rgba(124, 45, 18, 0.18); }
+  .manual-discount-callout.is-copied {
+    border-color: rgba(34, 197, 94, 0.42);
+    box-shadow: 0 12px 28px rgba(34, 197, 94, 0.12); }
+    .manual-discount-callout.is-copied .manual-discount-callout__copy {
+      background: #dcfce7;
+      color: #166534; }
+    .manual-discount-callout.is-copied .manual-discount-callout__status {
+      color: #166534;
+      font-weight: 600; }
+
+@media (max-width: 767.98px) {
+  .manual-discount-callout {
+    flex-wrap: wrap;
+    padding: 0.95rem; }
+    .manual-discount-callout__badge {
+      min-width: unset; }
+    .manual-discount-callout__copy {
+      margin-right: auto; }
+    .manual-discount-callout__status {
+      width: 100%;
+      min-width: 0;
+      margin-top: 0; } }
+
 @media (max-width: 767.98px) {
   body {
     padding-bottom: calc(3.35rem + env(safe-area-inset-bottom, 0px)); } }
