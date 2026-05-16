@@ -1,62 +1,1013 @@
-<!doctype html><html itemscope itemtype=http://schema.org/WebPage lang=da class=no-js data-theme-init><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no"><meta name=color-scheme content="light dark"><meta name=theme-color media="(prefers-color-scheme: light)" content="#ffffff"><meta name=theme-color media="(prefers-color-scheme: dark)" content="#000000"><style>html{background:Canvas;color:CanvasText}@media(prefers-color-scheme:dark){html{background:#0b0d12;color:#e6e6e6}}html[data-theme-init] *{transition:none!important}</style><script>(function(){const t="td-color-theme",n=localStorage.getItem(t);let e=n||(window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");e==="auto"&&(e=window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light"),document.documentElement.setAttribute("data-bs-theme",e)})()</script><link rel=alternate type=text/html href=https://www.dieserc.com/da/_print/troubleshooting/><link rel=alternate type=application/rss+xml href=https://www.dieserc.com/da/troubleshooting/index.xml><meta name=robots content="index, follow"><link rel=icon type=image/png href=https://www.dieserc.com/images/dieserc-brand-mark.png sizes=any><link rel="shortcut icon" href=https://www.dieserc.com/images/dieserc-brand-mark.png type=image/png><link rel=apple-touch-icon href=https://www.dieserc.com/images/dieserc-brand-mark.png><title>Fejlfinding | DieseRC SWITNEX</title><meta name=description content="Selvhjælp til parring, LED’er, langsom respons og svagt signal — søg eller brug tags til at filtrere."><meta name=keywords content="DieseRC,trådløs kontakt,RF fjernbetjening,relæ modtager,smartafbryder Wi-Fi,Zigbee,Bluetooth,Matter,garageport,elektrisk gardin,persienne,elektrisk lås,vandpumpe,ventilation,smart home,energibesparelse,12V trådløst relæ autocamper,maritim RF-fjernkontakt,landbrugs vandingsrelæ,433 MHz læringsmodtager,24v remote relay,24v wireless switch,12v rf switch,12v wireless switch,dc motor remote relay,dc motor wireless switch,433mhz industrial remote switch,433mhz latched relay"><meta property="og:url" content="https://www.dieserc.com/da/troubleshooting/"><meta property="og:site_name" content="DieseRC SWITNEX"><meta property="og:title" content="Fejlfinding | DieseRC SWITNEX"><meta property="og:description" content="Selvhjælp til parring, LED’er, langsom respons og svagt signal — søg eller brug tags til at filtrere."><meta property="og:type" content="website"><meta itemprop=name content="Fejlfinding"><meta itemprop=description content="Selvhjælp til parring, LED’er, langsom respons og svagt signal — søg eller brug tags til at filtrere."><meta name=twitter:card content="summary_large_image"><meta name=twitter:title content="Fejlfinding | DieseRC SWITNEX"><meta name=twitter:description content="Selvhjælp til parring, LED’er, langsom respons og svagt signal — søg eller brug tags til at filtrere."><link rel=preload href=https://www.dieserc.com/scss/main.min.6075ca8df79b054040452864759cb7febf1051ee73760cbde623ccf6bf3b7fb3.css as=style integrity="sha256-YHXKjfebBUBARShkdZy3/r8QUe5zdgy95iPM9r87f7M=" crossorigin=anonymous><link href=https://www.dieserc.com/scss/main.min.6075ca8df79b054040452864759cb7febf1051ee73760cbde623ccf6bf3b7fb3.css rel=stylesheet integrity="sha256-YHXKjfebBUBARShkdZy3/r8QUe5zdgy95iPM9r87f7M=" crossorigin=anonymous><script src=https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin=anonymous></script><script defer src=https://cdn.jsdelivr.net/npm/lunr@2.3.9/lunr.min.js integrity=sha384-203J0SNzyqHby3iU6hzvzltrWi/M41wOP5Gu+BiJMz5nwKykbkUx8Kp7iti0Lpli crossorigin=anonymous></script><link rel=preconnect href=https://fonts.googleapis.com><link rel=preconnect href=https://fonts.gstatic.com crossorigin><link href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;600;700;800&display=swap" rel=stylesheet><script async src="https://www.googletagmanager.com/gtag/js?id=G-8HEG8WYRBG"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date),gtag("config","G-8HEG8WYRBG")</script></head><body class="td-section td-blog"><header><nav class="td-navbar js-navbar-scroll"><div class="td-navbar-container container-fluid flex-column flex-md-row"><div class="d-flex w-100 align-items-center justify-content-between justify-content-md-start flex-md-grow-0 gap-2 td-navbar__brand-row"><a class="navbar-brand m-0 navbar-brand--dieserc d-flex align-items-center gap-2 text-decoration-none" href=https://www.dieserc.com/da/ aria-label="DieseRC SWITNEX"><span class="navbar-brand__name navbar-brand__wordmark navbar-brand__wordmark--dieserc-lockup"><img class=navbar-brand__mark-img src=https://www.dieserc.com/images/dieserc-brand-mark.png width=40 height=40 alt decoding=async fetchpriority=high>
-<span class=navbar-brand__mark-divider aria-hidden=true></span>
-<span class=navbar-brand__mark-dieserc>DieseRC</span>
-</span></a><button type=button class="btn btn-link td-navbar__drawer-toggler d-md-none px-2 py-1 lh-1 border-0 shadow-none" data-bs-toggle=offcanvas data-bs-target=#tdMobileNav aria-controls=tdMobileNav aria-label=Menu>
-<i class="fa-solid fa-bars fa-xl" aria-hidden=true></i></button></div><div class="td-navbar__main td-navbar-nav-scroll td-navbar-nav-scroll--indicator d-none d-md-flex flex-md-grow-1" id=main_navbar><div class="scroll-indicator scroll-left"></div><ul class=navbar-nav><li class=nav-item><a class=nav-link href=https://www.dieserc.com/da/ title=Hjem><span>Hjem</span></a></li><li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href=# id=navdd-solutions-trade role=button data-bs-toggle=dropdown data-bs-auto-close=outside aria-expanded=false aria-haspopup=true><span>Løsninger og handel</span></a><ul class="dropdown-menu td-navbar__dropdown shadow-sm border-0" aria-labelledby=navdd-solutions-trade><li><a class=dropdown-item href=https://www.dieserc.com/da/smart-solutions/ title="Smarte løsninger"><span class=fw-semibold>Smarte løsninger</span></a></li><li><a class=dropdown-item href=https://www.dieserc.com/da/wholesale-bulk-orders/ title="Engros og store ordrer"><span class=fw-semibold>Engros og bulkordrer</span></a></li></ul></li><li class=nav-item><a class=nav-link href=https://www.dieserc.com/da/diy-compliance/ title="Gør-det-selv og overholdelse"><span>DIY og overholdelse</span></a></li><li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href=# id=navdd-support-manuals role=button data-bs-toggle=dropdown data-bs-auto-close=outside aria-expanded=false aria-haspopup=true><span>Support og manualer</span></a><ul class="dropdown-menu td-navbar__dropdown shadow-sm border-0" aria-labelledby=navdd-support-manuals><li><a class=dropdown-item href=https://www.dieserc.com/da/manuals/ title="Manualer og dokumentation"><span class=fw-semibold>Manualer</span></a></li><li><a class=dropdown-item href=https://www.dieserc.com/da/troubleshooting/ title=Fejlfindingsguider><span class=fw-semibold>Fejlfinding</span></a></li></ul></li><li class=nav-item><a class=nav-link href=https://www.dieserc.com/da/property-insights/ title="Indsigt i ejendomsmarkedet"><span>Indsigt i ejendom</span></a></li><li class=nav-item><a class=nav-link href=https://www.dieserc.com/da/about/><span>Om</span></a></li><li class="nav-item td-navbar__lang-menu"><div class="td-lang-menu dropdown"><a class="nav-link dropdown-toggle td-lang-menu__title" href=# role=button data-bs-toggle=dropdown aria-haspopup=true aria-expanded=false><span class=td-lang-menu__title-text>Dansk</span>
-<span class=td-lang-menu__title-code>DA</span></a><ul class=dropdown-menu><li><a class=dropdown-item href=https://www.dieserc.com/troubleshooting/>English</a></li><li><a class=dropdown-item href=https://www.dieserc.com/zh/troubleshooting/>简体中文</a></li><li><a class=dropdown-item href=https://www.dieserc.com/es/troubleshooting/>Español</a></li><li><a class=dropdown-item href=https://www.dieserc.com/ar/troubleshooting/>العربية</a></li><li><a class=dropdown-item href=https://www.dieserc.com/ru/troubleshooting/>Русский</a></li><li><a class=dropdown-item href=https://www.dieserc.com/fr/troubleshooting/>Français</a></li><li><a class=dropdown-item href=https://www.dieserc.com/it/troubleshooting/>Italiano</a></li><li><a class=dropdown-item href=https://www.dieserc.com/no/troubleshooting/>Norsk</a></li><li><a class=dropdown-item href=https://www.dieserc.com/pt/troubleshooting/>Português</a></li><li><a class=dropdown-item href=https://www.dieserc.com/de/troubleshooting/>Deutsch</a></li><li><span class="dropdown-item active">Dansk</span></li><li><a class=dropdown-item href=https://www.dieserc.com/ro/troubleshooting/>Română</a></li><li><a class=dropdown-item href=https://www.dieserc.com/pl/troubleshooting/>Polski</a></li></ul></div></li><li class="nav-item td-navbar__light-dark-menu"><div class="td-light-dark-menu dropdown"><svg class="d-none"><symbol id="check2" viewBox="0 0 16 16"><path d="M13.854 3.646a.5.5.0 010 .708l-7 7a.5.5.0 01-.708.0l-3.5-3.5a.5.5.0 11.708-.708L6.5 10.293l6.646-6.647a.5.5.0 01.708.0z"/></symbol><symbol id="circle-half" viewBox="0 0 16 16"><path d="M8 15A7 7 0 108 1v14zm0 1A8 8 0 118 0a8 8 0 010 16z"/></symbol><symbol id="moon-stars-fill" viewBox="0 0 16 16"><path d="M6 .278a.768.768.0 01.08.858 7.208 7.208.0 00-.878 3.46c0 4.021 3.278 7.277 7.318 7.277.527.0 1.04-.055 1.533-.16a.787.787.0 01.81.316.733.733.0 01-.031.893A8.349 8.349.0 018.344 16C3.734 16 0 12.286.0 7.71.0 4.266 2.114 1.312 5.124.06A.752.752.0 016 .278z"/><path d="M10.794 3.148a.217.217.0 01.412.0l.387 1.162c.173.518.579.924 1.097 1.097l1.162.387a.217.217.0 010 .412l-1.162.387A1.734 1.734.0 0011.593 7.69l-.387 1.162a.217.217.0 01-.412.0l-.387-1.162A1.734 1.734.0 009.31 6.593l-1.162-.387a.217.217.0 010-.412l1.162-.387a1.734 1.734.0 001.097-1.097l.387-1.162zM13.863.099a.145.145.0 01.274.0l.258.774c.115.346.386.617.732.732l.774.258a.145.145.0 010 .274l-.774.258a1.156 1.156.0 00-.732.732l-.258.774a.145.145.0 01-.274.0l-.258-.774a1.156 1.156.0 00-.732-.732l-.774-.258a.145.145.0 010-.274l.774-.258c.346-.115.617-.386.732-.732L13.863.1z"/></symbol><symbol id="sun-fill" viewBox="0 0 16 16"><path d="M8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.5.5.0 01.5.5v2a.5.5.0 01-1 0v-2A.5.5.0 018 0zm0 13a.5.5.0 01.5.5v2a.5.5.0 01-1 0v-2A.5.5.0 018 13zm8-5a.5.5.0 01-.5.5h-2a.5.5.0 010-1h2a.5.5.0 01.5.5zM3 8a.5.5.0 01-.5.5h-2a.5.5.0 010-1h2A.5.5.0 013 8zm10.657-5.657a.5.5.0 010 .707l-1.414 1.415a.5.5.0 11-.707-.708l1.414-1.414a.5.5.0 01.707.0zm-9.193 9.193a.5.5.0 010 .707L3.05 13.657a.5.5.0 01-.707-.707l1.414-1.414a.5.5.0 01.707.0zm9.193 2.121a.5.5.0 01-.707.0l-1.414-1.414a.5.5.0 01.707-.707l1.414 1.414a.5.5.0 010 .707zM4.464 4.465a.5.5.0 01-.707.0L2.343 3.05a.5.5.0 11.707-.707l1.414 1.414a.5.5.0 010 .708z"/></symbol></svg>
-<button class="btn btn-link nav-link dropdown-toggle d-flex align-items-center" id=bd-theme type=button aria-expanded=false data-bs-toggle=dropdown aria-label="Toggle theme (auto)">
-<svg class="bi my-1 theme-icon-active"><use href="#circle-half"/></svg></button><ul class=dropdown-menu aria-labelledby=bd-theme><li><button type=button class="dropdown-item d-flex align-items-center" data-bs-theme-value=light aria-pressed=false>
-<svg class="bi me-2 opacity-50"><use href="#sun-fill"/></svg>
-Light
-<svg class="bi ms-auto d-none"><use href="#check2"/></svg></button></li><li><button type=button class="dropdown-item d-flex align-items-center" data-bs-theme-value=dark aria-pressed=false>
-<svg class="bi me-2 opacity-50"><use href="#moon-stars-fill"/></svg>
-Dark
-<svg class="bi ms-auto d-none"><use href="#check2"/></svg></button></li><li><button type=button class="dropdown-item d-flex align-items-center active" data-bs-theme-value=auto aria-pressed=true>
-<svg class="bi me-2 opacity-50"><use href="#circle-half"/></svg>
-Auto
-<svg class="bi ms-auto d-none"><use href="#check2"/></svg></button></li></ul></div></li></ul><div class="scroll-indicator scroll-right"></div></div><div class="td-navbar__search d-none d-lg-block"><div class="td-search td-search--offline"><div class=td-search__icon></div><input type=search name=q class="td-search__input form-control" placeholder='Søg på dette websted…' aria-label='Søg på dette websted…' autocomplete=off data-offline-search-index-json-src=https://www.dieserc.com/offline-search-index.836068dd952c139fa978514f27b363bf.json data-offline-search-base-href=https://www.dieserc.com/ data-offline-search-max-results=10></div></div></div></nav><div class="offcanvas offcanvas-end td-mobile-nav text-bg-body shadow-lg" tabindex=-1 id=tdMobileNav aria-labelledby=tdMobileNavLabel><div class="offcanvas-header border-bottom align-items-center py-3"><a class="navbar-brand m-0 navbar-brand--dieserc d-flex align-items-center gap-2 text-decoration-none" href=https://www.dieserc.com/da/ aria-label="DieseRC SWITNEX"><span class="navbar-brand__name navbar-brand__wordmark navbar-brand__wordmark--dieserc-lockup"><img class=navbar-brand__mark-img src=https://www.dieserc.com/images/dieserc-brand-mark.png width=40 height=40 alt decoding=async fetchpriority=high>
-<span class=navbar-brand__mark-divider aria-hidden=true></span>
-<span class=navbar-brand__mark-dieserc>DieseRC</span>
-</span></a><button type=button class=btn-close data-bs-dismiss=offcanvas aria-label=Close></button></div><div class="offcanvas-body d-flex flex-column p-0"><nav class="flex-grow-1 overflow-auto" aria-label=Mobile><ul class="list-unstyled mb-0 td-mobile-nav__list"><li class=border-bottom><a class="d-block px-3 py-3 text-decoration-none td-mobile-nav__link text-body" href=https://www.dieserc.com/da/ title=Hjem>Hjem</a></li><li class="td-mobile-nav__item border-bottom"><button type=button class="td-mobile-nav__toggle w-100 btn btn-link text-start text-decoration-none d-flex align-items-center py-3 px-3 text-body rounded-0 shadow-none" data-bs-toggle=collapse data-bs-target=#td-mob-sub-solutions-trade aria-expanded=false aria-controls=td-mob-sub-solutions-trade>
-<span class=flex-grow-1>Løsninger og handel</span>
-<i class="fa-solid fa-chevron-right td-mobile-nav__chev small text-body-secondary" aria-hidden=true></i></button><div class="collapse td-mobile-nav__sub bg-body-tertiary" id=td-mob-sub-solutions-trade><ul class="list-unstyled mb-0 py-1"><li><a class="d-block px-4 py-2 text-decoration-none td-mobile-nav__sublink text-body" href=https://www.dieserc.com/da/smart-solutions/ title="Smarte løsninger">Smarte løsninger</a></li><li><a class="d-block px-4 py-2 text-decoration-none td-mobile-nav__sublink text-body" href=https://www.dieserc.com/da/wholesale-bulk-orders/ title="Engros og store ordrer">Engros og bulkordrer</a></li></ul></div></li><li class=border-bottom><a class="d-block px-3 py-3 text-decoration-none td-mobile-nav__link text-body" href=https://www.dieserc.com/da/diy-compliance/ title="Gør-det-selv og overholdelse">DIY og overholdelse</a></li><li class="td-mobile-nav__item border-bottom"><button type=button class="td-mobile-nav__toggle w-100 btn btn-link text-start text-decoration-none d-flex align-items-center py-3 px-3 text-body rounded-0 shadow-none" data-bs-toggle=collapse data-bs-target=#td-mob-sub-support-manuals aria-expanded=false aria-controls=td-mob-sub-support-manuals>
-<span class=flex-grow-1>Support og manualer</span>
-<i class="fa-solid fa-chevron-right td-mobile-nav__chev small text-body-secondary" aria-hidden=true></i></button><div class="collapse td-mobile-nav__sub bg-body-tertiary" id=td-mob-sub-support-manuals><ul class="list-unstyled mb-0 py-1"><li><a class="d-block px-4 py-2 text-decoration-none td-mobile-nav__sublink text-body" href=https://www.dieserc.com/da/manuals/ title="Manualer og dokumentation">Manualer</a></li><li><a class="d-block px-4 py-2 text-decoration-none td-mobile-nav__sublink text-body" href=https://www.dieserc.com/da/troubleshooting/ title=Fejlfindingsguider>Fejlfinding</a></li></ul></div></li><li class=border-bottom><a class="d-block px-3 py-3 text-decoration-none td-mobile-nav__link text-body" href=https://www.dieserc.com/da/property-insights/ title="Indsigt i ejendomsmarkedet">Indsigt i ejendom</a></li><li class=border-bottom><a class="d-block px-3 py-3 text-decoration-none td-mobile-nav__link text-body" href=https://www.dieserc.com/da/about/>Om</a></li></ul></nav><div class="border-top bg-body-secondary bg-opacity-25 p-3 mt-auto td-mobile-nav__footer"><div class="d-flex flex-wrap align-items-center gap-2 justify-content-between"><div class="td-mobile-nav__langs flex-grow-1"><div class="td-lang-menu dropdown"><a class="nav-link dropdown-toggle td-lang-menu__title" href=# role=button data-bs-toggle=dropdown aria-haspopup=true aria-expanded=false><span class=td-lang-menu__title-text>Dansk</span>
-<span class=td-lang-menu__title-code>DA</span></a><ul class=dropdown-menu><li><a class=dropdown-item href=https://www.dieserc.com/troubleshooting/>English</a></li><li><a class=dropdown-item href=https://www.dieserc.com/zh/troubleshooting/>简体中文</a></li><li><a class=dropdown-item href=https://www.dieserc.com/es/troubleshooting/>Español</a></li><li><a class=dropdown-item href=https://www.dieserc.com/ar/troubleshooting/>العربية</a></li><li><a class=dropdown-item href=https://www.dieserc.com/ru/troubleshooting/>Русский</a></li><li><a class=dropdown-item href=https://www.dieserc.com/fr/troubleshooting/>Français</a></li><li><a class=dropdown-item href=https://www.dieserc.com/it/troubleshooting/>Italiano</a></li><li><a class=dropdown-item href=https://www.dieserc.com/no/troubleshooting/>Norsk</a></li><li><a class=dropdown-item href=https://www.dieserc.com/pt/troubleshooting/>Português</a></li><li><a class=dropdown-item href=https://www.dieserc.com/de/troubleshooting/>Deutsch</a></li><li><span class="dropdown-item active">Dansk</span></li><li><a class=dropdown-item href=https://www.dieserc.com/ro/troubleshooting/>Română</a></li><li><a class=dropdown-item href=https://www.dieserc.com/pl/troubleshooting/>Polski</a></li></ul></div></div><div class=td-mobile-nav__theme><div class="td-light-dark-menu dropdown"><svg class="d-none"><symbol id="check2" viewBox="0 0 16 16"><path d="M13.854 3.646a.5.5.0 010 .708l-7 7a.5.5.0 01-.708.0l-3.5-3.5a.5.5.0 11.708-.708L6.5 10.293l6.646-6.647a.5.5.0 01.708.0z"/></symbol><symbol id="circle-half" viewBox="0 0 16 16"><path d="M8 15A7 7 0 108 1v14zm0 1A8 8 0 118 0a8 8 0 010 16z"/></symbol><symbol id="moon-stars-fill" viewBox="0 0 16 16"><path d="M6 .278a.768.768.0 01.08.858 7.208 7.208.0 00-.878 3.46c0 4.021 3.278 7.277 7.318 7.277.527.0 1.04-.055 1.533-.16a.787.787.0 01.81.316.733.733.0 01-.031.893A8.349 8.349.0 018.344 16C3.734 16 0 12.286.0 7.71.0 4.266 2.114 1.312 5.124.06A.752.752.0 016 .278z"/><path d="M10.794 3.148a.217.217.0 01.412.0l.387 1.162c.173.518.579.924 1.097 1.097l1.162.387a.217.217.0 010 .412l-1.162.387A1.734 1.734.0 0011.593 7.69l-.387 1.162a.217.217.0 01-.412.0l-.387-1.162A1.734 1.734.0 009.31 6.593l-1.162-.387a.217.217.0 010-.412l1.162-.387a1.734 1.734.0 001.097-1.097l.387-1.162zM13.863.099a.145.145.0 01.274.0l.258.774c.115.346.386.617.732.732l.774.258a.145.145.0 010 .274l-.774.258a1.156 1.156.0 00-.732.732l-.258.774a.145.145.0 01-.274.0l-.258-.774a1.156 1.156.0 00-.732-.732l-.774-.258a.145.145.0 010-.274l.774-.258c.346-.115.617-.386.732-.732L13.863.1z"/></symbol><symbol id="sun-fill" viewBox="0 0 16 16"><path d="M8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.5.5.0 01.5.5v2a.5.5.0 01-1 0v-2A.5.5.0 018 0zm0 13a.5.5.0 01.5.5v2a.5.5.0 01-1 0v-2A.5.5.0 018 13zm8-5a.5.5.0 01-.5.5h-2a.5.5.0 010-1h2a.5.5.0 01.5.5zM3 8a.5.5.0 01-.5.5h-2a.5.5.0 010-1h2A.5.5.0 013 8zm10.657-5.657a.5.5.0 010 .707l-1.414 1.415a.5.5.0 11-.707-.708l1.414-1.414a.5.5.0 01.707.0zm-9.193 9.193a.5.5.0 010 .707L3.05 13.657a.5.5.0 01-.707-.707l1.414-1.414a.5.5.0 01.707.0zm9.193 2.121a.5.5.0 01-.707.0l-1.414-1.414a.5.5.0 01.707-.707l1.414 1.414a.5.5.0 010 .707zM4.464 4.465a.5.5.0 01-.707.0L2.343 3.05a.5.5.0 11.707-.707l1.414 1.414a.5.5.0 010 .708z"/></symbol></svg>
-<button class="btn btn-link nav-link dropdown-toggle d-flex align-items-center" id=bd-theme type=button aria-expanded=false data-bs-toggle=dropdown aria-label="Toggle theme (auto)">
-<svg class="bi my-1 theme-icon-active"><use href="#circle-half"/></svg></button><ul class=dropdown-menu aria-labelledby=bd-theme><li><button type=button class="dropdown-item d-flex align-items-center" data-bs-theme-value=light aria-pressed=false>
-<svg class="bi me-2 opacity-50"><use href="#sun-fill"/></svg>
-Light
-<svg class="bi ms-auto d-none"><use href="#check2"/></svg></button></li><li><button type=button class="dropdown-item d-flex align-items-center" data-bs-theme-value=dark aria-pressed=false>
-<svg class="bi me-2 opacity-50"><use href="#moon-stars-fill"/></svg>
-Dark
-<svg class="bi ms-auto d-none"><use href="#check2"/></svg></button></li><li><button type=button class="dropdown-item d-flex align-items-center active" data-bs-theme-value=auto aria-pressed=true>
-<svg class="bi me-2 opacity-50"><use href="#circle-half"/></svg>
-Auto
-<svg class="bi ms-auto d-none"><use href="#check2"/></svg></button></li></ul></div></div></div><a class="btn btn-outline-secondary btn-sm w-100 mt-2" href=https://www.dieserc.com/da/search/>Søg på dette websted…</a></div></div></div></header><div class="container-fluid td-outer"><div class=td-main><main class="col-12 linktrol-news-section-main px-0" role=main><section class="linktrol-news-hero linktrol-news-hero--smart-solutions text-white position-relative overflow-hidden"><div class="linktrol-news-hero__overlay linktrol-news-hero__overlay--smart-solutions" aria-hidden=true></div><div class="linktrol-news-hero__photo linktrol-news-hero__photo--smart-solutions" style=background-image:url(/images/troubleshooting-hero.png) aria-hidden=true></div><div class="container position-relative py-5 px-3 linktrol-news-hero__inner text-center text-md-start"><div class="row align-items-center g-4"><div class="col-lg-10 col-xl-8"><div class="linktrol-news-hero__breadcrumb small mb-3 mb-md-4 text-white-50"><nav aria-label=breadcrumb class="td-breadcrumbs td-breadcrumbs__single"><ol class=breadcrumb><li class="breadcrumb-item active" aria-current=page>Fejlfinding</li></ol></nav></div><h1 class="linktrol-news-hero__title display-5 fw-bold mb-3">Fejlfinding</h1><div class="lead linktrol-news-hero__lead linktrol-news-hero__lead--smart-solutions mb-4 linktrol-hero-markdown">Selvhjælp til parring, LED’er, langsom respons og svagt signal — søg eller brug tags til at filtrere.</div></div></div></div></section><div class="linktrol-ts-hub bg-body-secondary bg-opacity-25"><div class="container py-5 px-3 px-lg-4"><div id=troubleshooting-hub-root class="row g-4 align-items-start"><div class=col-lg-8><div class="linktrol-ts-hub__surface mb-4"><label for=ts-search-input class="form-label fw-semibold mb-2">Hvad er problemet?</label><div class="input-group input-group-lg shadow-sm linktrol-ts-hub__search"><span class="input-group-text bg-body border-end-0 text-body-secondary" aria-hidden=true><i class="fa-solid fa-magnifying-glass"></i></span>
-<input type=search id=ts-search-input class="form-control border-start-0" placeholder="Søg symptom eller model…" autocomplete=off spellcheck=false data-ts-empty-hint="Intet match. Prøv færre ord eller ryd tagget."></div><p class="small text-body-secondary mt-2 mb-3">Skriv ovenfor eller tryk på et tag. Filtrering sker kun i din browser.</p><div class="d-flex flex-wrap gap-2 linktrol-ts-hub__tags" role=group aria-label=tags><button type=button class="btn btn-sm btn-outline-secondary rounded-pill linktrol-ts-tag" data-ts-tag=pairing data-ts-keywords="parre parring lære binde kode lære kommando, pair pairing learn bind code teach">#Parrer ikke / lærer ikke</button><button type=button class="btn btn-sm btn-outline-secondary rounded-pill linktrol-ts-tag" data-ts-tag=led data-ts-keywords="led indikator lys blink solid flash, led indicator light blink solid flash">#LED tændt / blinker mærkeligt</button><button type=button class="btn btn-sm btn-outline-secondary rounded-pill linktrol-ts-tag" data-ts-tag=latency data-ts-keywords="forsinkelse latens lag langsom respons, delay latency lag slow response">#Langsom reaktion</button><button type=button class="btn btn-sm btn-outline-secondary rounded-pill linktrol-ts-tag" data-ts-tag=range data-ts-keywords="signal rækkevidde afstand væg mesh offline, signal range distance wall mesh offline">#Svagt signal / kort rækkevidde</button></div><p class="small text-body-secondary mt-3 mb-0 d-none" id=ts-filter-active data-label-filter=Filtrer></p></div><h2 class="h5 fw-bold mb-3">Almindelige problemer</h2><p id=ts-global-empty class="alert alert-light border d-none mb-3" role=status></p><section class="linktrol-ts-issues-all mb-5" aria-label="Almindelige problemer"><div class="accordion linktrol-ts-accordion rounded" id=accordion-ts-all><div class="accordion-item linktrol-ts-issue border-0 shadow-sm mb-2 rounded overflow-hidden" id=ts-issue-ws-pair-fail data-ts-keywords="kontakt «dør» efter en udløst sikring du trykker på kontakten; intet tænder. modtageren har ofte mistet parringen, eller fjernbetjeningens batteri er for svagt til at registrere. vægkontakt sikring parring relæ lære fjernbetjening batteri, wall switch breaker pairing relay learn remote battery åbn manualen og sæt modtageren i lære-/parringstilstand — se led-mønsteret. inden for 10 sekunder tryk én gang på vægkontakten eller fjernbetjeningen; lyt efter bip eller bekræftelsesblink. hvis ikke, forlad læretilstand, cyklus strøm på modtageren, prøv igen med friske batterier i fjernbetjeningen." data-ts-tags="pairing led"><h3 class=accordion-header><button class="accordion-button collapsed py-3" type=button id=heading-ts-ws-pair-fail data-bs-toggle=collapse data-bs-target=#collapse-ts-ws-pair-fail aria-expanded=false aria-controls=collapse-ts-ws-pair-fail>
-<span class="text-start fw-semibold">Kontakt «dør» efter en udløst sikring</span></button></h3><div id=collapse-ts-ws-pair-fail class="accordion-collapse collapse" data-bs-parent=#accordion-ts-all role=region aria-labelledby=heading-ts-ws-pair-fail><div class="accordion-body border-top"><p class="small text-uppercase text-body-secondary fw-bold mb-1">Det du ser</p><p class=mb-3>Du trykker på kontakten; intet tænder.</p><p class="small text-uppercase text-body-secondary fw-bold mb-1">Almindelig årsag</p><p class=mb-3>Modtageren har ofte mistet parringen, eller fjernbetjeningens batteri er for svagt til at registrere.</p><div class="alert alert-light border small d-flex gap-2 align-items-start mb-3" role=note><i class="fa-regular fa-image mt-1 text-body-secondary" aria-hidden=true></i><div><span class="fw-semibold d-block mb-1">Billede / video</span>
-LED-tidsdiagrammet i PDF'en er din parringsguide — match det på enheden.</div></div><p class="small text-uppercase text-body-secondary fw-bold mb-2">Prøv i rækkefølge (sæt kryds undervejs)</p><ul class="list-group list-group-flush linktrol-ts-steps rounded border mb-3"><li class="list-group-item d-flex gap-2 align-items-start py-3"><span class="badge text-bg-secondary rounded-pill flex-shrink-0">1</span>
-<label class="form-check-label flex-grow-1 mb-0"><input type=checkbox class="form-check-input me-2 mt-1">Åbn manualen og sæt modtageren i lære-/parringstilstand — se LED-mønsteret.</label></li><li class="list-group-item d-flex gap-2 align-items-start py-3"><span class="badge text-bg-secondary rounded-pill flex-shrink-0">2</span>
-<label class="form-check-label flex-grow-1 mb-0"><input type=checkbox class="form-check-input me-2 mt-1">Inden for 10 sekunder tryk én gang på vægkontakten eller fjernbetjeningen; lyt efter bip eller bekræftelsesblink.</label></li><li class="list-group-item d-flex gap-2 align-items-start py-3"><span class="badge text-bg-secondary rounded-pill flex-shrink-0">3</span>
-<label class="form-check-label flex-grow-1 mb-0"><input type=checkbox class="form-check-input me-2 mt-1">Hvis ikke, forlad læretilstand, cyklus strøm på modtageren, prøv igen med friske batterier i fjernbetjeningen.</label></li></ul><div class="alert alert-warning border-0 small mb-0" role=status><i class="fa-solid fa-gift me-1" aria-hidden=true></i>Er enheden over 3 år gammel? Hvis trinnene ovenfor fejler, så mail os om opgraderingsmuligheder.</div></div></div></div><div class="accordion-item linktrol-ts-issue border-0 shadow-sm mb-2 rounded overflow-hidden" id=ts-issue-gw-mesh-drop data-ts-keywords="enheder falder hele tiden offline appen viser offline, så online igen af sig selv. tykke vægge, metalskabe, dårlig hub-placering, eller wi‑fi-router skifter kanal og forstyrrer zigbee. gateway zigbee wifi mesh offline signal repeater beton, gateway zigbee wifi mesh offline signal repeater concrete wall flyt hubben eller en stikprop-repeater tættere på den svage enhed; færre vægge/metal imellem. hold hubben væk fra mikrobølgeovne og rodet usb-kabler. træk gateway ud i 3 minutter, sæt i igen; brug «repair / permit join» i appen hvis du har det." data-ts-tags="range latency"><h3 class=accordion-header><button class="accordion-button collapsed py-3" type=button id=heading-ts-gw-mesh-drop data-bs-toggle=collapse data-bs-target=#collapse-ts-gw-mesh-drop aria-expanded=false aria-controls=collapse-ts-gw-mesh-drop>
-<span class="text-start fw-semibold">Enheder falder hele tiden offline</span></button></h3><div id=collapse-ts-gw-mesh-drop class="accordion-collapse collapse" data-bs-parent=#accordion-ts-all role=region aria-labelledby=heading-ts-gw-mesh-drop><div class="accordion-body border-top"><p class="small text-uppercase text-body-secondary fw-bold mb-1">Det du ser</p><p class=mb-3>Appen viser offline, så online igen af sig selv.</p><p class="small text-uppercase text-body-secondary fw-bold mb-1">Almindelig årsag</p><p class=mb-3>Tykke vægge, metalskabe, dårlig hub-placering, eller Wi‑Fi-router skifter kanal og forstyrrer Zigbee.</p><p class="small text-uppercase text-body-secondary fw-bold mb-2">Prøv i rækkefølge (sæt kryds undervejs)</p><ul class="list-group list-group-flush linktrol-ts-steps rounded border mb-3"><li class="list-group-item d-flex gap-2 align-items-start py-3"><span class="badge text-bg-secondary rounded-pill flex-shrink-0">1</span>
-<label class="form-check-label flex-grow-1 mb-0"><input type=checkbox class="form-check-input me-2 mt-1">Flyt hubben eller en stikprop-repeater tættere på den svage enhed; færre vægge/metal imellem.</label></li><li class="list-group-item d-flex gap-2 align-items-start py-3"><span class="badge text-bg-secondary rounded-pill flex-shrink-0">2</span>
-<label class="form-check-label flex-grow-1 mb-0"><input type=checkbox class="form-check-input me-2 mt-1">Hold hubben væk fra mikrobølgeovne og rodet USB-kabler.</label></li><li class="list-group-item d-flex gap-2 align-items-start py-3"><span class="badge text-bg-secondary rounded-pill flex-shrink-0">3</span>
-<label class="form-check-label flex-grow-1 mb-0"><input type=checkbox class="form-check-input me-2 mt-1">Træk gateway ud i 3 minutter, sæt i igen; brug «repair / permit join» i appen hvis du har det.</label></li></ul><div class="border rounded p-3 bg-body-secondary bg-opacity-25 mb-3"><p class="small fw-semibold mb-2"><i class="fa-solid fa-link me-1 text-body-secondary" aria-hidden=true></i>Læs mere</p><a href=https://www.dieserc.com/smart-solutions/>Relæ- og repeateridéer — se Smarte løsninger</a></div></div></div></div><div class="accordion-item linktrol-ts-issue border-0 shadow-sm mb-2 rounded overflow-hidden" id=ts-issue-gc-remote-range data-ts-keywords="fjernbetjening virker kun meget tæt på den rakte længere før; nu skal du stå ved døren. svagt batteri, bøjet modtagerantenne, eller ny metalkant der blokerer vejen. port garage fjernbetjening rækkevidde antenne modtager lære, gate garage remote range antenna receiver learn skift batteri i fjernbetjeningen (ofte cr2032 — tjek etiket). ret modtagerantennen ud; gem den ikke op ad en stålramme. lær en god fjernbetjening igen for at udelukke en defekt hukommelsesslot." data-ts-tags=range><h3 class=accordion-header><button class="accordion-button collapsed py-3" type=button id=heading-ts-gc-remote-range data-bs-toggle=collapse data-bs-target=#collapse-ts-gc-remote-range aria-expanded=false aria-controls=collapse-ts-gc-remote-range>
-<span class="text-start fw-semibold">Fjernbetjening virker kun meget tæt på</span></button></h3><div id=collapse-ts-gc-remote-range class="accordion-collapse collapse" data-bs-parent=#accordion-ts-all role=region aria-labelledby=heading-ts-gc-remote-range><div class="accordion-body border-top"><p class="small text-uppercase text-body-secondary fw-bold mb-1">Det du ser</p><p class=mb-3>Den rakte længere før; nu skal du stå ved døren.</p><p class="small text-uppercase text-body-secondary fw-bold mb-1">Almindelig årsag</p><p class=mb-3>Svagt batteri, bøjet modtagerantenne, eller ny metalkant der blokerer vejen.</p><div class="alert alert-light border small d-flex gap-2 align-items-start mb-3" role=note><i class="fa-regular fa-image mt-1 text-body-secondary" aria-hidden=true></i><div><span class="fw-semibold d-block mb-1">Billede / video</span>
-Din manual viser antenneplacering — sammenlign med din installation.</div></div><p class="small text-uppercase text-body-secondary fw-bold mb-2">Prøv i rækkefølge (sæt kryds undervejs)</p><ul class="list-group list-group-flush linktrol-ts-steps rounded border mb-3"><li class="list-group-item d-flex gap-2 align-items-start py-3"><span class="badge text-bg-secondary rounded-pill flex-shrink-0">1</span>
-<label class="form-check-label flex-grow-1 mb-0"><input type=checkbox class="form-check-input me-2 mt-1">Skift batteri i fjernbetjeningen (ofte CR2032 — tjek etiket).</label></li><li class="list-group-item d-flex gap-2 align-items-start py-3"><span class="badge text-bg-secondary rounded-pill flex-shrink-0">2</span>
-<label class="form-check-label flex-grow-1 mb-0"><input type=checkbox class="form-check-input me-2 mt-1">Ret modtagerantennen ud; gem den ikke op ad en stålramme.</label></li><li class="list-group-item d-flex gap-2 align-items-start py-3"><span class="badge text-bg-secondary rounded-pill flex-shrink-0">3</span>
-<label class="form-check-label flex-grow-1 mb-0"><input type=checkbox class="form-check-input me-2 mt-1">Lær en god fjernbetjening igen for at udelukke en defekt hukommelsesslot.</label></li></ul><div class="alert alert-warning border-0 small mb-0" role=status><i class="fa-solid fa-gift me-1" aria-hidden=true></i>Er enheden over 3 år gammel? Hvis trinnene ovenfor fejler, så mail os om opgraderingsmuligheder.</div></div></div></div></div></section><section class="linktrol-ts-diagnosis card border-0 shadow-sm mb-4" aria-labelledby=ts-diagnosis-title><div class="card-body p-4"><h2 id=ts-diagnosis-title class="h5 fw-bold mb-2">Stadig kørt fast efter alle trin?</h2><p class="text-body-secondary mb-3">Udstyr på ca. 3+ år er sværere at holde pålideligt. Mail os — vi kan pege på opgraderingstilbud hos DieseRC.</p><p class="small fw-semibold mb-2">Hvor længe har du brugt dette udstyr?</p><div class="d-flex flex-wrap gap-2 mb-3" role=group><button type=button class="btn btn-outline-secondary btn-sm" data-ts-age=new>Under 3 år</button>
-<button type=button class="btn btn-outline-secondary btn-sm" data-ts-age=old>3 år eller mere</button></div><div class="linktrol-ts-diagnosis__panel d-none border rounded p-3 mb-2 bg-body-tertiary bg-opacity-25" data-ts-age-panel=new><a class="btn btn-primary btn-sm" href="mailto:linktrol@icloud.com?subject=Troubleshooting%20follow-up%20%28under%203y%29">Under 3 år — mail for hjælp til ledninger / montering</a></div><div class="linktrol-ts-diagnosis__panel d-none border rounded p-3 mb-2 bg-warning-subtle" data-ts-age-panel=old><a class="btn btn-warning btn-sm text-dark" href="mailto:linktrol@icloud.com?subject=Legacy%20hardware%20upgrade%20coupon">3+ år — mail for opgradering / kupon</a></div><p class="small text-body-secondary mb-0">Tilbud afhænger af lager og region — angiv model og hvor du købte i mailen.</p></div></section><div class="text-center py-2"><a class="btn btn-lg btn-outline-primary px-5" href="mailto:linktrol@icloud.com?subject=B2B%20technical%20support%20request">B2B / engros teknisk hjælp</a><p class="small text-body-secondary mt-2 mb-0">Vi svarer som regel inden én arbejdsdag.</p></div></div><aside class=col-lg-4><div class=linktrol-news-sidebar-sticky><div class="linktrol-ts-sidebar d-flex flex-column gap-4"><div class="card border-0 shadow-sm linktrol-ts-sidebar__promo"><div class=card-body><h3 class="h6 fw-bold mb-2">Tykke vægge, dårligt signal?</h3><p class="small text-body-secondary mb-3">Repeatere og bedre hub-placering hjælper som regel. Se Smarte løsninger for layouts.</p><a class="btn btn-sm btn-primary" href=https://www.dieserc.com/smart-solutions/>Åbn Smarte løsninger</a></div></div></div></div></aside></div></div></div><script src=https://www.dieserc.com/js/troubleshooting-hub.js defer></script></main></div><footer class="td-footer td-footer--linktrol row d-print-none"><div class="container-fluid px-3 px-lg-4"><div class="row g-4 py-4 py-lg-5 align-items-start"><div class="col-12 col-lg-3"><div class="h5 mb-2">DieseRC SWITNEX</div><p class="small mb-0 td-footer--linktrol__lede">DieseRC designer og fremstiller RF-baseret fjernbetjent kontakt- og modtagerhardware samt forbundne vægprodukter til Wi‑Fi, Zigbee og Bluetooth – til installatører, der har brug for pålidelig, gnidningsfri og økonomisk styring samlet set. Egen produktion, applikationsingeniører og SWITNEX-serien understøtter alt fra adgangslæsere og el-låse til belysning, ventilation, signalering og små DIY‑retrofitløsninger. DieseRC SWITNEX udgiver modelmanualer, feltnoter og compliance-orienterede forklaringer.</p></div><div class="col-12 col-sm-6 col-lg-2"><div class="text-uppercase small fw-semibold td-footer--linktrol__heading mb-2">Support og manualer</div><ul class="list-unstyled mb-0 td-footer--linktrol__links"><li class=mb-1><a href=https://www.dieserc.com/da/manuals/ title="Manualer og dokumentation">Manualer</a></li><li class=mb-1><a href=https://www.dieserc.com/da/troubleshooting/ title=Fejlfindingsguider>Fejlfinding</a></li></ul></div><div class="col-12 col-sm-6 col-lg-2"><div class="text-uppercase small fw-semibold td-footer--linktrol__heading mb-2">Løsninger og handel</div><ul class="list-unstyled mb-0 td-footer--linktrol__links"><li class=mb-1><a href=https://www.dieserc.com/da/smart-solutions/ title="Smarte løsninger">Smarte løsninger</a></li><li class=mb-1><a href=https://www.dieserc.com/da/wholesale-bulk-orders/ title="Engros og store ordrer">Engros og bulkordrer</a></li></ul></div><div class="col-12 col-sm-6 col-lg-2"><div class="text-uppercase small fw-semibold td-footer--linktrol__heading mb-2">Mere</div><ul class="list-unstyled mb-0 td-footer--linktrol__links"><li class=mb-1><a href=https://www.dieserc.com/da/diy-compliance/ title="Gør-det-selv og overholdelse">DIY og overholdelse</a></li><li class=mb-1><a href=https://www.dieserc.com/da/property-insights/ title="Indsigt i ejendomsmarkedet">Indsigt i ejendom</a></li></ul></div></div><div class="row td-footer--linktrol__bottom pt-3 pb-4"><div class="col-12 text-center text-md-start"><div class="td-footer__copyright td-footer__copyright--dieserc small"><div class=mb-1>&copy; 2026 DieseRC. All Rights Reserved.</div><div class=td-footer__copyright-tagline>Proudly supported by SWITNEX Labs – Powering the future of smart automation.</div></div><span class="ms-md-2 d-inline-block mt-2 mt-md-0"><a href=https://www.dieserc.com/about/ target=_blank rel=noopener>Privatlivspolitik</a></span></div></div></div></footer><nav class="linktrol-mobile-footer linktrol-contact-rail d-print-none" aria-label="Hurtig kontakt"><div class=linktrol-mobile-footer__inner><a class="linktrol-mobile-footer__btn linktrol-mobile-footer__btn--shop" href=https://shop.switnex.com target=_blank rel="noopener noreferrer"><i class="fa-solid fa-store" aria-hidden=true></i>
-<span>Shop</span>
-</a><a class="linktrol-mobile-footer__btn linktrol-mobile-footer__btn--wa" href=https://wa.me/8615812381273 target=_blank rel="noopener noreferrer"><i class="fa-brands fa-whatsapp" aria-hidden=true></i>
-<span>Chat nu</span>
-</a><a class="linktrol-mobile-footer__btn linktrol-mobile-footer__btn--tg" href=https://t.me/switnex_aaron target=_blank rel="noopener noreferrer"><i class="fa-brands fa-telegram" aria-hidden=true></i>
-<span>Kontakt</span>
-</a><a class="linktrol-mobile-footer__btn linktrol-mobile-footer__btn--mail" href="mailto:linktrol@icloud.com?subject=DieseRC+SWITNEX+inquiry"><i class="fa-solid fa-envelope" aria-hidden=true></i>
-<span>E-mail</span></a></div></nav><button type=button id=linktrol-back-to-top class="linktrol-back-to-top d-print-none" aria-label="Til toppen" title="Til toppen" tabindex=-1 aria-hidden=true>
-<i class="fa-solid fa-arrow-up" aria-hidden=true></i>
+<!doctype html>
+<html itemscope itemtype="http://schema.org/WebPage" lang="da" class="no-js" data-theme-init>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
+<meta name="theme-color" media="(prefers-color-scheme: dark)"  content="#000000">
+
+<style>
+  html { background: Canvas; color: CanvasText; }
+  @media (prefers-color-scheme: dark) {
+    html { background: #0b0d12; color: #e6e6e6; }
+  }
+  html[data-theme-init] * { transition: none !important; }
+</style>
+
+<script>
+  (function() {
+    const themeKey = 'td-color-theme';
+    const storedTheme = localStorage.getItem(themeKey);
+    let theme = storedTheme || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+
+    if (theme === 'auto') {
+      theme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+    }
+
+    document.documentElement.setAttribute('data-bs-theme', theme);
+  })();
+</script>
+<link rel="alternate" type="text/html" href="http://localhost:1313/da/_print/troubleshooting/">
+<link rel="alternate" type="application/rss&#43;xml" href="http://localhost:1313/da/troubleshooting/index.xml">
+<meta name="robots" content="noindex, nofollow">
+<link rel="icon" type="image/png" href="/images/dieserc-brand-mark.png" sizes="any">
+<link rel="shortcut icon" href="/images/dieserc-brand-mark.png" type="image/png">
+<link rel="apple-touch-icon" href="/images/dieserc-brand-mark.png">
+
+<title>Fejlfinding | DieseRC SWITNEX</title>
+<meta name="description" content="Selvhjælp til parring, LED’er, langsom respons og svagt signal — søg eller brug tags til at filtrere.">
+<meta name="keywords" content="DieseRC, trådløs kontakt, RF fjernbetjening, relæ modtager, smartafbryder Wi-Fi, Zigbee, Bluetooth, Matter, garageport, elektrisk gardin, persienne, elektrisk lås, vandpumpe, ventilation, smart home, energibesparelse, 12V trådløst relæ autocamper, maritim RF-fjernkontakt, landbrugs vandingsrelæ, 433 MHz læringsmodtager, 24v remote relay, 24v wireless switch, 12v rf switch, 12v wireless switch, dc motor remote relay, dc motor wireless switch, 433mhz industrial remote switch, 433mhz latched relay">
+
+<meta property="og:url" content="http://localhost:1313/da/troubleshooting/">
+<meta property="og:site_name" content="DieseRC SWITNEX"><meta property="og:title" content="Fejlfinding | DieseRC SWITNEX">
+<meta property="og:description" content="Selvhjælp til parring, LED’er, langsom respons og svagt signal — søg eller brug tags til at filtrere.">
+<meta property="og:type" content="website">
+  <meta itemprop="name" content="Fejlfinding">
+  <meta itemprop="description" content="Selvhjælp til parring, LED’er, langsom respons og svagt signal — søg eller brug tags til at filtrere."><meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Fejlfinding | DieseRC SWITNEX">
+<meta name="twitter:description" content="Selvhjælp til parring, LED’er, langsom respons og svagt signal — søg eller brug tags til at filtrere."><link href="/scss/main.css" rel="stylesheet">
+<script
+  src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"
+  integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g=="
+  crossorigin="anonymous"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;600;700;800&display=swap" rel="stylesheet">
+
+  </head>
+  <body class="td-section td-blog">
+    <header>
+      <nav class="td-navbar js-navbar-scroll">
+<div class="td-navbar-container container-fluid flex-column flex-md-row">
+  <div class="d-flex w-100 align-items-center justify-content-between justify-content-md-start flex-md-grow-0 gap-2 td-navbar__brand-row">
+    <a class="navbar-brand m-0 navbar-brand--dieserc d-flex align-items-center gap-2 text-decoration-none"
+   href="/da/" aria-label="DieseRC SWITNEX"><span class="navbar-brand__name navbar-brand__wordmark navbar-brand__wordmark--dieserc-lockup">
+      <img class="navbar-brand__mark-img"
+        src="/images/dieserc-brand-mark.png"
+        width="40" height="40"
+        alt=""
+        decoding="async"
+        fetchpriority="high">
+      <span class="navbar-brand__mark-divider" aria-hidden="true"></span>
+      <span class="navbar-brand__mark-dieserc">DieseRC</span>
+    </span></a>
+
+    <button type="button"
+            class="btn btn-link td-navbar__drawer-toggler d-md-none px-2 py-1 lh-1 border-0 shadow-none"
+            data-bs-toggle="offcanvas"
+            data-bs-target="#tdMobileNav"
+            aria-controls="tdMobileNav"
+            aria-label="Menu">
+      <i class="fa-solid fa-bars fa-xl" aria-hidden="true"></i>
+    </button>
+  </div>
+  <div class="td-navbar__main td-navbar-nav-scroll td-navbar-nav-scroll--indicator d-none d-md-flex flex-md-grow-1" id="main_navbar">
+    <div class="scroll-indicator scroll-left"></div>
+    <ul class="navbar-nav">
+      <li class="nav-item">
+            <a class="nav-link" href="/da/" title="Hjem"><span>Hjem</span></a>
+          </li>
+        <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle"
+               href="#"
+               id="navdd-solutions-trade"
+               role="button"
+               data-bs-toggle="dropdown"
+               data-bs-auto-close="outside"
+               aria-expanded="false"
+               aria-haspopup="true"><span>Løsninger og handel</span></a>
+            <ul class="dropdown-menu td-navbar__dropdown shadow-sm border-0" aria-labelledby="navdd-solutions-trade"><li>
+                  <a class="dropdown-item"
+                     href="/da/smart-solutions/" title="Smarte løsninger"><span class="fw-semibold">Smarte løsninger</span></a>
+                </li><li>
+                  <a class="dropdown-item"
+                     href="/da/wholesale-bulk-orders/" title="Engros og store ordrer"><span class="fw-semibold">Engros og bulkordrer</span></a>
+                </li></ul>
+          </li>
+        <li class="nav-item">
+            <a class="nav-link" href="/da/diy-compliance/" title="Gør-det-selv og overholdelse"><span>DIY og overholdelse</span></a>
+          </li>
+        <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle"
+               href="#"
+               id="navdd-support-manuals"
+               role="button"
+               data-bs-toggle="dropdown"
+               data-bs-auto-close="outside"
+               aria-expanded="false"
+               aria-haspopup="true"><span>Support og manualer</span></a>
+            <ul class="dropdown-menu td-navbar__dropdown shadow-sm border-0" aria-labelledby="navdd-support-manuals"><li>
+                  <a class="dropdown-item"
+                     href="/da/manuals/" title="Manualer og dokumentation"><span class="fw-semibold">Manualer</span></a>
+                </li><li>
+                  <a class="dropdown-item"
+                     href="/da/troubleshooting/" title="Fejlfindingsguider"><span class="fw-semibold">Fejlfinding</span></a>
+                </li></ul>
+          </li>
+        <li class="nav-item">
+            <a class="nav-link" href="/da/property-insights/" title="Indsigt i ejendomsmarkedet"><span>Indsigt i ejendom</span></a>
+          </li>
+        <li class="nav-item">
+            <a class="nav-link" href="/da/about/"><span>Om</span></a>
+          </li>
+        <li class="nav-item td-navbar__lang-menu">
+        <div class="td-lang-menu dropdown">
+  <a class="nav-link dropdown-toggle td-lang-menu__title" href="#" role="button"
+    data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    <span class="td-lang-menu__title-text">Dansk</span>
+    <span class="td-lang-menu__title-code">DA</span>
+  </a>
+  <ul class="dropdown-menu">
+    <li><a class="dropdown-item" href="/troubleshooting/">English</a></li>
+      <li><a class="dropdown-item" href="/zh/troubleshooting/">简体中文</a></li>
+      <li><a class="dropdown-item" href="/es/troubleshooting/">Español</a></li>
+      <li><a class="dropdown-item" href="/ar/troubleshooting/">العربية</a></li>
+      <li><a class="dropdown-item" href="/ru/troubleshooting/">Русский</a></li>
+      <li><a class="dropdown-item" href="/fr/troubleshooting/">Français</a></li>
+      <li><a class="dropdown-item" href="/it/troubleshooting/">Italiano</a></li>
+      <li><a class="dropdown-item" href="/no/troubleshooting/">Norsk</a></li>
+      <li><a class="dropdown-item" href="/pt/troubleshooting/">Português</a></li>
+      <li><a class="dropdown-item" href="/de/troubleshooting/">Deutsch</a></li>
+      <li><span class="dropdown-item active">Dansk</span></li>
+      <li><a class="dropdown-item" href="/ro/troubleshooting/">Română</a></li>
+      <li><a class="dropdown-item" href="/pl/troubleshooting/">Polski</a></li>
+      </ul>
+</div></li>
+      <li class="nav-item td-navbar__light-dark-menu">
+        <div class="td-light-dark-menu dropdown"><svg xmlns="http://www.w3.org/2000/svg" class="d-none">
+  <symbol id="check2" viewBox="0 0 16 16">
+    <path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"/>
+  </symbol>
+  <symbol id="circle-half" viewBox="0 0 16 16">
+    <path d="M8 15A7 7 0 1 0 8 1v14zm0 1A8 8 0 1 1 8 0a8 8 0 0 1 0 16z"/>
+  </symbol>
+  <symbol id="moon-stars-fill" viewBox="0 0 16 16">
+    <path d="M6 .278a.768.768 0 0 1 .08.858 7.208 7.208 0 0 0-.878 3.46c0 4.021 3.278 7.277 7.318 7.277.527 0 1.04-.055 1.533-.16a.787.787 0 0 1 .81.316.733.733 0 0 1-.031.893A8.349 8.349 0 0 1 8.344 16C3.734 16 0 12.286 0 7.71 0 4.266 2.114 1.312 5.124.06A.752.752 0 0 1 6 .278z"/>
+    <path d="M10.794 3.148a.217.217 0 0 1 .412 0l.387 1.162c.173.518.579.924 1.097 1.097l1.162.387a.217.217 0 0 1 0 .412l-1.162.387a1.734 1.734 0 0 0-1.097 1.097l-.387 1.162a.217.217 0 0 1-.412 0l-.387-1.162A1.734 1.734 0 0 0 9.31 6.593l-1.162-.387a.217.217 0 0 1 0-.412l1.162-.387a1.734 1.734 0 0 0 1.097-1.097l.387-1.162zM13.863.099a.145.145 0 0 1 .274 0l.258.774c.115.346.386.617.732.732l.774.258a.145.145 0 0 1 0 .274l-.774.258a1.156 1.156 0 0 0-.732.732l-.258.774a.145.145 0 0 1-.274 0l-.258-.774a1.156 1.156 0 0 0-.732-.732l-.774-.258a.145.145 0 0 1 0-.274l.774-.258c.346-.115.617-.386.732-.732L13.863.1z"/>
+  </symbol>
+  <symbol id="sun-fill" viewBox="0 0 16 16">
+    <path d="M8 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8zM8 0a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 0zm0 13a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 13zm8-5a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2a.5.5 0 0 1 .5.5zM3 8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2A.5.5 0 0 1 3 8zm10.657-5.657a.5.5 0 0 1 0 .707l-1.414 1.415a.5.5 0 1 1-.707-.708l1.414-1.414a.5.5 0 0 1 .707 0zm-9.193 9.193a.5.5 0 0 1 0 .707L3.05 13.657a.5.5 0 0 1-.707-.707l1.414-1.414a.5.5 0 0 1 .707 0zm9.193 2.121a.5.5 0 0 1-.707 0l-1.414-1.414a.5.5 0 0 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .707zM4.464 4.465a.5.5 0 0 1-.707 0L2.343 3.05a.5.5 0 1 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .708z"/>
+  </symbol>
+</svg>
+<button class="btn btn-link nav-link dropdown-toggle d-flex align-items-center"
+        id="bd-theme"
+        type="button"
+        aria-expanded="false"
+        data-bs-toggle="dropdown"
+        aria-label="Toggle theme (auto)">
+  <svg class="bi my-1 theme-icon-active"><use href="#circle-half"></use></svg>
 </button>
-<script>(function(){var t,n,o,e=document.getElementById("linktrol-back-to-top");if(!e)return;t=window.matchMedia("(max-width: 767.98px)"),o=280,n=!1;function s(){if(n=!1,!t.matches){e.classList.remove("is-visible"),e.setAttribute("aria-hidden","true"),e.tabIndex=-1;return}var s=window.scrollY||document.documentElement.scrollTop;s>o?(e.classList.add("is-visible"),e.removeAttribute("aria-hidden"),e.tabIndex=0):(e.classList.remove("is-visible"),e.setAttribute("aria-hidden","true"),e.tabIndex=-1)}function i(){if(n)return;n=!0,requestAnimationFrame(s)}e.addEventListener("click",function(){var e=window.matchMedia("(prefers-reduced-motion: reduce)").matches;window.scrollTo({top:0,behavior:e?"auto":"smooth"})}),t.addEventListener?t.addEventListener("change",s):t.addListener(s),window.addEventListener("scroll",i,{passive:!0}),window.addEventListener("resize",i,{passive:!0}),s()})()</script></div><script src=https://www.dieserc.com/js/main.min.65d702cee0bf35691ed701b78b7b713d03be4a9f1f184f95e8049d065c07bc57.js integrity="sha256-ZdcCzuC/NWke1wG3i3txPQO+Sp8fGE+V6ASdBlwHvFc=" crossorigin=anonymous></script><script defer src=https://www.dieserc.com/js/click-to-copy.min.24576ff9fe9f85bb1948ecae52ce227cafce53757a3ad52301f2a79260f6b97d.js integrity="sha256-JFdv+f6fhbsZSOyuUs4ifK/OU3V6OtUjAfKnkmD2uX0=" crossorigin=anonymous></script><script src=https://www.dieserc.com/js/tabpane-persist.js></script></body></html>
+<ul class="dropdown-menu" aria-labelledby="bd-theme">
+  <li>
+    <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="light" aria-pressed="false">
+      <svg class="bi me-2 opacity-50"><use href="#sun-fill"></use></svg>
+      Light
+      <svg class="bi ms-auto d-none"><use href="#check2"></use></svg>
+    </button>
+  </li>
+  <li>
+    <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="dark" aria-pressed="false">
+      <svg class="bi me-2 opacity-50"><use href="#moon-stars-fill"></use></svg>
+      Dark
+      <svg class="bi ms-auto d-none"><use href="#check2"></use></svg>
+    </button>
+  </li>
+  <li>
+    <button type="button" class="dropdown-item d-flex align-items-center active" data-bs-theme-value="auto" aria-pressed="true">
+      <svg class="bi me-2 opacity-50"><use href="#circle-half"></use></svg>
+      Auto
+      <svg class="bi ms-auto d-none"><use href="#check2"></use></svg>
+    </button>
+  </li>
+</ul>
+</div>
+
+      </li>
+      </ul>
+    <div class="scroll-indicator scroll-right"></div>
+  </div>
+  <div class="td-navbar__search d-none d-lg-block">
+    
+  </div>
+</div>
+</nav>
+<div class="offcanvas offcanvas-end td-mobile-nav text-bg-body shadow-lg" tabindex="-1" id="tdMobileNav" aria-labelledby="tdMobileNavLabel">
+  <div class="offcanvas-header border-bottom align-items-center py-3">
+    <a class="navbar-brand m-0 navbar-brand--dieserc d-flex align-items-center gap-2 text-decoration-none"
+   href="/da/" aria-label="DieseRC SWITNEX"><span class="navbar-brand__name navbar-brand__wordmark navbar-brand__wordmark--dieserc-lockup">
+      <img class="navbar-brand__mark-img"
+        src="/images/dieserc-brand-mark.png"
+        width="40" height="40"
+        alt=""
+        decoding="async"
+        fetchpriority="high">
+      <span class="navbar-brand__mark-divider" aria-hidden="true"></span>
+      <span class="navbar-brand__mark-dieserc">DieseRC</span>
+    </span></a>
+
+    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+  </div>
+  <div class="offcanvas-body d-flex flex-column p-0">
+    <nav class="flex-grow-1 overflow-auto" aria-label="Mobile">
+      <ul class="list-unstyled mb-0 td-mobile-nav__list">
+        <li class="border-bottom">
+              <a class="d-block px-3 py-3 text-decoration-none td-mobile-nav__link text-body"
+                 href="/da/" title="Hjem">
+                Hjem
+              </a>
+            </li><li class="td-mobile-nav__item border-bottom">
+              <button type="button"
+                      class="td-mobile-nav__toggle w-100 btn btn-link text-start text-decoration-none d-flex align-items-center py-3 px-3 text-body rounded-0 shadow-none"
+                      data-bs-toggle="collapse"
+                      data-bs-target="#td-mob-sub-solutions-trade"
+                      aria-expanded="false"
+                      aria-controls="td-mob-sub-solutions-trade">
+                <span class="flex-grow-1">Løsninger og handel</span>
+                <i class="fa-solid fa-chevron-right td-mobile-nav__chev small text-body-secondary" aria-hidden="true"></i>
+              </button>
+              <div class="collapse td-mobile-nav__sub bg-body-tertiary" id="td-mob-sub-solutions-trade">
+                <ul class="list-unstyled mb-0 py-1"><li>
+                      <a class="d-block px-4 py-2 text-decoration-none td-mobile-nav__sublink text-body"
+                         href="/da/smart-solutions/" title="Smarte løsninger">
+                        Smarte løsninger
+                      </a>
+                    </li><li>
+                      <a class="d-block px-4 py-2 text-decoration-none td-mobile-nav__sublink text-body"
+                         href="/da/wholesale-bulk-orders/" title="Engros og store ordrer">
+                        Engros og bulkordrer
+                      </a>
+                    </li></ul>
+              </div>
+            </li><li class="border-bottom">
+              <a class="d-block px-3 py-3 text-decoration-none td-mobile-nav__link text-body"
+                 href="/da/diy-compliance/" title="Gør-det-selv og overholdelse">
+                DIY og overholdelse
+              </a>
+            </li><li class="td-mobile-nav__item border-bottom">
+              <button type="button"
+                      class="td-mobile-nav__toggle w-100 btn btn-link text-start text-decoration-none d-flex align-items-center py-3 px-3 text-body rounded-0 shadow-none"
+                      data-bs-toggle="collapse"
+                      data-bs-target="#td-mob-sub-support-manuals"
+                      aria-expanded="false"
+                      aria-controls="td-mob-sub-support-manuals">
+                <span class="flex-grow-1">Support og manualer</span>
+                <i class="fa-solid fa-chevron-right td-mobile-nav__chev small text-body-secondary" aria-hidden="true"></i>
+              </button>
+              <div class="collapse td-mobile-nav__sub bg-body-tertiary" id="td-mob-sub-support-manuals">
+                <ul class="list-unstyled mb-0 py-1"><li>
+                      <a class="d-block px-4 py-2 text-decoration-none td-mobile-nav__sublink text-body"
+                         href="/da/manuals/" title="Manualer og dokumentation">
+                        Manualer
+                      </a>
+                    </li><li>
+                      <a class="d-block px-4 py-2 text-decoration-none td-mobile-nav__sublink text-body"
+                         href="/da/troubleshooting/" title="Fejlfindingsguider">
+                        Fejlfinding
+                      </a>
+                    </li></ul>
+              </div>
+            </li><li class="border-bottom">
+              <a class="d-block px-3 py-3 text-decoration-none td-mobile-nav__link text-body"
+                 href="/da/property-insights/" title="Indsigt i ejendomsmarkedet">
+                Indsigt i ejendom
+              </a>
+            </li><li class="border-bottom">
+              <a class="d-block px-3 py-3 text-decoration-none td-mobile-nav__link text-body"
+                 href="/da/about/">
+                Om
+              </a>
+            </li></ul>
+    </nav>
+    <div class="border-top bg-body-secondary bg-opacity-25 p-3 mt-auto td-mobile-nav__footer">
+      <div class="d-flex flex-wrap align-items-center gap-2 justify-content-between">
+        <div class="td-mobile-nav__langs flex-grow-1">
+            <div class="td-lang-menu dropdown">
+  <a class="nav-link dropdown-toggle td-lang-menu__title" href="#" role="button"
+    data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    <span class="td-lang-menu__title-text">Dansk</span>
+    <span class="td-lang-menu__title-code">DA</span>
+  </a>
+  <ul class="dropdown-menu">
+    <li><a class="dropdown-item" href="/troubleshooting/">English</a></li>
+      <li><a class="dropdown-item" href="/zh/troubleshooting/">简体中文</a></li>
+      <li><a class="dropdown-item" href="/es/troubleshooting/">Español</a></li>
+      <li><a class="dropdown-item" href="/ar/troubleshooting/">العربية</a></li>
+      <li><a class="dropdown-item" href="/ru/troubleshooting/">Русский</a></li>
+      <li><a class="dropdown-item" href="/fr/troubleshooting/">Français</a></li>
+      <li><a class="dropdown-item" href="/it/troubleshooting/">Italiano</a></li>
+      <li><a class="dropdown-item" href="/no/troubleshooting/">Norsk</a></li>
+      <li><a class="dropdown-item" href="/pt/troubleshooting/">Português</a></li>
+      <li><a class="dropdown-item" href="/de/troubleshooting/">Deutsch</a></li>
+      <li><span class="dropdown-item active">Dansk</span></li>
+      <li><a class="dropdown-item" href="/ro/troubleshooting/">Română</a></li>
+      <li><a class="dropdown-item" href="/pl/troubleshooting/">Polski</a></li>
+      </ul>
+</div>
+          </div><div class="td-mobile-nav__theme">
+            <div class="td-light-dark-menu dropdown"><svg xmlns="http://www.w3.org/2000/svg" class="d-none">
+  <symbol id="check2" viewBox="0 0 16 16">
+    <path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"/>
+  </symbol>
+  <symbol id="circle-half" viewBox="0 0 16 16">
+    <path d="M8 15A7 7 0 1 0 8 1v14zm0 1A8 8 0 1 1 8 0a8 8 0 0 1 0 16z"/>
+  </symbol>
+  <symbol id="moon-stars-fill" viewBox="0 0 16 16">
+    <path d="M6 .278a.768.768 0 0 1 .08.858 7.208 7.208 0 0 0-.878 3.46c0 4.021 3.278 7.277 7.318 7.277.527 0 1.04-.055 1.533-.16a.787.787 0 0 1 .81.316.733.733 0 0 1-.031.893A8.349 8.349 0 0 1 8.344 16C3.734 16 0 12.286 0 7.71 0 4.266 2.114 1.312 5.124.06A.752.752 0 0 1 6 .278z"/>
+    <path d="M10.794 3.148a.217.217 0 0 1 .412 0l.387 1.162c.173.518.579.924 1.097 1.097l1.162.387a.217.217 0 0 1 0 .412l-1.162.387a1.734 1.734 0 0 0-1.097 1.097l-.387 1.162a.217.217 0 0 1-.412 0l-.387-1.162A1.734 1.734 0 0 0 9.31 6.593l-1.162-.387a.217.217 0 0 1 0-.412l1.162-.387a1.734 1.734 0 0 0 1.097-1.097l.387-1.162zM13.863.099a.145.145 0 0 1 .274 0l.258.774c.115.346.386.617.732.732l.774.258a.145.145 0 0 1 0 .274l-.774.258a1.156 1.156 0 0 0-.732.732l-.258.774a.145.145 0 0 1-.274 0l-.258-.774a1.156 1.156 0 0 0-.732-.732l-.774-.258a.145.145 0 0 1 0-.274l.774-.258c.346-.115.617-.386.732-.732L13.863.1z"/>
+  </symbol>
+  <symbol id="sun-fill" viewBox="0 0 16 16">
+    <path d="M8 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8zM8 0a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 0zm0 13a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 13zm8-5a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2a.5.5 0 0 1 .5.5zM3 8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2A.5.5 0 0 1 3 8zm10.657-5.657a.5.5 0 0 1 0 .707l-1.414 1.415a.5.5 0 1 1-.707-.708l1.414-1.414a.5.5 0 0 1 .707 0zm-9.193 9.193a.5.5 0 0 1 0 .707L3.05 13.657a.5.5 0 0 1-.707-.707l1.414-1.414a.5.5 0 0 1 .707 0zm9.193 2.121a.5.5 0 0 1-.707 0l-1.414-1.414a.5.5 0 0 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .707zM4.464 4.465a.5.5 0 0 1-.707 0L2.343 3.05a.5.5 0 1 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .708z"/>
+  </symbol>
+</svg>
+<button class="btn btn-link nav-link dropdown-toggle d-flex align-items-center"
+        id="bd-theme"
+        type="button"
+        aria-expanded="false"
+        data-bs-toggle="dropdown"
+        aria-label="Toggle theme (auto)">
+  <svg class="bi my-1 theme-icon-active"><use href="#circle-half"></use></svg>
+</button>
+<ul class="dropdown-menu" aria-labelledby="bd-theme">
+  <li>
+    <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="light" aria-pressed="false">
+      <svg class="bi me-2 opacity-50"><use href="#sun-fill"></use></svg>
+      Light
+      <svg class="bi ms-auto d-none"><use href="#check2"></use></svg>
+    </button>
+  </li>
+  <li>
+    <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="dark" aria-pressed="false">
+      <svg class="bi me-2 opacity-50"><use href="#moon-stars-fill"></use></svg>
+      Dark
+      <svg class="bi ms-auto d-none"><use href="#check2"></use></svg>
+    </button>
+  </li>
+  <li>
+    <button type="button" class="dropdown-item d-flex align-items-center active" data-bs-theme-value="auto" aria-pressed="true">
+      <svg class="bi me-2 opacity-50"><use href="#circle-half"></use></svg>
+      Auto
+      <svg class="bi ms-auto d-none"><use href="#check2"></use></svg>
+    </button>
+  </li>
+</ul>
+</div>
+
+          </div></div>
+      <a class="btn btn-outline-secondary btn-sm w-100 mt-2" href="/da/search/">Søg på dette websted…</a>
+    </div>
+  </div>
+</div>
+
+
+    </header>
+    <div class="container-fluid td-outer">
+      <div class="td-main"><main class="col-12 linktrol-news-section-main px-0" role="main"><section class="linktrol-news-hero linktrol-news-hero--smart-solutions text-white position-relative overflow-hidden">
+  <div class="linktrol-news-hero__overlay linktrol-news-hero__overlay--smart-solutions" aria-hidden="true"></div><div class="linktrol-news-hero__photo linktrol-news-hero__photo--smart-solutions" style="background-image: url('/images/troubleshooting-hero.png');" aria-hidden="true"></div><div class="container position-relative py-5 px-3 linktrol-news-hero__inner text-center text-md-start">
+    <div class="row align-items-center g-4">
+      <div class="col-lg-10 col-xl-8"><div class="linktrol-news-hero__breadcrumb small mb-3 mb-md-4 text-white-50"><nav aria-label="breadcrumb" class="td-breadcrumbs td-breadcrumbs__single">
+  <ol class="breadcrumb">
+  <li class="breadcrumb-item active" aria-current="page">
+    Fejlfinding</li>
+  </ol>
+</nav></div><h1 class="linktrol-news-hero__title display-5 fw-bold mb-3">Fejlfinding</h1><div class="lead linktrol-news-hero__lead linktrol-news-hero__lead--smart-solutions mb-4 linktrol-hero-markdown">Selvhjælp til parring, LED’er, langsom respons og svagt signal — søg eller brug tags til at filtrere.</div></div></div>
+  </div>
+</section>
+<div class="linktrol-ts-hub bg-body-secondary bg-opacity-25">
+  <div class="container py-5 px-3 px-lg-4">
+    <div id="troubleshooting-hub-root" class="row g-4 align-items-start">
+      <div class="col-lg-8">
+        <div class="linktrol-ts-hub__surface mb-4">
+          <label for="ts-search-input" class="form-label fw-semibold mb-2">Hvad er problemet?</label>
+          <div class="input-group input-group-lg shadow-sm linktrol-ts-hub__search">
+            <span class="input-group-text bg-body border-end-0 text-body-secondary" aria-hidden="true"><i class="fa-solid fa-magnifying-glass"></i></span>
+            <input type="search" id="ts-search-input" class="form-control border-start-0" placeholder="Søg symptom eller model…" autocomplete="off" spellcheck="false" data-ts-empty-hint="Intet match. Prøv færre ord eller ryd tagget.">
+          </div><p class="small text-body-secondary mt-2 mb-3">Skriv ovenfor eller tryk på et tag. Filtrering sker kun i din browser.</p><div class="d-flex flex-wrap gap-2 linktrol-ts-hub__tags" role="group" aria-label="tags"><button type="button" class="btn btn-sm btn-outline-secondary rounded-pill linktrol-ts-tag" data-ts-tag="pairing" data-ts-keywords="parre parring lære binde kode lære kommando, pair pairing learn bind code teach">#Parrer ikke / lærer ikke</button><button type="button" class="btn btn-sm btn-outline-secondary rounded-pill linktrol-ts-tag" data-ts-tag="led" data-ts-keywords="led indikator lys blink solid flash, led indicator light blink solid flash">#LED tændt / blinker mærkeligt</button><button type="button" class="btn btn-sm btn-outline-secondary rounded-pill linktrol-ts-tag" data-ts-tag="latency" data-ts-keywords="forsinkelse latens lag langsom respons, delay latency lag slow response">#Langsom reaktion</button><button type="button" class="btn btn-sm btn-outline-secondary rounded-pill linktrol-ts-tag" data-ts-tag="range" data-ts-keywords="signal rækkevidde afstand væg mesh offline, signal range distance wall mesh offline">#Svagt signal / kort rækkevidde</button><button type="button" class="btn btn-sm btn-outline-secondary rounded-pill linktrol-ts-tag" data-ts-tag="wifi" data-ts-keywords="wifi 2.4ghz ewelink tuya smart life alexa google app stemme bluetooth">#Wi‑Fi / app-problemer</button></div><p class="small text-body-secondary mt-3 mb-0 d-none" id="ts-filter-active" data-label-filter="Filtrer"></p>
+        </div>
+
+        <h2 class="h5 fw-bold mb-3">Almindelige problemer</h2>
+        <p id="ts-global-empty" class="alert alert-light border d-none mb-3" role="status"></p>
+        <section class="linktrol-ts-issues-all mb-5" aria-label="Almindelige problemer">
+          <div class="accordion linktrol-ts-accordion rounded" id="accordion-ts-all"><div class="accordion-item linktrol-ts-issue border-0 shadow-sm mb-2 rounded overflow-hidden" id="ts-issue-ws-pair-fail" data-ts-keywords="kontakt død efter gruppeafbryder du trykker på kontakten; intet tænder. modtageren har ofte mistet parring, eller fjernbetjeningsbatteriet er for svagt til at lære ind. wall switch breaker pairing relay learn remote battery åbn manualen og sæt modtageren i lær/par-tilstand — se led-mønsteret. inden for 10 sekunder: tryk én gang på vægkontakt eller fjernbetjening; lyt efter bip eller bekræftelsesblink. hvis ikke: forlad læretilstand, strømcykl modtageren, prøv igen med friske batterier." data-ts-tags="pairing led">
+  <h3 class="accordion-header">
+    <button class="accordion-button collapsed py-3" type="button" id="heading-ts-ws-pair-fail" data-bs-toggle="collapse" data-bs-target="#collapse-ts-ws-pair-fail" aria-expanded="false" aria-controls="collapse-ts-ws-pair-fail">
+      <span class="text-start fw-semibold">Kontakt død efter gruppeafbryder</span>
+    </button>
+  </h3>
+  <div id="collapse-ts-ws-pair-fail" class="accordion-collapse collapse" data-bs-parent="#accordion-ts-all" role="region" aria-labelledby="heading-ts-ws-pair-fail">
+    <div class="accordion-body border-top">
+      <p class="small text-uppercase text-body-secondary fw-bold mb-1">Det du ser</p>
+      <p class="mb-3">Du trykker på kontakten; intet tænder.</p>
+      <p class="small text-uppercase text-body-secondary fw-bold mb-1">Almindelig årsag</p>
+      <p class="mb-3">Modtageren har ofte mistet parring, eller fjernbetjeningsbatteriet er for svagt til at lære ind.</p><div class="alert alert-light border small d-flex gap-2 align-items-start mb-3" role="note">
+          <i class="fa-regular fa-image mt-1 text-body-secondary" aria-hidden="true"></i>
+          <div>
+            <span class="fw-semibold d-block mb-1">Billede / video</span>
+            LED-tidsdiagrammet i manualen er din parringsguide — match det på enheden.
+          </div>
+        </div><p class="small text-uppercase text-body-secondary fw-bold mb-2">Prøv i rækkefølge (sæt kryds undervejs)</p>
+      <ul class="list-group list-group-flush linktrol-ts-steps rounded border mb-3"><li class="list-group-item d-flex gap-2 align-items-start py-3">
+            <span class="badge text-bg-secondary rounded-pill flex-shrink-0">1</span>
+            <label class="form-check-label flex-grow-1 mb-0">
+              <input type="checkbox" class="form-check-input me-2 mt-1">Åbn manualen og sæt modtageren i lær/par-tilstand — se LED-mønsteret.
+            </label>
+          </li><li class="list-group-item d-flex gap-2 align-items-start py-3">
+            <span class="badge text-bg-secondary rounded-pill flex-shrink-0">2</span>
+            <label class="form-check-label flex-grow-1 mb-0">
+              <input type="checkbox" class="form-check-input me-2 mt-1">Inden for 10 sekunder: tryk én gang på vægkontakt eller fjernbetjening; lyt efter bip eller bekræftelsesblink.
+            </label>
+          </li><li class="list-group-item d-flex gap-2 align-items-start py-3">
+            <span class="badge text-bg-secondary rounded-pill flex-shrink-0">3</span>
+            <label class="form-check-label flex-grow-1 mb-0">
+              <input type="checkbox" class="form-check-input me-2 mt-1">Hvis ikke: forlad læretilstand, strømcykl modtageren, prøv igen med friske batterier.
+            </label>
+          </li></ul><div class="alert alert-warning border-0 small mb-0" role="status">
+          <i class="fa-solid fa-gift me-1" aria-hidden="true"></i>Er enheden over 3 år gammel? Hvis trinnene ovenfor fejler, så mail os om opgraderingsmuligheder.
+        </div></div>
+  </div>
+</div>
+<div class="accordion-item linktrol-ts-issue border-0 shadow-sm mb-2 rounded overflow-hidden" id="ts-issue-rf-no-response" data-ts-keywords="fjernbetjening eller modtager svarer slet ikke du trykker på fjernbetjening eller vægkontakt; relæ eller last reagerer ikke. ingen strøm til modtager, døde batterier, parring tabt efter reset, eller uden for rækkevidde. no response dead remote receiver not working pair learn battery power 433 bekræft modtagerstrøm og ledninger (ac 85–250 v, dc 5–48 v osv. — se manual). indikator skal blinke eller lyse ved strøm. skift batterier (cr2032, cr2016, 12 v a27/aaa). fjernbetjenings-led skal være klar ved tryk. sæt modtager i læretilstand og tryk fjernbetjening eller kontakt én gang inden 10 s. ved tvivl: ryd koder (ofte læreknap × 8) og par igen. flyt tættere på; fjern metalskabe eller tykke vægge mellem fjernbetjening og modtager." data-ts-tags="pairing led">
+  <h3 class="accordion-header">
+    <button class="accordion-button collapsed py-3" type="button" id="heading-ts-rf-no-response" data-bs-toggle="collapse" data-bs-target="#collapse-ts-rf-no-response" aria-expanded="false" aria-controls="collapse-ts-rf-no-response">
+      <span class="text-start fw-semibold">Fjernbetjening eller modtager svarer slet ikke</span>
+    </button>
+  </h3>
+  <div id="collapse-ts-rf-no-response" class="accordion-collapse collapse" data-bs-parent="#accordion-ts-all" role="region" aria-labelledby="heading-ts-rf-no-response">
+    <div class="accordion-body border-top">
+      <p class="small text-uppercase text-body-secondary fw-bold mb-1">Det du ser</p>
+      <p class="mb-3">Du trykker på fjernbetjening eller vægkontakt; relæ eller last reagerer ikke.</p>
+      <p class="small text-uppercase text-body-secondary fw-bold mb-1">Almindelig årsag</p>
+      <p class="mb-3">Ingen strøm til modtager, døde batterier, parring tabt efter reset, eller uden for rækkevidde.</p><div class="alert alert-light border small d-flex gap-2 align-items-start mb-3" role="note">
+          <i class="fa-regular fa-image mt-1 text-body-secondary" aria-hidden="true"></i>
+          <div>
+            <span class="fw-semibold d-block mb-1">Billede / video</span>
+            Match LED-blinkmønster i produktmanualen under parring.
+          </div>
+        </div><p class="small text-uppercase text-body-secondary fw-bold mb-2">Prøv i rækkefølge (sæt kryds undervejs)</p>
+      <ul class="list-group list-group-flush linktrol-ts-steps rounded border mb-3"><li class="list-group-item d-flex gap-2 align-items-start py-3">
+            <span class="badge text-bg-secondary rounded-pill flex-shrink-0">1</span>
+            <label class="form-check-label flex-grow-1 mb-0">
+              <input type="checkbox" class="form-check-input me-2 mt-1">Bekræft modtagerstrøm og ledninger (AC 85–250 V, DC 5–48 V osv. — se manual). Indikator skal blinke eller lyse ved strøm.
+            </label>
+          </li><li class="list-group-item d-flex gap-2 align-items-start py-3">
+            <span class="badge text-bg-secondary rounded-pill flex-shrink-0">2</span>
+            <label class="form-check-label flex-grow-1 mb-0">
+              <input type="checkbox" class="form-check-input me-2 mt-1">Skift batterier (CR2032, CR2016, 12 V A27/AAA). Fjernbetjenings-LED skal være klar ved tryk.
+            </label>
+          </li><li class="list-group-item d-flex gap-2 align-items-start py-3">
+            <span class="badge text-bg-secondary rounded-pill flex-shrink-0">3</span>
+            <label class="form-check-label flex-grow-1 mb-0">
+              <input type="checkbox" class="form-check-input me-2 mt-1">Sæt modtager i læretilstand og tryk fjernbetjening eller kontakt én gang inden 10 s. Ved tvivl: ryd koder (ofte læreknap × 8) og par igen.
+            </label>
+          </li><li class="list-group-item d-flex gap-2 align-items-start py-3">
+            <span class="badge text-bg-secondary rounded-pill flex-shrink-0">4</span>
+            <label class="form-check-label flex-grow-1 mb-0">
+              <input type="checkbox" class="form-check-input me-2 mt-1">Flyt tættere på; fjern metalskabe eller tykke vægge mellem fjernbetjening og modtager.
+            </label>
+          </li></ul><div class="alert alert-warning border-0 small mb-0" role="status">
+          <i class="fa-solid fa-gift me-1" aria-hidden="true"></i>Er enheden over 3 år gammel? Hvis trinnene ovenfor fejler, så mail os om opgraderingsmuligheder.
+        </div></div>
+  </div>
+</div>
+<div class="accordion-item linktrol-ts-issue border-0 shadow-sm mb-2 rounded overflow-hidden" id="ts-issue-rf-range-intermittent" data-ts-keywords="virker nogle gange eller kun tæt på styringen er upålidelig, eller du skal stå meget tættere end før. svage batterier, bøjet/skjult antenne, rf-støj eller hindringer (vægge, metal, andre 433 mhz). intermittent range distance weak signal antenna interference 433 metal wall skift først sender- eller fjernbetjeningsbatterier. træk modtagerantennen ud eller ret den; monter ikke modtageren i metalboks. hold afstand til stærke rf-kilder og andre 433 mhz-fjernbetjeninger; prøv ny placering. efter sletning af alle koder (læreknap × 8), par én kendt god fjernbetjening." data-ts-tags="range latency">
+  <h3 class="accordion-header">
+    <button class="accordion-button collapsed py-3" type="button" id="heading-ts-rf-range-intermittent" data-bs-toggle="collapse" data-bs-target="#collapse-ts-rf-range-intermittent" aria-expanded="false" aria-controls="collapse-ts-rf-range-intermittent">
+      <span class="text-start fw-semibold">Virker nogle gange eller kun tæt på</span>
+    </button>
+  </h3>
+  <div id="collapse-ts-rf-range-intermittent" class="accordion-collapse collapse" data-bs-parent="#accordion-ts-all" role="region" aria-labelledby="heading-ts-rf-range-intermittent">
+    <div class="accordion-body border-top">
+      <p class="small text-uppercase text-body-secondary fw-bold mb-1">Det du ser</p>
+      <p class="mb-3">Styringen er upålidelig, eller du skal stå meget tættere end før.</p>
+      <p class="small text-uppercase text-body-secondary fw-bold mb-1">Almindelig årsag</p>
+      <p class="mb-3">Svage batterier, bøjet/skjult antenne, RF-støj eller hindringer (vægge, metal, andre 433 MHz).</p><p class="small text-uppercase text-body-secondary fw-bold mb-2">Prøv i rækkefølge (sæt kryds undervejs)</p>
+      <ul class="list-group list-group-flush linktrol-ts-steps rounded border mb-3"><li class="list-group-item d-flex gap-2 align-items-start py-3">
+            <span class="badge text-bg-secondary rounded-pill flex-shrink-0">1</span>
+            <label class="form-check-label flex-grow-1 mb-0">
+              <input type="checkbox" class="form-check-input me-2 mt-1">Skift først sender- eller fjernbetjeningsbatterier.
+            </label>
+          </li><li class="list-group-item d-flex gap-2 align-items-start py-3">
+            <span class="badge text-bg-secondary rounded-pill flex-shrink-0">2</span>
+            <label class="form-check-label flex-grow-1 mb-0">
+              <input type="checkbox" class="form-check-input me-2 mt-1">Træk modtagerantennen ud eller ret den; monter ikke modtageren i metalboks.
+            </label>
+          </li><li class="list-group-item d-flex gap-2 align-items-start py-3">
+            <span class="badge text-bg-secondary rounded-pill flex-shrink-0">3</span>
+            <label class="form-check-label flex-grow-1 mb-0">
+              <input type="checkbox" class="form-check-input me-2 mt-1">Hold afstand til stærke RF-kilder og andre 433 MHz-fjernbetjeninger; prøv ny placering.
+            </label>
+          </li><li class="list-group-item d-flex gap-2 align-items-start py-3">
+            <span class="badge text-bg-secondary rounded-pill flex-shrink-0">4</span>
+            <label class="form-check-label flex-grow-1 mb-0">
+              <input type="checkbox" class="form-check-input me-2 mt-1">Efter sletning af alle koder (læreknap × 8), par én kendt god fjernbetjening.
+            </label>
+          </li></ul></div>
+  </div>
+</div>
+<div class="accordion-item linktrol-ts-issue border-0 shadow-sm mb-2 rounded overflow-hidden" id="ts-issue-rf-wrong-mode" data-ts-keywords="forkert tænd/sluk-adfærd eller tænder af sig selv last slukker når du slipper knappen, skifter uventet eller kører uden tryk. forkert tilstand (impuls vs skift vs låst), interferens eller fremmede 433 mhz-signaler. momentary toggle latched mode wrong unexpected interference ghost turn on off delay hvis lasten falder ved slip, kan det være impulstilstand — omprogrammer låst/skift efter manual (ofte læreknap 3 eller 8 gange). slet alle fjernbetjeninger (læreknap × 8), par kun dem du bruger. flyt modtager fra andet 433 mhz-udstyr; par i korrekt driftstilstand." data-ts-tags="pairing led">
+  <h3 class="accordion-header">
+    <button class="accordion-button collapsed py-3" type="button" id="heading-ts-rf-wrong-mode" data-bs-toggle="collapse" data-bs-target="#collapse-ts-rf-wrong-mode" aria-expanded="false" aria-controls="collapse-ts-rf-wrong-mode">
+      <span class="text-start fw-semibold">Forkert tænd/sluk-adfærd eller tænder af sig selv</span>
+    </button>
+  </h3>
+  <div id="collapse-ts-rf-wrong-mode" class="accordion-collapse collapse" data-bs-parent="#accordion-ts-all" role="region" aria-labelledby="heading-ts-rf-wrong-mode">
+    <div class="accordion-body border-top">
+      <p class="small text-uppercase text-body-secondary fw-bold mb-1">Det du ser</p>
+      <p class="mb-3">Last slukker når du slipper knappen, skifter uventet eller kører uden tryk.</p>
+      <p class="small text-uppercase text-body-secondary fw-bold mb-1">Almindelig årsag</p>
+      <p class="mb-3">Forkert tilstand (impuls vs skift vs låst), interferens eller fremmede 433 MHz-signaler.</p><div class="alert alert-light border small d-flex gap-2 align-items-start mb-3" role="note">
+          <i class="fa-regular fa-image mt-1 text-body-secondary" aria-hidden="true"></i>
+          <div>
+            <span class="fw-semibold d-block mb-1">Billede / video</span>
+            Manualen angiver antal tryk på læreknap per tilstand — følg tabellen nøjagtigt.
+          </div>
+        </div><p class="small text-uppercase text-body-secondary fw-bold mb-2">Prøv i rækkefølge (sæt kryds undervejs)</p>
+      <ul class="list-group list-group-flush linktrol-ts-steps rounded border mb-3"><li class="list-group-item d-flex gap-2 align-items-start py-3">
+            <span class="badge text-bg-secondary rounded-pill flex-shrink-0">1</span>
+            <label class="form-check-label flex-grow-1 mb-0">
+              <input type="checkbox" class="form-check-input me-2 mt-1">Hvis lasten falder ved slip, kan det være impulstilstand — omprogrammer låst/skift efter manual (ofte læreknap 3 eller 8 gange).
+            </label>
+          </li><li class="list-group-item d-flex gap-2 align-items-start py-3">
+            <span class="badge text-bg-secondary rounded-pill flex-shrink-0">2</span>
+            <label class="form-check-label flex-grow-1 mb-0">
+              <input type="checkbox" class="form-check-input me-2 mt-1">Slet alle fjernbetjeninger (læreknap × 8), par kun dem du bruger.
+            </label>
+          </li><li class="list-group-item d-flex gap-2 align-items-start py-3">
+            <span class="badge text-bg-secondary rounded-pill flex-shrink-0">3</span>
+            <label class="form-check-label flex-grow-1 mb-0">
+              <input type="checkbox" class="form-check-input me-2 mt-1">Flyt modtager fra andet 433 MHz-udstyr; par i korrekt driftstilstand.
+            </label>
+          </li></ul></div>
+  </div>
+</div>
+<div class="accordion-item linktrol-ts-issue border-0 shadow-sm mb-2 rounded overflow-hidden" id="ts-issue-rf-relay-wiring" data-ts-keywords="relæ klikker men lampe/last tænder ikke du hører relæet; lampe, motor eller pumpe kører ikke. udgang forkert tilsluttet (no / com / nc), last med egen forsyning eller løse klemmen. relay click no load wiring no com nc terminal device not activating 5v 10a sammenlign no, com, nc med diagram i manual — mange laster via com og no (eller nc). stram alle skrueklemmen; test apparat direkte på strøm (uden modtager). på 5 v dc-sæt: prøv 5,5–6 v hvis relæ klikker men last er svag." data-ts-tags="pairing">
+  <h3 class="accordion-header">
+    <button class="accordion-button collapsed py-3" type="button" id="heading-ts-rf-relay-wiring" data-bs-toggle="collapse" data-bs-target="#collapse-ts-rf-relay-wiring" aria-expanded="false" aria-controls="collapse-ts-rf-relay-wiring">
+      <span class="text-start fw-semibold">Relæ klikker men lampe/last tænder ikke</span>
+    </button>
+  </h3>
+  <div id="collapse-ts-rf-relay-wiring" class="accordion-collapse collapse" data-bs-parent="#accordion-ts-all" role="region" aria-labelledby="heading-ts-rf-relay-wiring">
+    <div class="accordion-body border-top">
+      <p class="small text-uppercase text-body-secondary fw-bold mb-1">Det du ser</p>
+      <p class="mb-3">Du hører relæet; lampe, motor eller pumpe kører ikke.</p>
+      <p class="small text-uppercase text-body-secondary fw-bold mb-1">Almindelig årsag</p>
+      <p class="mb-3">Udgang forkert tilsluttet (NO / COM / NC), last med egen forsyning eller løse klemmen.</p><p class="small text-uppercase text-body-secondary fw-bold mb-2">Prøv i rækkefølge (sæt kryds undervejs)</p>
+      <ul class="list-group list-group-flush linktrol-ts-steps rounded border mb-3"><li class="list-group-item d-flex gap-2 align-items-start py-3">
+            <span class="badge text-bg-secondary rounded-pill flex-shrink-0">1</span>
+            <label class="form-check-label flex-grow-1 mb-0">
+              <input type="checkbox" class="form-check-input me-2 mt-1">Sammenlign NO, COM, NC med diagram i manual — mange laster via COM og NO (eller NC).
+            </label>
+          </li><li class="list-group-item d-flex gap-2 align-items-start py-3">
+            <span class="badge text-bg-secondary rounded-pill flex-shrink-0">2</span>
+            <label class="form-check-label flex-grow-1 mb-0">
+              <input type="checkbox" class="form-check-input me-2 mt-1">Stram alle skrueklemmen; test apparat direkte på strøm (uden modtager).
+            </label>
+          </li><li class="list-group-item d-flex gap-2 align-items-start py-3">
+            <span class="badge text-bg-secondary rounded-pill flex-shrink-0">3</span>
+            <label class="form-check-label flex-grow-1 mb-0">
+              <input type="checkbox" class="form-check-input me-2 mt-1">På 5 V DC-sæt: prøv 5,5–6 V hvis relæ klikker men last er svag.
+            </label>
+          </li></ul></div>
+  </div>
+</div>
+<div class="accordion-item linktrol-ts-issue border-0 shadow-sm mb-2 rounded overflow-hidden" id="ts-issue-rf-power-led" data-ts-keywords="modtager-led slukket eller fjernbetjenings-led meget svag ingen indikator på modtager, eller fjernbetjenings-led lyser svagt ved tryk. udløst sikring, løse l/n-ledninger, forkert spænding eller udtømte batterier. indicator light off dim led not flashing programming learn button breaker power tjek sikring, sikring og indgangsspænding på etiket (fx ac 85–250 v, dc 12 v). sæt ledninger i igen; modtager-led skal lyse ved strøm. skift fjernbetjeningsbatterier; ved programmering hold læreknap som i manual til led blinker." data-ts-tags="led pairing">
+  <h3 class="accordion-header">
+    <button class="accordion-button collapsed py-3" type="button" id="heading-ts-rf-power-led" data-bs-toggle="collapse" data-bs-target="#collapse-ts-rf-power-led" aria-expanded="false" aria-controls="collapse-ts-rf-power-led">
+      <span class="text-start fw-semibold">Modtager-LED slukket eller fjernbetjenings-LED meget svag</span>
+    </button>
+  </h3>
+  <div id="collapse-ts-rf-power-led" class="accordion-collapse collapse" data-bs-parent="#accordion-ts-all" role="region" aria-labelledby="heading-ts-rf-power-led">
+    <div class="accordion-body border-top">
+      <p class="small text-uppercase text-body-secondary fw-bold mb-1">Det du ser</p>
+      <p class="mb-3">Ingen indikator på modtager, eller fjernbetjenings-LED lyser svagt ved tryk.</p>
+      <p class="small text-uppercase text-body-secondary fw-bold mb-1">Almindelig årsag</p>
+      <p class="mb-3">Udløst sikring, løse L/N-ledninger, forkert spænding eller udtømte batterier.</p><p class="small text-uppercase text-body-secondary fw-bold mb-2">Prøv i rækkefølge (sæt kryds undervejs)</p>
+      <ul class="list-group list-group-flush linktrol-ts-steps rounded border mb-3"><li class="list-group-item d-flex gap-2 align-items-start py-3">
+            <span class="badge text-bg-secondary rounded-pill flex-shrink-0">1</span>
+            <label class="form-check-label flex-grow-1 mb-0">
+              <input type="checkbox" class="form-check-input me-2 mt-1">Tjek sikring, sikring og indgangsspænding på etiket (fx AC 85–250 V, DC 12 V).
+            </label>
+          </li><li class="list-group-item d-flex gap-2 align-items-start py-3">
+            <span class="badge text-bg-secondary rounded-pill flex-shrink-0">2</span>
+            <label class="form-check-label flex-grow-1 mb-0">
+              <input type="checkbox" class="form-check-input me-2 mt-1">Sæt ledninger i igen; modtager-LED skal lyse ved strøm.
+            </label>
+          </li><li class="list-group-item d-flex gap-2 align-items-start py-3">
+            <span class="badge text-bg-secondary rounded-pill flex-shrink-0">3</span>
+            <label class="form-check-label flex-grow-1 mb-0">
+              <input type="checkbox" class="form-check-input me-2 mt-1">Skift fjernbetjeningsbatterier; ved programmering hold læreknap som i manual til LED blinker.
+            </label>
+          </li></ul></div>
+  </div>
+</div>
+<div class="accordion-item linktrol-ts-issue border-0 shadow-sm mb-2 rounded overflow-hidden" id="ts-issue-rf-overload-fuse" data-ts-keywords="modtager varm, sikring sprunget eller overstrøm modtageren bliver varm, skifter ikke mere, eller kinetisk/relæ-sæt uden udgang. last overstiger nominel strøm (ofte 2 a, 10 a eller 30 a), kortslutning eller intern sikring brændt. hot overheating fuse blown 10a 30a overload current limit kinetic frakobl last og tjek mærkning på modtager — reducer last eller brug kontaktor til tunge apparater. på kinetiske sæt med 10 a sikring: sluk strøm, åbn modtager, skift sikring med samme værdi. efter reparation strømcykl modtager og par igen hvis reset." data-ts-tags="led">
+  <h3 class="accordion-header">
+    <button class="accordion-button collapsed py-3" type="button" id="heading-ts-rf-overload-fuse" data-bs-toggle="collapse" data-bs-target="#collapse-ts-rf-overload-fuse" aria-expanded="false" aria-controls="collapse-ts-rf-overload-fuse">
+      <span class="text-start fw-semibold">Modtager varm, sikring sprunget eller overstrøm</span>
+    </button>
+  </h3>
+  <div id="collapse-ts-rf-overload-fuse" class="accordion-collapse collapse" data-bs-parent="#accordion-ts-all" role="region" aria-labelledby="heading-ts-rf-overload-fuse">
+    <div class="accordion-body border-top">
+      <p class="small text-uppercase text-body-secondary fw-bold mb-1">Det du ser</p>
+      <p class="mb-3">Modtageren bliver varm, skifter ikke mere, eller kinetisk/relæ-sæt uden udgang.</p>
+      <p class="small text-uppercase text-body-secondary fw-bold mb-1">Almindelig årsag</p>
+      <p class="mb-3">Last overstiger nominel strøm (ofte 2 A, 10 A eller 30 A), kortslutning eller intern sikring brændt.</p><p class="small text-uppercase text-body-secondary fw-bold mb-2">Prøv i rækkefølge (sæt kryds undervejs)</p>
+      <ul class="list-group list-group-flush linktrol-ts-steps rounded border mb-3"><li class="list-group-item d-flex gap-2 align-items-start py-3">
+            <span class="badge text-bg-secondary rounded-pill flex-shrink-0">1</span>
+            <label class="form-check-label flex-grow-1 mb-0">
+              <input type="checkbox" class="form-check-input me-2 mt-1">Frakobl last og tjek mærkning på modtager — reducer last eller brug kontaktor til tunge apparater.
+            </label>
+          </li><li class="list-group-item d-flex gap-2 align-items-start py-3">
+            <span class="badge text-bg-secondary rounded-pill flex-shrink-0">2</span>
+            <label class="form-check-label flex-grow-1 mb-0">
+              <input type="checkbox" class="form-check-input me-2 mt-1">På kinetiske sæt med 10 A sikring: sluk strøm, åbn modtager, skift sikring med samme værdi.
+            </label>
+          </li><li class="list-group-item d-flex gap-2 align-items-start py-3">
+            <span class="badge text-bg-secondary rounded-pill flex-shrink-0">3</span>
+            <label class="form-check-label flex-grow-1 mb-0">
+              <input type="checkbox" class="form-check-input me-2 mt-1">Efter reparation strømcykl modtager og par igen hvis reset.
+            </label>
+          </li></ul><div class="alert alert-warning border-0 small mb-0" role="status">
+          <i class="fa-solid fa-gift me-1" aria-hidden="true"></i>Er enheden over 3 år gammel? Hvis trinnene ovenfor fejler, så mail os om opgraderingsmuligheder.
+        </div></div>
+  </div>
+</div>
+<div class="accordion-item linktrol-ts-issue border-0 shadow-sm mb-2 rounded overflow-hidden" id="ts-issue-motor-control" data-ts-keywords="dc-motor kører forkert vej eller stopper ikke motor drejer baglæns, kører efter slip, eller ignorerer fjernbetjening. ombyttede motorledninger, forkert programmet tilstand eller svage senderbatterier. motor direction reverse continuous run dc motor remote control switch tjek motorledninger mod manual; brug retningsskift hvis angivet (fx læreknap × 7). omprogrammer ønsket impuls/skift/låst; test anden fjernbetjening. skift senderbatterier og par igen." data-ts-tags="pairing range">
+  <h3 class="accordion-header">
+    <button class="accordion-button collapsed py-3" type="button" id="heading-ts-motor-control" data-bs-toggle="collapse" data-bs-target="#collapse-ts-motor-control" aria-expanded="false" aria-controls="collapse-ts-motor-control">
+      <span class="text-start fw-semibold">DC-motor kører forkert vej eller stopper ikke</span>
+    </button>
+  </h3>
+  <div id="collapse-ts-motor-control" class="accordion-collapse collapse" data-bs-parent="#accordion-ts-all" role="region" aria-labelledby="heading-ts-motor-control">
+    <div class="accordion-body border-top">
+      <p class="small text-uppercase text-body-secondary fw-bold mb-1">Det du ser</p>
+      <p class="mb-3">Motor drejer baglæns, kører efter slip, eller ignorerer fjernbetjening.</p>
+      <p class="small text-uppercase text-body-secondary fw-bold mb-1">Almindelig årsag</p>
+      <p class="mb-3">Ombyttede motorledninger, forkert programmet tilstand eller svage senderbatterier.</p><p class="small text-uppercase text-body-secondary fw-bold mb-2">Prøv i rækkefølge (sæt kryds undervejs)</p>
+      <ul class="list-group list-group-flush linktrol-ts-steps rounded border mb-3"><li class="list-group-item d-flex gap-2 align-items-start py-3">
+            <span class="badge text-bg-secondary rounded-pill flex-shrink-0">1</span>
+            <label class="form-check-label flex-grow-1 mb-0">
+              <input type="checkbox" class="form-check-input me-2 mt-1">Tjek motorledninger mod manual; brug retningsskift hvis angivet (fx læreknap × 7).
+            </label>
+          </li><li class="list-group-item d-flex gap-2 align-items-start py-3">
+            <span class="badge text-bg-secondary rounded-pill flex-shrink-0">2</span>
+            <label class="form-check-label flex-grow-1 mb-0">
+              <input type="checkbox" class="form-check-input me-2 mt-1">Omprogrammer ønsket impuls/skift/låst; test anden fjernbetjening.
+            </label>
+          </li><li class="list-group-item d-flex gap-2 align-items-start py-3">
+            <span class="badge text-bg-secondary rounded-pill flex-shrink-0">3</span>
+            <label class="form-check-label flex-grow-1 mb-0">
+              <input type="checkbox" class="form-check-input me-2 mt-1">Skift senderbatterier og par igen.
+            </label>
+          </li></ul></div>
+  </div>
+</div>
+<div class="accordion-item linktrol-ts-issue border-0 shadow-sm mb-2 rounded overflow-hidden" id="ts-issue-gw-mesh-drop" data-ts-keywords="enheder går igen og igen offline appen viser offline, så online igen, af sig selv. tykke vægge, metalskabe, dårlig hub-placering eller wi‑fi-router skifter kanal og forstyrrer zigbee. gateway zigbee wifi mesh offline signal repeater concrete wall flyt hub eller stik-repeater tættere på den svage enhed; færre vægge/metal imellem. hold hub væk fra mikrobølgeovne og rodede usb-kabler. frakobl gateway 3 minutter, tilslut igen; brug «reparer / tillad join» i appen hvis den findes." data-ts-tags="range latency">
+  <h3 class="accordion-header">
+    <button class="accordion-button collapsed py-3" type="button" id="heading-ts-gw-mesh-drop" data-bs-toggle="collapse" data-bs-target="#collapse-ts-gw-mesh-drop" aria-expanded="false" aria-controls="collapse-ts-gw-mesh-drop">
+      <span class="text-start fw-semibold">Enheder går igen og igen offline</span>
+    </button>
+  </h3>
+  <div id="collapse-ts-gw-mesh-drop" class="accordion-collapse collapse" data-bs-parent="#accordion-ts-all" role="region" aria-labelledby="heading-ts-gw-mesh-drop">
+    <div class="accordion-body border-top">
+      <p class="small text-uppercase text-body-secondary fw-bold mb-1">Det du ser</p>
+      <p class="mb-3">Appen viser offline, så online igen, af sig selv.</p>
+      <p class="small text-uppercase text-body-secondary fw-bold mb-1">Almindelig årsag</p>
+      <p class="mb-3">Tykke vægge, metalskabe, dårlig hub-placering eller Wi‑Fi-router skifter kanal og forstyrrer Zigbee.</p><p class="small text-uppercase text-body-secondary fw-bold mb-2">Prøv i rækkefølge (sæt kryds undervejs)</p>
+      <ul class="list-group list-group-flush linktrol-ts-steps rounded border mb-3"><li class="list-group-item d-flex gap-2 align-items-start py-3">
+            <span class="badge text-bg-secondary rounded-pill flex-shrink-0">1</span>
+            <label class="form-check-label flex-grow-1 mb-0">
+              <input type="checkbox" class="form-check-input me-2 mt-1">Flyt hub eller stik-repeater tættere på den svage enhed; færre vægge/metal imellem.
+            </label>
+          </li><li class="list-group-item d-flex gap-2 align-items-start py-3">
+            <span class="badge text-bg-secondary rounded-pill flex-shrink-0">2</span>
+            <label class="form-check-label flex-grow-1 mb-0">
+              <input type="checkbox" class="form-check-input me-2 mt-1">Hold hub væk fra mikrobølgeovne og rodede USB-kabler.
+            </label>
+          </li><li class="list-group-item d-flex gap-2 align-items-start py-3">
+            <span class="badge text-bg-secondary rounded-pill flex-shrink-0">3</span>
+            <label class="form-check-label flex-grow-1 mb-0">
+              <input type="checkbox" class="form-check-input me-2 mt-1">Frakobl gateway 3 minutter, tilslut igen; brug «reparer / tillad join» i appen hvis den findes.
+            </label>
+          </li></ul><div class="border rounded p-3 bg-body-secondary bg-opacity-25 mb-3">
+          <p class="small fw-semibold mb-2"><i class="fa-solid fa-link me-1 text-body-secondary" aria-hidden="true"></i>Læs mere</p>
+          <a href="/da/smart-solutions/">Relæ- og repeater-idéer — se Smarte løsninger</a>
+        </div></div>
+  </div>
+</div>
+<div class="accordion-item linktrol-ts-issue border-0 shadow-sm mb-2 rounded overflow-hidden" id="ts-issue-wifi-connect" data-ts-keywords="smart-modul vil ikke på wi‑fi appen afslutter ikke opsætning; wi‑fi-led blinker vedvarende. kun 5 ghz, svagt signal, forkert adgangskode eller modul skal fabriksnulstilles. wifi connect 2.4ghz 5ghz ewelink tuya smart life pairing reset tew ew-4ch mini brug 2,4 ghz wi‑fi — 5 ghz understøttes ikke på disse moduler. hold telefon og modul tæt på router under parring; tjek adgangskode. hold par/reset-knap ~5 s til hurtigt blink, tilføj igen i ewelink / smart life / tuya." data-ts-tags="wifi pairing">
+  <h3 class="accordion-header">
+    <button class="accordion-button collapsed py-3" type="button" id="heading-ts-wifi-connect" data-bs-toggle="collapse" data-bs-target="#collapse-ts-wifi-connect" aria-expanded="false" aria-controls="collapse-ts-wifi-connect">
+      <span class="text-start fw-semibold">Smart-modul vil ikke på Wi‑Fi</span>
+    </button>
+  </h3>
+  <div id="collapse-ts-wifi-connect" class="accordion-collapse collapse" data-bs-parent="#accordion-ts-all" role="region" aria-labelledby="heading-ts-wifi-connect">
+    <div class="accordion-body border-top">
+      <p class="small text-uppercase text-body-secondary fw-bold mb-1">Det du ser</p>
+      <p class="mb-3">Appen afslutter ikke opsætning; Wi‑Fi-LED blinker vedvarende.</p>
+      <p class="small text-uppercase text-body-secondary fw-bold mb-1">Almindelig årsag</p>
+      <p class="mb-3">Kun 5 GHz, svagt signal, forkert adgangskode eller modul skal fabriksnulstilles.</p><p class="small text-uppercase text-body-secondary fw-bold mb-2">Prøv i rækkefølge (sæt kryds undervejs)</p>
+      <ul class="list-group list-group-flush linktrol-ts-steps rounded border mb-3"><li class="list-group-item d-flex gap-2 align-items-start py-3">
+            <span class="badge text-bg-secondary rounded-pill flex-shrink-0">1</span>
+            <label class="form-check-label flex-grow-1 mb-0">
+              <input type="checkbox" class="form-check-input me-2 mt-1">Brug 2,4 GHz Wi‑Fi — 5 GHz understøttes ikke på disse moduler.
+            </label>
+          </li><li class="list-group-item d-flex gap-2 align-items-start py-3">
+            <span class="badge text-bg-secondary rounded-pill flex-shrink-0">2</span>
+            <label class="form-check-label flex-grow-1 mb-0">
+              <input type="checkbox" class="form-check-input me-2 mt-1">Hold telefon og modul tæt på router under parring; tjek adgangskode.
+            </label>
+          </li><li class="list-group-item d-flex gap-2 align-items-start py-3">
+            <span class="badge text-bg-secondary rounded-pill flex-shrink-0">3</span>
+            <label class="form-check-label flex-grow-1 mb-0">
+              <input type="checkbox" class="form-check-input me-2 mt-1">Hold par/reset-knap ~5 s til hurtigt blink, tilføj igen i eWelink / Smart Life / Tuya.
+            </label>
+          </li></ul></div>
+  </div>
+</div>
+<div class="accordion-item linktrol-ts-issue border-0 shadow-sm mb-2 rounded overflow-hidden" id="ts-issue-wifi-app-voice" data-ts-keywords="app, alexa eller google home styrer ikke relæet enheden er i appen men skift fejler, eller stemme siger utilgængelig. telefon offline, modul mistede wi‑fi, forældet app eller stemmekonto ikke knyttet til ewelink. app voice alexa google home ewelink offline not responding smart wifi relay bekræft modul wi‑fi-led fast (ikke blinkende) og telefon har internet. opdater ewelink / smart life; opdater enhedsliste. for alexa/google: genforbind ewelink, kør enhedssøgning; brug præcist app-navn." data-ts-tags="wifi latency">
+  <h3 class="accordion-header">
+    <button class="accordion-button collapsed py-3" type="button" id="heading-ts-wifi-app-voice" data-bs-toggle="collapse" data-bs-target="#collapse-ts-wifi-app-voice" aria-expanded="false" aria-controls="collapse-ts-wifi-app-voice">
+      <span class="text-start fw-semibold">App, Alexa eller Google Home styrer ikke relæet</span>
+    </button>
+  </h3>
+  <div id="collapse-ts-wifi-app-voice" class="accordion-collapse collapse" data-bs-parent="#accordion-ts-all" role="region" aria-labelledby="heading-ts-wifi-app-voice">
+    <div class="accordion-body border-top">
+      <p class="small text-uppercase text-body-secondary fw-bold mb-1">Det du ser</p>
+      <p class="mb-3">Enheden er i appen men skift fejler, eller stemme siger utilgængelig.</p>
+      <p class="small text-uppercase text-body-secondary fw-bold mb-1">Almindelig årsag</p>
+      <p class="mb-3">Telefon offline, modul mistede Wi‑Fi, forældet app eller stemmekonto ikke knyttet til eWelink.</p><p class="small text-uppercase text-body-secondary fw-bold mb-2">Prøv i rækkefølge (sæt kryds undervejs)</p>
+      <ul class="list-group list-group-flush linktrol-ts-steps rounded border mb-3"><li class="list-group-item d-flex gap-2 align-items-start py-3">
+            <span class="badge text-bg-secondary rounded-pill flex-shrink-0">1</span>
+            <label class="form-check-label flex-grow-1 mb-0">
+              <input type="checkbox" class="form-check-input me-2 mt-1">Bekræft modul Wi‑Fi-LED fast (ikke blinkende) og telefon har internet.
+            </label>
+          </li><li class="list-group-item d-flex gap-2 align-items-start py-3">
+            <span class="badge text-bg-secondary rounded-pill flex-shrink-0">2</span>
+            <label class="form-check-label flex-grow-1 mb-0">
+              <input type="checkbox" class="form-check-input me-2 mt-1">Opdater eWelink / Smart Life; opdater enhedsliste.
+            </label>
+          </li><li class="list-group-item d-flex gap-2 align-items-start py-3">
+            <span class="badge text-bg-secondary rounded-pill flex-shrink-0">3</span>
+            <label class="form-check-label flex-grow-1 mb-0">
+              <input type="checkbox" class="form-check-input me-2 mt-1">For Alexa/Google: genforbind eWelink, kør enhedssøgning; brug præcist app-navn.
+            </label>
+          </li></ul></div>
+  </div>
+</div>
+<div class="accordion-item linktrol-ts-issue border-0 shadow-sm mb-2 rounded overflow-hidden" id="ts-issue-wifi-rf-wall" data-ts-keywords="wi‑fi ok men rf-vægkontakt ikke app-styring virker; den trådløse vægplade gør intet. vægkontakt ikke parret til modul, uden for rf-rækkevidde eller parring tabt efter wi‑fi-reset. mini wifi switch wall plate rf pair kinetic bluetooth remote ewelink bekræft modul har strøm; hold rf-par-knap 3–5 s til led viser parring, tryk vægkontakt én gang. ca. 50 m frit sigte (vægge reducerer); skift vægkontaktbatteri om relevant. efter wi‑fi-reset par vægkontakt igen — wi‑fi og rf er adskilt." data-ts-tags="wifi pairing range">
+  <h3 class="accordion-header">
+    <button class="accordion-button collapsed py-3" type="button" id="heading-ts-wifi-rf-wall" data-bs-toggle="collapse" data-bs-target="#collapse-ts-wifi-rf-wall" aria-expanded="false" aria-controls="collapse-ts-wifi-rf-wall">
+      <span class="text-start fw-semibold">Wi‑Fi ok men RF-vægkontakt ikke</span>
+    </button>
+  </h3>
+  <div id="collapse-ts-wifi-rf-wall" class="accordion-collapse collapse" data-bs-parent="#accordion-ts-all" role="region" aria-labelledby="heading-ts-wifi-rf-wall">
+    <div class="accordion-body border-top">
+      <p class="small text-uppercase text-body-secondary fw-bold mb-1">Det du ser</p>
+      <p class="mb-3">App-styring virker; den trådløse vægplade gør intet.</p>
+      <p class="small text-uppercase text-body-secondary fw-bold mb-1">Almindelig årsag</p>
+      <p class="mb-3">Vægkontakt ikke parret til modul, uden for RF-rækkevidde eller parring tabt efter Wi‑Fi-reset.</p><p class="small text-uppercase text-body-secondary fw-bold mb-2">Prøv i rækkefølge (sæt kryds undervejs)</p>
+      <ul class="list-group list-group-flush linktrol-ts-steps rounded border mb-3"><li class="list-group-item d-flex gap-2 align-items-start py-3">
+            <span class="badge text-bg-secondary rounded-pill flex-shrink-0">1</span>
+            <label class="form-check-label flex-grow-1 mb-0">
+              <input type="checkbox" class="form-check-input me-2 mt-1">Bekræft modul har strøm; hold RF-par-knap 3–5 s til LED viser parring, tryk vægkontakt én gang.
+            </label>
+          </li><li class="list-group-item d-flex gap-2 align-items-start py-3">
+            <span class="badge text-bg-secondary rounded-pill flex-shrink-0">2</span>
+            <label class="form-check-label flex-grow-1 mb-0">
+              <input type="checkbox" class="form-check-input me-2 mt-1">Ca. 50 m frit sigte (vægge reducerer); skift vægkontaktbatteri om relevant.
+            </label>
+          </li><li class="list-group-item d-flex gap-2 align-items-start py-3">
+            <span class="badge text-bg-secondary rounded-pill flex-shrink-0">3</span>
+            <label class="form-check-label flex-grow-1 mb-0">
+              <input type="checkbox" class="form-check-input me-2 mt-1">Efter Wi‑Fi-reset par vægkontakt igen — Wi‑Fi og RF er adskilt.
+            </label>
+          </li></ul></div>
+  </div>
+</div>
+<div class="accordion-item linktrol-ts-issue border-0 shadow-sm mb-2 rounded overflow-hidden" id="ts-issue-gc-remote-range" data-ts-keywords="fjernbetjening virker kun meget tæt på den nåede længere før; nu skal du stå ved døren. svagt batteri, bøjet modtagerantenne eller ny metalbeklædning blokerer signalet. gate garage remote range antenna receiver learn skift fjernbetjeningsbatteri (ofte cr2032 — tjek etiketten). ret modtagerantennen; gem den ikke mod stålramme. lær én god fjernbetjening ind igen for at udelukke dårlig hukommelsesplads." data-ts-tags="range">
+  <h3 class="accordion-header">
+    <button class="accordion-button collapsed py-3" type="button" id="heading-ts-gc-remote-range" data-bs-toggle="collapse" data-bs-target="#collapse-ts-gc-remote-range" aria-expanded="false" aria-controls="collapse-ts-gc-remote-range">
+      <span class="text-start fw-semibold">Fjernbetjening virker kun meget tæt på</span>
+    </button>
+  </h3>
+  <div id="collapse-ts-gc-remote-range" class="accordion-collapse collapse" data-bs-parent="#accordion-ts-all" role="region" aria-labelledby="heading-ts-gc-remote-range">
+    <div class="accordion-body border-top">
+      <p class="small text-uppercase text-body-secondary fw-bold mb-1">Det du ser</p>
+      <p class="mb-3">Den nåede længere før; nu skal du stå ved døren.</p>
+      <p class="small text-uppercase text-body-secondary fw-bold mb-1">Almindelig årsag</p>
+      <p class="mb-3">Svagt batteri, bøjet modtagerantenne eller ny metalbeklædning blokerer signalet.</p><div class="alert alert-light border small d-flex gap-2 align-items-start mb-3" role="note">
+          <i class="fa-regular fa-image mt-1 text-body-secondary" aria-hidden="true"></i>
+          <div>
+            <span class="fw-semibold d-block mb-1">Billede / video</span>
+            Din manual viser antenneplacering — sammenlign med din installation.
+          </div>
+        </div><p class="small text-uppercase text-body-secondary fw-bold mb-2">Prøv i rækkefølge (sæt kryds undervejs)</p>
+      <ul class="list-group list-group-flush linktrol-ts-steps rounded border mb-3"><li class="list-group-item d-flex gap-2 align-items-start py-3">
+            <span class="badge text-bg-secondary rounded-pill flex-shrink-0">1</span>
+            <label class="form-check-label flex-grow-1 mb-0">
+              <input type="checkbox" class="form-check-input me-2 mt-1">Skift fjernbetjeningsbatteri (ofte CR2032 — tjek etiketten).
+            </label>
+          </li><li class="list-group-item d-flex gap-2 align-items-start py-3">
+            <span class="badge text-bg-secondary rounded-pill flex-shrink-0">2</span>
+            <label class="form-check-label flex-grow-1 mb-0">
+              <input type="checkbox" class="form-check-input me-2 mt-1">Ret modtagerantennen; gem den ikke mod stålramme.
+            </label>
+          </li><li class="list-group-item d-flex gap-2 align-items-start py-3">
+            <span class="badge text-bg-secondary rounded-pill flex-shrink-0">3</span>
+            <label class="form-check-label flex-grow-1 mb-0">
+              <input type="checkbox" class="form-check-input me-2 mt-1">Lær én god fjernbetjening ind igen for at udelukke dårlig hukommelsesplads.
+            </label>
+          </li></ul><div class="alert alert-warning border-0 small mb-0" role="status">
+          <i class="fa-solid fa-gift me-1" aria-hidden="true"></i>Er enheden over 3 år gammel? Hvis trinnene ovenfor fejler, så mail os om opgraderingsmuligheder.
+        </div></div>
+  </div>
+</div>
+</div>
+        </section>
+
+        <section class="linktrol-ts-diagnosis card border-0 shadow-sm mb-4" aria-labelledby="ts-diagnosis-title">
+          <div class="card-body p-4">
+            <h2 id="ts-diagnosis-title" class="h5 fw-bold mb-2">Stadig kørt fast efter alle trin?</h2>
+            <p class="text-body-secondary mb-3">Udstyr på ca. 3&#43; år er sværere at holde pålideligt. Mail os — vi kan pege på opgraderingstilbud hos DieseRC.</p>
+            <p class="small fw-semibold mb-2">Hvor længe har du brugt dette udstyr?</p>
+            <div class="d-flex flex-wrap gap-2 mb-3" role="group">
+              <button type="button" class="btn btn-outline-secondary btn-sm" data-ts-age="new">Under 3 år</button>
+              <button type="button" class="btn btn-outline-secondary btn-sm" data-ts-age="old">3 år eller mere</button>
+            </div>
+            <div class="linktrol-ts-diagnosis__panel d-none border rounded p-3 mb-2 bg-body-tertiary bg-opacity-25" data-ts-age-panel="new">
+              <a class="btn btn-primary btn-sm" href="mailto:linktrol@icloud.com?subject=Troubleshooting%20follow-up%20%28under%203y%29">Under 3 år — mail for hjælp til ledninger / montering</a>
+            </div>
+            <div class="linktrol-ts-diagnosis__panel d-none border rounded p-3 mb-2 bg-warning-subtle" data-ts-age-panel="old">
+              <a class="btn btn-warning btn-sm text-dark" href="mailto:linktrol@icloud.com?subject=Legacy%20hardware%20upgrade%20coupon">3&#43; år — mail for opgradering / kupon</a>
+            </div>
+            <p class="small text-body-secondary mb-0">Tilbud afhænger af lager og region — angiv model og hvor du købte i mailen.</p>
+          </div>
+        </section>
+
+        <div class="text-center py-2">
+          <a class="btn btn-lg btn-outline-primary px-5" href="mailto:linktrol@icloud.com?subject=B2B%20technical%20support%20request">B2B / engros teknisk hjælp</a><p class="small text-body-secondary mt-2 mb-0">Vi svarer som regel inden én arbejdsdag.</p></div>
+      </div>
+      <aside class="col-lg-4">
+        <div class="linktrol-news-sidebar-sticky"><div class="linktrol-ts-sidebar d-flex flex-column gap-4"><div class="card border-0 shadow-sm linktrol-ts-sidebar__promo">
+      <div class="card-body">
+        <h3 class="h6 fw-bold mb-2">Tykke vægge, dårligt signal?</h3>
+        <p class="small text-body-secondary mb-3">Repeatere og bedre hub-placering hjælper som regel. Se Smarte løsninger for layouts.</p><a class="btn btn-sm btn-primary" href="/smart-solutions/">Åbn Smarte løsninger</a></div>
+    </div></div>
+</div>
+      </aside>
+    </div>
+  </div>
+</div>
+<script src="/js/troubleshooting-hub.js" defer></script>
+</main></div>
+      <footer class="td-footer td-footer--linktrol row d-print-none">
+  <div class="container-fluid px-3 px-lg-4">
+    <div class="row g-4 py-4 py-lg-5 align-items-start">
+      <div class="col-12 col-lg-3">
+        <div class="h5 mb-2">DieseRC SWITNEX</div>
+          <p class="small mb-0 td-footer--linktrol__lede">DieseRC designer og fremstiller RF-baseret fjernbetjent kontakt- og modtagerhardware samt forbundne vægprodukter til Wi‑Fi, Zigbee og Bluetooth – til installatører, der har brug for pålidelig, gnidningsfri og økonomisk styring samlet set. Egen produktion, applikationsingeniører og SWITNEX-serien understøtter alt fra adgangslæsere og el-låse til belysning, ventilation, signalering og små DIY‑retrofitløsninger. DieseRC SWITNEX udgiver modelmanualer, feltnoter og compliance-orienterede forklaringer.</p>
+      </div>
+        <div class="col-12 col-sm-6 col-lg-2">
+          <div class="text-uppercase small fw-semibold td-footer--linktrol__heading mb-2">Support og manualer</div>
+          <ul class="list-unstyled mb-0 td-footer--linktrol__links"><li class="mb-1">
+                <a href="/da/manuals/" title="Manualer og dokumentation">Manualer</a>
+              </li><li class="mb-1">
+                <a href="/da/troubleshooting/" title="Fejlfindingsguider">Fejlfinding</a>
+              </li>
+          </ul>
+        </div>
+        <div class="col-12 col-sm-6 col-lg-2">
+          <div class="text-uppercase small fw-semibold td-footer--linktrol__heading mb-2">Løsninger og handel</div>
+          <ul class="list-unstyled mb-0 td-footer--linktrol__links"><li class="mb-1">
+                <a href="/da/smart-solutions/" title="Smarte løsninger">Smarte løsninger</a>
+              </li><li class="mb-1">
+                <a href="/da/wholesale-bulk-orders/" title="Engros og store ordrer">Engros og bulkordrer</a>
+              </li>
+          </ul>
+        </div>
+        <div class="col-12 col-sm-6 col-lg-2">
+          <div class="text-uppercase small fw-semibold td-footer--linktrol__heading mb-2">Mere</div>
+          <ul class="list-unstyled mb-0 td-footer--linktrol__links"><li class="mb-1">
+                <a href="/da/diy-compliance/" title="Gør-det-selv og overholdelse">DIY og overholdelse</a>
+              </li><li class="mb-1">
+                <a href="/da/property-insights/" title="Indsigt i ejendomsmarkedet">Indsigt i ejendom</a>
+              </li>
+          </ul>
+        </div>
+    </div>
+    <div class="row td-footer--linktrol__bottom pt-3 pb-4">
+      <div class="col-12 text-center text-md-start">
+<div class="td-footer__copyright td-footer__copyright--dieserc small">
+  <div class="mb-1">&copy; 2026 DieseRC. All Rights Reserved.</div>
+  <div class="td-footer__copyright-tagline">Proudly supported by SWITNEX Labs – Powering the future of smart automation.</div>
+</div>
+
+          <span class="ms-md-2 d-inline-block mt-2 mt-md-0"><a href="/about/" target="_blank" rel="noopener">Privatlivspolitik</a></span>
+      </div>
+    </div>
+  </div>
+</footer><nav class="linktrol-mobile-footer linktrol-contact-rail d-print-none" aria-label="Hurtig kontakt">
+  <div class="linktrol-mobile-footer__inner">
+    <a class="linktrol-mobile-footer__btn linktrol-mobile-footer__btn--shop"
+       href="https://shop.switnex.com" target="_blank" rel="noopener noreferrer">
+      <i class="fa-solid fa-store" aria-hidden="true"></i>
+      <span>Shop</span>
+    </a>
+    <a class="linktrol-mobile-footer__btn linktrol-mobile-footer__btn--wa"
+       href="https://wa.me/8615812381273" target="_blank" rel="noopener noreferrer">
+      <i class="fa-brands fa-whatsapp" aria-hidden="true"></i>
+      <span>Chat nu</span>
+    </a>
+    <a class="linktrol-mobile-footer__btn linktrol-mobile-footer__btn--tg"
+       href="https://t.me/switnex_aaron" target="_blank" rel="noopener noreferrer">
+      <i class="fa-brands fa-telegram" aria-hidden="true"></i>
+      <span>Kontakt</span>
+    </a>
+    <a class="linktrol-mobile-footer__btn linktrol-mobile-footer__btn--mail"
+       href="mailto:linktrol@icloud.com?subject=DieseRC&#43;SWITNEX&#43;inquiry">
+      <i class="fa-solid fa-envelope" aria-hidden="true"></i>
+      <span>E-mail</span>
+    </a>
+  </div>
+</nav>
+<button type="button"
+  id="linktrol-back-to-top"
+  class="linktrol-back-to-top d-print-none"
+  aria-label="Til toppen"
+  title="Til toppen"
+  tabindex="-1"
+  aria-hidden="true">
+  <i class="fa-solid fa-arrow-up" aria-hidden="true"></i>
+</button>
+<script>
+(function () {
+  var btn = document.getElementById('linktrol-back-to-top');
+  if (!btn) return;
+  var mq = window.matchMedia('(max-width: 767.98px)');
+  var threshold = 280;
+  var ticking = false;
+  function sync() {
+    ticking = false;
+    if (!mq.matches) {
+      btn.classList.remove('is-visible');
+      btn.setAttribute('aria-hidden', 'true');
+      btn.tabIndex = -1;
+      return;
+    }
+    var y = window.scrollY || document.documentElement.scrollTop;
+    if (y > threshold) {
+      btn.classList.add('is-visible');
+      btn.removeAttribute('aria-hidden');
+      btn.tabIndex = 0;
+    } else {
+      btn.classList.remove('is-visible');
+      btn.setAttribute('aria-hidden', 'true');
+      btn.tabIndex = -1;
+    }
+  }
+  function onScroll() {
+    if (ticking) return;
+    ticking = true;
+    requestAnimationFrame(sync);
+  }
+  btn.addEventListener('click', function () {
+    var reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    window.scrollTo({ top: 0, behavior: reduce ? 'auto' : 'smooth' });
+  });
+  if (mq.addEventListener) mq.addEventListener('change', sync);
+  else mq.addListener(sync);
+  window.addEventListener('scroll', onScroll, { passive: true });
+  window.addEventListener('resize', onScroll, { passive: true });
+  sync();
+})();
+</script>
+
+    </div>
+    <script src="/js/main.js"></script>
+<script defer src="/js/click-to-copy.js" crossorigin="anonymous"></script>
+<script src='/js/tabpane-persist.js'></script>
+
+  </body>
+</html>

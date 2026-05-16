@@ -1,1 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Устранение неполадок on DieseRC SWITNEX</title><link>https://www.dieserc.com/ru/troubleshooting/</link><description>Recent content in Устранение неполадок on DieseRC SWITNEX</description><generator>Hugo</generator><language>ru-RU</language><atom:link href="https://www.dieserc.com/ru/troubleshooting/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Устранение неполадок on DieseRC SWITNEX</title>
+    <link>http://localhost:1313/ru/troubleshooting/</link>
+    <description>Recent content in Устранение неполадок on DieseRC SWITNEX</description>
+    <generator>Hugo</generator>
+    <language>ru-RU</language>
+    <atom:link href="http://localhost:1313/ru/troubleshooting/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
