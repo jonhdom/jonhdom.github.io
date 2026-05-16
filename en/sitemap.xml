@@ -45,7 +45,7 @@
     <loc>http://localhost:1313/docs/contribution-guidelines/</loc>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-05-16T14:41:44+00:00</lastmod>
+    <lastmod>2026-05-16T15:06:15+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
@@ -113,7 +113,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/manuals/</loc>
-    <lastmod>2026-05-16T14:41:44+00:00</lastmod>
+    <lastmod>2026-05-16T15:06:15+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
@@ -178,6 +178,74 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/manuals/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/manuals/switnex-tuya-wifi-rf-garage-controller-user-manual/</loc>
+    <lastmod>2026-05-16T15:06:15+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-CN"
+                href="http://localhost:1313/zh/manuals/switnex-tuya-wifi-rf-garage-controller-user-manual/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/manuals/switnex-tuya-wifi-rf-garage-controller-user-manual/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/ar/manuals/switnex-tuya-wifi-rf-garage-controller-user-manual/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-RU"
+                href="http://localhost:1313/ru/manuals/switnex-tuya-wifi-rf-garage-controller-user-manual/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/manuals/switnex-tuya-wifi-rf-garage-controller-user-manual/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/manuals/switnex-tuya-wifi-rf-garage-controller-user-manual/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nb-NO"
+                href="http://localhost:1313/no/manuals/switnex-tuya-wifi-rf-garage-controller-user-manual/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-PT"
+                href="http://localhost:1313/pt/manuals/switnex-tuya-wifi-rf-garage-controller-user-manual/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="http://localhost:1313/de/manuals/switnex-tuya-wifi-rf-garage-controller-user-manual/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da-DK"
+                href="http://localhost:1313/da/manuals/switnex-tuya-wifi-rf-garage-controller-user-manual/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ro-RO"
+                href="http://localhost:1313/ro/manuals/switnex-tuya-wifi-rf-garage-controller-user-manual/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl-PL"
+                href="http://localhost:1313/pl/manuals/switnex-tuya-wifi-rf-garage-controller-user-manual/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/manuals/switnex-tuya-wifi-rf-garage-controller-user-manual/"
                 />
   </url><url>
     <loc>http://localhost:1313/manuals/sitnex-waterproof-wireless-remote-control-switch-ac-85v-250v-30a-user-manual/</loc>
@@ -1130,74 +1198,6 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/manuals/switnex-1-channel-wireless-remote-control-relay-switch-433mhz-220v-240v-user-manual/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/manuals/switnex-tuya-wifi-rf-garage-controller-user-manual/</loc>
-    <lastmod>2026-05-16T14:21:03+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="http://localhost:1313/zh/manuals/switnex-tuya-wifi-rf-garage-controller-user-manual/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/manuals/switnex-tuya-wifi-rf-garage-controller-user-manual/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/ar/manuals/switnex-tuya-wifi-rf-garage-controller-user-manual/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-RU"
-                href="http://localhost:1313/ru/manuals/switnex-tuya-wifi-rf-garage-controller-user-manual/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/manuals/switnex-tuya-wifi-rf-garage-controller-user-manual/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/manuals/switnex-tuya-wifi-rf-garage-controller-user-manual/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="http://localhost:1313/no/manuals/switnex-tuya-wifi-rf-garage-controller-user-manual/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/manuals/switnex-tuya-wifi-rf-garage-controller-user-manual/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/manuals/switnex-tuya-wifi-rf-garage-controller-user-manual/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da-DK"
-                href="http://localhost:1313/da/manuals/switnex-tuya-wifi-rf-garage-controller-user-manual/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ro-RO"
-                href="http://localhost:1313/ro/manuals/switnex-tuya-wifi-rf-garage-controller-user-manual/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl-PL"
-                href="http://localhost:1313/pl/manuals/switnex-tuya-wifi-rf-garage-controller-user-manual/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/manuals/switnex-tuya-wifi-rf-garage-controller-user-manual/"
                 />
   </url><url>
     <loc>http://localhost:1313/manuals/switnex-4-channel-wireless-remote-control-switch-user-manual/</loc>
